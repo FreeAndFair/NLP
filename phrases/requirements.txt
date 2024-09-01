@@ -1,0 +1,3 @@
+pdftotext
+textblob
+python-magic
