@@ -15,5 +15,5 @@ extract_baseline:
 	verbs.py README.md > README-verbs.csv.out;
 
 clean:
-	rm -f README-nouns.csv README-nouns.csv.out;
-	rm -f README-verbs.csv README-verbs.csv.out;
+	rm -f README-nouns.csv;
+	rm -f README-verbs.csv;

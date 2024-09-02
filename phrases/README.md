@@ -1,4 +1,4 @@
-# Extracting noun phrases from documents
+# Extracting noun/verb phrases from documents
 
 Requirements:
 - input is either a stdin pipe or a filename
@@ -15,13 +15,14 @@ for the heavy lifting.
 This tool depends upon Python2 and a few C and Python libraries.  See
 the first step below.
 
-Note that one must be careful about OS X installations, given the
-built-in Python2 is not a satisfactory version for this tooling. We
-recommend replacing the built-in Python2 with brew's via `pyenv`.
+Note that one must be careful about macOS installations, which no longer
+include Python 2. We recommend using Homebrew's `pyenv` (and, indeed, these
+instructions assume a working Homebrew installation).
 
-0. Install distribution-level dependencies (Ubuntu/Debian example here)
- - `$ sudo apt install build-essential libpoppler-cpp-dev pkg-config
-   python3-venv`
+0. Install distribution-level dependencies
+ - Ubuntu/Debian: `$ sudo apt install build-essential libpoppler-cpp-dev libmagic-dev 
+   pkg-config python3-venv`
+ - macOS: `$ brew install poppler libmagic`
 1. `brew install pyenv pyenv-virtualenv` (v2.4.10 is latest as of this writing)
 3. `pyenv install 3.12.5` (v3.12.5 is the latest release of Python3)
 4. `pyenv install 2.7.18` (v2.7.18 is the final release of Python2)
@@ -36,14 +37,14 @@ recommend replacing the built-in Python2 with brew's via `pyenv`.
 3. Install Python package dependencies, making sure you use Python2's pip:
  - `$ pip2 install -r requirements.txt`
 5. Install Pattern locally
- - `$ pip2 install -e pattern-2.6`
+ - `$ pip2 install Pattern==2.6`
 6. Download necessary NLTK data
  - `$ python2 -c 'import nltk; nltk.download("brown"); nltk.download("punkt")'`
  - `$ python2 -m textblob.download_corpora`
 
 ### Testing the Installation
 
-The provided `Makefile` has two rules which run the extraction
+The provided `Makefile` has two rules that run the extraction
 commands on this README.  If those commands run with no output beyond
 printing the selftest commands, the installation is working.
 
