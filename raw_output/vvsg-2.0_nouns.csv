@@ -1,0 +1,5750 @@
+407	vvsg
+331	february
+309	requirements
+255	discussion
+125	principle
+96	related
+95	voting
+65	synonyms
+59	software
+53	cots
+52	election workers
+50	applies
+47	ballot
+43	e2e
+42	wcag
+41	access
+38	cvrs
+38	standards
+37	usab18
+37	voter
+36	w3c10
+35	election officials
+33	nist sp
+32	electronic
+31	national institute
+31	tabulation
+30	guidelines
+30	information
+28	physical
+27	ems
+26	cast vote records
+26	casting
+26	cvr
+25	eac
+25	logging
+24	ballot selections
+24	hava
+23	ballot images
+23	contest options
+23	setup
+21	cryptographic
+21	system software
+20	audio format
+20	ballot secrecy
+20	paper
+20	system documentation
+19	election results
+19	n-of-m
+19	paper ballots
+18	application logic
+18	contest option
+18	examples
+17	ballot style
+17	discussion requirements
+17	guideline
+17	multi-factor
+17	paper ballot
+17	physical ports
+17	preserving
+17	publication
+16	cdf
+16	inspection process documentation
+16	interaction modes
+15	appendix
+15	audio
+15	usability
+15	vvsg2005
+14	electronic display
+14	hava02
+14	iso/iec
+14	nist
+14	physical access
+14	revision
+14	secure
+14	warnings
+13	application
+13	contest choices
+13	contest selections
+13	integrity
+13	manufacturers
+13	minimum
+13	political party
+13	rcv
+13	voters ballot selections
+12	attack surface
+12	ballot styles
+12	configuration
+12	critical components
+12	cryptographic e2e
+12	election worker
+12	quality
+12	record
+12	requirement applies
+12	requires
+12	system supports
+12	testing
+12	text
+12	touch
+12	verified
+12	vote selections
+11	cast ballots
+11	data format specification
+11	election records
+11	fips
+11	installation documentation
+11	robust
+11	software independence
+11	vote-capture devices
+11	wide range
+11	wireless
+10	accessibility
+10	august
+10	authentication
+10	cast
+10	cif
+10	display format
+10	display formats
+10	federal standards
+10	guide
+10	includes
+10	instructions
+10	march
+10	operations document
+10	overvotes
+10	paper records
+10	part
+10	pat
+10	random numbers
+10	reporting
+10	representative voters
+10	requirement ensures
+10	system performs
+10	voter privacy
+9	ability
+9	access points
+9	audit
+9	audit records
+9	ballot positions
+9	callable units
+9	cast vote record
+9	common industry
+9	configuration data
+9	critical operations
+9	digital signature
+9	display
+9	election data
+9	election outcome
+9	format
+9	implementation statement
+9	marked
+9	notification
+9	system prevents
+9	system protects
+9	system uses
+9	systems
+9	tdp
+9	unique identifier
+9	user
+9	verification
+9	version
+9	vote-capture device
+8	access control
+8	additional
+8	additionally
+8	america vote
+8	backup
+8	bmd
+8	contest selection
+8	detection
+8	election districts
+8	electronic interfaces
+8	evaluation
+8	hearing aids
+8	id
+8	indirect associations
+8	information systems
+8	irv
+8	maximum number
+8	may
+8	partisan
+8	precinct
+8	recommendation
+8	references
+8	source code
+8	system application
+8	system logic
+8	system records
+8	text size
+8	u.s.
+8	undervotes
+8	user documentation
+8	voluntary voting
+8	vote-capture
+8	voter information
+8	voter selections
+7	accidental errors
+7	assistive technology
+7	audio output
+7	authorized
+7	communication
+7	communications
+7	contest
+7	contest choice
+7	controls
+7	design methods
+7	device
+7	discussion voting
+7	election definition
+7	elections
+7	electronic ballot interface
+7	english
+7	equivalent
+7	hardware interfaces
+7	hearing
+7	indirect association
+7	indirect voter associations
+7	interoperable format
+7	normal operation
+7	opening
+7	paper-based
+7	party preference contest
+7	prevent
+7	primary elections
+7	principles
+7	privacy
+7	programmed
+7	rbac
+7	remote ballot
+7	removable media
+7	safe
+7	security failures
+7	separation
+7	storage media
+7	support
+7	system hardware
+7	tactile
+7	technical controls
+7	touch screens
+7	training
+7	unique
+7	vote
+7	vote variation
+7	voter-facing
+7	voters identity
+6	accidental
+6	accidental activation
+6	assistance
+6	audio formats
+6	available formats
+6	backup power
+6	ballot options
+6	ballot question
+6	bmds
+6	border logic
+6	communications protocols
+6	configuration files
+6	correcting
+6	data protection
+6	default
+6	design process
+6	devices
+6	documentation
+6	election management system
+6	election processes
+6	gestures
+6	glossary
+6	harmful conditions
+6	identifying
+6	june
+6	logical
+6	mitre
+6	network
+6	nist01
+6	organizations
+6	paper record
+6	power
+6	pre-election
+6	qr
+6	quality requirements
+6	ranked
+6	scrolling
+6	september
+6	sql
+6	square
+6	system data
+6	system design
+6	system limits
+6	usability test
+6	user-centered
+6	visual format
+6	weakness enumeration
+5	access configuration file
+5	april
+5	assessment
+5	ballot image
+5	ballot measures
+5	ballot selection verification
+5	bluetooth
+5	candidate names
+5	consistent
+5	continuous
+5	contrast ratio
+5	critical operations 11.3.1-c
+5	cryptographic algorithms
+5	data
+5	data paths
+5	digital
+5	digital identity guidelines
+5	direct control
+5	discussion examples
+5	efficient audits
+5	election day
+5	election mode
+5	electrical
+5	electrical disturbances
+5	electronic tabulation reports
+5	error
+5	exception handlers
+5	exiting
+5	external systems
+5	features
+5	feedback
+5	final standards
+5	ict
+5	important activities
+5	independent evaluation
+5	integrity protection
+5	intentional forms
+5	interaction mode
+5	internal
+5	internal components
+5	internet
+5	july
+5	key management
+5	large impact
+5	list
+5	log entries
+5	log_cdf
+5	low vision
+5	malware
+5	methods
+5	mitigation technologies
+5	module
+5	monitoring
+5	multi-factor authentication
+5	multiple layers
+5	multiple votes
+5	nist16
+5	nist17d
+5	nonpartisan contests
+5	output
+5	partisan contests
+5	party affiliation
+5	password
+5	physical evidence
+5	pii
+5	plain language
+5	process
+5	process preserves
+5	proportional
+5	randomly
+5	reading
+5	records
+5	requirement supports
+5	reset
+5	risk assessment
+5	role-based
+5	sensitive data
+5	straight-party
+5	system authenticates administrators
+5	system design supports evaluation methods
+5	system equipment records
+5	system functions
+5	system generates
+5	system operation
+5	systems documentation
+5	text sizes
+5	touch screen
+5	transparent
+5	unauthorized
+5	unstructured
+5	vote center
+5	voter marks
+5	vra65
+5	write-in votes
+4	1. identification
+4	10.1-a system
+4	access privileges
+4	accessible
+4	accessible experience
+4	ada10
+4	additional capabilities
+4	additional information
+4	aggregating
+4	allowable number
+4	approved
+4	aslr
+4	assistive hearing devices
+4	audio volume
+4	authenticate individuals
+4	available records
+4	ballot changes
+4	blind voters
+4	boot
+4	boot validation
+4	callable unit
+4	cognitive disabilities
+4	color
+4	commercial-off-the-shelf
+4	common data format
+4	common data formats
+4	confidentiality
+4	configurable authentication mechanisms
+4	conformity assessment
+4	consistent experience
+4	contest option position
+4	control constructs
+4	cpu-level
+4	cryptographic modules
+4	cryptographic protocols
+4	cumulative
+4	dead code
+4	detect
+4	detect anomalous
+4	detects attempts
+4	disabilities
+4	discussion nist sp
+4	distinguish systems
+4	documented
+4	durability
+4	edition
+4	election artifacts
+4	election information
+4	election process specifications
+4	election system
+4	eligible voters
+4	enable voters
+4	ensuring
+4	equivalent information
+4	escaping
+4	event
+4	event logging
+4	exceptional conditions
+4	expose users
+4	extensions
+4	font size
+4	gfci
+4	high quality
+4	icon
+4	identification
+4	inactivity
+4	indirect
+4	indirect voter association
+4	install software
+4	installation
+4	iso/iec tr
+4	iso06b
+4	january
+4	karen scarfone
+4	language exceptions
+4	malicious behavior
+4	malware detection
+4	malware protection mechanisms
+4	mandatory
+4	manufacturer specifications
+4	maximum
+4	minimal changes
+4	modern defenses
+4	multi-factor authentication mechanisms
+4	nist19a
+4	non-party-specific contests
+4	open primary
+4	open primary ballot
+4	os
+4	particular contest
+4	partisan primary election
+4	parts
+4	personal assistive technology
+4	physical environment conditions
+4	physical environments
+4	political geography
+4	poll workers
+4	post-election
+4	presentation
+4	primary power
+4	privacy controls
+4	protect
+4	protection mechanisms
+4	provide
+4	reliably
+4	requirement
+4	risk-limiting
+4	scaling
+4	security measures
+4	security strength
+4	sensitive functions
+4	separate files
+4	separate totals
+4	serial number
+4	setup inspection process
+4	signing
+4	software development
+4	software engineering
+4	software installation procedures
+4	software weakness
+4	specific functions
+4	specification
+4	spl
+4	state laws
+4	state rules
+4	storage device
+4	storage location
+4	storage locations
+4	supply chain risk management strategy
+4	support interoperability
+4	system administrator
+4	system assets
+4	system components
+4	system manufacturer
+4	system protects data
+4	system regardless
+4	system settings
+4	system software updates
+4	system structure
+4	system supports mechanisms
+4	system supports system processes
+4	system-related
+4	systems default access control policies
+4	systems hardware
+4	tamper-evident
+4	technical
+4	technology equipment
+4	telecommunications
+4	test lab
+4	tgdc
+4	trustworthy materials
+4	ul
+4	understandable way
+4	unique ballot identifier
+4	unnecessary code
+4	users access
+4	vote centers
+4	vote records
+4	vote selection
+4	voter attempts
+4	voters ballot
+4	voters intent
+4	vvsg2015
+4	wack
+4	widely-used
+4	widest range
+4	write-in
+4	write-in vote
+4	write-ins
+3	1.1.4-n party preference contest
+3	2. identification
+3	3.3-c bar
+3	800-63b [
+3	] mandates
+3	absentee voting
+3	access control policy
+3	account
+3	ada
+3	addressing
+3	alert time
+3	alternative format
+3	alternative language
+3	ansi incits
+3	ansi04
+3	ansi19
+3	applicable requirements
+3	application errors
+3	applying
+3	architectures
+3	area size
+3	assistive devices
+3	audit trail
+3	audits
+3	authenticate administrators
+3	authentication data
+3	available documentation
+3	ballot box
+3	ballot choices
+3	ballot configuration
+3	ballot definition
+3	ballot design
+3	ballot tabulation verification
+3	ballots
+3	benaloh14
+3	bit generators
+3	black background
+3	blank ballot
+3	blanket primary contest
+3	braille
+3	central election officials
+3	cfr parts
+3	chain risks
+3	code
+3	coding
+3	compatibility
+3	configuration file
+3	contains contests
+3	contest pair
+3	contingent vote contest
+3	coverage
+3	cpu
+3	criticality
+3	cryptographic end-to-end
+3	cryptographic module
+3	cryptographic protocol
+3	cvr_cdf
+3	data input
+3	data structures
+3	dep
+3	deterministic
+3	development committee
+3	device storage locations
+3	dexterity mode
+3	digital signatures
+3	disabling
+3	discussion access
+3	discussion administrators
+3	discussion documentation
+3	documenting
+3	does
+3	drivers license
+3	elaine barker
+3	election judges
+3	election jurisdiction
+3	election night
+3	election process
+3	electronic ballot
+3	electronic interface
+3	ems cots
+3	enable external auditors
+3	enabling
+3	ensure
+3	ensures
+3	environmental conditions
+3	event codes
+3	event log entry
+3	event logs
+3	exceptions
+3	executable code
+3	external networks
+3	fcc19a
+3	flashing
+3	good state
+3	hardware
+3	high quality design
+3	identifiable information
+3	identifiers
+3	iec/ul
+3	immediate notification
+3	importing
+3	information messages
+3	information processing standards
+3	information technology
+3	input
+3	input/output
+3	installation record creation
+3	intended
+3	intentional
+3	interagency
+3	interfaces
+3	introduction
+3	intrusion detection
+3	jurisdictional rules
+3	language extensions
+3	language options
+3	least
+3	legacy
+3	life cycle
+3	likewise
+3	local government
+3	log files
+3	maintainability
+3	maintenance personnel
+3	malicious software
+3	malware remediation
+3	marking
+3	maximum tabulation rate
+3	maximum volume
+3	measurement
+3	memory
+3	minimum values
+3	misfeed
+3	mitre cwe
+3	modifying
+3	modularity
+3	moulding89
+3	multi-seat contests
+3	multipage
+3	multiple
+3	multiple ballot styles
+3	network appliances
+3	network connections
+3	network functionality
+3	nist15a
+3	nistir
+3	number generation
+3	ocd-id
+3	open source
+3	optical scanner
+3	optical scanners
+3	overseas
+3	paper specification standards
+3	physical controls
+3	physical environment
+3	physical environmental conditions
+3	physical media
+3	physical security
+3	plain
+3	poll worker
+3	power-reliant countermeasures
+3	precinct-based
+3	presidential candidate selection
+3	prevention systems
+3	previous contest
+3	primary
+3	primary ballot
+3	primary election
+3	printer
+3	private key
+3	private network
+3	privileged accounts
+3	reauthentication
+3	recording
+3	regulations
+3	reject ballots
+3	requirement addresses
+3	requirement assists
+3	review screen
+3	rlas
+3	roles
+3	safety
+3	scan
+3	security control
+3	session
+3	should
+3	skill levels
+3	social security number
+3	software installation
+3	software integrity
+3	software product
+3	software updates
+3	sound
+3	sound cues
+3	source
+3	sp
+3	specific ballot
+3	specific election
+3	specific function
+3	specific voter
+3	speech
+3	standard [
+3	state law
+3	statement
+3	status messages
+3	straight-party selection
+3	such items
+3	sufficient number
+3	system administrators
+3	system errors
+3	system event
+3	system events
+3	system integrity
+3	system manufacturers
+3	system operations
+3	system performance documentation
+3	system security document
+3	system standards
+3	system test labs
+3	systems audio format interface
+3	systems software
+3	tabulation device
+3	tactile mode
+3	technical data package
+3	telephone
+3	terms
+3	test ballots
+3	test labs
+3	text label
+3	third-party components
+3	tls
+3	trace
+3	ul19
+3	uniformed
+3	unique identifiers
+3	unofficial election results
+3	usab14b
+3	usb
+3	user input
+3	username
+3	verifiable system
+3	verifying
+3	visual cues
+3	visual settings
+3	vote data
+3	voter associations
+3	voter intent
+3	voter registration number
+3	voter uses
+3	voters ability
+3	voters assistant
+3	voters interaction
+3	voters selections
+3	votes cast
+3	vra
+3	vvsg principles
+3	web application
+3	web content accessibility guidelines
+3	whole vote increments
+3	wireless technologies
+3	workmanship
+3	write-in candidate
+3	write-in candidates
+2	1.1.2-i equipment status
+2	1.1.4-r group
+2	1.1.8-k group
+2	1.1.9-l report
+2	11. archive election data
+2	2. configure
+2	2. detect
+2	2.5.4-m election integrity
+2	3. identification
+2	3. identify
+2	3.1.5-k transportation
+2	4. identification
+2	4.1-c exchange
+2	4.1-d exchange
+2	5. activate ballots
+2	6. record votes cast
+2	8. label ballots
+2	9. generate reports
+2	] requirement
+2	] software design issue standards
+2	a. minimum diagonal display size
+2	absentee
+2	access 11.2.1-a
+2	access control 11.2.2-a
+2	access control policies
+2	access policies 11.4-b
+2	accessibility guidelines
+2	accuracy tests
+2	accurately
+2	act act
+2	activated
+2	activation
+2	activation device
+2	activation devices
+2	ada checklist
+2	ada standards
+2	additional election systems
+2	address space layout randomization
+2	administrators access
+2	air gap
+2	allowlist configuration files
+2	alternative languages
+2	alternatively
+2	analogous library functions
+2	and accessible
+2	and cast as intended ballots
+2	ansi
+2	ansi c63.19-2019
+2	appendix e
+2	appropriate ballot
+2	appropriate ballot style
+2	archival
+2	array
+2	artifacts 10.2.4-a
+2	assessments
+2	associate contests
+2	associations 10.2.1-a
+2	assurance requirements
+2	at
+2	audio content
+2	audio information
+2	audio jack
+2	audio settings
+2	audio/video
+2	audit 9.4-b
+2	audit data
+2	audit information
+2	audit processes
+2	auditable
+2	auditable 9.1.4-a
+2	auditor
+2	authentication credentials 11.3.2-a
+2	authentication mechanisms
+2	automation support
+2	available non-proprietary formats
+2	b. minimum display resolution
+2	backup power sources
+2	ballot activation
+2	ballot data
+2	ballot identifiers 9.4-d
+2	ballot information
+2	ballot layout
+2	ballot position
+2	ballot presentation
+2	ballot reader
+2	ballot receipt
+2	ballot receipts
+2	ballot rotation
+2	ballot selection
+2	ballot selection area
+2	ballot stub
+2	ballot style information
+2	ballot-level audits
+2	ballots cast
+2	ballots regardless
+2	baseline
+2	baseline image
+2	basic instructions
+2	bb9966
+2	bill
+2	bit generation
+2	block-structured
+2	bmd-produced
+2	bodily
+2	buffer
+2	built-in
+2	bulletin board
+2	button functions
+2	ca06
+2	cabling
+2	calibration
+2	candidate 's name
+2	candidate choices
+2	candidate option
+2	cast ballot
+2	ccos
+2	cdf specification
+2	ceci
+2	celia paulsen
+2	central location
+2	certain channels
+2	certification program
+2	chain risk management
+2	chain risk management practices
+2	changing
+2	checklist
+2	city council
+2	civic data identifiers
+2	civil township
+2	class b [
+2	clear floor
+2	codes 3.3-d
+2	coherent
+2	commercial standards
+2	common format usage
+2	common hardware interfaces
+2	common type
+2	communication protocols 4.3-a
+2	communication restrictions
+2	communications capabilities
+2	complete specification
+2	complex operations
+2	compliance audits
+2	components
+2	conditional
+2	conduct usability tests
+2	conducting risk assessments
+2	configuration settings
+2	confirm
+2	conformance information
+2	conformance language
+2	conformity assessment process
+2	congress
+2	consistent relationship
+2	consistent voter access
+2	contest information
+2	contest option selections
+2	contest rules
+2	continuous operation
+2	continuous period
+2	contrast
+2	contrast options
+2	control 7.3-k
+2	control mechanisms 11.3.1-a
+2	control signals
+2	conventional platform scroll
+2	corresponding ballot
+2	creating
+2	critical
+2	critical function settings
+2	criticality analysis
+2	criticality analysis process model
+2	cross-party
+2	cryptographic algorithm
+2	cryptographic key
+2	cryptographic key generation
+2	cryptographic keys
+2	cryptographic mechanisms
+2	cryptographic module validation program
+2	cryptographic operations
+2	cryptographic standards
+2	current contest
+2	current votes
+2	data execution prevention
+2	data format
+2	data interoperability
+2	data objects
+2	data port
+2	data type
+2	data types
+2	database connection attempts
+2	decorative elements
+2	decrypt ballots
+2	default rate
+2	default settings
+2	default text size
+2	definition
+2	depending
+2	deploy mechanisms
+2	design process 5.1-d
+2	designed
+2	desktops
+2	detect marks
+2	detecting
+2	development process
+2	device component
+2	device components
+2	device configuration
+2	device configuration files
+2	device configuration replication 3.1.4-i
+2	device configuration settings
+2	device records
+2	device software
+2	device states
+2	dexterity modes
+2	different ballot styles
+2	direct
+2	disa20
+2	disability
+2	disables wireless
+2	discharge immunity
+2	disconnecting
+2	discussion ballots
+2	discussion conformance
+2	discussion importing
+2	discussion item
+2	discussion jurisdictions
+2	discussion malware
+2	discussion network
+2	discussion providing
+2	discussion risk
+2	discussion software
+2	discussion voter
+2	discussion voter-facing
+2	disputes
+2	document structure
+2	documentation 3.1.7-a
+2	door locks
+2	driver update
+2	drivers license number
+2	dual switches
+2	dvd
+2	dynamic memory allocation
+2	eacs
+2	efficient
+2	election 's identification data
+2	election administration
+2	election day worker
+2	election definition device
+2	election definition file
+2	election definition information
+2	election definition medium
+2	election event logs
+2	election management
+2	election office
+2	election personnel
+2	election preparation
+2	election records 13.2-a
+2	election records 13.2-b
+2	election systems
+2	election worker intervention
+2	electrical emanations
+2	electrical requirements
+2	electrical surges
+2	electromechanical components
+2	electronic adjudication
+2	electronic ballot interfaces
+2	electronic device
+2	electronic poll books
+2	electronic records
+2	electrostatic
+2	elements
+2	eliminating
+2	emissions
+2	ems workstations
+2	enable detection
+2	enable election officials
+2	encryption
+2	end-to-end
+2	energy service provider
+2	engineering computer
+2	engineering renderings
+2	english-only
+2	enough
+2	ensure transitive immutability
+2	enterprise patch management technologies
+2	entire
+2	entire course
+2	entire election process
+2	entire software libraries
+2	entropy sources used
+2	equipment configurations
+2	equivalent and consistent voter access
+2	erasable storage media
+2	errors 2.5.2-a
+2	errors 7.3-k
+2	esd
+2	event types
+2	events
+2	evidence
+2	evidence items
+2	example
+2	exception messages
+2	exclude
+2	executive director
+2	exit
+2	exponential backoff
+2	exporting
+2	external network
+2	external network connections
+2	external network restrictions
+2	facility power
+2	factors
+2	fault tolerance actions
+2	faulty code
+2	faulty hardware
+2	fcc
+2	fcc part
+2	fcc18
+2	federal government
+2	file 13.1.1-a
+2	file access log
+2	file name
+2	file system
+2	final action
+2	final totals
+2	firewalls
+2	firmware updates
+2	floor
+2	flow 2.3.1-a
+2	font sizes
+2	fractional votes
+2	full alphabetic keyboard
+2	full functionality
+2	full identification
+2	functions
+2	garbage
+2	general election ballot
+2	general framework
+2	general system functions
+2	generate
+2	generate reports
+2	gpo19
+2	graceful
+2	grey text
+2	ground
+2	guidance
+2	guidelines vvsg
+2	guides
+2	handle
+2	handling
+2	hard-coded
+2	hard-coded cryptographic key
+2	hard-coded password
+2	high contrast option
+2	high likelihood
+2	hz
+2	i.5.2.3.e
+2	i.7.2.1.2
+2	i.7.2.1.2-e
+2	i.7.3.1
+2	i/o
+2	identify
+2	idss
+2	ignore
+2	ii
+2	image creation
+2	impact analysis tool
+2	implementation process
+2	implementations
+2	implications
+2	important settings
+2	improper encoding
+2	improper neutralization
+2	inactive state
+2	inactivity time
+2	include
+2	incorrect election outcomes
+2	incorrect results
+2	increase design complexity
+2	independence 7.3-g
+2	independence 9.1.1-a
+2	independent manner
+2	indicate
+2	individual ballots
+2	individual keys
+2	individual system components
+2	individual voter
+2	individuals
+2	information processing
+2	information system
+2	informational icons
+2	informative
+2	input errors
+2	installation documentation 3.1.4-a
+2	installation software
+2	installed
+2	installing
+2	integrity 14.3.1-a
+2	integrity 14.3.2-a
+2	integrity 2.5.1-a
+2	intended ballots
+2	interaction modes 5.2-a
+2	interaction options
+2	interactive systems
+2	interdependent cyber
+2	internal network
+2	interoperable
+2	interpreted
+2	introduce bias
+2	ir
+2	iso00
+2	iso10
+2	iso13b
+2	iso14
+2	iso16
+2	iso18d
+2	iso19b
+2	isolated
+2	item
+2	itu
+2	itu19
+2	john smith
+2	joint
+2	jon boyens
+2	jurisdiction-dependent
+2	jurisdictional procedure
+2	kelley dempsey
+2	key
+2	key management documentation
+2	known
+2	kulyk18
+2	language access requirements
+2	languages
+2	laptops
+2	large
+2	large number
+2	leakage
+2	lessons learned
+2	lewis19a
+2	lewis19b
+2	library functions
+2	library units
+2	limited
+2	lockout
+2	lockout duration
+2	log events
+2	log file
+2	log instances
+2	log rotation
+2	logic
+2	logical design
+2	logs
+2	low literacy
+2	luminosity contrast ratio
+2	m choices
+2	m.
+2	mac
+2	machine-readable mark
+2	machine-readable representation
+2	maintenance support
+2	major
+2	major changes
+2	major difficulties
+2	malicious modification
+2	malware incident prevention
+2	management interface
+2	mandatory requirement
+2	manufacturer formats
+2	marginal
+2	materials
+2	maximum time limit
+2	md representing
+2	mechanisms
+2	member
+2	memory cards
+2	memory protection
+2	message authentication codes
+2	messages
+2	minimum permissions
+2	mitre20
+2	mitre20a
+2	mitre20b
+2	mitre20c
+2	mitre20d
+2	mitre20e
+2	modify configuration files
+2	multi-factor authentication mechanism
+2	multi-sheet ballots
+2	multiple days
+2	multiple groups
+2	multiple precincts
+2	murugiah souppaya
+2	mutual authentication
+2	nameplate
+2	national level
+2	navigating
+2	nest pas
+2	network architecture
+2	network architecture documentation
+2	network configuration documentation
+2	network devices
+2	network security
+2	network status indicator
+2	networking
+2	new ballot
+2	new screen
+2	nist07
+2	nist08
+2	nist09a
+2	nist12
+2	nist13a
+2	nist13b
+2	nist13c
+2	nist15b
+2	nist17c
+2	nist17e
+2	nist18a
+2	nist18b
+2	nist18c
+2	nist19b
+2	nist20a
+2	nist20b
+2	nist20c
+2	nist20d
+2	nist20e
+2	nist20f
+2	nist20g
+2	nist20h
+2	non-critical
+2	non-essential
+2	non-manual mode
+2	non-zero
+2	nonvisual accessibility
+2	nonvolatile memory
+2	normal operations
+2	normal processing
+2	normal use
+2	ntia19
+2	nullify
+2	numeric
+2	numerical hash value
+2	obfuscates logic
+2	occurs
+2	october
+2	official intervention
+2	olivier pereira
+2	on-demand
+2	one-second period
+2	open polls
+2	open primary elections
+2	operational
+2	operational security
+2	operational status
+2	optional
+2	orange
+2	original images
+2	otherwise
+2	output source
+2	overseas voter
+2	owasp19
+2	paper interfaces
+2	parameterized
+2	particular contest option
+2	particular device
+2	partisan ballots
+2	party affiliations
+2	party ballot
+2	party-specific ballot
+2	party-specific contests
+2	partyspecific contests
+2	pass
+2	pass-fail criteria
+2	password strength
+2	paul a. grassi
+2	pcos
+2	periodic review
+2	peripherals devices
+2	personal assistive
+2	personal assistive devices
+2	personal computers
+2	personnel
+2	personnel resources
+2	physical connection
+2	physical connections
+2	physical location
+2	pointers
+2	policy updates
+2	political party affiliation
+2	political subdivision
+2	polling places
+2	polls 1.1.3-a
+2	port connection
+2	possible errors
+2	possible location
+2	post-election audit
+2	post-election audits
+2	pour
+2	pre-election reports
+2	pre-voting
+2	presenting
+2	preserves privacy
+2	presidential delegates
+2	presidential preference contest
+2	preventing
+2	preventive
+2	prevents
+2	previous
+2	previous iterations
+2	previous language
+2	previous versions
+2	primary contest
+2	prioritizing systems
+2	procedural
+2	processing
+2	procurement
+2	programming languages
+2	proper maintenance
+2	protecting
+2	protection 2.5.3-a
+2	protection requirements
+2	provisional ballot
+2	pseudo-random numbers
+2	public board
+2	public law
+2	quality implementation
+2	quantity
+2	random bit generators
+2	rank contest options
+2	rate benchmark
+2	ratio
+2	react
+2	readiness
+2	readiness reports
+2	realistic usability tests
+2	rec
+2	recall
+2	recall contest
+2	recallable ballots
+2	recommended
+2	record intelligibility 9.1.5-d
+2	record transparency
+2	records 9.1.5-a
+2	recover
+2	reference implementation
+2	rehabilitation
+2	remote access
+2	remote ballot marking
+2	removal
+2	repeatability
+2	reports [
+2	reports contest results
+2	requirement attempts
+2	requirement originates
+2	requirement promotes
+2	requirement text
+2	requirements listing
+2	respond
+2	restrict
+2	results 1.1.9-a
+2	rev
+2	review process
+2	right side
+2	risk
+2	risks inherent
+2	rivest06
+2	role based access
+2	roles 11.2.2
+2	run time
+2	runtime integrity
+2	safecode19
+2	sanitize
+2	sanitized
+2	sans-serif
+2	sans-serif font
+2	sans-serif fonts
+2	sarah jamie lewis
+2	scanners
+2	scope
+2	screen gestures
+2	screen gestures 7.2-f
+2	screen position
+2	secondary id
+2	security architecture
+2	security incident
+2	security relevant
+2	security research
+2	security techniques
+2	select candidates
+2	select contest choice
+2	selection
+2	selection codes
+2	self-modifying
+2	sharon j. laskowski
+2	signature mismatch
+2	significant impact
+2	similarly
+2	simultaneous actions
+2	single
+2	software allowlists
+2	software application
+2	software bill
+2	software failures
+2	software information
+2	software module
+2	software program
+2	software structure
+2	software update
+2	software vulnerability management
+2	spatial relationship
+2	special code
+2	special maintenance equipment
+2	special treatment
+2	specific permissions
+2	specific software
+2	ssl/tls
+2	standard device interfaces
+2	standard formats
+2	standard platform library
+2	state certification
+2	state election
+2	stigs
+2	storage devices
+2	store
+2	stored
+2	straight-party option selections
+2	structural unit
+2	structure
+2	style handset
+2	sufficient detail
+2	summary
+2	support documentation
+2	support exception
+2	support maintenance
+2	support storage temperatures
+2	support transport
+2	supports
+2	surviving
+2	suspended
+2	system application configuration files
+2	system configuration process
+2	system devices
+2	system function
+2	system groups
+2	system guidelines
+2	system interoperability
+2	system interrupts
+2	system logs
+2	system overview documentation
+2	system platform
+2	system processes
+2	system reliability
+2	system security
+2	system setup
+2	system status
+2	system status messages
+2	system update
+2	system vendor
+2	systems capacity
+2	systems need
+2	systems risk assessment documentation
+2	t4
+2	tabulate votes
+2	tabulation process
+2	tabulation results
+2	tabulator
+2	tamper-evidence
+2	target areas
+2	task force
+2	tc04
+2	tcnd
+2	technical guide
+2	technical guidelines
+2	technical means
+2	temporary election workers
+2	test
+2	test election
+2	test participants
+2	third-party logic
+2	time duration
+2	time limits
+2	time period
+2	toggle
+2	top-2
+2	top-2 irv
+2	traceability
+2	transport layer
+2	troubleshooting
+2	trusted
+2	turning
+2	typical environmental conditions
+2	ul07
+2	ul13
+2	unambiguous requirement
+2	uncontrolled
+2	uncontrolled format strings
+2	unless
+2	unreadable ballots
+2	unsafe
+2	unsuccessful attempts
+2	unsuccessful authentication attempt
+2	unused
+2	uocava
+2	updatable malware protection mechanisms
+2	us government
+2	usab14a
+2	usability tests
+2	usable
+2	usage instructions
+2	usdoj16
+2	used
+2	useful information
+2	user inactivity
+2	user interface
+2	usernames
+2	users session
+2	valid votes
+2	validates contest selections
+2	vanessa teague
+2	various protocols
+2	various ways
+2	verifiability
+2	verifiable 9.1.6-a
+2	verifiable ballot tabulation
+2	verifiable paper record
+2	verifiable paper records
+2	verifiable systems
+2	verification 9.1.3-a
+2	verification errors
+2	verification tools
+2	verifier
+2	visual changes
+2	visual display
+2	visual interface
+2	visual response
+2	volumes
+2	vote records 10.2.2-a
+2	vote-capture devices 1.1.6-a
+2	vote-for-n-of-m contest
+2	voter 's interaction
+2	voter 's selection
+2	voter access
+2	voter choices 1.1.5-a
+2	voter identification number
+2	voter interface
+2	voter records interchange
+2	voter verification
+2	voter verifies
+2	voter-facing scanner
+2	voter-verifiable paper record
+2	voters 6.2-a
+2	voters 7.3-o
+2	voters ballot selection
+2	voters choice
+2	voters contest option selections
+2	voters need
+2	voters utilize
+2	votes 7.3-h
+2	vri
+2	vri_cdf
+2	vss1990
+2	vulnerability
+2	vvpr
+2	washington
+2	wcags
+2	well-known vulnerabilities
+2	white background
+2	wi-fi
+2	wireless capabilities
+2	wireless communications devices
+2	wireless connections
+2	wireless device antennas
+2	wireless hardware
+2	wireless networks
+2	wireless technology
+2	withstand
+2	write-in candidate name
+2	writing utensil
+2	york
+1	# 00ffff
+1	# 6c6c6c
+1	# 97967e
+1	% 20508.pdf
+1	% 20elections.pdf
+1	% 20hava %
+1	% 20kj %
+1	% 20survey % 20report % 20for %
+1	//ncd.gov/rawmedia_repository/8 %
+1	//smlr.rutgers.edu/sites/default/files/images/disability % 20and %
+1	1-of-m. 1.1.9-f report votes
+1	1-of-m. 1.1.9-g report overvotes
+1	1. activate
+1	1. audit log entries
+1	1. ballots
+1	1. component name
+1	1. cryptography
+1	1. descriptions
+1	1. device capacities
+1	1. displays
+1	1. election districts
+1	1. environmental protection
+1	1. guidelines
+1	1. import
+1	1. in-person
+1	1. labels
+1	1. monitor
+1	1. passwords
+1	1. pointer
+1	1. pre-election
+1	1. requirement
+1	1. runtime software updates
+1	1. segregate
+1	1. sequence
+1	1. shipment
+1	1. software cryptographic modules
+1	1. software product name
+1	1. specify
+1	1. steps
+1	1. timestamps
+1	1. type
+1	1.1.1 election definition 1.1.1-a election definition
+1	1.1.1 election definition 1.1.1-a election definition 1.1.1-b
+1	1.1.1-g election definition distribution
+1	1.1.4-b control ballot configuration
+1	1.1.7-d report
+1	1.1.8-b.3 open primary ballot
+1	1.1.9-b report categories
+1	1.1.9-c report categories
+1	1.1.9-e report
+1	1.1.9-h report undervotes
+1	1.1.9-m reports
+1	11.2.1-e administrator
+1	12-inch diagonal
+1	14.1-c system security architecture description
+1	14.3-a supply chain risk management strategy
+1	1st choice selections
+1	2. absentee
+1	2. aggregate 1st choice
+1	2. aggregation
+1	2. ballots
+1	2. built-in test
+1	2. constraints
+1	2. contests
+1	2. cryptographic keys
+1	2. defines
+1	2. disclosure
+1	2. examples
+1	2. hardware cryptographic modules
+1	2. identify
+1	2. import
+1	2. information
+1	2. items
+1	2. loop
+1	2. malware protection
+1	2. manufacturer
+1	2. positions
+1	2. power sources
+1	2. size
+1	2. software version number 3. software manufacturer name
+1	2. speech input
+1	2. status changes
+1	2. steps
+1	2. storage
+1	2. system operations
+1	2. validate
+1	2.1.2-b system maintainability
+1	2d barcode
+1	3. accumulation
+1	3. ballots
+1	3. batteries
+1	3. candidates
+1	3. contests
+1	3. extensions
+1	3. firewall access control
+1	3. generates
+1	3. if/then/else conditional
+1	3. labels
+1	3. mark
+1	3. model
+1	3. modifications
+1	3. organizational affiliation
+1	3. pass-fail criteria
+1	3. process
+1	3. quality attributes
+1	3. report
+1	3. resistance
+1	3. sample data formats
+1	3. system operations
+1	3. value
+1	3. write-ins
+1	3.1.1 system overview documentation 3.1.1-a system overview documentation
+1	3.1.1 system overview documentation 3.1.1-a system overview documentation 3.1.1-b system overview
+1	3.1.1-b system overview
+1	3.1.1-c system description system overview documentation
+1	3.1.2 system performance documentation 3.1.2-a system performance documentation
+1	3.1.3 system security documentation 3.1.3-a system security documentation
+1	3.1.4-d election
+1	3.1.4-k open market procurement
+1	3.1.5 system operations documentation 3.1.5-a system operations documentation
+1	3.1.5 system operations documentation 3.1.5-a system operations documentation 3.1.5-b
+1	3.1.6 system maintenance documentation 3.1.6-a system maintenance documentation
+1	3.1.6-c maintenance viewpoint maintenance documentation
+1	3.1.6-d equipment overview details maintenance documentation
+1	3.1.6-e maintenance procedures maintenance documentation
+1	3.1.6-p system maintenance
+1	3.1.6-q system maintenance
+1	3.2-f election information value
+1	3.3-a system security
+1	3.5-4.2 mm
+1	3.5-4.2 mm range
+1	4. ballot style information
+1	4. blank ballots
+1	4. capabilities
+1	4. case conditional
+1	4. changes
+1	4. check information inputs
+1	4. descriptions
+1	4. evidence
+1	4. illustration
+1	4. information
+1	4. manufacturer 's designation
+1	4. names
+1	4. number
+1	4. preventive maintenance tasks
+1	4. provisions
+1	4. samples
+1	4. software manufacturer contact information
+1	4. system configurations
+1	4. telecommunications service
+1	4. variables
+1	4.1-a election
+1	4.8-5.6 mm
+1	4.8-5.6 mm range
+1	5. consumables
+1	5. copies
+1	5. design constraints
+1	5. diagnosis
+1	5. identification
+1	5. numeric
+1	5. plans
+1	5. test procedures
+1	5. type
+1	6. calibration
+1	6. communications
+1	6. confirmation
+1	6. corrective maintenance tasks
+1	6. identification
+1	6. list
+1	6. sources
+1	6. validation
+1	6.4-7.1 mm
+1	6.4-7.1 mm range
+1	7. component identifiers
+1	7. general
+1	7. interfaces
+1	7. list
+1	7. sequence
+1	7. support
+1	7.2-n system response time
+1	7.2-r control labels
+1	8. flag
+1	8. report
+1	8.1-b contains
+1	800-63-3 defines multi-factor authentication
+1	9. benchmark directory
+1	9. description
+1	9. specify diagnostic tests
+1	96-bit tag length
+1	] defines
+1	] document
+1	] validation requirement
+1	a cryptographic
+1	a tests
+1	a. antiglare screen surface
+1	a. operation
+1	a. pagination
+1	a. voters
+1	abnormal
+1	abnormal conditions
+1	abnormal device shutdowns
+1	abnormal process exits
+1	abnormal system state
+1	absentee ballot
+1	absentee ballots
+1	absolute memory locations
+1	ac
+1	acceptable 2.1-c
+1	acceptable risk
+1	acceptable values
+1	acceptable variations
+1	accepts ballots
+1	accepts stacks
+1	access 11.2.1-b
+1	access 13.1.1-b
+1	access attempts
+1	access configuration file 13.1.1-b
+1	access control capabilities
+1	access control configuration
+1	access control logs
+1	access control mechanisms
+1	access control policies 11.4-a
+1	access control policy template
+1	access control support
+1	access control system
+1	access data
+1	access electronic bmd
+1	access ems
+1	access ensures
+1	access event logs
+1	access isnt
+1	access levels
+1	access path
+1	access policies
+1	access restrictions
+1	access restrictions 11.5-a
+1	access sequence
+1	access voter-facing scanner
+1	accessibility capabilities
+1	accessibility expert grain
+1	accessibility laws
+1	accessibility requirements
+1	accessibility scenarios
+1	accessibility standards
+1	accessible principle
+1	accessible references
+1	accessible technology
+1	accommodate changes
+1	according
+1	account lockout policy
+1	account name
+1	accumulation/aggregation process
+1	accuracy
+1	accuracy 1.2-a
+1	accuracy 1.2-b
+1	accurate hand counts
+1	accurate pronunciation
+1	acknowledgements chair
+1	acoustic signal
+1	act [
+1	actions 3.1.5-f
+1	activate
+1	activate capacitive touch screens
+1	activated activating
+1	activation 7.2-f
+1	activation 7.2-r control labels
+1	activation 7.2.-i
+1	activation 7.2.i
+1	activation card
+1	active contest option register
+1	active position
+1	active positions
+1	active use
+1	active-duty member
+1	activities
+1	actual disturbances
+1	actual success violates
+1	actual tests
+1	adaptive switches
+1	addition
+1	additional contest information
+1	additional functional requirements
+1	additional functionality
+1	additional functions
+1	additional modules
+1	additional password complexity requirements besides password length
+1	additional paths
+1	additional requirements
+1	additional resources
+1	additional security
+1	additional software
+1	additional time
+1	address errors
+1	address items
+1	address vulnerabilities
+1	addresses improvements
+1	addresses section
+1	addresses well-known vulnerabilities
+1	adds
+1	adequate quality
+1	adequate room
+1	adequate space
+1	adequate warning
+1	adherence
+1	adjacent touch areas
+1	adjustable settings
+1	adjusting
+1	administer elections
+1	administrations nationally recognized testing laboratory
+1	administrative area
+1	administrative criteria
+1	administrative offices
+1	administrative procedures
+1	administrative requirements
+1	administrative subdivisions
+1	administrative unit
+1	administrator flexibility
+1	administrator role
+1	administrator-level authorization
+1	administrators
+1	administrators 11.3.2
+1	administrators 11.4-a
+1	administrators 14.4-b
+1	administrators 14.4-c
+1	administrators 15.1-e
+1	administrators authority
+1	adobe acrobat reader
+1	adobes
+1	adverse impact
+1	advisory caution
+1	affidavit ballot
+1	aggregate
+1	aggregate ballot selections
+1	aggregate contest write-in
+1	aggregate selections
+1	aggregate total
+1	aggregated
+1	aids 8.1-h
+1	aids 8.1-k
+1	aids voters
+1	air discharge
+1	air-gap procedures
+1	alabama
+1	alert 12.1-c
+1	alerts
+1	alerts 11.5-a
+1	alerts 7.2-p
+1	algorithms 13.3-a
+1	algorithms deals
+1	aliases means
+1	alignment marks
+1	allen roginsky
+1	allowlist configuration file protection
+1	alternate method
+1	alternative display contrast options
+1	alternative input devices
+1	alternative language accessibility pursuant
+1	alternative language ballot
+1	alternative target platforms
+1	alternative visual format
+1	amateur programmers
+1	amber
+1	american national standard institute
+1	analog accessibility device ports
+1	analogous circulation
+1	analogous data structures
+1	analogous structural unit
+1	analysis 14.3-c
+1	analytic techniques
+1	and/or 2. combinations
+1	and/or 4.
+1	and/or content
+1	ansi c63.16:1993
+1	ansi c63.192019
+1	ansi core role based access
+1	ansi15b
+1	ansi93
+1	api
+1	appeals process
+1	appendix c.
+1	apple
+1	appliance 11.3.1-a
+1	applicable election definition data
+1	applicable environmental
+1	applicable platform
+1	applicable requirement
+1	applicable specifications
+1	applicable standards
+1	application errors 15.2-b
+1	application errors 15.2-c
+1	application logic uses arrays
+1	application logic uses pointers
+1	application program interface
+1	application software
+1	application updates
+1	application updates 14.4-c
+1	applications
+1	applications need
+1	appropriate balance
+1	appropriate exception
+1	appropriate information
+1	appropriate install
+1	appropriate personnel
+1	appropriate record
+1	approval
+1	approve
+1	architect/director
+1	architectural
+1	architecture
+1	architectures 10.2.1-f
+1	area size 7.2-j
+1	area size 7.3-b
+1	areas
+1	arial
+1	arithmetic operations
+1	array index
+1	array indices
+1	ascii
+1	assembly language
+1	assessment documentation
+1	assessment documentation 14.1-b
+1	assistive
+1	assistive preference options
+1	associate selections
+1	atlarge seats
+1	atms
+1	attack resistance tests
+1	attack surface reduction strategy impractical
+1	attacks 15.4-a
+1	attacks deals
+1	attempts
+1	audible and/or visual
+1	audible speech range
+1	audio 7.2-h
+1	audio ballot audit
+1	audio band
+1	audio characteristics
+1	audio connectors
+1	audio cue
+1	audio feedback
+1	audio finishes
+1	audio format interface
+1	audio interface
+1	audio interfaces
+1	audio jacks
+1	audio mode
+1	audio notification
+1	audio presentation
+1	audio quality
+1	audio response
+1	audio settings result
+1	audio signal
+1	audio source
+1	audio speeds
+1	audio system
+1	audio systems
+1	audio users
+1	audit data 2.6-c
+1	audit information 1.1.5-h
+1	audit information 9.4-a
+1	audit log
+1	audit log entries
+1	audit log information
+1	audit material
+1	audit processes 10.2.2-d
+1	audit processes 9.1.1-a
+1	audit trail information
+1	audit trail o
+1	audit trails
+1	auditable means
+1	auditorium loop systems
+1	audits 10.2.2-b
+1	audits 9.4-a
+1	audits need
+1	authentication attempt
+1	authentication codes
+1	authentication credentials
+1	authentication data 11.3.2-d
+1	authentication factors
+1	authentication method
+1	authentication methods
+1	authentication system
+1	authentications attempts
+1	auto-disable 12.2-c
+1	automate issue
+1	automatic reset
+1	automatic run-time detection
+1	automatic run-time range
+1	auxiliary aids
+1	auxiliary power
+1	available book
+1	available maintenance agreements
+1	available reference implementation
+1	available specification
+1	available test signals
+1	average fingertip
+1	avoiding
+1	b conformance
+1	b conformance 1.2-j
+1	b. cyan text
+1	b. minimum uniform diffuse ambient contrast ratio
+1	b. use
+1	background color
+1	background colors
+1	background noise
+1	bad design
+1	ballot 1.1.4-b control ballot configuration 1.1.4-c
+1	ballot 7.2-d
+1	ballot 7.3-g
+1	ballot 7.3-h
+1	ballot 9.1.3-c
+1	ballot activation occurs
+1	ballot availability
+1	ballot availability 9.1.6-i
+1	ballot boxes
+1	ballot card number
+1	ballot cast
+1	ballot cast vote record
+1	ballot conditions
+1	ballot consistent
+1	ballot contains
+1	ballot contests
+1	ballot counts
+1	ballot creation
+1	ballot cross-party endorsement
+1	ballot definition capabilities
+1	ballot definition files
+1	ballot folds
+1	ballot identifiers
+1	ballot identifiers 10.2.2-e
+1	ballot image file names
+1	ballot image files
+1	ballot images need
+1	ballot images versus paper ballots o
+1	ballot installation
+1	ballot instructions
+1	ballot interface systems
+1	ballot issuance
+1	ballot issue
+1	ballot layout functions
+1	ballot layouts
+1	ballot manifest
+1	ballot markers
+1	ballot markup
+1	ballot materials
+1	ballot measure
+1	ballot measure option
+1	ballot papers
+1	ballot positions 1.1.2-e
+1	ballot positions 1.2-d
+1	ballot preparation
+1	ballot presentation templates
+1	ballot preserves
+1	ballot printers
+1	ballot proposition
+1	ballot question text
+1	ballot questions
+1	ballot receipts 9.1.6-g
+1	ballot records
+1	ballot rejections
+1	ballot rotation functions
+1	ballot scanners 5.1-d
+1	ballot secrecy includes
+1	ballot secrecy issues
+1	ballot secrecy principle
+1	ballot secrecy section
+1	ballot selection override information
+1	ballot selection override information 1.1.5-g
+1	ballot selection position
+1	ballot selections 10.2.4-c
+1	ballot selections 11.1-c
+1	ballot selections review
+1	ballot sequence number
+1	ballot sheet images
+1	ballot sheets
+1	ballot statistics
+1	ballot stock
+1	ballot style compatibility
+1	ballot style mismatches
+1	ballot style mismatches 1.1.6-b
+1	ballot styles 1.1.2-c
+1	ballot submission
+1	ballot tabulation rate
+1	ballot target areas
+1	ballot target areas 7.2-k
+1	ballot types
+1	ballots 1.1.6-g
+1	ballots 7.2-k
+1	ballots 9.4-b
+1	ballots votes
+1	barcode representations
+1	barcode standards
+1	barcodes versus
+1	barrier
+1	baseline ballot formats
+1	baseline list
+1	bases
+1	basic core requirements
+1	basic functionality
+1	basic gesture
+1	basic method
+1	basic violations
+1	batch number
+1	batch subtotal
+1	batch-fed
+1	battery backup
+1	be
+1	benaloh
+1	bias 1.1.6-k
+1	bias 5.2-b
+1	bias 5.2-c
+1	bias 5.2-f
+1	bias 7.2-b navigation
+1	bias 7.3-n
+1	big differences
+1	bilingual ballot
+1	binary images
+1	binary values
+1	biometric
+1	biometric authentication
+1	biometric capabilities
+1	biometric records
+1	biometrics 8.1-e
+1	black text
+1	blank
+1	blank ballots
+1	blank ballots 1.1.6-e
+1	blank lines
+1	blanket primary contests
+1	bleed-through limitations
+1	blind
+1	blind voter
+1	blind voter experience
+1	blue screen
+1	bmd-printed
+1	board requirements
+1	bogus orderings
+1	boot manager
+1	boot validation failure
+1	boot validation failure 14.3.2
+1	boot validation success/failure
+1	boot verification
+1	boot verification 14.3.1-b
+1	borda
+1	brown text
+1	buffer overflows
+1	builds barcodes
+1	built-in measurement
+1	built-in trip point
+1	bus errors
+1	business process
+1	button labels
+1	buttons
+1	c++
+1	c. 6.4-7.1 mm
+1	c. shutdown
+1	c. t. sennett
+1	c. voters
+1	ca
+1	ca diane
+1	ca linda lamone
+1	calibri
+1	california
+1	california-berkeley berkeley
+1	canceling
+1	candidate contest choice
+1	candidate information
+1	candidate options
+1	candidate person
+1	candidates name
+1	canonical site
+1	capabilities 14.2-c
+1	capabilities 15.4-b
+1	capabilities 3.1.3 system security documentation 3.1.3-a system security documentation 3.1.3-b
+1	capabilities employ defenses
+1	capabilities system performance documentation
+1	capacitive screen
+1	captures and/or counts voter selections
+1	card activators
+1	cast ballot counts
+1	cast ballotone
+1	cast ballots 1.1.9-c report categories
+1	cast in-person
+1	cast in-person ballots
+1	cast records
+1	cast vote record creation
+1	cast vote record creation 1.1.2-f
+1	casting ballots
+1	castle
+1	cavp
+1	cellular modems
+1	center [
+1	center point
+1	central election
+1	central tabulator
+1	central voter registration system
+1	central-count optical scanner
+1	certain classes
+1	certain conditions
+1	certain contests
+1	certain differences
+1	certain functions
+1	certain groups
+1	certain information
+1	certain instances
+1	certain operations
+1	certain types
+1	certain visual disabilities
+1	certification authorities
+1	certification authority
+1	certification manuals
+1	certification number
+1	certification organization
+1	certification organizations scope
+1	certification program manual
+1	chain risk management strategy
+1	challenging security situation
+1	character types
+1	cheater adapters
+1	check-mark image
+1	checkpoint
+1	checkpoints [
+1	checks
+1	choice contest
+1	choice options
+1	choice selections
+1	choosing
+1	cis
+1	cis benchmarks
+1	cis20
+1	cispr
+1	civic data identifiers specification
+1	clarify requirements
+1	class b
+1	class b emission limits
+1	class b requirements
+1	classic type
+1	clean
+1	clean data
+1	clear area
+1	clear communication
+1	clear feedback
+1	clear floor space
+1	clear instruction
+1	clear-text ballots
+1	clearview ada
+1	close
+1	closing
+1	cmvp
+1	co requirements
+1	cochlear implants
+1	code 14.2-h
+1	code 2.5-b
+1	code 2.5.1-d
+1	codes contains
+1	cognitive construct
+1	coherent process models
+1	colloquially
+1	color 7.1-g
+1	color [
+1	color combinations
+1	color contrast
+1	color luminosity contrast
+1	color vision deficiencies
+1	colorado
+1	comfortable posture
+1	commercial mobile platforms
+1	common conventions
+1	common data encodings
+1	common data format usage
+1	common data format usage 3.3-c bar
+1	common defense
+1	common disabilities
+1	common example
+1	common gestures
+1	common lexicon
+1	common memory management errors
+1	common method
+1	common methods
+1	common pitfalls
+1	common place cryptographic operations
+1	common practice
+1	common reasons
+1	common types
+1	common use
+1	common vote variations
+1	common way
+1	common weak passwords
+1	common words
+1	communicate meaning
+1	communicates ballot information
+1	communication protocol
+1	communication protocols
+1	communication restrictions 14.2-d
+1	communication restrictions 15.4-d rule
+1	communications equipment operation
+1	communications structure
+1	comparable characteristics
+1	comparison
+1	compatibility requirements
+1	compatible ballot
+1	compilers 2.5.1-b
+1	complete failure
+1	complete list
+1	complete loss
+1	complete rewrite
+1	complete set
+1	complex action
+1	complex gestures accessible
+1	complex task
+1	complexity 11.3.2-c
+1	compliance
+1	component
+1	component manufacturers
+1	component submodules
+1	comprehension 7.1-n
+1	comprehensive standard
+1	computer
+1	computer hardware
+1	computer screen
+1	computer security
+1	computer systems
+1	computer technology
+1	concrete presentation
+1	concurrency 2.5.1
+1	concurrent availability
+1	conditional operator functions
+1	conduct audit procedures
+1	conduct elections
+1	conducts elections
+1	confidentiality protection
+1	configurable access control mechanisms
+1	configurable images
+1	configurable installation mechanisms
+1	configurable ones
+1	configuration data evades
+1	configuration documentation 14.2-f
+1	configuration flexibility
+1	configuration guidance
+1	configuration mechanisms
+1	configure permissions
+1	conformance
+1	conformance requirements
+1	conformance statement
+1	conformance statements
+1	conformance test
+1	conformity assessment activities
+1	conformity assessment contest
+1	connectivity inspection procedure
+1	connectivity inspection procedure 3.2-l
+1	conscientious fashion
+1	consecutive serial numbers
+1	conservation districts
+1	consistent availability
+1	consistent fashion
+1	consistent order
+1	consistent voter access applies
+1	consistent voter access principle
+1	consistent voter experience
+1	consolidate data
+1	consolidate vote data
+1	constitutional amendment
+1	consumable format
+1	consumable inspection procedure
+1	consumable inspection procedure 3.2-p
+1	consumable supplies
+1	contact 7.2-m
+1	containers 12.1-f
+1	contains arbitrary branches
+1	contains partisan contests
+1	contains requirements
+1	contains votes
+1	content
+1	content 1.1.1-i
+1	content filters
+1	contents
+1	contents acknowledgements
+1	contest 1.1.9-f report votes
+1	contest 1.1.9-h report undervotes
+1	contest 1.1.9-i
+1	contest altogether
+1	contest choice position order
+1	contest choice vote
+1	contest contains
+1	contest group
+1	contest information 1.1.5-f
+1	contest layouts
+1	contest markings
+1	contest option 1.1.9-g report overvotes
+1	contest option positions
+1	contest option selection
+1	contest options 1.1.4-i
+1	contest order
+1	contest pair 1.1.8-n
+1	contest results
+1	contest selection information
+1	contest selection information 1.1.5-d
+1	contest selection locations
+1	contest selection position
+1	contest selections location
+1	contest varies
+1	contest write-in area
+1	contests 1.1.1-e
+1	contests 1.1.1-j
+1	contests 1.1.1-k
+1	contests 7.2-c
+1	contests 7.3-c
+1	contests 7.3-e
+1	context
+1	contiguous range
+1	contract
+1	contract language
+1	contracted
+1	contrast 7.1-d
+1	contrast displays
+1	contrast option
+1	contrast requirements
+1	control 7.2-d
+1	control 7.3-g
+1	control [
+1	control computers
+1	control configuration
+1	control configuration 11.2.1-e administrator
+1	control flow
+1	control flow 2.3.1-b
+1	control implementation
+1	control implementation 3.1.3-c
+1	control mechanism application
+1	control mechanism application 11.3.1-b
+1	control mechanism application 13.1.2 election records 13.1.2-a
+1	control mechanisms
+1	control mechanisms distinguish
+1	control options
+1	control policy requirements
+1	control size
+1	convenient access
+1	conventions 2.1-d
+1	conventions 7.1-f
+1	conventions evolve
+1	conventions facilitate test lab evaluation
+1	conventions support integrity
+1	copyright holder
+1	core actions
+1	core contributors
+1	core functions
+1	core processes
+1	core role based access
+1	correct ballot style
+1	correct ballot type
+1	correct decryption
+1	correct flow
+1	correct insertion
+1	correct interpretation
+1	correct way
+1	correction 9.1.3-c
+1	corrective maintenance procedures
+1	corresponding dates
+1	corresponding image
+1	corresponding image 1.1.6
+1	corresponding label
+1	corresponding paper ballot
+1	corresponding paper records
+1	corresponding vote
+1	cots bios
+1	cots-centric
+1	countermeasure isnt
+1	counting
+1	counts votes
+1	county clerk
+1	county commissioners
+1	coupling
+1	creates credentials
+1	creation o
+1	creators
+1	credential information
+1	credible conventions
+1	crestview
+1	criteria
+1	critical analysis
+1	critical cryptographic settings
+1	critical hardware components
+1	critical infrastructure designation
+1	critical operations 1.1.8
+1	cross-party selections
+1	cryptographic algorithm validation program
+1	cryptographic analysis
+1	cryptographic ballot selection verification
+1	cryptographic ballot selection verification 9.1.6-e
+1	cryptographic boot validation
+1	cryptographic engineering
+1	cryptographic functionality
+1	cryptographic functions
+1	cryptographic hash
+1	cryptographic integrity
+1	cryptographic operation
+1	cryptographic proofs
+1	cryptographic protection
+1	cryptographic protocol 13.3-c
+1	cryptographic protocol 9.1.6-b
+1	cryptographic protocol implementation
+1	cryptographic protocol implementation 9.1.6-c
+1	cryptographic signature
+1	cryptographic signatures
+1	cryptographic strength
+1	cryptographic strength 13.3-e
+1	cryptographic techniques
+1	cryptographic verification
+1	cryptography need
+1	csprng
+1	cues 5.2-f
+1	cure problems
+1	current ballot
+1	current market
+1	current requirement
+1	current requirements
+1	current technological context
+1	current threats
+1	current version
+1	current vote selections
+1	cvr guidance
+1	cvss
+1	cybersecurity working
+1	cycle
+1	cylinders requirements
+1	d. 8.5-9.0 mm
+1	d. shutdown
+1	d. voters
+1	dan wallach professor
+1	dana e. chisnell
+1	dark background
+1	dark text
+1	data 's
+1	data 2.3-d
+1	data 2.5-a
+1	data 2.5.2
+1	data analysis
+1	data authentication
+1	data authenticator
+1	data backup
+1	data elements
+1	data file
+1	data files
+1	data flow analysis
+1	data format specification draft
+1	data inputs
+1	data integrity issues
+1	data interchange protocols
+1	data need
+1	data output
+1	data presence
+1	data processing systems
+1	data protection clarifies
+1	data protection principle
+1	data protection requirements
+1	data record
+1	data transmission
+1	data transmission errors
+1	data traverses
+1	data uses
+1	database performance analysis
+1	database query engine
+1	date
+1	david cooper
+1	dc
+1	dc representing
+1	dead
+1	december
+1	decibels
+1	decryption key
+1	default configuration options
+1	default contrast ratio
+1	default setting
+1	default settings 7.1-b
+1	default settings 7.1-l
+1	default volume
+1	defeat contest options
+1	defense 2.5.3
+1	defensive
+1	defensive code
+1	deficient equipment
+1	deleting
+1	delivery
+1	democratic ballot
+1	demonstrates software independence
+1	density threshold
+1	deployment scenarios
+1	depth
+1	depth measure
+1	describe decision criteria
+1	describe election districts
+1	describe one-or-more tests
+1	describes
+1	description
+1	description administrator
+1	description pre-voting loading
+1	descriptions
+1	descriptive title
+1	design activities
+1	design process 5.2-a
+1	design process 7.3-o
+1	design requirements
+1	designers
+1	designing
+1	desire reports
+1	desktop systems
+1	detailed
+1	details cryptographic standards
+1	detect ballot style mismatches
+1	detect errors
+1	detect imperfect marks
+1	detect imperfect marks 1.1.6-i
+1	detectable errors
+1	detectable regardless
+1	detectible activity
+1	detectible voter activity
+1	detection and monitoring
+1	determinations
+1	determinative vote record
+1	developer usability
+1	development practices
+1	deviations ensures
+1	device 14.3.2-d
+1	device components 3.2-q
+1	device configuration replication
+1	device configuration replication 3.1.4-j
+1	device configurations
+1	device consolidation
+1	device consolidation 1.1.9-k
+1	device controllers
+1	device election event logs
+1	device election event logs 4.1-e
+1	device event code documentation
+1	device event code documentation 4.1-f
+1	device external
+1	device failure
+1	device failure 2.6-b
+1	device failures
+1	device maintainability
+1	device maintainability 2.1.2-b system maintainability 2.1.2-c
+1	device port
+1	device properties
+1	device settings
+1	device upgrades
+1	devices 3.1.6-l
+1	devices consumables
+1	devices data quality monitor
+1	devices maintenance documentation
+1	devices need
+1	devices readiness reports
+1	devices readiness reports 1.1.2-l
+1	dexterity input
+1	dexterity interaction
+1	diagnose faults
+1	diagnose issues
+1	diagnose problems
+1	diagnostic
+1	diagnostic circuitry
+1	diagnostic information
+1	diagnostic purposes
+1	diagnostic reasons
+1	diagnostic software
+1	diagnostic test record
+1	diagnostics 1.1.2-b
+1	different abilities
+1	different access
+1	different approaches
+1	different ballot style
+1	different ballots
+1	different chunks
+1	different components
+1	different configuration values
+1	different contests
+1	different context
+1	different directions
+1	different directory
+1	different display formats
+1	different election management systems
+1	different factors
+1	different font style
+1	different format
+1	different instructions
+1	different kinds
+1	different languages
+1	different manner
+1	different manufacturers
+1	different navigation
+1	different organizations
+1	different pages
+1	different parties
+1	different partys section
+1	different platforms
+1	different political parties
+1	different processes
+1	different shapes
+1	different specifications
+1	different spellings
+1	different state
+1	different system configurations
+1	different tabulation rule
+1	different type
+1	different types
+1	different ways
+1	differentiate languages
+1	differentiate software
+1	differentiating
+1	difficulty reading
+1	digital artifact
+1	digital certificate
+1	digital fingerprint
+1	digital form matches
+1	digital image
+1	digital signature mechanism
+1	digital signature mechanisms
+1	digital signature validation mechanism
+1	dimensions 7.2-r control labels
+1	dimensions 7.3-l
+1	direct association
+1	direct associations
+1	direct bodily contact
+1	direct contact
+1	direct impact
+1	direct option selections
+1	direct recording electronic voting systems
+1	direct use
+1	direct voter association
+1	direct voter association examples
+1	direct voter associations
+1	directors
+1	disallow connections
+1	disallow list
+1	disallow list 11.3.2-e
+1	discernable audio jacks
+1	discernable audio jacks 8.1-g
+1	discernible
+1	discipline
+1	disconnections 12.1-e
+1	discrete steps
+1	discrete text sizes
+1	discussion applying
+1	discussion assigning
+1	discussion authorized
+1	discussion automatically
+1	discussion bias
+1	discussion cast
+1	discussion codes
+1	discussion coding
+1	discussion counting
+1	discussion cvrs
+1	discussion defining
+1	discussion dep
+1	discussion devices
+1	discussion different
+1	discussion digital
+1	discussion displays
+1	discussion distribution
+1	discussion dynamic
+1	discussion ems
+1	discussion enabling
+1	discussion encapsulate
+1	discussion encryption
+1	discussion ensuring
+1	discussion error
+1	discussion esd
+1	discussion essentially
+1	discussion excessive
+1	discussion existing
+1	discussion exporting
+1	discussion hava
+1	discussion iec/ul
+1	discussion includes
+1	discussion information
+1	discussion input
+1	discussion insignificant
+1	discussion logging
+1	discussion logic
+1	discussion logically
+1	discussion manufacturers
+1	discussion marginal
+1	discussion message
+1	discussion methods
+1	discussion multiple
+1	discussion n-of-m
+1	discussion number
+1	discussion output
+1	discussion paper
+1	discussion parametrized
+1	discussion persistent
+1	discussion physical
+1	discussion procedural
+1	discussion properly
+1	discussion provisional
+1	discussion ranked
+1	discussion readiness
+1	discussion reconciliation
+1	discussion remediation
+1	discussion signed
+1	discussion sql
+1	discussion straight-party
+1	discussion tabulation
+1	discussion tamper-evident
+1	discussion trusted
+1	discussion vulnerability
+1	discussion whether
+1	discussion wireless
+1	display election results
+1	display format options
+1	display method
+1	display screen
+1	display screens
+1	display screens 8.1-b
+1	display style
+1	displays election results
+1	distinct authentication factor
+1	distinct ballot configurations
+1	distinct data files
+1	distinct icons
+1	distinct virtual image
+1	distinguishing
+1	distribution repository
+1	disturbances 2.7-h
+1	document
+1	document contains
+1	documentation 14.2-g
+1	documentation 15.2-c
+1	documentation 3.1.7-b
+1	documentation 7.3-o
+1	documentation 7.3-p
+1	documentation requirement
+1	dod
+1	double votes
+1	double votes means
+1	dre
+1	drop boxes
+1	dual
+1	duties principle
+1	dynamic data
+1	e-poll
+1	e-poll book
+1	e2e-requirements
+1	eac standards
+1	eac voting
+1	eacs technical guidelines
+1	eacs voting
+1	ean
+1	ear measurements
+1	easy access
+1	easy adjustment
+1	easy check-in
+1	easy way
+1	ebm
+1	eduardo takamura
+1	effective risk management
+1	effective use
+1	effectiveness
+1	efficient compliance audit
+1	election activities
+1	election code
+1	election day activities
+1	election day usage
+1	election definition 1.1.1-g election definition distribution 1.1.1-h
+1	election definition 1.1.1-m
+1	election definition data
+1	election definitions
+1	election district
+1	election districts 1.1.1-c
+1	election duties
+1	election event log
+1	election event log data
+1	election information storage locations
+1	election information storage locations 3.2-h
+1	election integrity
+1	election judge
+1	election jurisdiction 's
+1	election jurisdiction rules
+1	election log information
+1	election logic
+1	election management practices
+1	election management systems
+1	election management tools
+1	election mode 1.1.7-b
+1	election mode 1.1.8
+1	election offices
+1	election officials conduct l
+1	election operations
+1	election outcome [
+1	election outcomes
+1	election preparation functions
+1	election process functions
+1	election results certification
+1	election results exportation
+1	election results prevents
+1	election returns
+1	election staff
+1	election system device
+1	election systems overall
+1	election volume
+1	election workers 11.3.1-c
+1	election workers 7.3-p
+1	election workers attention
+1	election workers ensures
+1	election-by-election basis
+1	election-sensitive aspects
+1	election-specific files
+1	election-specific= [
+1	elections infrastructure
+1	elections maryland
+1	elections okaloosa
+1	elections results
+1	elections washington
+1	electrical circuit
+1	electrical components
+1	electrical disruption
+1	electrical disturbances 2.7-j
+1	electrical power
+1	electrical service
+1	electrical voltages
+1	electromagnetic compatibility
+1	electromagnetic interference
+1	electronic audit trail
+1	electronic ballot marker
+1	electronic ballot marker ballot measure
+1	electronic ballot markers 7.3-g
+1	electronic ballot markers 9.1.3
+1	electronic ballots
+1	electronic bmd
+1	electronic cast vote record
+1	electronic cast vote records
+1	electronic devices
+1	electronic display screen
+1	electronic display screens
+1	electronic displays
+1	electronic document
+1	electronic election results
+1	electronic equipment
+1	electronic image
+1	electronic message
+1	electronic poll book
+1	electronic pollbook
+1	electronic screen displays information
+1	electronic system
+1	electronic vote-capture devices
+1	electronics engineers
+1	electrostatic discharge test methodology
+1	electrostatic discharges
+1	element
+1	eliane barker
+1	eligible contests
+1	employment information
+1	empty log file
+1	ems define
+1	enable election auditors
+1	enable people
+1	enable testers
+1	encode ballot selections
+1	encode information
+1	encodes write-in votes
+1	end-to-end accuracy benchmark
+1	end-to-end authentication
+1	end-to-end cryptographic functions
+1	end-to-end- verifiability [
+1	endorsement
+1	endorsements 1.1.4-h
+1	energy service provider 1.2-k
+1	engineering concept
+1	engineering design
+1	england
+1	enhanced
+1	enr
+1	ensure efficiency
+1	ensure integrity
+1	ensure non-discrimination
+1	ensure system
+1	ensure system integrity
+1	ensure transparency
+1	ensure voters
+1	ensures confidentiality
+1	ensures privacy
+1	entire ballot
+1	entire contest
+1	entire federal standard
+1	entire life cycle
+1	entire pollbook
+1	entire scope
+1	entire screen
+1	entire session
+1	entity
+1	entity reading
+1	entry point
+1	entry points
+1	environment 3.1.5-h
+1	environmental conditions 2.7-d
+1	environments 2.7-a
+1	epb
+1	equal access
+1	equal number
+1	equipment 2.7-k
+1	equipment 3.2-o
+1	equipment calibration
+1	equipment calibration 1.1.2-h
+1	equipment failure
+1	equipment maintenance
+1	equipment manufacturers
+1	equipment operations
+1	equipment process
+1	equipment readiness reports
+1	equipment requirements
+1	equipment user documentation
+1	equivalent manner
+1	equivalent mitigation technologies
+1	equivalent mitigations
+1	equivalent statements
+1	equivalent support
+1	equivalent visual cue
+1	equivalently
+1	erasable storage media preparation
+1	erasable storage media preparation 3.1.4-m
+1	ergonomics
+1	err
+1	error condition
+1	error goto
+1	error message
+1	error occurs
+1	errors 7.3-b
+1	errors 9.1.4
+1	errors supports practices
+1	essential concepts
+1	essential election application logic functions
+1	essential election functions
+1	essential part
+1	estimation 2.1.1-c
+1	ethernet
+1	evaluation method
+1	event description
+1	event entry log
+1	event log data
+1	event log records
+1	event types 12.1-e
+1	event types 15.1-e
+1	event types 15.2-d
+1	evidence 9.1.2-a
+1	evidence trail
+1	exact agreement
+1	exact detail
+1	examination
+1	example features/paper records
+1	example matrix
+1	exception concept
+1	exception events
+1	exceptions 2.3.1-d
+1	excessive force
+1	excuse absentee
+1	executable statement
+1	executable statements
+1	exhaustive list
+1	existing
+1	exit condition
+1	experience
+1	experience 5.1-a
+1	expert
+1	explicit
+1	explicit authorization
+1	explicit override
+1	explicit tests
+1	explicit voter command
+1	exploit
+1	exploitability scores
+1	exponential
+1	exposure
+1	external devices
+1	external election systems
+1	external interface
+1	external interfaces
+1	external network connection
+1	external network connection leaves
+1	external network restrictions 14.2-f
+1	external network services
+1	external power
+1	external review
+1	external sources
+1	external suppliers
+1	external verification tools
+1	external verifiers
+1	externally
+1	externally-controlled format string
+1	externallycontrolled format string
+1	extraneous mark
+1	extraneous processes
+1	ez access
+1	facilitate decision
+1	facilitate development
+1	facilitate understanding
+1	facility housing
+1	factors working
+1	fafafa
+1	failsafe ballot
+1	failure 1.2-g
+1	failure information
+1	failure rate
+1	failure rate benchmark
+1	failure recovery actions
+1	false alarm rates
+1	false election records
+1	false notification
+1	family members
+1	fault isolation
+1	faulty operations
+1	federal accessibility law
+1	federal computer systems
+1	federal election commission
+1	federal elections
+1	federal government 's
+1	federal laws
+1	federal levels
+1	federal offices
+1	federal organization
+1	federal requirements
+1	fewest votes
+1	ffff00
+1	field layout
+1	file access log 13.1.1-c
+1	file name and/or location
+1	file rotation
+1	file specifications
+1	file systems
+1	files
+1	fill
+1	final
+1	final act
+1	final ballot styles
+1	final ballot submission
+1	final destination
+1	final features
+1	final round votes
+1	final state
+1	fine motor control
+1	fine motor skills
+1	fingertips
+1	firewall policy
+1	firmware ensures
+1	firmware items
+1	fl representing
+1	flaw
+1	floor space
+1	floppy
+1	flow control statements
+1	focuses
+1	following
+1	font 7.1-k
+1	for/against
+1	foreground options
+1	formal
+1	formal evaluation
+1	formal process
+1	format assists
+1	format format
+1	format strings
+1	format strings 2.5.4-h
+1	foundational tool
+1	fractional number
+1	framework
+1	free tools
+1	frequencies 7.1-m
+1	frequency devices
+1	frozen screen
+1	fulfilling
+1	full adjustment
+1	full ballot selections review
+1	full ballot selections review 7.3-f
+1	full ballot selections review 7.3-h
+1	full ballot selections review 8.3-a
+1	full ballot selections review 9.1.3-b
+1	full ballot selections review 9.1.6-e
+1	full citations
+1	full directory path
+1	full hand
+1	full keyboard
+1	full path name
+1	full product identification
+1	full range
+1	full text
+1	full vulnerability coverage
+1	function
+1	functional
+1	functional components
+1	functional diagram 3.1.1-c system description 3.1.1-d
+1	functional diagram system overview documentation
+1	functional diagrams
+1	functional processing capabilities
+1	functional purposes
+1	functional requirements
+1	functional unit
+1	functionality 12.2-b
+1	functions versus manufacturer functions
+1	functions versus manufacturer functions 3.1.7-d
+1	fundamental building block
+1	future analysis
+1	future errors/issues
+1	future logs
+1	g. setting
+1	gain assurance
+1	gaithersburg
+1	garbage collection
+1	gateway system
+1	general contents 3.1.6-c maintenance viewpoint 3.1.6-d equipment overview details 3.1.6-e maintenance procedures 3.1.6-f
+1	general contents maintenance documentation
+1	general controls
+1	general election
+1	general election election
+1	general file-system operations
+1	general information
+1	general instructions
+1	general interfaces
+1	general population
+1	general protection default
+1	general requirement
+1	general requirement applies
+1	general requirement supports
+1	general requirements
+1	general scope
+1	general standard library
+1	general system metrics
+1	general usability
+1	general-purpose software
+1	generate codes
+1	generate records
+1	generic file-system functions
+1	generic software
+1	geoff hale mcdermot coutts computer
+1	geographic area
+1	geographical area
+1	geographical coordinates
+1	geographical location
+1	george moore
+1	george washington
+1	ginny
+1	good range
+1	good readability characteristics
+1	good usability
+1	goto
+1	goto arbitrary
+1	government personnel
+1	government standards
+1	gpf
+1	graceful recovery
+1	graphical images
+1	grey/brown text
+1	ground fault current interrupters
+1	group contest option
+1	group elements
+1	group selection
+1	group/role
+1	groups
+1	guidance relevant
+1	guidance to avoiding vulnerabilities in programming languages
+1	guidance to avoiding vulnerabilities in programming languages through language selection and use
+1	guidelines for the application of iso
+1	guidelines principle
+1	guidelines version
+1	handler programs
+1	hard disks
+1	hardware 3.1.4-f
+1	hardware bill
+1	hardware condition monitors
+1	hardware device
+1	hardware diagnostic tests
+1	hardware module
+1	hardware security requirements
+1	hardware updates
+1	hardware upgrades
+1	harmful conditions 8.1-a
+1	hash function
+1	hashes
+1	hava requirements
+1	headphone jack
+1	headphone jacks analog communications
+1	headphones 8.1-i
+1	headset plug
+1	hearing loop
+1	helvetica
+1	hesitation mark
+1	high contrast
+1	high impact
+1	high integrity
+1	high integrity systems
+1	high level system design goals
+1	high quality implementation
+1	high quality systems
+1	high risks
+1	high-integrity software
+1	hinder voters
+1	holder 's
+1	horizontal dimensions
+1	hours regardless
+1	houston
+1	human contact
+1	human finger
+1	human readable code
+1	human readable computer instructions
+1	human sounds
+1	human-centered
+1	human-centred
+1	human-readable format
+1	human-readable paper ballot
+1	human-readable record
+1	human-readable version
+1	human-system interaction
+1	human-system interactionpart
+1	i.7.2.1.1-a
+1	i.7.2.1.2-a
+1	identification 2.4-d
+1	identification code
+1	identification scheme
+1	identifier 10.2.2-b
+1	identifier 9.1.5-g
+1	identifiers 1.1.1-d
+1	identifiers 10.2.3
+1	identifiers 9.4-c
+1	identify contests
+1	identify election
+1	identify errors
+1	identify issues
+1	identify language
+1	identify malware
+1	identify problems
+1	identify requirements
+1	identify updates
+1	ids
+1	ids requirements
+1	ieee
+1	image creation 1.1.2-g
+1	image creation 3.1.4-h
+1	images validity
+1	immediate
+1	immediate attention
+1	imminent timeout condition
+1	immunity
+1	imperative instructions
+1	imperfect marks
+1	implantation statement
+1	implementation approaches
+1	implementation conformance statement in-person
+1	implementation process 2.2-a
+1	implementation statement documents
+1	implements audits
+1	import design
+1	import process
+1	important information
+1	improper election-specific setup
+1	improving critical infrastructure cybersecurity
+1	in-person absentee
+1	in/out devices
+1	inadvertent mark
+1	incident information
+1	incidental use
+1	including
+1	incorrect ballot styles
+1	independence 9.1.5-c
+1	independence [
+1	independence voters
+1	independent 9.1.2
+1	independent 9.1.5
+1	independent 9.1.5-g
+1	independent 9.1.6
+1	independent action
+1	independent manufacturers
+1	independent system
+1	independent voter-verifiable paper records
+1	independent voter-verifiable records
+1	indicator ensures
+1	indirect association option
+1	indirect identifiers
+1	indirect voter associations 10.2.1-d
+1	indirect voter associations 10.2.1-f
+1	indirect voter associations 10.2.2
+1	individual 's identity
+1	individual candidate options
+1	individual components
+1	individual functions
+1	individual quantities
+1	individual sheet
+1	individual state requirements
+1	individual tallies
+1	individual voter 9.4-d
+1	individual voters
+1	individual write-in name
+1	individually
+1	inductive
+1	inductive mode
+1	industry standards
+1	ineligible ballots
+1	information 3.1.4-c
+1	information 5.2-a
+1	information 7.3-d
+1	information [
+1	information exchange
+1	information leakage
+1	information packets
+1	information processing services
+1	information processing standards standards
+1	information security
+1	information system levels
+1	information systems personnel
+1	information technology industry
+1	information voters need
+1	informational
+1	informational elements
+1	informational purposes
+1	informative discussion field
+1	informative field
+1	informative language
+1	informative resource
+1	informative text
+1	initial
+1	initial appearance
+1	initial audio response
+1	initial state
+1	initiate use
+1	injection
+1	injection 2.5.4
+1	injection 2.5.4-o
+1	injection attack
+1	ink
+1	ink 2.1.2
+1	innovative methods
+1	input data
+1	input devices
+1	input hopper
+1	input mechanism
+1	input methods
+1	input parameters
+1	input parameters 2.5.4-f
+1	input source
+1	inspection documentation
+1	inspection documentation 3.2-a
+1	inspection process
+1	inspection process 3.2-b
+1	inspection record generation
+1	inspection record generation 3.2-d
+1	installation 14.3.2-c
+1	installation documentation 3.1.4-b
+1	installation event
+1	installation instructions support
+1	installation procedures
+1	installation procedures 3.1.4-g
+1	installation process
+1	installation record creation 3.1.4-j
+1	installation user documentation
+1	instant run-off
+1	instructions 15.2-a
+1	instructions 15.2-b
+1	instructions 6.1-c
+1	instructions 6.1-d
+1	instructions 7.2-e
+1	instructions 7.3-i
+1	instructions 7.3-j
+1	instructions 7.3-l
+1	integer overflows
+1	integrity check
+1	integrity check 1.1.7-d report
+1	integrity constraints
+1	integrity deals
+1	integrity principle
+1	integrity protection ensures
+1	integrity requires
+1	integrity states
+1	integrity test
+1	integrity verification procedure
+1	integrity verification procedure 3.2-f election information value 3.2-g
+1	intelligible audio
+1	intended requirements
+1	intended updates
+1	intent verification
+1	intentional alterations
+1	intentional modifications
+1	interaction
+1	interaction 6.1-a
+1	interaction control
+1	interaction mode control
+1	interaction mode options
+1	interaction modes 5.1-b
+1	interaction modes 7.2-a
+1	interaction options 7.2-b navigation
+1	interaction options 7.2-c
+1	interaction options 7.3-e
+1	interaction options 7.3-k
+1	interaction options 8.1-j
+1	interaction settings
+1	interactive systems [
+1	interest organizations
+1	interface designs
+1	interface requirements
+1	interfaces 14.2-b
+1	interfaces 5.1-a
+1	interfaces 5.2-a
+1	interfaces 5.2-f
+1	interfaces 7.1-d
+1	interfaces 7.1-e
+1	interfaces 7.1-k
+1	interfaces 7.1-n
+1	interfaces 7.2-c
+1	interfaces 7.2-h
+1	interfaces 7.2-m
+1	interfaces 7.2-o
+1	interfaces 7.2-p
+1	interfaces 7.3-n
+1	interfaces 8.1-b
+1	interfaces 8.1-f
+1	internal boundaries
+1	internal network architecture
+1	internal resource constraints
+1	internal test
+1	internal use
+1	internal wireless networks
+1	internal wireless networks internal
+1	international committee
+1	internet connectivity
+1	interoperability 9.1.5-f
+1	interoperability working
+1	interoperable formats 4.1-a election
+1	interoperable formats requirements
+1	interpretation
+1	interpreter 2.5.1-c
+1	introduce software bugs/exploits
+1	intrusion detection system
+1	intrusion detection systems
+1	invalid input
+1	invalid inputs
+1	invalid operation
+1	investigate
+1	ipsec
+1	ipsec vpns
+1	is
+1	iso
+1	iso-9241-210:2019 ergonomics
+1	iso/iec prf tr
+1	iso/iec/ieee
+1	iso13a
+1	iso18
+1	iso19a
+1	iso8601 iso/iec
+1	isolate test data
+1	issuing
+1	it
+1	items
+1	iterative cycles
+1	itu-t p.50 appendix
+1	itu-t p.50 october
+1	jacks 7.3-m
+1	jacks 8.1-j
+1	james l. fenton
+1	janice
+1	jersey
+1	john kelsey
+1	john p. wack
+1	jpeg
+1	jurisdiction practices
+1	jurisdictional
+1	jurisdictional procedures
+1	keeping
+1	kernel settings
+1	kerry mckay
+1	key addition
+1	key dates
+1	key design
+1	key locks
+1	key management part
+1	key part
+1	key press
+1	key removal
+1	key reproduction
+1	key results
+1	key role
+1	keys 2.3.1
+1	keys 7.1-o
+1	keys 7.1-p
+1	keys 7.2-e
+1	keys 7.2-h
+1	keys 7.2-q
+1	keys 7.2-r control labels
+1	khz
+1	knowing
+1	kris winkler
+1	labels
+1	labels 7.1-o
+1	labels 7.3-m
+1	lan
+1	language independent
+1	language name
+1	languages 2.1-b
+1	languages 5.2-c
+1	languages 7.3-n
+1	large data structures
+1	large font
+1	large lookup tables
+1	large print
+1	large reference
+1	large text settings
+1	large-print display option
+1	lat
+1	lcd
+1	leakage currents
+1	legal challenge
+1	legal right
+1	lessons
+1	level aa
+1	level aaa
+1	library components
+1	library modules
+1	library units 2.3-c
+1	lifecycle management
+1	light source
+1	limit access
+1	limit attack surface
+1	limit attack surface 14.2-a
+1	limit information
+1	limit tabulation
+1	limits
+1	limits access
+1	limits gathering
+1	line art
+1	linear
+1	lines
+1	links
+1	linux
+1	list lets
+1	list navigate
+1	list security configurations
+1	load election
+1	loads
+1	local area network
+1	local election jurisdiction
+1	local jurisdiction
+1	local level
+1	locale-specific election process information
+1	location
+1	location information
+1	location information 3.1.4-d election
+1	lock-and-key access
+1	locking
+1	lockout 11.5-d
+1	lockout events
+1	lockout policy
+1	lockout roles
+1	lockout voters
+1	locks
+1	log
+1	log entry
+1	log entry information
+1	log files 11.1-c
+1	log files 15.1-d
+1	log format
+1	log format information
+1	log integrity
+1	log integrity 11.1-d
+1	log malware remediation activities
+1	log system
+1	log system errors
+1	log types
+1	logic 's correctness
+1	logic fault
+1	logic verification
+1	logical page
+1	logical reduction
+1	logical relationships
+1	logical structure
+1	logical transaction
+1	login restrictions
+1	login/logoff
+1	logs 15.1-c
+1	london
+1	long axis
+1	long display
+1	long list
+1	long paragraph
+1	long time
+1	looking
+1	lookup tables
+1	lori augino judd choate
+1	low dexterity modes
+1	low digital
+1	low sound leakage
+1	low-level constructs
+1	low-level control
+1	low-level machine code
+1	low-vision voters
+1	luminosity contrast ration
+1	lx illuminance
+1	m contest options
+1	m. r. moulding
+1	mac misfeed
+1	machine support
+1	machine upgrade
+1	machine-readable form
+1	machinereadable mark
+1	magnetic field output
+1	magnetic field signal
+1	mail-in absentee ballots
+1	main ballot options fall
+1	main point
+1	maintenance accounts
+1	maintenance environment 3.1.6-q system maintenance
+1	maintenance environment maintenance documentation
+1	maintenance equipment
+1	maintenance procedures 3.1.6-g
+1	maintenance procedures maintenance documentation
+1	maintenance tasks
+1	major commercial computer platforms
+1	major open-source software packages
+1	major principles
+1	major software technology providers
+1	makes
+1	malicious actions
+1	malicious actor
+1	malicious adapters
+1	malicious code
+1	malicious data
+1	malicious incident
+1	malicious script
+1	malware detection 15.3-e
+1	malware detection 15.3-f
+1	malware detection logs
+1	malware event
+1	malware event log
+1	malware injection
+1	malware protection mechanism
+1	malware protection mechanisms 15.3-d
+1	malware protection mechanisms assists
+1	malware remediation 15.3-g
+1	manage data
+1	manage items
+1	manage log file growth
+1	management
+1	management activity
+1	management errors
+1	management plan
+1	management plan 14.2-k
+1	mandate hardware support
+1	manual operations
+1	manual procedure
+1	manufacture claims
+1	manufacturer
+1	manufacturer 's release
+1	manufacturer claims
+1	manufacturer codes
+1	manufacturer documents
+1	manufacturer personnel
+1	manufacturer specifications 1.1.6-h
+1	manufacturer specifications 1.1.6-j
+1	manufacturer-specific code
+1	manufacturers 3.1.6-m
+1	manufacturers algorithm
+1	manufacturers identify
+1	manufacturers installation instructions
+1	manufacturers maintenance documentation
+1	map structure
+1	marginal machine-readable mark
+1	marginal mark
+1	marginal status
+1	mark
+1	mark ballots
+1	mark detection thresholds
+1	mark voter selections
+1	marksense
+1	mary saunders
+1	massachusetts
+1	master copies
+1	material documentation
+1	materials 14.3.1
+1	materials 3.1.6-j
+1	materials facilities
+1	materials maintenance documentation
+1	max inactivity time
+1	max session time
+1	maximum audio speed
+1	maximum speed
+1	maximum volume 1.2-e
+1	maximum-dark levels
+1	meaningful concept
+1	means information
+1	means try/throw/catch
+1	measurable characteristics
+1	measures
+1	mechanical counters
+1	mechanical damage
+1	mechanical functions
+1	mechanically
+1	mechanics
+1	mechanism
+1	meeting
+1	melanie volkamer
+1	member logan
+1	memory address
+1	memory allocation
+1	memory card
+1	memory component
+1	memory corruption errors
+1	memory dump
+1	memory locations
+1	memory management errors
+1	memory units
+1	message authentication code
+1	messages 15.2-a
+1	metadata wont
+1	method
+1	mfa
+1	michael e. garcia
+1	michael nieles
+1	microsoft tai
+1	microsoft windows
+1	minimal use
+1	minimize voters need
+1	minimum baseline policy definitions
+1	minimum dimensions
+1	minimum functions
+1	minimum increment
+1	minimum list
+1	minimum number
+1	minimum password length
+1	minimum requirement
+1	minimum system resources
+1	minor technical changes
+1	mismanagement 2.5.4-k
+1	mit touch lab
+1	mitigation technologies 14.2-i
+1	mitre cwe-259
+1	mitre cwe-321
+1	mitre cwe-561
+1	mm headphone jack
+1	mm text size
+1	mm thick line
+1	mmpb
+1	mo david wagner professor
+1	mobile devices
+1	mobile equipment
+1	mobile phones
+1	mobility device
+1	model number
+1	model numbers
+1	model procedures
+1	modern deployment technologies
+1	modern devices
+1	modern expectations
+1	modern practices
+1	modes 3.1.5-d
+1	modes 5.2-d
+1	modes 5.2-f
+1	modification
+1	modify permissions
+1	modify permissions restricts users
+1	modular construction
+1	modular fashion
+1	modularity application
+1	modularity rules
+1	module validation
+1	module validation 13.3-b
+1	modules
+1	monitoring ensures
+1	months 2.1.1
+1	months afterward
+1	mother 's maiden name
+1	motor impairments
+1	ms20
+1	multi-factor authentication codes
+1	multi-factor authenticator
+1	multi-factor authenticator implementation
+1	multi-page ballots
+1	multi-seat contest
+1	multi-sheet ballot contains
+1	multi-winner contests
+1	multifactor
+1	multilingual ballot
+1	multipage ballots
+1	multiple candidate groups
+1	multiple external sources
+1	multiple feed
+1	multiple levels
+1	multiple products
+1	multiple seats
+1	multiple selections
+1	multiple sheets
+1	multiwinner process
+1	nadya bartol
+1	narrative exists
+1	narrative reading
+1	nased
+1	nation 's
+1	nation state actors
+1	nation state attacks
+1	nation-state attackers
+1	national association
+1	national certification process
+1	national clearinghouse
+1	national council
+1	national federation
+1	native format
+1	native formats
+1	native name
+1	native speakers
+1	native version
+1	navigating pdf pages
+1	navigation elements
+1	navigation method
+1	navigation option
+1	neal kelley registrar
+1	necessary changes
+1	necessary information
+1	necessary procedural
+1	necessary processes
+1	necessary recovery
+1	necessary safeguards
+1	necessary techniques
+1	negative consequences
+1	negative votes
+1	network access
+1	network appliances 13.1.2 election records 13.1.2-a
+1	network configuration documentation 14.2-g
+1	network configuration documentation 15.4-c
+1	network connections vvsg
+1	network functions
+1	network functions o
+1	network method
+1	network security protocols
+1	network stack
+1	network status indicator 14.2-e
+1	networking enabling
+1	new algorithms
+1	new approach
+1	new capabilities
+1	new class
+1	new connections
+1	new data type
+1	new design
+1	new malware signatures
+1	new media
+1	new paper ballot
+1	new platform
+1	new requirements
+1	new settings
+1	new signatures
+1	new size
+1	new software releases
+1	new system integrity requirements ensure
+1	new threats
+1	new versions
+1	new vulnerabilities
+1	nist cryptographic module validation program
+1	nist cybersecurity framework version
+1	nist sp800-63b
+1	nist09
+1	nists
+1	nj paul lux
+1	no-cost method
+1	nominal operational range
+1	non-catastrophic failure
+1	non-color design element
+1	non-election-specific tasks
+1	non-essential services
+1	non-expert workers
+1	non-manual input mechanism
+1	non-party-specific contest
+1	non-standard ballot language
+1	non-visual interaction mode
+1	non-volatile memory
+1	non-volatile storage
+1	non-written languages
+1	non-zero counters
+1	noncommercial software
+1	nonpartisan ballot
+1	nonstandard compilers
+1	normal
+1	normal control
+1	normal hearing
+1	normal human speech
+1	normal intonation
+1	normal occurrence
+1	normal status indicator
+1	noticeable pause
+1	notifications relates
+1	notify
+1	notify voters
+1	novel approaches
+1	number
+1	numeric overflow
+1	numeric types
+1	numeric value
+1	numerical value
+1	nvd
+1	nvlap
+1	o election
+1	occupational safety
+1	octagon shape
+1	off-line operator duties
+1	office position
+1	offices and/or vote
+1	official access
+1	official ballot
+1	official location
+1	official results
+1	official suspends
+1	oh representing
+1	oksana kulyk
+1	olympia
+1	on-demand ballot
+1	on-screen instructions
+1	on-screen magnification
+1	on/off status
+1	on/off status inspection procedure
+1	on/off status inspection procedure 3.2-n
+1	one-way hash
+1	only addresses
+1	only work
+1	open market
+1	open primary ballot 1.1.4-g
+1	open primary ballot 1.1.8-b.3 open primary ballot
+1	open source reference implementation
+1	open source software
+1	open-polls operation
+1	operability 7.2-l
+1	operable parts
+1	operable parts section
+1	operational environment
+1	operational failures
+1	operational lifetime
+1	operational processes
+1	operational security processes
+1	operational status inspection procedure
+1	operational status inspection procedure 3.2-m
+1	operational test
+1	operations consistent
+1	operator
+1	operator 's ability
+1	operator intervention
+1	optical disks
+1	optical scan
+1	optical scan ballot designs
+1	optical scanner benchmark
+1	optical sensors
+1	optical/digital scanners
+1	option selection
+1	optional alternative
+1	optional functions
+1	optional informative fields
+1	options 7.1-e
+1	ordinary conversation
+1	ordinary timer system interrupts
+1	orientation 1.1.5-c
+1	origin 3.1.1-e
+1	origin system overview documentation
+1	original ballot selections
+1	original baseline image
+1	original cryptographic signature
+1	original image
+1	original meaning
+1	original module
+1	original straight-party choice
+1	original voter intent
+1	out-of-bounds accesses
+1	outcome determination
+1	output 2.5.3-b
+1	output 2.5.3-c
+1	output 4.1-b
+1	output 6.1.d
+1	output devices
+1	output hoppers
+1	output reports
+1	over-the-air
+1	overall
+1	overall display contrast ensures
+1	overall implementation process
+1	overall requirement relates
+1	overall security
+1	overall system
+1	overall system design
+1	overall system documentation
+1	overall system security
+1	overflows 2.5.4-c
+1	overflows 2.5.4-d
+1	overflows 2.5.4-g
+1	overthe-air attacks
+1	owasp application
+1	own audio assistive devices
+1	own interaction preferences
+1	own optical scan ballots
+1	own personal device
+1	own products
+1	panels need
+1	paper 2.1.1-d
+1	paper ballot cast
+1	paper ballot formats
+1	paper ballot records
+1	paper ballot sheet
+1	paper ballot side
+1	paper ballots 5.1-f
+1	paper ballots 6.1-a
+1	paper ballots 7.1-g
+1	paper ballots 8.2-a
+1	paper ballots needs
+1	paper cards
+1	paper document
+1	paper preserves evidence
+1	paper record contents
+1	paper specification 3.1.6-p system maintenance
+1	paper specification maintenance documentation
+1	paper specification requirements
+1	paper specifications
+1	paper stock
+1	paper verification records
+1	paper-to-digital conversion
+1	parent process
+1	part number
+1	partial hearing
+1	particular algorithm
+1	particular computer platform
+1	particular configuration
+1	particular election
+1	particular environment
+1	particular political party
+1	particular precinct
+1	particular public office
+1	particular scanner
+1	particular set
+1	particular voter
+1	parties 1.1.1-l
+1	partisan content
+1	partisan contest
+1	partisan general election
+1	partisan general election ballot
+1	partisan offices
+1	partisan primary
+1	partisan primary election ballots
+1	partisan primary elections
+1	partisan section
+1	partisan selection
+1	parts list 3.1.6-k
+1	parts list maintenance documentation
+1	party 1.1.9-m reports
+1	party crossover
+1	party fields
+1	party libraries
+1	party logic
+1	party option
+1	party preference contest 1.1.8-c
+1	party preference contest choice
+1	party preference contest option
+1	party-specific contest
+1	party-specific primary ballot
+1	party-specific primary ballots
+1	pass-fail condition
+1	password authentication method
+1	password complexity recommendations
+1	password complexity requirement
+1	password complexity requirements
+1	password expiration
+1	password histories
+1	password length
+1	password management
+1	password management 11.3.2-b
+1	past decade
+1	past versions
+1	patch management
+1	patch management plan
+1	paul eavy
+1	paul hoffman
+1	pcs vvsg
+1	pdf
+1	pen testing
+1	perceivable controls
+1	perceivable cues
+1	performance
+1	performance characteristics
+1	performance requirements
+1	peripheral devices
+1	permanent tips
+1	permissible action
+1	permissions
+1	permissions administrator account
+1	permit
+1	permits
+1	persistent storage system
+1	personal assistive device
+1	personal assistive technologies
+1	personal assistive technology switch
+1	personal assistive technology switches
+1	personal headsets
+1	personal screen display choices
+1	personnel hazard
+1	persons access
+1	peter mell
+1	phase power
+1	phase system
+1	phone systems
+1	physical access 12.1-a
+1	physical access 12.1-b
+1	physical access deals
+1	physical access points
+1	physical actions
+1	physical attributes
+1	physical ballots
+1	physical components
+1	physical container
+1	physical control
+1	physical countermeasure
+1	physical countermeasure leverages
+1	physical design
+1	physical device
+1	physical device 12.1-d
+1	physical dimensions
+1	physical features
+1	physical indicators
+1	physical interfaces
+1	physical isolation
+1	physical measures
+1	physical movements
+1	physical network interfaces
+1	physical paper ballots
+1	physical restrictions
+1	physical safety
+1	physical security countermeasure
+1	physical security event occurs
+1	physical security measures
+1	physical separation
+1	physical violations
+1	pick-your-party primary
+1	pii requirements
+1	pki
+1	place activities
+1	place candidate choices
+1	place environment
+1	place identification
+1	place layout
+1	place layouts
+1	place name
+1	place settings
+1	place workers
+1	places contest options
+1	places need
+1	placing
+1	plain language requirement
+1	plain language requirements
+1	platform module
+1	platform supports
+1	platforms support
+1	plenum
+1	pointer
+1	pointer variables
+1	pointers 2.5.4-l
+1	policy
+1	policy violation
+1	political parties
+1	political party choice
+1	political party choices
+1	political party contest choices
+1	political party designation
+1	poll
+1	polls 1.1.3-b
+1	polls o
+1	poor quality
+1	poor reading vision
+1	port access
+1	port restriction
+1	port restriction 12.2-d
+1	port restriction applies
+1	ports 12.2-e
+1	ports discusses
+1	ports need
+1	ports prevents
+1	possible approach
+1	possible mitigation
+1	possible operations
+1	possible types
+1	possible undervotes
+1	possible way
+1	post-election process working groups
+1	post-election reports
+1	post-voting
+1	post-voting closing
+1	postal ballot absentee
+1	postvoting
+1	potential ballot positions
+1	potential deviation
+1	potential paperless
+1	power cord
+1	power distribution system
+1	power failure
+1	power failures
+1	power inspection procedure
+1	power inspection procedure 3.2-k
+1	power operational range
+1	power operational range 3.2-j
+1	power ports
+1	power requirements
+1	practices need
+1	pre-election data
+1	pre-election setup
+1	pre-encryption form
+1	pre-voting activated suspended postvoting ems
+1	precinct election administration division
+1	precinct post-election reports
+1	precinct splits
+1	precinct-count optical scanner
+1	precinct-count optical scanners
+1	precincts 1.1.1-n
+1	precincts 1.1.9-e report
+1	preelection data
+1	preelection information
+1	preference settings
+1	prepared
+1	preserved
+1	president candidate
+1	presidential candidate
+1	presidential contest
+1	presidential preference primary
+1	presidential primary election
+1	presuppose familiarity
+1	preuve [
+1	preventative maintenance
+1	prevention
+1	preventive maintenance
+1	preventive maintenance tasks
+1	previous requirement
+1	previous vvsgs
+1	primary ballot 1.1.4-f
+1	primary ballot 1.1.8-b.2
+1	primary election contest
+1	primary elections 1.1.8-b.1
+1	primary purpose
+1	primary type
+1	primary visual interface
+1	principal components
+1	principles requirements
+1	printed
+1	printed material
+1	printing
+1	privacy 7.2-g
+1	privacy 8.1-j
+1	privacy screens
+1	privacy sleeves
+1	privileged
+1	privileges 11.1-a
+1	problematic degradation
+1	procedural instructions
+1	procedural steps
+1	procedure
+1	procedure 9.1.5
+1	procedure details 3.1.6-h
+1	procedure details maintenance documentation
+1	procedures
+1	procedures 3.1.4
+1	process 1.1.7-e
+1	process absentee ballots
+1	process exits
+1	process working groups
+1	processing frequency
+1	processing functions
+1	product design
+1	product documentation
+1	professional judgment
+1	program modular
+1	prohibit wireless hardware
+1	project
+1	pronounce candidate names
+1	proper access
+1	proper action
+1	proper ballot style
+1	proper entity
+1	proper enunciation
+1	proper installation
+1	proper network configuration
+1	proper operation
+1	proper software
+1	proper system operation
+1	proper workmanship
+1	proportional representation
+1	proposition #
+1	prosthetic devices
+1	protection ensures
+1	protection mechanisms 15.3-a
+1	protection mechanisms 15.3-b
+1	protection mechanisms deals
+1	protocols 13.3-c
+1	pseudo-random number generator
+1	pstns
+1	public bulletin board
+1	public comment review
+1	public documentation 3.3-a system security
+1	public documentation requirements
+1	public election websites
+1	public elections
+1	public key
+1	public manner
+1	public office and/or vote
+1	public offices
+1	public process
+1	public review
+1	public standard
+1	public tabulation audits
+1	public telecommunications
+1	public verification
+1	publicly
+1	punchcard
+1	purely
+1	qr code requirements
+1	quality 2.1-a
+1	quality 2.1.1-b
+1	quality practices
+1	quantitative
+1	question title
+1	quick response code
+1	race conditions
+1	radio frequency identification devices
+1	random mark
+1	random number generation recommendations
+1	range checks
+1	range restriction
+1	range-enforced
+1	rank contest selections
+1	ransomware
+1	ransomware attack
+1	rapid succession
+1	rate benchmark 1.2-h
+1	re-direct program control
+1	re-examination
+1	re-order candidates
+1	reach height
+1	reactivation changes
+1	read
+1	read-only
+1	readable content
+1	readiness reports 1.1.2-j
+1	reading literacy
+1	reading processes
+1	real election
+1	real time
+1	realistic volume
+1	reasonable amount
+1	reasonable precautions
+1	recall/replace contest pair
+1	recallable ballot
+1	receipt 10.2.4-a
+1	receipt 9.1.6-f
+1	receipt 9.1.6-g
+1	receipt-based
+1	receipts
+1	receipts 1.
+1	receipts 10.2.4-b
+1	receipts 9.1.6-d
+1	receipts 9.1.6-f
+1	recent elections
+1	recent elections highlight
+1	recent usability research
+1	reconcile
+1	reconciliation
+1	reconciliation 1.1.4-j
+1	reconstruct steps
+1	record ballet selections
+1	record ballots cast
+1	record contest selection information
+1	record creation
+1	record creation 9.1.3
+1	record information
+1	record intelligibility
+1	record production
+1	record production 9.1.5-b
+1	record retention
+1	record retention 9.1.5-c
+1	record votes
+1	record write-in information
+1	recorded
+1	recorded-as-cast verification approaches
+1	records 5.1-d
+1	records 9.1.2-b
+1	records 9.1.6
+1	records 9.2-a
+1	records deals
+1	records votes
+1	recovery 2.6-a
+1	recovery actions
+1	recovery plan
+1	recreating
+1	rectangular target
+1	redish
+1	reduces maintainability
+1	redundant
+1	redundant storage
+1	reference implementation 9.1.6-k
+1	references reference citation ada10
+1	referendum question
+1	reflect voter intent
+1	registration list
+1	registration state
+1	registry keys
+1	regular audits
+1	regular ballot
+1	relationship 7.3-e
+1	relative humidity
+1	relax requirements
+1	relevant components
+1	relevant data type
+1	relevant information
+1	relevant metadata
+1	relevant parties
+1	relevant requirements
+1	relevant security
+1	relevant state election law
+1	relevant state election laws
+1	reliability
+1	reliability 2.7-b
+1	reliability testing protocol
+1	remediates malware
+1	remediation actions
+1	remote
+1	remote ballot marking remote
+1	remote ballot marking traditionally
+1	remote location
+1	removable media events
+1	removable storage devices
+1	removes
+1	repair purposes
+1	repeat
+1	repeatable readings
+1	repetitive activation
+1	repetitive activation 7.2-n system response time 7.2-o
+1	repetitive effect
+1	replacement ballot
+1	replacement contest
+1	replacement data input device
+1	replacement periods
+1	replacement policies
+1	replacement rates
+1	replicable locks
+1	report 's generation
+1	report [
+1	report data
+1	report data 4.1-c exchange
+1	report generator
+1	report results
+1	report results 1.1.9-j
+1	reports 1.1.9-b report categories
+1	reports 11.2.2-d
+1	reports 3.1.3-d
+1	reports election results
+1	reports vote
+1	representative election workers
+1	reproduce frequencies
+1	republican ballots
+1	requirement 1.1.7-e
+1	requirement 10.2.2-e
+1	requirement 14.2-d
+1	requirement 2.3-b
+1	requirement 7.2-o
+1	requirement 9.1.6-b
+1	requirement addresses situations
+1	requirement assumes
+1	requirement clarifies
+1	requirement contributes
+1	requirement deals
+1	requirement ensures accessibility
+1	requirement guarantees
+1	requirement informs
+1	requirement prevents
+1	requirement refers
+1	requirement states
+1	requirements address
+1	requirements ensure
+1	requirements listing requirements listing
+1	requirements need
+1	requirements requirements
+1	requirements vvsg
+1	residential address
+1	residual vision
+1	resilient
+1	resource access
+1	resource access 10.2.4
+1	resource access 11.1-b
+1	resource starvation
+1	respective implementation
+1	response times
+1	responsive design
+1	results data
+1	results post-election
+1	review function
+1	review screens
+1	revision identifier
+1	revocation
+1	rhode
+1	rice
+1	richard davis
+1	rin
+1	risk 14.1-c system security architecture description 14.1-d
+1	risk assessment process
+1	risk assessments
+1	risk determination process
+1	risk-limiting audit
+1	rj45
+1	rla
+1	rla requirements
+1	robert giles
+1	role
+1	role creation
+1	role defines
+1	role descriptions
+1	role password resets
+1	role permissions
+1	role permissions 11.2.2-d
+1	role security attributes
+1	role suspension
+1	roles 11.2.2-c
+1	rom
+1	ronald r. rivest
+1	round bezel
+1	runoff tabulations
+1	runoff voting
+1	runtime interpreter
+1	rutgers
+1	sachin pavithran marc guthrie
+1	safe concurrency
+1	safe operation
+1	safecode
+1	safety part
+1	same-day registration
+1	sanitary coverings
+1	sanitize headphones
+1	sans
+1	satisfaction measures
+1	scan ballots
+1	scanner 's aperture
+1	scanner disagree
+1	scanner generates
+1	scanner name
+1	scanner thresholds
+1	scanners 7.2-c
+1	schema development
+1	school board
+1	school districts
+1	science university
+1	scientific expertise
+1	scoping requirements
+1	screen gestures 7.2-h
+1	screen gestures 7.2-i
+1	screen interfaces 7.2-j
+1	screen readers
+1	screen titles
+1	screen view
+1	seat contest
+1	secondary information
+1	secret key cryptography
+1	secret keys
+1	section clarifies
+1	sections 1.1.4
+1	secures
+1	security 14.1-d
+1	security 3.1.3-d
+1	security breach
+1	security capabilities
+1	security configurations
+1	security failure
+1	security parameters
+1	security properties
+1	security protections
+1	security relevant configurations
+1	security risk management
+1	security risk management [
+1	security seals
+1	security settings
+1	security strengths
+1	security-sensitive components
+1	seh
+1	select
+1	select additional contest options
+1	select contest choices
+1	select contest options
+1	select partisan contest choices
+1	select political party contest choices
+1	selection assignments
+1	selection codes 5.1-e
+1	selection codes 9.1.5-f
+1	selection functions
+1	selections 9.1.5-b
+1	selections 9.1.5-e
+1	semantic content
+1	sensitive data transmission deals
+1	sensitive systems
+1	separate
+1	separate ballots
+1	separate copy
+1	separate data plate
+1	separate schema
+1	separate storage
+1	sequential at-large irv
+1	sequential execution
+1	series [
+1	service actions
+1	service carts
+1	session device
+1	session times
+1	set
+1	set period
+1	settings 7.1-a
+1	settings 7.1-b
+1	settings 7.1-l
+1	setup inspection process 3.2-c
+1	setup inspection process documentation
+1	setup o
+1	sharp edge
+1	sheet number
+1	sheets partisan office
+1	short distance
+1	short text
+1	shutdown operation
+1	si
+1	side blank
+1	signal handler
+1	signature generation
+1	signature verification
+1	signatures address
+1	signed
+1	significant avenue
+1	significant level
+1	significant security
+1	significant updates
+1	similar insignificant marks
+1	similar mechanism
+1	similar requirement
+1	similar way
+1	simple gestures
+1	simply
+1	simultaneous presses
+1	single-choice contest
+1	single-phase power
+1	single-seat contests
+1	single-winner contest
+1	sip-and-puff devices
+1	sip-and-puff switch
+1	skill level
+1	small range
+1	small settings
+1	smart card
+1	smart cards
+1	smart pointers
+1	smartcard
+1	sneaker-net process
+1	software 14.3.2-b
+1	software 3.1.1-e
+1	software 3.1.2 system performance documentation 3.1.2-a system performance documentation 3.1.2-b
+1	software 3.1.4-l
+1	software bills
+1	software bootloader
+1	software component
+1	software components
+1	software control flow
+1	software documentation
+1	software fault tolerance approach
+1	software identification procedure
+1	software identification procedure 3.2-e
+1	software independence 9.1.6
+1	software independence assists
+1	software independence requirement
+1	software installation documentation
+1	software installation mechanisms
+1	software installation record
+1	software installing
+1	software items
+1	software libraries
+1	software libraries 14.2-j
+1	software release
+1	software signatures
+1	software system overview documentation
+1	software test
+1	software tools
+1	software use
+1	software vulnerabilities
+1	softwarelevel exceptions
+1	source code review
+1	space 7.2-q
+1	space [
+1	spare devices
+1	spares 3.1.7
+1	spares maintenance documentation
+1	special devices
+1	special equipment 3.1.6-i
+1	special equipment maintenance documentation
+1	special expertise
+1	special instructions
+1	special meanings
+1	special purpose test
+1	special receipt
+1	special restrictions
+1	special test versions
+1	special-purpose systems
+1	specific
+1	specific ballot style
+1	specific candidates
+1	specific class
+1	specific contest
+1	specific contests
+1	specific devices
+1	specific election worker
+1	specific groups
+1	specific guidance
+1	specific hardware
+1	specific implementation
+1	specific jurisdiction
+1	specific kinds
+1	specific mechanism
+1	specific module
+1	specific office
+1	specific ones
+1	specific party
+1	specific physical facilities
+1	specific precinct
+1	specific procedures
+1	specific requests
+1	specific requirements
+1	specific risk factors
+1	specific security strength
+1	specific set
+1	specific single contest
+1	specific situations
+1	specific software identification
+1	specific software identification 3.1.4-e
+1	specific system operations document
+1	specific system security document
+1	specific tests
+1	specific time periods
+1	specific vote-capture device
+1	specific voters ballot
+1	specific vulnerabilities
+1	specifications proprietary
+1	specified
+1	specify requirements
+1	speech 6.1-b
+1	speech 7.2-h
+1	speech 7.2.g
+1	speech 8.1-j
+1	speech input
+1	speech rates
+1	spyware
+1	sql injection
+1	stage 11.2.1-d
+1	stage 12.1-c
+1	stage 15.1-d
+1	stage descriptions
+1	stage descriptions stage
+1	standard 11.2.2-b
+1	standard audio connectors
+1	standard audio connectors 15.4-c
+1	standard audio connectors 8.1-f
+1	standard audio connectors 8.1-i
+1	standard connector
+1	standard formats 4.2-a
+1	standard formats 4.2-b
+1	standard hardware interfaces
+1	standard headphone jack
+1	standard jack voters
+1	standard practice
+1	standard public process
+1	standards/best practices
+1	state access rights
+1	state board
+1	state director
+1	state election regulations
+1	state roll-ups
+1	state-specific requirements
+1	statewide identifier schemes
+1	static discharges
+1	static values
+1	stating
+1	station design
+1	station device
+1	station post-election tabulation audit
+1	status indicator
+1	status indicator 14.2-c
+1	status indicators
+1	stereo headphone jack
+1	sticky keys
+1	stock specification 3.1.6-n
+1	stock specification criteria 3.1.6-o
+1	stock specification criteria maintenance documentation
+1	stock specification maintenance documentation
+1	storage 3.1.6 system maintenance documentation 3.1.6-a system maintenance documentation 3.1.6-b
+1	storage devices 1.2-i
+1	storage location 10.2.1-e
+1	storage requirements
+1	storage space
+1	storage systems
+1	store authentication data
+1	store data
+1	store passwords
+1	store vote data need
+1	straight-party contest
+1	straight-party override
+1	straight-party tabulation
+1	straight-party ticket
+1	straight-party vote
+1	straight-party votes
+1	straightparty contest option
+1	strategy template
+1	stray mark
+1	strength 13.3-d
+1	stress
+1	strict type
+1	strong evidence
+1	strong passwords
+1	structured exception handling
+1	stv
+1	style guide
+1	style handset 8.1-h
+1	style identification
+1	style identification 1.1.2
+1	style information
+1	style readiness reports
+1	style readiness reports 1.1.2-k
+1	sub-precinct primary election election
+1	submit test ballots
+1	subsequent elections
+1	subsequent human review
+1	substantial experience
+1	subsystem
+1	successful attempts
+1	successful authentication
+1	successful election definition
+1	such access
+1	such component
+1	such constructs
+1	such file specifications
+1	such minor technical changes
+1	such operations
+1	such reflections
+1	such situations
+1	sufficient data protection
+1	sufficient descriptive information
+1	super precinct commercial-off-the-shelf
+1	supplemental guidance
+1	supplier impact analysis
+1	supply chain
+1	supply chain 14.3-a supply chain risk management strategy 14.3-b
+1	supply chain management plan
+1	supply chain risk incident
+1	supply chain risks
+1	support accessibility
+1	support documentation 9.4-c
+1	support election administration
+1	support election workers
+1	support pre-election
+1	support repair calls
+1	support software
+1	support system installation
+1	support test objectives
+1	support voters
+1	supports accountability
+1	supports digital communication
+1	supports non-written languages
+1	susan c. becker
+1	suspended occurring
+1	suspension procedures
+1	svetlana z. lowry
+1	swells 2.7-i
+1	swiss post system shows
+1	switch activations
+1	switch input
+1	switching
+1	synchronize voter records
+1	synonymous
+1	synthetic speech
+1	system 's
+1	system 's capabilities
+1	system 's operation
+1	system 's status
+1	system 10.2.1-d
+1	system a.
+1	system access control mechanisms
+1	system accuracy
+1	system administrator group
+1	system architectures 1.1.5-g
+1	system architectures 10.2.1-c
+1	system architectures 7.3-f
+1	system architectures 9.1.5-d
+1	system architectures 9.1.5-e
+1	system ballot
+1	system certification program
+1	system compromise
+1	system configuration files
+1	system configuration settings
+1	system converts
+1	system correctness
+1	system cryptographic hash
+1	system design process identifies
+1	system detects
+1	system developers
+1	system differ
+1	system elements
+1	system emits light
+1	system emits lights
+1	system equipment
+1	system errors 15.2-d
+1	system event logs
+1	system extent
+1	system extent corresponds
+1	system generates records
+1	system generates reports
+1	system implementation statement
+1	system installation
+1	system interface
+1	system introduces security
+1	system keys
+1	system limits 1.2-f
+1	system locks
+1	system logic 2.3-a
+1	system maintenance
+1	system maintenance documentation
+1	system maintenance documentation deals
+1	system mark specifications
+1	system non-operational
+1	system notifies
+1	system o
+1	system operational
+1	system operations documentation deals
+1	system operations support personnel
+1	system owners
+1	system owners need
+1	system performance
+1	system port
+1	system ports
+1	system procurement officials
+1	system prompts
+1	system readiness
+1	system readiness results
+1	system readiness tests
+1	system recovery
+1	system repair
+1	system resources changes
+1	system responds
+1	system responses
+1	system scope
+1	system secures
+1	system security architecture
+1	system security documentation
+1	system software 3.1.4-k open market procurement
+1	system software structure
+1	system tabulation process
+1	system test data removal
+1	system test lab
+1	system test laboratories
+1	system treats
+1	system updates
+1	system updates 14.4-b
+1	system user
+1	system users need
+1	system uses biometric measures
+1	system uses locks
+1	system vendors
+1	systematic
+1	systems 12.1-g
+1	systems 9.1.6-a
+1	systems accuracy
+1	systems activities
+1	systems attack surface
+1	systems audit
+1	systems documentation contains
+1	systems implements
+1	systems limits
+1	systems malware protection mechanisms need
+1	systems reliability
+1	systems response time
+1	systems setup
+1	t-coil
+1	table 11-
+1	tabulatable record
+1	tabulate partisan contest option selections
+1	tabulate undervotes
+1	tabulates votes
+1	tabulation audit procedure
+1	tabulation devices 15.3-c
+1	tabulation district
+1	tabulation function
+1	tabulation method
+1	tabulation methods
+1	tabulation perspective
+1	tabulation processes
+1	tabulation rate 3.1.2-c
+1	tabulation rate system performance documentation
+1	tabulation report
+1	tabulation system
+1	tabulation system 11.2.1-a
+1	tabulation unit
+1	tabulation votes
+1	tactile control
+1	tactile cues
+1	tactile input devices
+1	tactile keypad
+1	tactile perception
+1	tactile sense
+1	tamper
+1	tamper evidence
+1	tamper evident
+1	tamper evident tape
+1	tamper resistance countermeasures
+1	tamper-evident manner
+1	tamper-evident records
+1	tamper-evident seal
+1	tapping
+1	target area
+1	target area contest option vote
+1	target audience
+1	target configuration
+1	target deployment environment
+1	target device
+1	target system configuration
+1	targets 1.1.6-j
+1	tax rate
+1	tax rate b
+1	tax rate c
+1	tax rates
+1	tdp requirements
+1	technical date package
+1	technical information
+1	technical practices
+1	technical procedure
+1	technical requirements
+1	technical standards
+1	technical support
+1	technical terms
+1	technical washington
+1	techniques
+1	technology providers
+1	telephone networks
+1	telephone style handset
+1	telephone style handsets/headphones
+1	temporal types
+1	temporary employees
+1	temporary staff
+1	term
+1	term encompasses
+1	termination
+1	terminology
+1	terms requirements
+1	territory-specific laws
+1	test approach
+1	test assertions
+1	test ballot counterparts
+1	test ballots 1.1.2-d
+1	test ballots 1.1.2-g
+1	test campaign
+1	test feedback
+1	test method
+1	test plans
+1	test points
+1	test reports [
+1	test results
+1	test standards
+1	test tasks
+1	test votes
+1	testability 2.4-c
+1	testable standards
+1	testing working
+1	tests 1.3-b
+1	text constitutes
+1	text size requirements
+1	text style
+1	theses stages
+1	third-party software
+1	third-party verification tools
+1	three-phase system
+1	throughput capacity
+1	time limit
+1	time limits 11.5-b
+1	time stamp
+1	timely adoption
+1	timely aggregation
+1	timely manner
+1	timestamped
+1	title
+1	to computer software
+1	together
+1	toggle function
+1	token touch mode
+1	tools
+1	top speech rate
+1	top-2 candidates
+1	top-2 instant runoff
+1	top-2 primary contest
+1	top-2 primary contests
+1	total ballot volume
+1	total combination
+1	total number
+1	total votes
+1	touch action
+1	touch area
+1	touch area size
+1	touch areas
+1	touch interactions
+1	touch mode
+1	touch screen capacitive touch panels
+1	touch screen gestures
+1	touch screen system
+1	touch size areas
+1	touch target areas
+1	town party committee persons
+1	tpm
+1	trace centers ez access
+1	track record
+1	traditional election day
+1	traditional paper poll book
+1	training 3.1.5-c
+1	transaction
+1	transformation initiative
+1	transparent addresses
+1	transparent principle
+1	traps 2.5.4-e
+1	travel upstream
+1	trip threshold
+1	trojan
+1	troubleshoots system problems
+1	true|false
+1	trustworthy mirror
+1	tunnel vision
+1	turan
+1	two-factor authentication
+1	tx representing
+1	type contest
+1	type parameters
+1	typical energy service providers
+1	typical environmental conditions 2.7-c
+1	typically
+1	typography changes
+1	u.s access
+1	u.s. access
+1	u.s. congress
+1	ul437
+1	unaffiliated
+1	unalterable storage media
+1	unambiguous feedback
+1	unclonable functions
+1	understandable information
+1	understandable information 7.3-a
+1	understandable speech
+1	undesirable state
+1	undetectable changes
+1	undetectable manner
+1	undeterminable selections
+1	unexpected circumstances
+1	unexpected ways
+1	unified english braille
+1	unique ballot style
+1	unique ballot styles
+1	unique key
+1	unique keys
+1	unique number
+1	unisyn voting solutions vista
+1	univers
+1	unix
+1	unlock thousands
+1	unobtrusive notification
+1	unreasonable burden
+1	unsteady hands
+1	unwritten languages
+1	uocava uocava
+1	up-front work
+1	up/down
+1	upc
+1	updatable malware protection mechanisms 15.3-c
+1	update jurisdiction-dependent text
+1	update process
+1	update voter records
+1	updates
+1	upper limit
+1	urban area
+1	us department
+1	usability inspection
+1	usability reports
+1	usability standards
+1	usable fingerprints
+1	use description [
+1	use passive voice
+1	use procedures
+1	useful artifacts
+1	useful attack surface minimization strategy
+1	useful framework
+1	user access
+1	user access log
+1	user accounts
+1	user air gap
+1	user authentication credentials
+1	user errors
+1	user frustration
+1	user functions
+1	user personnel
+1	user possesses
+1	user research
+1	users body
+1	users permissions
+1	users privileges
+1	uses
+1	uses cryptographic techniques
+1	uses tactile
+1	uses text
+1	ut newark
+1	valid individual write-in candidate
+1	valid selection
+1	valid selections
+1	valid vote
+1	valid vote contest selection
+1	valid voter mark
+1	valid write-in contest selections
+1	valid write-in selection
+1	validate estimates
+1	validation prevents
+1	variable errors
+1	variable value inspection procedure
+1	variable value inspection procedure 3.2-i
+1	variables
+1	variations 1.1.1-f
+1	various agencies
+1	various aspect
+1	various combinations
+1	various components relate
+1	various distances
+1	various election artifacts
+1	various environmental conditions
+1	various font sizes
+1	various implementations
+1	various issues
+1	various methods
+1	various properties
+1	various reasons
+1	various reports o
+1	various system states
+1	various systems
+1	various types
+1	vast majority
+1	vbm
+1	vendors
+1	verdict firewall
+1	verifiability [
+1	verifiable 9.1.2
+1	verifiable deals
+1	verifiable functionality
+1	verifiable process
+1	verifiable records
+1	verifiable system architectures
+1	verifiable system ballot
+1	verification 9.1.4-b
+1	verification options
+1	verification process
+1	verification step
+1	verification success
+1	verification tool
+1	verified cryptographic protocol
+1	verifies system integrity
+1	version number
+1	version numbers
+1	vice president
+1	victoria yan pillitteri
+1	vii
+1	violates voter privacy
+1	visible 7.3-l
+1	visible 8.1-e
+1	visible display area
+1	visible labels
+1	visual
+1	visual ballot supports
+1	visual cue
+1	visual disabilities
+1	visual display format
+1	visual element
+1	visual formats
+1	visual information
+1	visual labels
+1	visual notification
+1	visual output
+1	visual presentation
+1	visual scan
+1	visual system
+1	visual systems
+1	voice synthesizers
+1	volatile memory satisfies
+1	volume test [
+1	voluntary laboratory accreditation program
+1	votable choice
+1	vote absentee
+1	vote conversion
+1	vote counters
+1	vote counts
+1	vote data reports
+1	vote indication
+1	vote response fields
+1	vote tabulation systems
+1	vote tally data
+1	vote variations
+1	vote verification
+1	vote verification information
+1	vote verification record
+1	vote-by-mail
+1	vote-by-mail access control
+1	vote-by-mail ballot
+1	vote-by-mail fall
+1	vote-capture devices 1.1.6-f
+1	vote-capture devices readiness reports
+1	vote-capture devices readiness reports 1.1.3
+1	vote-capture functions
+1	vote-for-n contest
+1	vote-for-one contest
+1	votecapture device
+1	voter 's preference
+1	voter 's request
+1	voter 's selections
+1	voter 's write-in
+1	voter 7.1-c
+1	voter 9.1.6-d
+1	voter 9.1.6-e
+1	voter 9.1.6-k
+1	voter access card
+1	voter action
+1	voter actions
+1	voter activities
+1	voter associations 10.2.1-b
+1	voter associations 10.2.1-c
+1	voter ballot secrecy
+1	voter casts
+1	voter choices
+1	voter experience
+1	voter finishes
+1	voter identification
+1	voter identity
+1	voter information 10.2.4-b
+1	voter information 11.1-b
+1	voter information 15.1-d
+1	voter intent 10.2.3-b
+1	voter interaction
+1	voter interface requirements
+1	voter person
+1	voter privacy distinguishes
+1	voter privacy principle
+1	voter record access log
+1	voter record access log 10.2.4
+1	voter record file names
+1	voter record file names 10.2.2-d
+1	voter record order information
+1	voter record order information 10.2.2-c
+1	voter registration
+1	voter registration systems
+1	voter selection
+1	voter session
+1	voter situations
+1	voter subject
+1	voter supplies
+1	voter switches formats mid-stream
+1	voter turnout
+1	voter verification 9.1.3-b
+1	voter's selection
+1	voter-made marks
+1	voters 10.2.4-a
+1	voters 6.1-b
+1	voters 6.1-d
+1	voters 7.3-e
+1	voters 8.3-a
+1	voters 8.4-a
+1	voters access
+1	voters action
+1	voters contest option selection
+1	voters contest selections
+1	voters eligibility
+1	voters field
+1	voters inactivity time
+1	voters lap
+1	voters operation
+1	voters perceive
+1	voters refers
+1	voters selection
+1	voters visual
+1	voters visual display preferences
+1	voters write-in markings
+1	votes
+1	votes 1.1.9-d
+1	votes 7.1-g
+1	votes 7.2-d
+1	votes documentation
+1	votes documentation 9.1.6-j
+1	votes versus votermade
+1	voting difficulties
+1	voting functions ballot
+1	vpn
+1	vss2000
+1	vstl requirements
+1	vstls
+1	vulnerabilities 14.1-a
+1	vulnerability database
+1	vulnerability databases
+1	vulnerability management plan
+1	vulnerability scoring
+1	vulnerability types
+1	w3c wai
+1	wa denver
+1	wall receptacle
+1	walter g. copan
+1	ward
+1	warning
+1	warning instructions
+1	warning systems
+1	warranty model
+1	warranty types
+1	wcag level aa
+1	wcag10
+1	weak passwords
+1	web
+1	web content
+1	well-known
+1	well-known gestures
+1	well-known keys
+1	well-known weak words
+1	wellknown weak passwords
+1	wheelchair tray
+1	wheelchairs
+1	whereas 12.2-d
+1	white text
+1	wide accumulation
+1	wide array
+1	wide use
+1	windows
+1	windows embedded compact
+1	wired
+1	wireless 14.2-d
+1	wireless 15.4-d rule
+1	wireless adapters
+1	wireless communication devices
+1	wireless connection
+1	wireless device
+1	wireless drivers
+1	wireless functionality
+1	wireless network
+1	wireless protocol
+1	wisconsin
+1	worker
+1	worker electronic bmd requirements
+1	working groups
+1	workstation 11.3.1-c
+1	write-in candidate option
+1	write-in fields
+1	write-in information
+1	write-in information 1.1.5-e
+1	write-in mechanism
+1	write-in opportunities
+1	write-in option
+1	write-in options
+1	write-in selections
+1	writing clear instructions
+1	written-in candidates
+1	written-in name
+1	wrong contest options
+1	yellow text
+1	yes /
+1	yes/no
+1	zero
+1	zoom lens
