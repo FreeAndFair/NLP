@@ -21,11 +21,22 @@ do
 		echo "  Creating nouns histogram..."
 		phrases/nouns.py ${file} > ${nounsfile}
 	fi
+	if [ $? -ne 0 ]; then
+		rm -f ${nounsfile}
+    echo "Processing of ${noext} failed, exiting."
+		exit 1
+	fi
 	if [ -f ${verbsfile} ]; then
 		echo "  ${noext} verbs histogram already exists"
 	else
 		echo "  Creating verbs histogram..."
 		phrases/verbs.py ${file} > ${verbsfile}
 	fi
-	echo "Processing of ${noext} complete."
+	if [ $? -eq 0 ]; then
+    echo "Processing of ${noext} complete."
+	else
+		rm -f ${verbsfile}
+    echo "Processing of ${noext} failed, exiting."
+		exit 1
+	fi
 done
