@@ -34,16 +34,7 @@ else:
     print("Please specify filename or - for stdin")
     exit(1)
 
-# get rid of ............... in the proposal (typically in the outline section)
-input_text = num = re.sub(r'\.{2,}', " ", input_text)
-
-# remove non-alphanumeric characters (not needed after all)
-# input_text = ''.join(filter(lambda c: c.isalpha() or c == ' ' or c == '.', input_text))
-
 input_blob = TextBlob(input_text)
-
-# trivial verb phrase processor
-tags = input_blob.tags
 
 # get noun phrases count
 counts = input_blob.np_counts
