@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Phrases Processing Script
+# Daniel M. Zimmerman, September 2024
+
 # This script recursively traverses the supplied directory, processing all
 # files within it using the phrases scripts. It assumes that the files all
 # have unique basenames, even if they're in different directories.
