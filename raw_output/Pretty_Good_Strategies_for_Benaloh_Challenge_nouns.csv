@@ -1,0 +1,698 @@
+61	nash
+50	benaloh
+38	stackelberg
+18	succ d
+14	fig
+12	fail d
+10	benaloh challenge
+10	strategies
+9	example
+9	lemma
+8	fail v
+8	nmax =
+8	sval v
+8	theorem
+7	bob
+7	sect
+6	alice
+6	backward induction
+6	brd
+6	m.
+5	cambridge
+5	k.
+5	nmax }
+5	succ v
+4	a.
+4	behavioral strategy
+4	bernoulli
+4	culnane
+4	deterministic strategy
+4	encryption device
+4	euv
+4	lncs
+4	player i
+4	pvnmax ]
+4	rational interaction
+4	round ncast
+4	rst round
+4	secondly
+4	teague
+4	voter casts
+4	w. jamroga
+3	challenge [
+3	color
+3	creative commons
+3	definition
+3	device encrypts
+3	e-vote-id
+3	equilibrium strategies
+3	equilibrium strategy
+3	game theory
+3	gure online
+3	interesting analysis
+3	j.
+3	malicious encryption device
+3	n {
+3	n1
+3	p.
+3	payo table
+3	proceedings
+3	r.
+3	rational voter
+3	sexes
+3	springer
+3	strategy proles
+3	university press
+3	w. jamroga fig
+3	y.
+2	 >
+2	] inf pd
+2	accurate view
+2	action prole
+2	audit strategies
+2	available choices
+2	b.
+2	backward
+2	behavioral audit strategies
+2	benaloh according
+2	bv = [
+2	caudit +
+2	caudit =
+2	cham
+2	clearly
+2	consider
+2	d lemma
+2	d succ v
+2	discussion
+2	ds
+2	encryption audits
+2	equilibrium [
+2	equilibrium i
+2	fail
+2	game tree
+2	gjsteen
+2	good news
+2	h.
+2	helios
+2	inspection
+2	jamroga
+2	kuhns
+2	multi-step
+2	multiple devices
+2	n =
+2	n = nmax
+2	nal round
+2	nashs
+2	natural rational strategy
+2	ncast =
+2	oxford
+2	part
+2	perfect recall
+2	positive utility
+2	previous rounds
+2	probability distribution
+2	pv < pvne
+2	reasonable assumptions
+2	rnmax
+2	round nmax
+2	rst time
+2	ryan
+2	s payos
+2	sci
+2	sd = [ pd
+2	sd = ncast
+2	simple game-theoretic model
+2	simple rational strategies
+2	simple recipe
+2	simple strategies
+2	spne
+2	strategic form
+2	strategic game
+2	subsequent round
+2	succ
+2	such games
+2	sv = [
+2	sv = [ pv1
+2	t.
+2	tambe
+2	technology workshop
+2	upper limit
+2	voter
+2	w.
+1	+ =
+1	//doi.org/ 10.1007/s12243-016-0509-8
+1	2-player game
+1	2-player games
+1	20. von
+1	2023. https
+1	= argmaxpd [
+1	= argmaxpv [
+1	= pv
+1	= sup pv [
+1	= ud
+1	= uv
+1	[ pd nmax ]
+1	] .3
+1	] aims
+1	] prescribes
+1	a.s.
+1	abstract
+1	acad
+1	access
+1	accurate beliefs
+1	accurate predictions w.r.t
+1	acemyan
+1	acknowledgments
+1	acm
+1	action audit
+1	action cast
+1	additionally
+1	adversary values
+1	agent i
+1	agents payos
+1	algorithmic
+1	algorithms deployed systems lessons learned
+1	alices
+1	alpcan
+1	alternatively
+1	analysis
+1	analysis intuitive
+1	analyze se
+1	ann
+1	anonymous reviewers
+1	appropriate credit
+1	arbitrary tworound
+1	argument proceeds
+1	attack trees
+1	audit
+1	audit probabilities
+1	audit sequences
+1	author
+1	author thanks
+1	avenhaus
+1	average voter
+1	backward induction [
+1	backward induction stops
+1	ballot
+1	based
+1	baseline data
+1	bayesian
+1	behavioral nash equilibria
+1	behavioral ne strategy
+1	behavioral strategies
+1	behavioral strategy assigns
+1	behavioral strategy bv =
+1	below
+1	benaloh challenge benaloh
+1	benaloh challenge wojciech jamroga
+1	bernoulli-style
+1	big question
+1	black frame
+1	bn =
+1	brief introduction
+1	broader perspective
+1	buldas
+1	bv1 =
+1	bv2 =
+1	bvn = 1r
+1	bvnmax ]
+1	byrne
+1	c.
+1	c.z.
+1	c18/is/12685695/is/stv/ryan
+1	c21/is/16326754/pablo
+1	c22/is/17232062/spacevote
+1	calculating
+1	case scenario
+1	casey
+1	cast
+1	cast [
+1	caudit <
+1	caudit >
+1	centre
+1	chooses ncheat
+1	chris culnane
+1	clever election authority
+1	collective behaviors
+1	common belief
+1	common knowledge
+1	communication scenario
+1	complete information
+1	computational complexity
+1	compute pv1
+1	computer
+1	computing systems chi
+1	concise explanation
+1	concrete payo table
+1	concrete payo values
+1	concrete values
+1	condition
+1	conditional plan
+1	considerate election authority
+1	contrary
+1	contrary [
+1	controversial aspects
+1	conversely
+1	copyright holder
+1	corrupt devices
+1	corrupt machine
+1	crc
+1	creative commons attribution
+1	credit line
+1	current action
+1	current round
+1	current study
+1	cut-and-choose technique
+1	d d
+1	d theorem
+1	d v d v d
+1	d.s
+1	deliberation processes
+1	denial
+1	deployment
+1	design antiterrorist
+1	deterministic audit strategies
+1	deterministic strategies
+1	deterministic strategies [
+1	device cheats
+1	device chooses
+1	device increases
+1	dierent voters
+1	dirac
+1	e-voting
+1	e.
+1	easy pattern
+1	economic goals
+1	economic interaction
+1	eds
+1	ef
+1	ehin
+1	election audits
+1	election authority
+1	election candidate
+1	empirical evidence
+1	empirical evidence suggests
+1	empty ballot
+1	encryption devices
+1	encryption mechanism
+1	enough
+1	equilibrium
+1	equilibrium encodes
+1	equilibrium prescribes
+1	equilibrium strategy bv
+1	equilibrium strategy pvne =
+1	equilibrium strategy sv
+1	equivalently
+1	estonia
+1	eud
+1	evt/vvote
+1	extensive form games
+1	external party
+1	f.
+1	factors
+1	fail d example
+1	false encryption
+1	false works
+1	finite benaloh
+1	fnr luxembourg
+1	following
+1	following example
+1	formal results
+1	fourthly
+1	fraud detection
+1	g.
+1	game
+1	game [
+1	game ends
+1	game model
+1	game node
+1	game proceeds
+1	game theory primer
+1	game tree corresponds
+1	game trees
+1	game-theoretic
+1	game-theoretic analysis
+1	game-theoretic argument
+1	game-theoretic intermezzo
+1	game-theoretic properties
+1	game-theoretic terms
+1	games [
+1	gamesec
+1	gametheoretic
+1	good strategies
+1	good view
+1	gov
+1	handbook
+1	hao
+1	harsanyi
+1	hazon
+1	heidelberg
+1	hengartner
+1	high probability
+1	horizon nmax
+1	i =
+1	i randomizes
+1	ifaamas
+1	important observations
+1	importantly
+1	incomplete information
+1	incomplete information game model
+1	induction preserves subgame-perfect
+1	inf
+1	informally
+1	initial state
+1	innite audit strategies
+1	innite game
+1	innite variant
+1	inspection game [
+1	inspection game intuitively
+1	inspection games
+1	interdisc
+1	interestingly
+1	intermezzo
+1	internet
+1	introduction benaloh
+1	intuitive argument
+1	intuitively
+1	iwsec
+1	j. optim
+1	j.-l.
+1	j.c.
+1	j.f
+1	kikuchi
+1	kortum
+1	krimmer
+1	kulyk
+1	lastly
+1	leaders abilities
+1	leaders strategy
+1	learn
+1	leitmann
+1	leyton-brown
+1	license
+1	local optimum
+1	logical foundations
+1	long run
+1	lund
+1	luxembourg
+1	m. volkamer
+1	m.d.
+1	machine learning techniques
+1	magi
+1	main path
+1	making
+1	malicious party
+1	manage
+1	market economy
+1	marky
+1	maximal path
+1	mit
+1	mixed nash equilibria
+1	miyaji
+1	model multi-step interaction
+1	motivational advantage
+1	multi-step games
+1	multi-step strategy
+1	multi-step variant
+1	multiagent systems
+1	multiple rounds
+1	mutual adaptations
+1	ncast {
+1	ncheat {
+1	n < ncheat
+1	n < nmax 
+1	n-person games
+1	n.
+1	nal theorem generalizes
+1	nash strategies
+1	nat
+1	natural game-theoretic model
+1	natural gametheoretic model
+1	ncast >
+1	ncbr poland
+1	ncheat = meaning
+1	ncheat {
+1	ne probability
+1	ne strategy
+1	nite game
+1	nite horizon nmax
+1	nite variant
+1	north-holland
+1	norway
+1	norwegian
+1	number nmax
+1	o.
+1	obtains payo vector
+1	obvious limitation
+1	one-person doxastic characterization
+1	open audit
+1	opinion polls
+1	opponent fears failure
+1	opponents activity
+1	opponents choice
+1	opponents strategies
+1	optimal pv
+1	optimally
+1	organic emergence
+1	organizational perpetrator
+1	original author
+1	osborne
+1	others intentions
+1	outcome-equivalent behavioral strategy
+1	own assumptions
+1	p =
+1	p [
+1	p ]
+1	p.y.a
+1	pablo
+1	panaousis
+1	paper [
+1	particular view
+1	party material
+1	past observations
+1	payo function
+1	payo vector
+1	payo vectors
+1	pd =
+1	pd n
+1	pd n >
+1	perea
+1	peter b. roenne
+1	peter y.a
+1	pin >
+1	plausible deniability
+1	player randomizes
+1	players payos
+1	players randomize
+1	pnmax ] form
+1	poland
+1	polish
+1	poll station
+1	pollux-vii/1/
+1	pollux-xi/14/spacevote/
+1	pollux/fnr-core
+1	positive probability p
+1	practical
+1	presumably
+1	pret
+1	pretty good strategy
+1	preventing
+1	prevents authorities
+1	probability distribution sd
+1	probability distribution sv
+1	probability distributions sv = [ pv1
+1	probability p
+1	probability pd
+1	probability pv
+1	probability r
+1	proc
+1	proof ]
+1	proper analysis
+1	proper representation
+1	public key
+1	pure strategies
+1	pure strategy
+1	putting
+1	pv = pvne
+1	pv > pvne
+1	pv pvne
+1	pvn =
+1	pvn >
+1	pvn+1 =
+1	pvne = 2succ
+1	q.
+1	quoting
+1	randomization
+1	randomized
+1	rannenberg
+1	rational decision
+1	rational players
+1	rational strategies
+1	rationality assumptions
+1	real-life elections
+1	real-world electronic voting
+1	reasonably simple
+1	recall
+1	references
+1	refuse participation
+1	related
+1	relevant game-theoretic notions
+1	reliability
+1	renaud
+1	right concept
+1	right solution concept
+1	rise
+1	rn1
+1	round n
+1	round n = nmax
+1	round n.
+1	round ncast +
+1	round ncheat
+1	rounds n < ncast
+1	rst dimension
+1	rst glance
+1	rst veto-vote
+1	rubinstein
+1	s strategies
+1	s strategy
+1	s.
+1	scantegrity ii
+1	sd = ncast
+1	sd = [
+1	secmas
+1	second-to-last level
+1	section 5.6.1 ]
+1	sects
+1	security analysis
+1	security games [
+1	selten
+1	sensible strategies equals
+1	sequential nature
+1	serious trouble
+1	service attacks
+1	sev
+1	shoham
+1	si =
+1	signicant technological
+1	similarly
+1	simple
+1	simple enough
+1	simple ne strategies
+1	simple strategy
+1	simpler
+1	small subset
+1	snt
+1	social incentives
+1	solution concept
+1	solution concept encodes
+1	solution concepts
+1	solvak
+1	spacevote
+1	special kind
+1	spurious ballot
+1	stackelberg equilibrium
+1	stackelberg nash
+1	stackelberg strategies
+1	standard necessary condition
+1	stanislaw ambroszkiewicz
+1	statistical methods
+1	statutory regulation
+1	strategic games
+1	strategies [
+1	strategies against
+1	strategies pd
+1	strategy adjustments
+1	strategy bv = [ bv1
+1	strategy prole
+1	strategy prole determines
+1	strategy search
+1	strategy sv = [ pv1
+1	strict limit
+1	stv
+1	succ d fail d
+1	succ d v succ d
+1	succ fail d
+1	succ v fail v
+1	succd
+1	success bvn
+1	successful vote
+1	succfail d
+1	succv fail
+1	such strategies
+1	support
+1	synthese
+1	tabatabaei
+1	takeaway advice
+1	telecommun
+1	terminal states
+1	theater obtains
+1	theorem [
+1	theory
+1	theory appl
+1	thirdly
+1	towards
+1	transitions
+1	trigger investigation
+1	true obtains
+1	two-person bargaining games
+1	u.
+1	u.s.a.
+1	unilateral deviations
+1	unique equilibrium strategy
+1	unique play
+1	usab
+1	usability
+1	usenix
+1	usenix electronic voting
+1	usenix/accurate electronic voting
+1	usual purpose
+1	utility function ui
+1	utility values
+1	v succ d
+1	v v euv
+1	v.
+1	valuable comments
+1	values success
+1	vanessa teague
+1	vector obtains
+1	veriable elections
+1	vice versa
+1	vinkel
+1	volkamer
+1	von stengel
+1	vorobeychik
+1	vote encryption
+1	voter assigns
+1	voter benet
+1	voter cares
+1	voter chooses
+1	voter chooses ncast {
+1	voter converges
+1	voter draws ncast
+1	voter executes
+1	voter increases
+1	voter lls
+1	voter proceeds
+1	voter spoils
+1	voters audit
+1	voters behalf
+1	voters device
+1	voters payo
+1	voters plan
+1	voters preferences
+1	votes [ 1,7,21 ]
+1	w. jamroga conclusions
+1	wallach
+1	warsaw
+1	weber
+1	whole idea
+1	whole method
+1	willemson
+1	wojciech.jamroga @ uni.lu
+1	x nmax =
+1	yellow background
+1	yin
+1	zamir
+1	zero-sum two-player games
+1	zhu
+1	{ }

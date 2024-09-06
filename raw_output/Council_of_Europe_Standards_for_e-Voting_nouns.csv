@@ -1,0 +1,1586 @@
+35	audit system
+35	member states
+33	application
+31	voters registers
+29	electronic ballot box
+28	internet
+22	europe
+22	voters decision
+20	e-mail
+20	eml
+20	fax
+18	voting
+17	democratic elections
+14	e-election system
+14	multiple votes
+13	ballot box
+12	cc
+12	e-voting
+12	pre-voting
+11	audit
+11	iii
+10	electronic means
+10	electronic vote
+10	ii
+10	refinement
+9	recommendation
+9	security requirements
+9	time source
+8	electoral authorities
+8	iv
+8	secret suffrage
+8	technical requirements
+8	time limits
+8	two-phase models
+8	vote cast
+7	authentication
+7	authentication data
+7	competent electoral authorities
+7	data-origin authentication
+7	it
+7	member
+7	member state
+7	observation data
+7	official server
+7	personal data
+7	requirements
+7	security objectives
+7	technical standards
+7	time marks
+7	token establishes
+7	voter registration
+7	votes cast
+6	assets
+6	attacker modifies
+6	authentic ballot
+6	candidates decision
+6	data trails
+6	data-origin
+6	electoral authority
+6	figure
+6	kingdom
+6	list
+6	organisational measures
+6	post-voting
+6	referendum report
+6	security recommendations
+6	trustworthy system
+6	venice
+6	voters choice
+5	attacker disrupts
+5	candidate nomination
+5	competent electoral authority
+5	confidentiality requirements
+5	conventional security measures
+5	counting
+5	direct suffrage
+5	domestic legislation
+5	electronic processes
+5	electronic signatures
+5	ets
+5	furthermore
+5	iso
+5	manual signatures
+5	markup language
+5	nomination process
+5	process stages
+5	registration process
+5	security measures
+5	semi-electronic processes
+5	service attacks
+5	service degradation
+5	special attention
+5	t.votreg_modify
+5	technical
+5	technical security recommendations
+5	tel
+5	uncontrolled environments
+5	users
+5	verifiability
+5	votes
+5	wai
+5	web
+5	xml
+4	appendix iii
+4	article
+4	attacker gains knowledge
+4	attacker impersonates
+4	auditing
+4	ballot paper
+4	consideration
+4	criteria
+4	democracy
+4	denmark
+4	depending
+4	different domestic legislation
+4	domestic law
+4	election observation
+4	election officials
+4	electronic
+4	electronic ballot
+4	electronic votes
+4	explanatory memorandum
+4	independent body
+4	legal
+4	mapping
+4	measures
+4	nomination
+4	open standards
+4	osce
+4	pc
+4	process model
+4	referendum system
+4	registration processes
+4	reliability
+4	remote
+4	right
+4	slas
+4	sweden
+4	t.vote_trail
+4	threats
+4	time stamps
+4	toe
+4	user
+3	accordingly
+3	appendix
+3	attacker compromises
+3	audit information
+3	authentic votes
+3	candidate
+3	candidates
+3	certain level
+3	code
+3	communications infrastructure
+3	competent authorities
+3	confidentiality
+3	copenhagen meeting
+3	data protection
+3	different domestic requirements
+3	different levels
+3	dimension
+3	dns
+3	domestic
+3	e-referendum system
+3	election observers
+3	electoral matters
+3	eligible timeframe
+3	eligible voter
+3	ensure ...
+3	environment exists
+3	european commission
+3	examples
+3	general requirements
+3	genuine software
+3	good practice
+3	guidance arrangements
+3	ict
+3	identification
+3	independent assessment
+3	june
+3	legal provisions
+3	march
+3	overall responsibility
+3	paper proof
+3	particular election
+3	parties control
+3	political parties
+3	principles
+3	protection
+3	real election
+3	recommendation rec
+3	referendum period
+3	registration
+3	regular checks
+3	residual
+3	residual information
+3	risk analysis
+3	september
+3	stage system integrity
+3	sufficient means
+3	sufficient period
+3	system environment
+3	t.commd_avail_pre t.commd_sec_pre t.malfunction_elect t.vote_confidentiality* t.vote_dos t.vote_modify
+3	t.vote_multiple t.vote_time t.vote_trail
+3	t.voter_impers t.voter_privacy t.votreg_disclose
+3	technical specifications
+3	time sources
+3	unique identification
+3	unless
+3	v.
+3	voter anonymity
+3	voters identity
+3	w3c
+2	accessibility
+2	accurate representation
+2	additional facilities
+2	adequate steps
+2	affects verifiability
+2	and/or end
+2	appendix ii operational
+2	appendix iii technical
+2	applicable legal provisions
+2	appropriate number
+2	appropriate system
+2	attacker gains access
+2	attacker generates
+2	attacker initiates
+2	attacker prevents generation
+2	audit data
+2	audit trails
+2	b. interoperability
+2	ballots cast
+2	blank vote
+2	c. systems
+2	candidate and/or
+2	candidate decision
+2	candidates decisions
+2	candidates* voters register*
+2	careful
+2	case measures
+2	cast
+2	cast vote enters
+2	cast votes
+2	casting
+2	cc protection profiles
+2	central infrastructure
+2	central systems
+2	charter
+2	clerfayt
+2	common heritage
+2	common standards
+2	communicating
+2	communication
+2	communication technologies
+2	computer room
+2	confidence
+2	conseil
+2	contingency procedure
+2	contingency reserve
+2	continuous sequence numbers
+2	correct operation
+2	counterfeit ballots
+2	covenant
+2	critical events
+2	cryptographic mechanisms
+2	d.
+2	deliberate denial
+2	democratic quality
+2	destroys votes
+2	detect voter fraud
+2	detection
+2	different accuracy requirements
+2	different consumers
+2	different system
+2	different tolerances
+2	disclosure
+2	disrupts data
+2	document
+2	domain name system
+2	domestic legal provisions
+2	e-referendum equipment
+2	e. audit
+2	echr
+2	election report
+2	elections
+2	electoral process
+2	electronic access
+2	elimination
+2	end-to-end
+2	european parliament
+2	european union
+2	europes
+2	f. certification
+2	failure periods
+2	failure rates
+2	formal control procedure
+2	forms
+2	france
+2	free
+2	gain knowledge
+2	general assets/threats
+2	general objectives
+2	greece
+2	i. transparency
+2	independent bodies
+2	independent penetration tests
+2	information
+2	information services
+2	international co-operation
+2	international instruments
+2	interoperability
+2	introduce certification processes
+2	introduction
+2	invalid votes
+2	ip1-s-ee
+2	judgments
+2	key
+2	legal opportunity
+2	legal requirement
+2	legal standard
+2	localisation procedure
+2	log entries
+2	maintenance periods
+2	mathieu-mohin
+2	means
+2	member states authorities
+2	monitoring
+2	mra
+2	multidisciplinary ad
+2	multiple time sources
+2	new developments
+2	nomination period
+2	notification
+2	o.vote_confidentiality
+2	o.vote_secure
+2	oasis
+2	objective refers
+2	observers
+2	online candidate nomination
+2	online registration
+2	option list
+2	original ballot
+2	paper ballots
+2	pcs
+2	person and/or
+2	persons and/or
+2	physical separation
+2	political election
+2	political party
+2	pop-up screens
+2	population registers
+2	possible registration requirements
+2	possible steps
+2	pps
+2	privacy implications
+2	procedural
+2	processes need
+2	products
+2	protection measures
+2	protection profiles
+2	provisions
+2	public access
+2	public information
+2	record times
+2	recording
+2	referendum data
+2	referendum data requirements
+2	referendum options
+2	registration event
+2	registration period
+2	scope
+2	security standards
+2	security terms
+2	service disruptions
+2	service level agreements
+2	service providers
+2	short period
+2	short periods
+2	similar domain name
+2	special procedures
+2	specialists
+2	specific audit section
+2	specific channel
+2	specific election
+2	specific person
+2	specific persons
+2	specific voter
+2	standards nos
+2	strasbourg
+2	successful deliberate service disruption
+2	such cases
+2	such measures
+2	sufficient backup arrangements
+2	system developers
+2	system integrity
+2	system operation
+2	system performance
+2	system procedures
+2	t.audit_forgery t.auth_disclose t.hack t.observ_forgery t.system_forgery t.commd_avail_elec t.commd_sec_elec t.count_dos t.malfunction_post t.miscount t.partial_count t.premature_count t.report_dos t.report_modify t.result_modify t.vote_confidentiality* t.vote_duplicates t.vote_modify
+2	t.ballot_forgery
+2	tables
+2	technical aspects
+2	technical means
+2	technical measures
+2	technical operations
+2	technological
+2	technology neutrality
+2	telephone hotline
+2	temporary files
+2	term time mark
+2	tolerable failure rates
+2	tr
+2	trojan
+2	universal
+2	universal declaration
+2	user identity
+2	user role
+2	various locations
+2	various stages
+2	vote
+2	vote enters
+2	voter
+2	voter authentication
+2	voter casts
+2	voter information
+2	voter interface
+2	voters name
+2	voters system
+2	voters vote
+2	web accessibility initiative
+2	web application
+2	x x x x
+1	//www.manhattanpublishing.com council
+1	//www.the-stationery-office.co.uk http
+1	114th session
+1	898th meeting
+1	92-871-5635-2 council
+1	@ coe.int
+1	@ manhattanpublishing.com http
+1	] facilitate
+1	a. jonnart b-1200 bruxelles
+1	a/s universitetsbokhandel po
+1	able ...
+1	access
+1	access audit logs
+1	accessibility guidelines
+1	accreditation
+1	accreditation forum
+1	accreditation process
+1	accurate manner
+1	actual level
+1	actual products
+1	adding
+1	additional data
+1	additional definitions
+1	additional means
+1	additional measures
+1	additional protocol
+1	additional steps
+1	adequate resources
+1	administrative e-election system functions
+1	adopted
+1	advancement
+1	aforementioned judgment
+1	akatilaus @ stockmann.fi http
+1	albany post
+1	all-important need
+1	alternative location solution
+1	alternative ways
+1	america
+1	analysis methodology
+1	anonymous authentication need
+1	appendices
+1	applicable legislation
+1	application level
+1	appropriate
+1	appropriate assurance
+1	appropriate equipment
+1	appropriate instructions
+1	appropriate intervals
+1	appropriate policy
+1	appropriate private institution
+1	appropriate safeguards
+1	appropriate voter authentication
+1	appropriate way
+1	april
+1	arbitrary compromise
+1	architectural considerations
+1	aspects
+1	assess compliance
+1	assessment
+1	assets x x x x pre-voting
+1	assets x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+1	assets x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+1	assurance
+1	assurance requirements
+1	attack affects
+1	attacker discovers
+1	attacker forges
+1	attacker interferes
+1	attacker modifies votes
+1	attacker prevents
+1	attacker reals
+1	attacker redirects
+1	attacker replaces
+1	attacker reveals voters
+1	audio elements
+1	audit facilities
+1	audit logs
+1	audit process
+1	audit system logs
+1	audit systems
+1	audited
+1	auditor
+1	australia
+1	austria
+1	authentic vote
+1	authentic votes cast
+1	authorisation structures
+1	automated
+1	automatic controls
+1	automatic processing
+1	availability
+1	available communication channel
+1	available version
+1	avenue du
+1	aware
+1	b. prusa krakowskie przedmiescie
+1	back button
+1	background
+1	backup arrangements
+1	backup services
+1	backup system
+1	ballot
+1	ballot blank
+1	ballot box server
+1	ballot boxes
+1	ballot papers
+1	based
+1	basic principle
+1	bearing
+1	belgium
+1	belgium/belgique
+1	bestellung @ uno-verlag.de http
+1	blindern n-0314 oslo tel
+1	books @ delindeboom.com http
+1	brief description
+1	browser cache
+1	bs7799/iso17799
+1	building trust
+1	c. system failures
+1	calabria
+1	canada
+1	canada manhattan
+1	canada renouf
+1	canada/ tats-unis
+1	candidate list
+1	candidate names
+1	candidate nominations
+1	candidates ability
+1	candidates information
+1	candidates list
+1	cardinal principles
+1	careful consideration
+1	carmo
+1	case confidentiality
+1	case usability
+1	cast ballots
+1	cast his/her vote
+1	cast vote
+1	cc/iso
+1	cd-rom
+1	cdl-ad
+1	cdn-ottawa
+1	central voters registers
+1	certain conditions
+1	certain equipment
+1	certain preventative measures
+1	certain principles
+1	certain procedures
+1	certain security
+1	certain stage
+1	certain types
+1	certification bodies
+1	certification procedure
+1	certification process
+1	certification purposes
+1	certification reports
+1	certification section
+1	ch-1807 blonay tel
+1	channels need
+1	chemin canotek
+1	circumvent security measures
+1	civic engagement
+1	clear distinction
+1	clear legal provisions
+1	clear rules
+1	clear timetables
+1	clearly
+1	close interconnection
+1	clrae resolution
+1	co-operation
+1	co-ordination impairments
+1	collaborative approach
+1	collective understanding
+1	commandes.vel @ ladocfrancaise.gouv.fr http
+1	common criteria-specific requirement catalogue security objectives
+1	common electoral procedures
+1	common examples
+1	common practice
+1	common protocols
+1	common way
+1	communication devices
+1	communication impairments
+1	communication infrastructure
+1	communication rules
+1	communications infrastructure levels
+1	comparing
+1	compatible systems
+1	competence
+1	competent authority
+1	competent judicial authority
+1	complete re-run
+1	complete set
+1	complete system
+1	component evaluation
+1	comprehensive assessment
+1	comprehensive manner
+1	comprehensive observation facilities subject
+1	comprehensive threat analysis
+1	compromise security
+1	computer technology
+1	conscious
+1	consistent way
+1	contents accessibility guidelines
+1	correct ballot
+1	correct operations
+1	correct result
+1	correct system
+1	counter threats
+1	counterfeit elements
+1	counterfeit servers
+1	counterfeit systems
+1	counters threats
+1	counting counting
+1	countries population registers
+1	cp
+1	criminal laws
+1	criteria cc/iso
+1	critical
+1	critical changes
+1	critical part
+1	critical system elements
+1	cross reference
+1	cross-checking
+1	crosscheck credentials
+1	croton-on-hudson
+1	crucial information
+1	current stage
+1	customer.services @ theso.co.uk http
+1	cybercrime
+1	cz-18021 praha
+1	czech republic/ rpublique tchque suweco cz dovoz tisku praha ceskomoravska
+1	d-53175 bonn tel
+1	data
+1	data exchange procedures
+1	data manipulation
+1	day-to-day life
+1	declaration
+1	definition
+1	definition attacker
+1	delete information
+1	deletes audit data
+1	deletes observation information
+1	democratic heritage1
+1	democratic practice
+1	democratic status
+1	democratic system
+1	denial
+1	denmark/danemark gad direct fiolstaede
+1	deputies
+1	designation
+1	desk
+1	destruction
+1	development process
+1	development team
+1	different areas
+1	different channels
+1	different factors
+1	different kinds
+1	different locations
+1	different period
+1	different periods
+1	different possibilities
+1	different procedures
+1	different providers
+1	different remote channel
+1	different source
+1	different stages
+1	different suppliers
+1	different versions
+1	different ways
+1	difficult registration procedures
+1	diffusion/vente france
+1	digital form
+1	digital signature
+1	digital signatures
+1	digital tv screens
+1	digital twins
+1	direct democracy
+1	direct elections
+1	direct suffrage need
+1	directorate
+1	discrimination
+1	disrupt services
+1	disruption
+1	disrupts services
+1	distribution
+1	dk-1171 copenhagen k tel
+1	document adopts
+1	documentation
+1	domain name
+1	domain name service
+1	domestic authorities
+1	domestic obligations
+1	domestic policy
+1	domestic practices
+1	domestic requirements
+1	e-28001 madrid tel
+1	e-election processes
+1	e-elections/e-referendums
+1	e-mail facilities
+1	e-referendum applications
+1	ea
+1	edition
+1	election data
+1	election event
+1	election matters
+1	election periods
+1	election petition
+1	election proceedings
+1	election proceedings [
+1	election result
+1	election stage
+1	election subject
+1	election systems
+1	election times
+1	electoral officials
+1	electoral provisions differ
+1	electoral systems
+1	electronic authentication
+1	electronic ballot box server
+1	electronic equipment
+1	electronic information
+1	electronic method
+1	electronic processing
+1	electronic registers
+1	electronic safety measures
+1	electronic separation
+1	electronic system
+1	electronic systems
+1	electronic tokens
+1	electronic votes cast
+1	electronic way
+1	eligible time frame
+1	eligible voters
+1	elms
+1	eml-based
+1	enable reconstruction
+1	enable voters
+1	encryption methods
+1	ensure accessibility
+1	ensure equality
+1	entire procedure
+1	environment
+1	environment protects
+1	environment toe
+1	equal suffrage
+1	equality
+1	equality principle
+1	equivalent module
+1	equivalent resources
+1	ereferendum system
+1	ereferendum systems
+1	essential prerequisites
+1	euroinfo @ euroinfo.hu http
+1	europe agents
+1	europe publishing/editions
+1	european convention
+1	european democratic heritage
+1	european union level
+1	evaluation laboratories
+1	events coincide
+1	exact
+1	exact time stamps
+1	example age
+1	example data
+1	example interfaces
+1	example vote
+1	example voters registers
+1	example votes
+1	example www.voting.official.at
+1	example www.voting.oficial.at
+1	excludes voters
+1	existing
+1	expatriate voters
+1	expensive features
+1	explanatory
+1	explanatory memorandum council
+1	explonatory memorandum thereto
+1	extensive security
+1	external attackers
+1	external body
+1	external event
+1	f-67075 strasbourg cedex fax
+1	f-67075 strasbourg cedex isbn
+1	f-67075 strasbourg cedex tel
+1	facilitate compliance
+1	fake election
+1	fall-back arrangements
+1	fall-back option
+1	false components
+1	february
+1	fin-00381 helsinki tel
+1	final responsibility
+1	finland
+1	finland/finlande akateeminen kirjakauppa keskuskatu
+1	formal certification
+1	formal constraints
+1	fr.
+1	fraud attempts
+1	fraudulent servers
+1	free formation
+1	free manner
+1	free suffrage
+1	freedoms
+1	full potential
+1	full understanding
+1	functional
+1	functional requirements
+1	functional restrictions
+1	fundamental elements
+1	fundamental principle
+1	fundamental principles
+1	future changes
+1	future elections
+1	gains access
+1	gains knowledge
+1	gb-london sw8
+1	general principle encompasses
+1	general principles
+1	general relevance
+1	general rules
+1	general threats
+1	generate ballots
+1	generic functionality
+1	generic version
+1	genuine system parts
+1	germany
+1	germany/allemagne austria/autriche uno verlag aujust bebel allee
+1	gitonas
+1	glossary
+1	governmental organisation
+1	greece/grce librairie kauffmann
+1	h-1101 budapest tel
+1	h. barbusse f-93308 aubervilliers cedex tel
+1	hard disk
+1	hardware display
+1	he/she wishes
+1	help information
+1	high cost
+1	high degree
+1	high levels
+1	his/her ballot
+1	his/her choice
+1	his/her equipment
+1	hmso
+1	homomorphic encryption
+1	human beings
+1	human rights caselaw
+1	human risks
+1	hungary
+1	hungary/hongrie euro info
+1	hungexpo europa kozpont
+1	i-50125 firenze tel
+1	iaf
+1	id
+1	identifiable ballots
+1	identification data
+1	identification refers
+1	identify constraints
+1	ids
+1	ii v
+1	ilac
+1	immediate environment
+1	import @ suweco.cz
+1	important element
+1	important nature
+1	in-depth penetration
+1	inappropriate political influence
+1	incorrect result
+1	incorrect results
+1	independent assessment election authorities
+1	independent audit information
+1	independent audit information increases
+1	independent cross-check
+1	independent cross-checks
+1	independent domestic and/or
+1	independent evaluation
+1	independent evaluations
+1	independent verification
+1	individual casts
+1	individual components
+1	individual member states
+1	individual voters
+1	individual voters choices
+1	individuals
+1	info
+1	info @ adeco.org
+1	info @ gaddirect.dk
+1	info @ libeurop.be http
+1	information storage
+1	information support
+1	initiate election
+1	inter @ internews.com.pl http
+1	inter alia
+1	interactive procedure
+1	interface points
+1	intergovernmental group
+1	internal attack
+1	internal failure
+1	international bodies
+1	international evaluation schemes
+1	international mutual recognition arrangements
+1	international obligations
+1	international observers
+1	international organisation
+1	international organisations
+1	international recognition
+1	interoperable interfaces
+1	interoperable technologies
+1	interpretation
+1	interpretation paragraph contains definitions
+1	intervention ...
+1	introductory
+1	introductory statement
+1	intrusion detection
+1	intrusion detection system
+1	invite observers
+1	involves persons
+1	isbn
+1	iso/iec
+1	isolation restricts accessibility
+1	israel
+1	italy
+1	italy/italie libreria commissionaria sansoni via duca
+1	itsec
+1	japan
+1	jean
+1	jean.de.lannoy @ euronet.be http
+1	july
+1	k1j
+1	key equipment
+1	key parameters
+1	key strokes
+1	kiosk machines
+1	kiosks
+1	laboratory accreditation co-operation
+1	lacuez
+1	lannoy
+1	law ...
+1	legal challenge
+1	legal context
+1	legal requirements
+1	legal standards
+1	legal standards relate
+1	legitimate role
+1	legitimate user
+1	legitimate voter
+1	les
+1	librairie
+1	librairie klber
+1	librairie.kleber @ coe.int
+1	libreria @ mundiprensa.es http
+1	licosa @ licosa.com http
+1	limited
+1	list data protection software
+1	lists
+1	liv.portugal @ mail.telepac.pt
+1	local levels
+1	local needs
+1	localisation
+1	logical level
+1	ma
+1	main areas
+1	main assets
+1	main benefits
+1	main body
+1	main components
+1	main concern
+1	main election
+1	main goal
+1	main stage
+1	main stages
+1	malfunction
+1	malfunction disrupts
+1	malfunction generates duplicates
+1	malfunction prevents
+1	man-in-themiddle attacks
+1	man-inthe-middle attacks
+1	matters
+1	matters1
+1	matthews
+1	may
+1	member organisations
+1	member state need
+1	member states need
+1	member states practices
+1	memory key
+1	message confirms
+1	message definitions
+1	messages means partisan messages
+1	methodical approach
+1	methodology overview
+1	minimum standards
+1	mobile
+1	mobile phones
+1	modular design
+1	multiple
+1	multiple votes relates
+1	municipal offices
+1	mutual recognition arrangements
+1	national electoral legislation
+1	national level
+1	national levels
+1	national list
+1	national practices
+1	national territory
+1	necessary measures
+1	necessary security measures
+1	necessary steps
+1	need screen reading devices
+1	netherlands
+1	netherlands/pays-bas de lindeboom internationale publikaties po
+1	network attacks
+1	neutral approach
+1	neutral manner
+1	new information
+1	new media
+1	new method
+1	new products
+1	new situation
+1	new technologies
+1	new version
+1	nl-7480 ae haaksbergen tel
+1	nomination period/time
+1	nomination periods
+1	nominations voter
+1	nominees decision
+1	non-blank invalid vote
+1	non-it env
+1	non-remote non-electronic
+1	non-remote ways
+1	normes juridiques
+1	norway
+1	norway/norvge akademika
+1	ny
+1	o.access_cntrl access
+1	o.assessment
+1	o.auth_user user
+1	o.authentic_vote ensure
+1	o.avail availability
+1	o.ballot_correct present
+1	o.count_correct correctness
+1	o.data_sec
+1	o.data_sec availability
+1	o.delayed_vote accept
+1	o.ident_user identity-based
+1	o.observation_data observation
+1	o.privacy privacy
+1	o.reliable_time
+1	o.residual_info destroy
+1	o.result_secure availability
+1	o.sec_transfer_pre secure
+1	o.sec_transfer_vote
+1	o.sec_transfer_vote secure
+1	o.secure_oper secure
+1	o.system_secure secure
+1	o.time_nominate
+1	o.time_nominate timely
+1	o.time_register
+1	o.time_register timely
+1	o.time_vote timely
+1	o.vote_confidentiality confidentiality
+1	o.vote_secure availability
+1	o.vote_secure x x o.voter_eligible o.vote_confidentiality o.time_vote o.system_secure o.sec_transfer_pre o.delayed_vote* o.ballot_correct o.authentic_vote
+1	o.voter_eligible authentication
+1	objectives reflect
+1	objectives x x x x x x x
+1	objectives x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x
+1	observation information
+1	observations data
+1	observe cast
+1	observer
+1	observers access
+1	october
+1	official information
+1	official list
+1	official supervision
+1	old computers
+1	old software
+1	online application
+1	ontario
+1	open interface points
+1	open standard
+1	operational and technical standards for e-voting recommendation rec
+1	operational point
+1	operational standards relate
+1	opinion
+1	opinion poll
+1	options list
+1	ord @ otenet.gr
+1	order.dept @ renoufbooks.com http
+1	organisational
+1	organisational policies
+1	original election
+1	original official servers
+1	original system
+1	others v.
+1	output conform
+1	outsider attacks
+1	overall cost
+1	overload periods
+1	own policy
+1	own registration
+1	p-1200 lisboa tel
+1	palais
+1	paper ballot
+1	paragraph i.
+1	paragraph iv
+1	paragraph v.
+1	paragraphs i.
+1	parliamentary
+1	partial
+1	partial results
+1	particular
+1	particular candidate
+1	particular case
+1	particular channel
+1	particular choice
+1	particular circumstances
+1	particular product
+1	particular structure
+1	particular voter
+1	particularly
+1	partisan way
+1	pattern languages
+1	performs initialisation
+1	periodic elections
+1	permanent link
+1	person enters
+1	person guards
+1	personal
+1	personal assistance
+1	personal computers
+1	personal data protection laws
+1	personal devices
+1	personal information
+1	personal suffrage
+1	persons name
+1	phone screens
+1	physical
+1	physical buttons
+1	physical disaster
+1	physical disaster recovery plan
+1	physical presence
+1	physical protection
+1	pins
+1	pl-00-068 warszawa tel
+1	place regardless
+1	plenary session
+1	po
+1	poland/pologne g/lowna ksiegarnia naukowa
+1	political elections
+1	political interference
+1	political life
+1	portugal livraria portugal rua
+1	possible anticipate
+1	possible attacks
+1	possible choice
+1	possible delays
+1	possible method
+1	possible systematic attacks
+1	possible voter
+1	post offices
+1	post-election stages
+1	postal votes
+1	potential differences
+1	potential end count/result
+1	potential issues
+1	power failure
+1	pp
+1	practise ...
+1	preferential votes
+1	premature partial results
+1	premature results
+1	previous choices
+1	previous screens
+1	previous standard
+1	previous standard deals
+1	prevoting
+1	primary asset
+1	primary foundations
+1	principles overall
+1	principles reflect
+1	printed
+1	privacy
+1	privacy reasons
+1	privacy requirements
+1	privacy* registration
+1	privacy/data-protection reasons
+1	procedural matters
+1	procedural requirements
+1	procedural safeguards ensure
+1	process stage
+1	processing information
+1	procurement costs
+1	proper balance
+1	proposer
+1	proprietary lock-in
+1	protocol
+1	provision
+1	public channels
+1	public confidence
+1	public network equipment
+1	public use
+1	publication contains
+1	racial discrimination
+1	rapid corrective action
+1	rapid response scenarios
+1	rapid technological changes
+1	reaffirming
+1	real time
+1	real time progress
+1	reasons
+1	recognising
+1	recognition agreement
+1	recommendation address
+1	recommends
+1	recurrent adaptations
+1	redirects connections
+1	referendum ...
+1	referendum event
+1	referendum processes
+1	referendum purposes
+1	referendum results
+1	referendum server
+1	referendum stage
+1	referendum stages
+1	referendum systems
+1	referendums involves
+1	regard
+1	regional list
+1	registers need
+1	registers/de-registers voters
+1	registration period/time
+1	registration procedure
+1	registration response
+1	regular basis
+1	relevant protection software
+1	relevant software
+1	relevant software information
+1	reliability problems
+1	reliable method
+1	reliable time source
+1	remote electronic way
+1	remote manipulations
+1	remote non-electronic
+1	report result
+1	reporting
+1	reports attempts
+1	request corrections
+1	requirements need
+1	residual data
+1	resolution
+1	resources reservation
+1	respect ...
+1	respecting
+1	respective agencies
+1	result election report
+1	retraction processes
+1	retrieval system
+1	review
+1	right results
+1	risk
+1	risk assessment
+1	roi b-1190 bruxelles tel
+1	routine information
+1	ruyterstraat
+1	sa
+1	schema languages
+1	schematron
+1	screen shot utilities
+1	screens display information
+1	secrecy
+1	secrecy requirements
+1	section identifies
+1	section refers
+1	secure
+1	security certification
+1	security practices
+1	security product
+1	security product evaluation scheme
+1	security reasons
+1	security rules
+1	self-government
+1	sensitive information
+1	separate application
+1	separate chapter
+1	separate section
+1	separate technical glossary
+1	separate units
+1	service failure
+1	service level
+1	service provider
+1	signatory nations
+1	similar access
+1	similar devices
+1	similar nature
+1	similar position
+1	similar provision applies
+1	similar situation
+1	simple language
+1	simple method
+1	slight benefits
+1	small additional security benefit
+1	small number
+1	small percentage
+1	software components
+1	source code disclosure
+1	spain
+1	spain/espagne mundi-prensa libros sa castell
+1	special cases
+1	special interfaces
+1	special provisions
+1	special vote
+1	specialist entity
+1	specific
+1	specific attention
+1	specific candidate
+1	specific circumstances
+1	specific consumer
+1	specific context
+1	specific data protection laws
+1	specific domestic context
+1	specific equipments
+1	specific features
+1	specific information
+1	specific load information
+1	specific nature
+1	specific period
+1	specific relevance
+1	specific risks
+1	specific service level
+1	specific technical solutions
+1	specific user
+1	specific vote
+1	stadiou gr-athinai
+1	standard advises
+1	standard interfaces
+1	standards
+1	station officials
+1	statute
+1	storage locations
+1	structured information standards
+1	subject definition
+1	substantial changes
+1	substantial effort
+1	successful completion
+1	successive e-elections
+1	such activities
+1	such appointments
+1	such arrangements
+1	such changes
+1	such checks
+1	such common standards
+1	such delays
+1	such principles
+1	such questions
+1	such residual information
+1	such specific procedures
+1	such systems
+1	such unique data
+1	such utilities
+1	suitable alternative
+1	support
+1	sustainability
+1	switzerland/suisse adeco van diermen chemin
+1	system ...
+1	system administration
+1	system components
+1	system delivers
+1	system design
+1	system developer
+1	system development
+1	system documentation
+1	system elements
+1	system hasbeen
+1	system malfunction
+1	system management functions
+1	system manufacturer
+1	system overload delay
+1	system supplier
+1	system supplies
+1	system supports
+1	systems function
+1	systems means
+1	systems operation
+1	systems voters
+1	t.audit_forgery forgery
+1	t.audit_forgery t.auth_disclose t.hack t.observ_forgery t.system_forgery t.ballot_forgery t.candlist_modify
+1	t.audit_forgery t.auth_disclose t.hack t.observ_forgery t.system_forgery t.candlist_disclose t.candlist_modify
+1	t.audit_forgery t.auth_disclose x t.hack x t.observ_forgery t.system_forgery x t.ballot_forgery t.candlist_modify
+1	t.auth_disclose disclosure
+1	t.ballot_forgery forgery
+1	t.ballot_forgery t.candlist_modify
+1	t.candlist_disclose disclosure
+1	t.candlist_modify
+1	t.candlist_modify impersonating
+1	t.commd_avail_elec availability/integrity
+1	t.commd_avail_elec t.commd_sec_elec t.count_dos t.malfunction_post t.miscount t.partial_count t.premature_count t.report_dos t.report_modify t.result_modify t.vote_confidentiality* t.vote_duplicates t.vote_modify
+1	t.commd_avail_pre availability/integrity
+1	t.commd_sec_elec confidentiality
+1	t.commd_sec_pre confidentiality
+1	t.count_dos denial-of-service
+1	t.hack hacking
+1	t.malfunction_elect malfunction
+1	t.malfunction_post malfunction
+1	t.malfunction_pre malfunction
+1	t.malfunction_pre t.nomin_dos t.nomin_time t.privacy t.registr_dos t.registr_time t.votreg_disclose
+1	t.malfunction_pre t.registr_dos x x x x x x x x x x x x x t.registr_time x t.votreg_disclose
+1	t.miscount incorrect
+1	t.nomin_dos denial-of-service
+1	t.nomin_time manipulation
+1	t.observ_forgery forgery
+1	t.partial_count partial
+1	t.premature_count premature
+1	t.privacy disclosure
+1	t.registr_dos denial-of-service
+1	t.registr_time manipulation
+1	t.report_dos denial-of-service
+1	t.report_modify modification
+1	t.result_modify modification
+1	t.system_forgery forgery
+1	t.vote_confidentiality
+1	t.vote_confidentiality confidentiality
+1	t.vote_dos denial-of-service
+1	t.vote_duplicates modification
+1	t.vote_modify
+1	t.vote_modify availability
+1	t.vote_multiple impersonating
+1	t.vote_time manipulation
+1	t.vote_trail compromising
+1	t.voter_impers impersonating
+1	t.voter_privacy disclosure
+1	t.votreg_disclose
+1	t.votreg_disclose disclosure
+1	t.votreg_modify impersonating
+1	t.votreg_modify* pre-voting
+1	tactile display
+1	targets
+1	technical activities
+1	technical designers
+1	technical level
+1	technical matter
+1	technical reasons
+1	technical requirements relate
+1	technical security
+1	technical security measures
+1	technical security requirements
+1	technical system
+1	techniques relatives au vote lectronique
+1	telephone channel
+1	term residual information refers
+1	test sites
+1	test version
+1	text size
+1	threat affects
+1	threat analysis
+1	threatens system integrity
+1	threats assumptions
+1	threats o.access_cnrtl objectives o.observation_data
+1	threats o.residual voting
+1	threats o.result_secure o.count_correct objectives o.vote_confidentiality post-voting
+1	threats t.audit_forgery t.auth_disclose t.hack t.observ_forgery t.system_forgery t.candlist_disclose t.candlist_modify* t.malfunction_pre t.nomin_dos t.nomin_time t.privacy t.registr_dos t.registr_time t.votreg_disclose
+1	threats verifiab./observab
+1	throughout
+1	time differs
+1	time mark
+1	time period
+1	tools accessibility guidelines
+1	total number
+1	total votes cast
+1	traditional
+1	traditional counterparts
+1	traditional election
+1	traditional elections
+1	traditional forms
+1	traditionally
+1	turkey
+1	turning votes
+1	undue influence
+1	unique
+1	united kingdom/royaume-uni tso
+1	united states
+1	universal suffrage
+1	up-to-date descriptions
+1	up-to-date information
+1	usa tel
+1	usb
+1	use correspond
+1	user agent accessibility guidelines
+1	user authentication
+1	users panel
+1	utility software
+1	valuable asset
+1	valuable assets
+1	various points
+1	various reasons
+1	various technical components
+1	vente des publications du
+1	vente strasbourg
+1	verifiab./observab
+1	verifiable reports
+1	verification
+1	verification facilities
+1	verifies election
+1	vi
+1	video memory
+1	visual impairment
+1	visual impairments
+1	vote reporting
+1	vote*
+1	voter ...
+1	voter and/or
+1	voter fraud
+1	voter identification
+1	voter interfaces
+1	voter services
+1	voter services information
+1	voter turnout
+1	voter understanding
+1	voters ...
+1	voters anxieties
+1	voters attention
+1	voters computer
+1	voters decision* voters privacy
+1	voters device
+1	voters election
+1	voters machine
+1	voters opinion
+1	voters privacy
+1	voters side
+1	voters'
+1	votes ...
+1	voting postal
+1	way ...
+1	web application level
+1	web consortium
+1	website
+1	whereas
+1	whole country
+1	word register
+1	x authentication
+1	x t.votreg_modify
+1	x threats
+1	x x
+1	x x t.nomin_dos x x t.nomin_time x x t.privacy x x t.audit_forgery x t.auth_disclose x t.hack x t.observ_forgery t.system_forgery verifiab./observab
+1	x x x
+1	x x x ballot x voting
+1	x x x x x x x x x
+1	x x x x x x x x x x x x x x post-voting
+1	x x x x x x x x x x x x x x x x x x t.candlist_disclose x x t.candlist_modify
+1	x x x x x x x x x x x x x x x x x x x x x
+1	x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x o.secure_oper x x x x x x x o.reliable_time x x x x x x o.privacy o.ident_user o. avail o.assessment o.auth_user x x x x x x x x observation
+1	xml-based
+1	zealand

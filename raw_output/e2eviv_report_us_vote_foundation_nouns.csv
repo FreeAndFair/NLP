@@ -1169,6 +1169,7 @@
 1	% turnout rate
 1	% uptime
 1	+ m
+1	... h
 1	.net implementation
 1	/ / casa
 1	/ / cryptoverif

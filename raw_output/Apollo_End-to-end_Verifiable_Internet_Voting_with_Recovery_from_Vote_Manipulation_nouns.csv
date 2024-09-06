@@ -1,0 +1,680 @@
+49	helios
+33	vb
+31	apollo
+20	bb
+15	bulletin board
+15	vas
+14	va
+11	cast code
+10	id
+9	django
+8	ea
+8	get
+7	computer
+7	e2e-v
+7	url
+6	figure
+6	sid
+6	springer
+6	voter chooses
+5	bulletin
+5	election url
+5	info
+5	javascript
+5	level
+5	lock-in code
+5	post
+5	qr-code
+5	sve
+4	additionally
+4	exploiting
+4	fig
+4	full version
+4	helios booth
+4	json
+4	o. pereira
+4	title
+4	usenix
+4	voter
+3	a. essex
+3	a. halderman
+3	audit
+3	ballot encryption
+3	ballot privacy
+3	cast ballots
+3	cast codes
+3	cc
+3	confirmation email
+3	cross-site request forgery
+3	election authority
+3	j. clark
+3	jquery library
+3	login
+3	new encryption
+3	proceedings
+3	remotegrity
+3	service attack
+3	session title
+3	short string
+3	technical
+3	threat model
+3	v. cortier
+3	valid credentials
+3	vote manipulation
+3	voter enters
+3	voter experience
+2	$ .get
+2	= function
+2	a. vogt
+2	acm
+2	admin privileges
+2	analysis
+2	apollo-lite
+2	attacking
+2	audit process
+2	b. adida
+2	b. smyth
+2	b. warinschi
+2	benalohs
+2	booth.load_and_setup_election
+2	canceling
+2	candidate
+2	cast session
+2	ccs
+2	chooses n
+2	clash attack
+2	clash attacks
+2	common attacks
+2	content
+2	credentials
+2	cross-site scripting
+2	crosssite scripting
+2	csrf
+2	d. bernhard
+2	d. chaum
+2	december
+2	dos
+2	e-voting
+2	election id/archive
+2	election id/set
+2	election outcome
+2	election server
+2	electronic
+2	encryption randomness
+2	evt/wote
+2	financial cryptography
+2	framework
+2	honest registrar
+2	html
+2	iacr
+2	ieee
+2	international conference
+2	internet
+2	j. benaloh
+2	jsonp
+2	july
+2	list
+2	listing
+2	lock-in procedures
+2	m yt itle
+2	may
+2	n =
+2	october
+2	owasp top
+2	p. l. vora
+2	privacy
+2	protocol
+2	r. kusters
+2	r. t. carback
+2	receipt generator
+2	remedy
+2	s. popoveniuc
+2	security analysis
+2	security properties
+2	session ends
+2	session id
+2	star-vote
+2	symposium
+2	system [
+2	t. truderung
+2	takoma
+2	v a1
+2	v a2
+2	verifiable elections
+2	vote
+2	voter uses
+2	voters credential
+2	voting assistants
+2	voting booth
+2	washington
+1	$ .get method
+1	$ .getjson
+1	// election
+1	// lets
+1	/helios/elections/new election edition
+1	/meta resource
+1	2. gi
+1	2. x c [
+1	2015. ivote
+1	2k codes
+1	2l voters
+1	< iframe >
+1	= election_metadata
+1	= election_url
+1	] protocol
+1	a. barth
+1	a. kiayias
+1	a. regenscheid
+1	a. t. sherman
+1	a3
+1	able check
+1	abstract
+1	accountability
+1	accountability [
+1	acm sigsac
+1	actions
+1	adapting helios
+1	adding
+1	additional vote
+1	admin console
+1	advances
+1	aes
+1	ajax
+1	alert voter
+1	apollo end-to-end
+1	app modules
+1	applied cryptography
+1	april
+1	archive p=0
+1	archive p=1
+1	archiving
+1	assumptions
+1	asymmetric-key encryption scheme
+1	asymmetric-key encryption schemes
+1	attackers ability
+1	attackers proxy
+1	attacks [
+1	attempts
+1	audit code
+1	audit encryptions
+1	audit instruction
+1	audit protocol
+1	audit request
+1	audit step
+1	audits and/or
+1	australia
+1	authors
+1	available version
+1	ballot generation
+1	ballot secrecy
+1	ballot tracker
+1	ballotis immune
+1	based
+1	begins
+1	benalohs sve benalohs simple
+1	bern
+1	birthday paradox
+1	booth.election_metadata
+1	booth.election_url
+1	booth.hide_progress
+1	booth.setup_election
+1	booth.setup_templates
+1	booth.show_election
+1	booth.so_lets_go
+1	browser encrypts
+1	browser sends
+1	browser-and web-security case study
+1	bulletin boardwith append-only-authenticated-write
+1	c. details
+1	c_
+1	cast
+1	cast ballot
+1	cast request
+1	cast vote
+1	cast/audit
+1	castcode
+1	casting code
+1	cc bulletin
+1	centre
+1	challenge protects
+1	changing
+1	check demonstrates
+1	chooses n =
+1	clash
+1	clash attacks [
+1	clash-attack
+1	clickjacking
+1	clickjacking clickjacking
+1	client vulnerabilities
+1	client-and/or-server-side adversaries [ 15,23,13,25 ]
+1	client-side attacks
+1	client-side vulnerabilities [
+1	clientside attacks
+1	cns
+1	commands cast
+1	communications
+1	computational device
+1	computer securityesorics
+1	conclusions
+1	confirmation email contains
+1	conformation email
+1	considerable accuracy
+1	considerable attention
+1	contract number
+1	corr
+1	correct choice
+1	correct header [
+1	correct information
+1	correct vote encryption
+1	credential distribution apollo
+1	credentialsapollo-lite prevents
+1	cross-site scripting description helios booth
+1	cryptographic receipt
+1	cryptology asiacrypt
+1	csf
+1	css
+1	d.
+1	d. galindo
+1	d. isabel
+1	d. s. wallach
+1	d. springall
+1	d. veditz
+1	d.c.
+1	dc
+1	de marnee
+1	dec-2013/09/d/st6/03927
+1	decrypt cr
+1	definition
+1	description
+1	description helios
+1	dierent attacks
+1	dierent encryption schemes
+1	dierent server
+1	digital signatures
+1	dishonest devices
+1	dishonest election server
+1	dishonest terminal
+1	dishonest terminals
+1	display sessionid
+1	dispute-resolution [
+1	distinct voters
+1	diusion
+1	django software
+1	du-vote
+1	e d co
+1	e. moher
+1	e. shen
+1	e. wustrow
+1	e2e
+1	e2e binding governmental
+1	e2e voter receipt
+1	electing
+1	election admin
+1	election id/edit
+1	election id/trustees/new
+1	election information data
+1	election officials
+1	election questions
+1	election technology
+1	election verifiability
+1	election website
+1	election_url +
+1	elections
+1	electronic commerce
+1	electronic delivery
+1	else
+1	en voter
+1	enc
+1	encryption
+1	end-to-end verifiability approach
+1	errors
+1	esorics
+1	estonian
+1	estonian internet
+1	evaluation
+1	evidence
+1	evt
+1	experimental study
+1	exploiting csrf
+1	f. zagorski
+1	false complaints
+1	featuring
+1	fiat-shamir heuristic
+1	filip zagorski2
+1	final irrepudiable instruction
+1	foundations symposium
+1	full control
+1	full threat model
+1	function
+1	function load
+1	future directions
+1	g. s. grewal
+1	george washington
+1	goto step
+1	governmental elections
+1	h. hursti
+1	h98230-14-c-0127
+1	hacking helios
+1	helios apollo
+1	heliosof
+1	honest credential authority
+1	honest terminal
+1	honest terminal results
+1	http get
+1	http header x-frame-options
+1	hua wu1
+1	human voters
+1	human-readable sessionid
+1	human-readable version
+1	iacr eprint
+1	identity
+1	ieee symposium
+1	implementation vulnerabilities
+1	incorrect estimate
+1	incorrect receipt
+1	incorrect vote
+1	informal protocol description
+1	information systems perspective
+1	initializes session
+1	initiation
+1	integrity
+1	integrity properties
+1	interesting
+1	internet voting
+1	introduction
+1	invisible layers
+1	italy
+1	j. conway
+1	j. kelsey
+1	j. kitcat
+1	j. schwenk
+1	j. vaidya
+1	j.-j
+1	january
+1	jets
+1	jquery method $ .query.get
+1	k. gjosteen
+1	k. renaud
+1	key functions
+1	key pair
+1	l. chen
+1	lc
+1	lecture notes
+1	level corresponds
+1	level-1
+1	level-3
+1	lifetime
+1	lite threat model
+1	live online election
+1	lo
+1	lock code
+1	lock-in phase
+1	lockin code
+1	login/castcode
+1	long string
+1	low-entropy strings
+1	lower-level library
+1	m.
+1	m. byrne
+1	m. d. ryan
+1	m. heiderich
+1	m. izabachne
+1	m. kutyowski
+1	m. m. olembo
+1	m. macalpine
+1	m. niemietz
+1	m. r. clarkson
+1	m. volkamer
+1	m. yung
+1	machine cheats
+1	machine commits
+1	machine prints
+1	machine reveals
+1	machines screen
+1	maciej kosarzecki2
+1	main attacks
+1	main contribution
+1	main protocol
+1	making
+1	malicious service
+1	malicious terminal
+1	maryland procurement
+1	maximum acceptable probability
+1	md
+1	method $ .getjson
+1	method election creation
+1	methods
+1	minimal fashion
+1	mitres cve
+1	mobile application
+1	model
+1	multiple assistants
+1	multiple credentials
+1	multiple devices
+1	multiple non-governmental elections
+1	multiple such three-way disputes
+1	n >
+1	n sio es
+1	n. mcburnett
+1	national science
+1	necessary checks
+1	network
+1	new ballot
+1	new cast code
+1	new session
+1	new terminal
+1	non-lockedin vote
+1	non-rigorous security analysis
+1	norwegian
+1	nsf
+1	ny
+1	old credential
+1	online
+1	open problem
+1	open vulnerability
+1	original version
+1	overall confidence
+1	own sessions
+1	p. b. stark
+1	p. s. hernson
+1	p. t. kortum
+1	p. vora
+1	paper section
+1	parameter election url
+1	particular type
+1	particular vote
+1	performance
+1	performs asynchronous
+1	pitfalls
+1	plaintext value
+1	plaintext vote
+1	policy
+1	polish
+1	poorvi l. vora1
+1	positive security consequences
+1	possible consequences
+1	post instructions
+1	posted ballot auditing
+1	potential
+1	powerful adversary
+1	pre-voting phase
+1	prepares
+1	present attacks
+1	present security vulnerabilities
+1	presidential election
+1	previous terminal
+1	prominent end-to-end
+1	properties
+1	protocol [
+1	protocol assumes
+1	protocol proceeds
+1	protocol step
+1	protocols pose usability
+1	provable ballot privacy
+1	public bulletin board
+1	public detection
+1	public key
+1	public verification
+1	publicread accessis
+1	qr
+1	qrcode
+1	query
+1	quisquater
+1	r ]
+1	r. l. rivest
+1	r= d
+1	real-time protocol
+1	real-world use
+1	receipt checks
+1	recent study [
+1	references
+1	registrar
+1	registrar signs
+1	registration phaseis
+1	related
+1	relative
+1	remote
+1	republican
+1	request #
+1	requests #
+1	rigorous demonstration
+1	rigorous form default
+1	role
+1	s n
+1	s. estehghari
+1	s. glondu
+1	s. neumann
+1	s. wolchok
+1	sameorigin
+1	sca
+1	scantegrity ii municipal
+1	scratch-o authentication cards
+1	scratch-o layer
+1	secret key
+1	security benefits
+1	security failures
+1	security policy level
+1	security vulnerabilities
+1	security vulnerability
+1	security weaknesses
+1	sends data
+1	sends randomness cr =
+1	sends vote choices
+1	september
+1	server side
+1	server side attacks
+1	server-side attacks [
+1	server-side vulnerabilities
+1	servers side
+1	session key
+1	session symmetric key
+1	session titles
+1	setup election
+1	setup function
+1	short strings
+1	simple
+1	simple protocol
+1	simpler protocols
+1	small modification
+1	smartmatic
+1	source code
+1	sp
+1	special computational device
+1	stealing
+1	step
+1	strings need
+1	successful attack
+1	successful cast vote
+1	such attacks
+1	such devices
+1	switzerland
+1	symmetric encryption
+1	symmetric-key encryption
+1	symmetric-key encryption scheme
+1	system attempts
+1	system immune
+1	systems
+1	t. finkenauer
+1	t. frosch
+1	t. mayberry
+1	tally correctness
+1	tally process
+1	tally-correctness proof
+1	terminal
+1	terminals attempt
+1	terminals code
+1	terminals collude
+1	ti
+1	time stamps
+1	title bulletin
+1	tls/ssl
+1	true vote
+1	trust assumptions
+1	trustworthy elections
+1	undesirable uncertainty
+1	university president
+1	urls
+1	usa
+1	utah
+1	v.
+1	v. teague
+1	va.
+1	var election_url = $ .query.get
+1	variable election url
+1	various experiences
+1	vas cast
+1	vb initiation fig
+1	vbdoes
+1	vbs
+1	verifiable manner
+1	verifiable schemes
+1	verifiable tally
+1	verification flaws
+1	verona
+1	version 1.2.2
+1	version 1.2.3
+1	vote [
+1	vote manipulation dawid gawel2
+1	vote x0
+1	voteid
+1	voter cc
+1	voter choice
+1	voter communicates
+1	voter compares
+1	voter detect
+1	voter encounters
+1	voter learns
+1	voter responsibility
+1	voter scans
+1	voter tasks
+1	voter verification [
+1	voters ability
+1	voters ballot
+1	voters browser
+1	voters check
+1	voters choice
+1	voters computational
+1	voters credentials
+1	voters need
+1	voters web browser
+1	voting
+1	voting phase
+1	vulnerability
+1	vulnerable methods
+1	w3c
+1	wales
+1	wales ivote system
+1	wd
+1	web site
+1	works [ 2,5,6,9 ]
+1	wroclaw
+1	x 6= x0
+1	x = x0
+1	x. bb
+1	xframeoptionsmiddleware
+1	xss
+1	y. desmedt
+1	york
+1	z. durumeric
+1	zkpproofs
+1	{ }
