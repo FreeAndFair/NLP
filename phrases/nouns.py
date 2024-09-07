@@ -18,6 +18,7 @@ from textblob import TextBlob
 
 if len(sys.argv) == 2:
     filename = sys.argv[1]
+    input_text = None
     if filename == '-':
       input_text = sys.stdin.read()
     else:
@@ -33,6 +34,10 @@ if len(sys.argv) == 2:
 else:
     print("Please specify filename or - for stdin")
     exit(1)
+
+if input_text == None:
+    print("No text read from input, skipping.")
+    exit(0)
 
 input_blob = TextBlob(input_text)
 
