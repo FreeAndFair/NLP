@@ -1,0 +1,682 @@
+38	star-vote
+16	paper ballots
+15	pd
+13	ballot box
+12	bcs
+10	bobs
+10	hash chains
+10	rla
+10	soba
+9	alices
+9	bob
+9	clash attacks
+9	poll workers
+8	benaloh
+8	clash
+7	m.
+7	paper ballot
+6	alice
+6	bijection audit
+6	clash attack
+6	electronic records
+6	j.
+6	star-votes
+5	a.
+5	d.
+5	o.
+5	threat model
+4	aggregatep
+4	aug
+4	ballot
+4	ballot boxes
+4	bpid kri
+4	cext
+4	d =
+4	electronic ballots
+4	electronic record
+4	fig
+4	hex digit
+4	linear pass
+4	n ballots
+4	pereira
+4	race ri
+4	small number
+4	voters intent
+3	% chance
+3	audit
+3	b.
+3	ballot page
+3	bijection audits
+3	bpid s
+3	bulletin board
+3	electronic tally
+3	hash chain
+3	hex digits
+3	kusters
+3	linear
+3	p.
+3	poisson
+3	possible values
+3	previous voter
+3	public hash chain
+3	rivest
+3	vote v
+3	voting
+2	% probability
+2	audit [
+2	auditing
+2	ballot page bpid
+2	ballot style bst
+2	ballot styles
+2	based
+2	bcid s
+2	boston
+2	ca v
+2	casting
+2	consider
+2	cryptographic hash chain
+2	cv s
+2	dasgupta
+2	detect clash attacks
+2	duplicate ballots
+2	e.
+2	efficient procedure
+2	election bulletin board
+2	election outcome
+2	electronic process
+2	evt
+2	evt/wote
+2	furthermore
+2	helios
+2	identifier bcid
+2	ids
+2	information
+2	jul
+2	jun
+2	lets
+2	lncs
+2	m ballots
+2	ma
+2	machines
+2	machines manage
+2	malicious machines
+2	n =
+2	n.
+2	non-random
+2	paper
+2	public bulletin board
+2	r.
+2	random number
+2	readable version
+2	rice
+2	serial numbers
+2	smartphone app
+2	stark
+2	starvote
+2	t.
+2	take-home receipt
+2	threeballot
+2	time t
+2	total number
+2	truderung
+2	usenix
+2	valid vote
+2	verifiable component
+2	vogt
+2	wikstrom
+2	zp hash chain
+1	% duplicates
+1	1/n d
+1	128-bit number
+1	8. da
+1	= e k
+1	] studies
+1	abstract
+1	accurate approximations
+1	accurate combinatorial expression
+1	acknowledgements
+1	adida
+1	advances
+1	alas
+1	alternative ciphertexts
+1	alternative histories consistent
+1	alternative method
+1	analysis
+1	analysis sheds
+1	appropriate number
+1	appropriate procedure
+1	attack strategies
+1	attacker arranges
+1	attackers bpid
+1	attackers perspective
+1	attractive solution
+1	audit component
+1	audit data
+1	audit ineective
+1	audit officer
+1	audit procedure
+1	audit process
+1	audit trail
+1	available physical evidence
+1	b buckets
+1	b.c
+1	b1 m
+1	ballot duplication
+1	ballot manifests
+1	ballot privacy
+1	ballot receipt
+1	ballot receipts
+1	ballot records
+1	ballot terminal
+1	ballot-comparison risk
+1	ballots
+1	ballots cast
+1	bcid = bcid
+1	bcid level
+1	bell
+1	ben-nun
+1	bijection
+1	bijection audit procedure
+1	bijection failures
+1	bijection-audit procedures
+1	birthday paradox
+1	birthday paradox problem
+1	bishop
+1	bottom review
+1	box probability
+1	bpid = bpid
+1	bpid digits
+1	bpid number distributions
+1	bpid numbers
+1	bpid values
+1	bucket fillings
+1	bucket sort
+1	buckets
+1	byrne
+1	c0bpid tuples
+1	california
+1	californias top
+1	card sorters
+1	cast ballots
+1	cast ca v cv spoil ca v
+1	cc bcid
+1	challenging
+1	cipher text cb v
+1	ciphertext ballot
+1	clash attack variants
+1	clash attacker
+1	clear procedures
+1	cleartext choices
+1	cns-1314492
+1	cns-1409401
+1	columbia
+1	commitment-consistent proof
+1	comparison audit processes
+1	computes cc bcid =
+1	computing history
+1	concluding
+1	conducting
+1	contemporary review
+1	control station
+1	controller decrypts cc bcid
+1	conversely
+1	corresponding electronic record
+1	corresponding paper ballots
+1	corresponding plaintexts
+1	crucial link
+1	cruz
+1	cryptographic receipts
+1	current description
+1	current state
+1	current values zii
+1	cuvelier
+1	d = m
+1	d bpid s
+1	dan s. wallach universite
+1	debeauvoir
+1	dec
+1	decryption keys
+1	decryption yields
+1	defeat clash attacks
+1	design samples
+1	detect duplicates
+1	detective work
+1	dierent delivery trucks
+1	dierent version
+1	dierent vote
+1	dierent vote v
+1	dierent ways
+1	digit locations
+1	digital form
+1	discovering
+1	distinct bcid s
+1	distinct hash
+1	documentation [
+1	doesnt correspond
+1	doesnt matter
+1	doesnt scale
+1	duplicate ballot
+1	duplicate bpid numbers
+1	duplicate copy
+1	duplicate paper ballots
+1	duplicate receipt
+1	duplicate receipts
+1	duplicate voters
+1	duplicates d.
+1	duplicates number
+1	duplication rate d
+1	e2e
+1	eakin
+1	easy mechanisms
+1	electing
+1	election attacks
+1	election auditor
+1	election board
+1	election description
+1	election fraud
+1	election headquarters
+1	election managers
+1	election managers need
+1	election margins
+1	election officials
+1	election operations
+1	election results
+1	election verifiability
+1	election-related
+1	electronic
+1	electronic ballot ciphertexts
+1	electronic level
+1	electronic results
+1	electronic verification part
+1	electronic vote record
+1	electronic vote records
+1	empty ballot
+1	enckc
+1	enckt
+1	encryption cc bcid
+1	encryption cv
+1	encrypts bcid s
+1	end-of-day distribution
+1	end-to-end
+1	end-to-end cryptographic
+1	end-to-end verification
+1	entire election
+1	entities
+1	error signal
+1	esorics13
+1	estimation
+1	evaluation
+1	eventually
+1	evote
+1	evt07
+1	exact ballot
+1	exact estimation
+1	example
+1	examples
+1	exists duplicate bpid numbers
+1	expensive phases
+1	expresses selections
+1	external computers
+1	external hash chains
+1	extra digits
+1	extra interaction
+1	extra random symbol
+1	f =1
+1	f.
+1	f.r.s.-fnrs
+1	farhi
+1	figures
+1	final step
+1	fischer
+1	fraction f
+1	fraudulent ballot
+1	fresh ballots
+1	fresh bcid
+1	fresh grid
+1	fulbright scholar
+1	full box
+1	function extracts
+1	g.
+1	hash chain copies
+1	hash collisions
+1	hash function
+1	hash zii
+1	hash zpa
+1	hex character
+1	hex characters
+1	high entropy bpid s guarantees
+1	high probability
+1	high-level description
+1	honest ballot box
+1	human-readable paper ballots
+1	hypothetical sixteen poll workers
+1	ibm
+1	id
+1	identical ballot
+1	identical ballot preferences
+1	identical bcid s.
+1	identical bpid numbers
+1	identical bpid s
+1	identical receipts
+1	identical vote intents
+1	identify voters
+1	ieee symposium
+1	independent auditors
+1	independent cloud service
+1	independent computers
+1	independent electronic tool
+1	independent poll watchers
+1	individual procedures
+1	information theoretic sense
+1	initial partition
+1	initial phase
+1	initial piles
+1	insertion sort
+1	inter-precinct clashes
+1	internal
+1	internal audit chain
+1	internal audit chain logs
+1	internal audit trail
+1	internal hash chain contains
+1	internal use
+1	introduce errors
+1	introduction clash
+1	invasive audit
+1	j.j.
+1	jakobsson
+1	jones
+1	juels
+1	k buckets
+1	k times
+1	key elements
+1	kortum
+1	ktkbstkcc bcid kcbpid kcv
+1	large clash
+1	large number
+1	large numbers
+1	large sample
+1	large type
+1	lawsuits
+1	lazarus
+1	lighter solution
+1	lindeman
+1	linear scan
+1	linear search
+1	llewellyn
+1	local auditor
+1	local election
+1	local election authority
+1	local network
+1	local poll workers
+1	local precinct
+1	local precincts
+1	local table
+1	louvain
+1	m /b k
+1	m m-tuples
+1	making
+1	malicious ciphertexts
+1	malicious code
+1	malicious scanner
+1	mandatory verification steps
+1	manual
+1	manual process
+1	manual tally
+1	marked
+1	marnee
+1	mcburnett
+1	mere duplicates
+1	mix nets robust
+1	mix-net [
+1	modern need
+1	montoya
+1	montreal
+1	multiple clashes
+1	multiple forms
+1	multiple precincts
+1	multiple trials
+1	multiple voters
+1	multiplicity
+1	multiplicity ballots
+1	n d =
+1	n fraction
+1	n n
+1	n pd t definition
+1	n process
+1	n random draws
+1	n voters
+1	new implementation
+1	new light
+1	nice aspect
+1	nizk
+1	non-interactive zero knowledge
+1	non-linear costs
+1	non-random duplicate search mechanism
+1	non-trivial variations
+1	normal circumstances
+1	nsf
+1	observable ballot-level audits
+1	obvious ways
+1	oct
+1	oer blocks
+1	oer confidence
+1	official poll workers
+1	ohio voting systems
+1	ohios everest
+1	olivier pereira
+1	one-to-one correspondence
+1	original documentation
+1	otherwise
+1	page bpid
+1	paper analyzes
+1	paper ballot boxes
+1	paper ballot content
+1	paper format
+1	parker
+1	part
+1	part contains
+1	peters
+1	plaintext ballot
+1	plaintext paper ballots
+1	poll station
+1	poll worker
+1	possible attack
+1	possible strategies
+1	post-election
+1	post-election setting
+1	post-election verification
+1	potential duplicate
+1	potential uses
+1	powerful adversary
+1	precinct corruption
+1	precinct level
+1	precinct-by-precinct basis
+1	previous record
+1	previous section
+1	print dierent bpid s
+1	privacy
+1	privacy acisp
+1	privacy properties
+1	probability = n
+1	probability mass function
+1	procedure thats
+1	project everest
+1	public audit chain
+1	public audit chain logs
+1	public chain
+1	public evidence
+1	public hash zpa
+1	public key kc
+1	public key kt
+1	public verification
+1	punchcard decks [
+1	qrcode
+1	quisquater
+1	r.l
+1	r.l.
+1	race components
+1	race results
+1	random ballot page
+1	readable summary
+1	real-time
+1	real-world use
+1	reasonable number n
+1	recall
+1	recent numbers
+1	recommendations
+1	redundant evidence
+1	references
+1	remediate issues
+1	repeated
+1	reporters
+1	request
+1	resolution procedures
+1	rfi.pdf
+1	risk
+1	risk assessment
+1	riva
+1	rosen
+1	running
+1	s.
+1	sample ballots
+1	sample n
+1	samples n
+1	scans ballot receipts
+1	sec
+1	secrecypreserving
+1	section considers
+1	secure
+1	secure electronic voting voting17
+1	security guarantees
+1	security mechanisms
+1	security protections
+1	select ballots
+1	select specific digits
+1	select specific values
+1	select values
+1	selection v.
+1	sensitive data
+1	separate ballots
+1	separate note
+1	separate pages
+1	sequence number
+1	serial number
+1	setup
+1	sevote
+1	significant number
+1	similarly
+1	simple
+1	simple linear scan
+1	simple procedures
+1	small clash attack
+1	small duplicate rates
+1	small set
+1	smith
+1	software and/or hardware
+1	sophisticated attacker
+1	sort pieces
+1	sorting
+1	specific values
+1	spoil marks
+1	springer
+1	standards
+1	station bets
+1	station displays
+1	station prints
+1	station processes
+1	statistical inference
+1	straight party
+1	strong birthday problem
+1	style bst
+1	submit votes
+1	subsampling
+1	success rate
+1	such collision
+1	such devices
+1	such hashes
+1	suitable alarms
+1	suitable procedures
+1	suspicious buckets
+1	symposium
+1	system [
+1	system prototypes
+1	systematic computer
+1	ta-shma
+1	tabloid format page
+1	tabloid format pages
+1	tamper-evident seals
+1	target ratio
+1	team
+1	testing
+1	threshold commitment consistent encryption scheme [
+1	token t
+1	tolerable amount
+1	top-to-bottom voting systems review
+1	trade o
+1	transparent
+1	travis
+1	treelike binary
+1	tricky challenge
+1	trustees decrypt
+1	trustees publish
+1	trustees tally
+1	twin
+1	uc
+1	unique ballot
+1	unique bpid
+1	unique hash chain seeds
+1	unique identifier
+1	unique token t
+1	university president
+1	unlikely case
+1	unpredictable ballot page identifier bpid
+1	usenix jets
+1	v zpa cast v
+1	v zpa spoil cv b cast/spoil ca v
+1	valid ballots
+1	validation
+1	vancouver
+1	variable m d n
+1	various devices
+1	various optional
+1	various places details
+1	various strategies
+1	vav
+1	vector cbpid
+1	verifiable elections
+1	verifiable mix-net [
+1	verifiable part
+1	verifiable side
+1	verifiable systems
+1	verifiable tally
+1	verification procedure
+1	verification steps
+1	victory m.
+1	victory shrinks
+1	vote cast
+1	vote cv =
+1	vote intent
+1	vote privacy reasons
+1	vote receipt
+1	voter casts
+1	voter enters
+1	voter intent
+1	voter receipt protects
+1	voters ballot
+1	voters hash
+1	votes cast
+1	votes cv s
+1	votes need
+1	w.d
+1	wallach
+1	whole process
+1	winn
+1	wombat
+1	wont point
+1	work raises
+1	zero votes
+1	zk
+1	zp ca v time voters
+1	zp v zpa cast ca v
+1	zpa cast/spoil b
+1	zpi value

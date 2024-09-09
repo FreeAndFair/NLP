@@ -1,0 +1,688 @@
+27	pr
+19	rlt
+15	vco
+13	rlv
+13	theorem
+11	hamming
+11	m =
+10	k }
+9	= fps
+9	definition
+9	mk
+8	dx
+7	c ||
+7	individual verifiability
+7	proposition
+7	vs
+6	election result
+6	honest voters
+6	iv
+6	selene
+6	student election
+5	= ps
+5	= r
+5	complex ballots
+5	fig
+5	p k
+5	plausible deniability
+5	risk limit
+5	signature attacks
+5	signature ballot
+5	vobs
+4	= dps
+4	c ||vco ||v
+4	coercion threats
+4	cs
+4	distributions ps
+4	function fps
+4	future work
+4	j.
+4	k =
+4	o ||vobs
+4	p =
+4	s \ t 6=
+4	v.
+4	vote buyer
+4	y dier
+3	a.
+3	coercer programs c
+3	coercers optimal strategy
+3	collection { x1
+3	d.
+3	def
+3	kusters
+3	lemma
+3	maximum number
+3	mk+1
+3	n0
+3	non-empty subsets
+3	p.b.
+3	privacy
+3	probability distribution ps
+3	r.
+3	random subset
+3	risk-limiting tallies
+3	s \ {
+3	simultaneous signature attacks
+3	soba
+3	stark
+3	t u
+3	v0o =
+3	vault
+3	vi =
+3	vogt
+3	vote buying
+3	vote distribution
+3	vote seller
+3	voters ballot
+3	x x
+2	= kqs
+2	> qs
+2	] =
+2	b =
+2	ballot contributes
+2	bb
+2	benaloh
+2	bulletin board
+2	california
+2	cast-vote records
+2	confidence level
+2	cvrs
+2	dierent strategies
+2	distinguishing
+2	equal size
+2	equal weight
+2	free lunch
+2	ftpv
+2	full ballot disclosure
+2	good strategy
+2	honest voter
+2	i + j
+2	ieee
+2	k candidates
+2	k components
+2	luxembourg
+2	masked rlt
+2	nh +1
+2	observer o
+2	observer tries
+2	original ballots
+2	p.b
+2	pb
+2	pgps
+2	relation dps
+2	risk-limiting verification
+2	ryan
+2	s {
+2	signature attack
+2	signature ballots
+2	signature part
+2	small probability pfl
+2	springer
+2	student election example
+2	system b
+2	t.
+2	total number
+2	truderung
+2	upper bounds
+2	various measures
+2	vb =
+2	vote sellers
+2	vote/tracker pairs
+2	voters goal
+2	weak vote buying resistance
+2	x1
+2	|v| =
+2	|v| elements
+1	% confidence
+1	... ... { vk }
+1	/2c k x1
+1	1-vote probabilities
+1	< i2 < ... < im k pi1
+1	= 1. rmax bounds
+1	= = r
+1	= d
+1	= f
+1	= i=1 rni v1i pri i vi
+1	= inf dps
+1	= k m +
+1	= m
+1	= min { d
+1	= r1 v1
+1	= rk vk
+1	= s
+1	= s6=
+1	= w
+1	= { r
+1	= | { i
+1	= |t| k |t|
+1	a =
+1	a. ryan1
+1	abstract
+1	acknowledgements
+1	acm
+1	addition 8i
+1	additional voter
+1	adversary chooses r signatures x1
+1	algorithm output
+1	alternative tracker
+1	analyse dierences
+1	analyse signature attacks
+1	analysis applies
+1	approach [
+1	ar0
+1	ar0 ar1
+1	ar1
+1	assume
+1	atomic parts
+1	atomic trackers
+1	audit trail
+1	average plausability
+1	avr
+1	b c k k @
+1	b.
+1	ballot components m
+1	ballot distribution
+1	ballot-level selections
+1	ballots cast
+1	ballots v
+1	basic properties
+1	below
+1	berkeley
+1	bernhard
+1	binomial distribution
+1	block form
+1	borda
+1	bottom block of0rows
+1	bottom rows
+1	bounds
+1	c2
+1	ca
+1	candidate election
+1	case study
+1	cases voters
+1	cast plaintext ballots
+1	cast votes
+1	castvote records
+1	certain corner cases
+1	certain fraction
+1	certain level
+1	cnrs
+1	codewords subject
+1	coercer and/or vote buyer
+1	coercer and/or vote-buyer launch
+1	coercer chooses
+1	coercer outputs
+1	coercer shows
+1	coercer tries
+1	coercers increases
+1	coercers instruction
+1	coercers instructions
+1	coercers strategies
+1	coercion mitigation
+1	coercion resistance
+1	coercion-resistance
+1	coercionresistance mechanisms
+1	colorado
+1	communications security
+1	complex ballot pattern
+1	complex social choice functions
+1	computer
+1	conclusion
+1	concrete values
+1	consider
+1	considers quantitative
+1	constraint 8i 6= j
+1	conventional elections
+1	corner cases
+1	correct reflection
+1	corresponding entry
+1	corresponding f ull
+1	corresponding probability pmin
+1	corresponding receipt
+1	corresponding votes
+1	cortier
+1	counter strategy
+1	counters signature attacks
+1	cr -coercion-resistance
+1	cryptographic constructions
+1	cryptographic data
+1	curb vote
+1	d -coercion-resistance
+1	d cr
+1	d gps
+1	d.w.
+1	data
+1	decrypt m
+1	definition bounds
+1	deniability
+1	deniability coercionresistance
+1	deniability probability
+1	denote
+1	denotes encryption
+1	dierent -values
+1	dierent approaches
+1	dierent aspects
+1	dierent contests
+1	dierent election systems
+1	dierent methods
+1	dierent signatures
+1	dierent tally methods
+1	dierent vote choices
+1	dierent ways
+1	dimensional vector space
+1	dimiter ostrev1
+1	dishonest voters
+1	disincentivize coercion
+1	distance constraint
+1	distance gps
+1	distinct tracker
+1	distinguishable ballot patterns
+1	distinguishable patterns
+1	distribution ps
+1	e-vote-id
+1	e.
+1	election system
+1	electronic mixnet tallies
+1	electronic scans
+1	electronic voting
+1	element y
+1	elementary row operations
+1	elements subject
+1	ens
+1	entire ballots
+1	entries m
+1	entries w
+1	equal probability
+1	essential factor
+1	euros
+1	evt/wote
+1	example
+1	expectation value
+1	explicit formula
+1	explore trade-os
+1	f ull
+1	fake ballot
+1	false positives
+1	fatima-ezzahra el orche1,3
+1	fatimaezzahra.elorche @ ens.fr
+1	figure
+1	final tally
+1	financial cryptography
+1	finer level
+1	fnr
+1	form
+1	france
+1	free lunch vote sellers
+1	full story
+1	full tally
+1	full tally construction
+1	full tally/partial verification option
+1	functions maskij
+1	general interest
+1	general masks
+1	gilbert-varshamov
+1	good level
+1	good plausible deniability
+1	grant references
+1	hence
+1	honest vote seller
+1	honest voter casts
+1	honest voters cast
+1	honest voters yield
+1	hybrid approach
+1	i < j
+1	i =
+1	i j=0 k dh
+1	i positions
+1	i } =
+1	i=1 dh
+1	i=1 j=0 |t| i k |t| r
+1	ieee symposium
+1	individual ballots
+1	individual verification
+1	individual voter
+1	inductive hypothesis
+1	input s
+1	intact ballot
+1	interdisciplinary centre
+1	interesting case
+1	interesting line
+1	international conference
+1	introduction
+1	inyo
+1	iovino
+1	italian attacks
+1	ith candidate
+1	j +
+1	j j
+1	j j=0 j=0 j
+1	j k i+j
+1	j k i+j t u
+1	j positions
+1	j } =
+1	j. comput
+1	jamroga
+1	joint
+1	jones
+1	k dh
+1	k entries
+1	k j
+1	k k
+1	k k b c
+1	k k j+1 j=0 l=1
+1	k k k
+1	k k k k k
+1	k offices
+1	k ps k
+1	k } =
+1	launch signature attacks
+1	lazarus
+1	leaves subspace w invariant
+1	liedtke
+1	lindeman
+1	lower
+1	m leaves
+1	m openings
+1	m w
+1	m-element subsets
+1	m.
+1	m1
+1	m\p pcol
+1	machine models
+1	main ideas
+1	masked tallies
+1	masking
+1	masking complex ballots
+1	maskv v = maskv vbo
+1	matrix m
+1	maximal probability
+1	measuring
+1	middle row
+1	mild assumption
+1	models vote buyers
+1	modification y
+1	monotone transformation
+1	muller
+1	multi-winner plurality
+1	multiple voters
+1	mvo
+1	n =
+1	n ballots
+1	n ri +vi
+1	n0 bd
+1	najmeh soroush1
+1	national research fund
+1	natural choice
+1	natural constraint
+1	nb
+1	necessary ingredients
+1	neglecting
+1	new definition
+1	new insights
+1	new quantitative definitions
+1	new quantitative measures
+1	nh =
+1	nonetheless
+1	number candidates
+1	number rmax
+1	o.
+1	observable ballot-level audit
+1	observation motivates
+1	opposite ballot
+1	optimal algorithm
+1	optimal distinguisher
+1	optimal regardless
+1	optimal signature ballot
+1	optimal strategy
+1	optimal verification strategy
+1	order subsets
+1	ordinos
+1	original approach
+1	original cr coercion-resistance
+1	outline
+1	output zero
+1	outputs voter names
+1	over-votes etc
+1	overall constraint
+1	overall result r =
+1	own choice
+1	own goal
+1	p k.
+1	p.y.
+1	p.y.a.
+1	pair x
+1	pairwise distinguishability constraint
+1	paper ballots
+1	paris
+1	partial inverse
+1	partial inverse gps
+1	partial verification
+1	partially masked ballots
+1	partially masked rlts
+1	particular candidate
+1	particular ps
+1	pattern vote
+1	pcol = 1/ m
+1	penalize signature attacks
+1	pereira
+1	perfect distinguishability
+1	peter b. roenne1
+1	peter y
+1	pfl =
+1	philip b. stark2
+1	pi >
+1	plaintext votes
+1	plurality
+1	pmin =
+1	popular candidates
+1	popular vote
+1	positive probability
+1	possible ballots
+1	possible result r
+1	possible results
+1	precise definition
+1	precise example
+1	precise level
+1	preliminary analysis
+1	pride15/10621687/ spsquared
+1	privacy implications
+1	probability distribution
+1	probability distribution qs
+1	probability distributions
+1	probability signature part
+1	probability vector
+1	proceedings
+1	property 8i 6= j
+1	protocol invariant
+1	proves bounds
+1	ps assigns
+1	ps ps
+1	ps s ps
+1	psl
+1	public confidence
+1	public data
+1	public key
+1	public transparency
+1	publish ballots
+1	q =
+1	q }
+1	q-code core17/is/11689058
+1	qk avr
+1	quantifying
+1	quantitative -privacy definition
+1	quantitative coercion-resistance
+1	quantitative privacy
+1	quantitative privacy definition
+1	quantitative privacy-type properties
+1	r2m vo
+1	radius b
+1	radius gps
+1	random sample
+1	rare ballot styles
+1	rausch
+1	receipt-freeness following
+1	references
+1	reliability
+1	research university
+1	result r
+1	reverse direction
+1	risk limiting tallies
+1	risk limits
+1	risk-limiting
+1	risk-limiting audits
+1	risk-limiting-audits
+1	rlas
+1	rlts
+1	rlvs
+1	rnne
+1	roenne
+1	s =
+1	s choice
+1	s ps
+1	s s
+1	s } { blank } etc
+1	s.
+1	satisfies 8i 6= j
+1	satisfies 8x
+1	secrecypreserving
+1	secret trapdoor key
+1	secur
+1	security parameter
+1	security parameter `
+1	selene selene
+1	separable social choice functions
+1	separate ballots
+1	side eect
+1	similar ideas
+1	simple formula
+1	simple plurality
+1	single-winner plurality
+1	small pfl
+1	snt
+1	social choice function
+1	social choice functions
+1	special concrete case
+1	specific candidate
+1	standard deviation
+1	stark @ stat.berkeley.edu
+1	statistical distance
+1	statistics
+1	strategy ps destroys
+1	strategy ps leaves
+1	strategy version
+1	strings x
+1	strings x1
+1	stv c18/is/12685695
+1	subset corresponds
+1	subsets thereof
+1	subspace k w = { w
+1	subspace w invariant
+1	such ball contains j=0 s j
+1	such information
+1	such threats
+1	suppose
+1	symposium
+1	tally
+1	tally algorithms
+1	tally methods
+1	tally procedure
+1	tally wont
+1	teague
+1	technically
+1	techniques ensure
+1	threeballot
+1	throughout
+1	top block
+1	tracker verification
+1	transferrable vote
+1	transparency purposes
+1	transparent verifiability
+1	triangle inequality
+1	true/false value
+1	turing
+1	unanimous votes
+1	uniform distribution
+1	unlikely ballot
+1	unpopular vote vs
+1	upper
+1	usa
+1	usability standpoint
+1	useful quantity
+1	uses homomorphic encryption
+1	uses strategies
+1	v =
+1	v o v0
+1	v output
+1	v1o =
+1	valid ballots
+1	vector w
+1	verifiability
+1	verifiable audits
+1	verifiable mixes
+1	verifiable systems
+1	verification
+1	verification aspects
+1	verification meaningful
+1	verification procedures
+1	verification purposes
+1	vo vo
+1	vote choice v =
+1	vote choices v0o
+1	vote privacy
+1	vote x
+1	vote-buyer model
+1	voter cast v0o
+1	voter casts
+1	voter choice y
+1	voter choices x
+1	voter chooses v0o
+1	voter goal
+1	voter seller
+1	voter strategy
+1	voters ballots
+1	voters fake tracker
+1	voters strategy
+1	votes cast
+1	voting
+1	w =
+1	w.
+1	warinschi
+1	whereas
+1	who
+1	whole set
+1	wvb + pfl
+1	wvb -coercion-resistance
+1	x 6= y corresponds
+1	x = y
+1	x = y. t u
+1	x obtains
+1	x6=y2v k
+1	xi
+1	xi 6= yi } |
+1	xi = v
+1	xi bd
+1	xk
+1	xr }
+1	xr } satisfies 8i 6= j
+1	xs 6=ys
+1	xs 6=ys ps
+1	xs 6=ys s
+1	xs 6=ys t u
+1	xs =
+1	xs qs
+1	y 6= x
+1	yi = v
+1	ys k1 =
+1	ys k1 = sup |
+1	zero probability
+1	{ firstname.lastname } @ uni.lu
+1	{ tri }
+1	{ v1 }
+1	{ v2 }
+1	{ x1
+1	{ }
+1	|s| = |t| =
+1	|v| j
+1	|v|k |v|k rmax
+1	} k

@@ -1,0 +1,794 @@
+127	is
+57	are
+33	c
+31	see
+23	tallying
+20	follows
+20	r
+13	secure
+12	using
+12	employ
+12	offers
+11	creates
+11	voted
+10	can handle
+10	use
+9	s
+9	enables
+9	to mitigate
+9	recall
+8	identify
+8	based
+8	published
+8	resulting
+8	publishes
+7	exist
+7	to obtain
+7	sends
+7	uses
+7	ensures
+7	learns
+7	distributed
+7	needs to be trusted
+7	is called
+7	note
+7	corrupted
+7	can
+7	mixing
+6	called
+6	observe
+6	do
+6	propose
+6	to prove
+6	elaborate
+6	to realize
+5	generates
+5	demonstrate
+5	denote
+5	has
+5	used
+5	study
+5	to verify
+5	conclude
+5	employed
+5	explain
+5	is corrupted
+5	is based
+5	to achieve
+5	send
+5	existing
+4	assume
+4	to ensure
+4	describe
+4	start
+4	submit
+4	submits
+4	demonstrated
+4	does
+4	belongs
+4	i
+4	evaluate
+4	according
+4	providing
+4	consists
+4	opening
+4	achieves
+4	require
+4	to protect
+4	computes
+4	specify
+4	differ
+4	encrypts
+4	publish
+4	is distributed
+4	study existing
+4	provide
+4	shuffled
+4	employs
+4	claim
+4	v
+4	to guarantee
+4	remains
+4	takes
+4	revealing
+3	is ensured
+3	obtains
+3	e
+3	analyze
+3	to create
+3	may be
+3	provides
+3	are used
+3	works
+3	would contradict
+3	serves
+3	aiming
+3	underlying
+3	to break
+3	proposed
+3	make
+3	present
+3	described
+3	privacy-preserving
+3	are published
+3	shall see
+3	distinguish
+3	have already been solved
+3	show
+3	can choose
+3	relate
+3	potentially offers
+3	commits
+3	denotes
+3	can verify
+3	strive
+3	including
+3	to e-voting
+3	keeps
+3	is employed
+3	guarantees
+3	explained
+3	followed
+3	coerced
+3	goes
+3	tj
+2	aggregated
+2	setting
+2	fixing
+2	proves
+2	proved
+2	to follow
+2	have been solved
+2	offer
+2	was
+2	are corrupted
+2	also allows
+2	ei
+2	is to formally analyze
+2	attacks
+2	conducting
+2	refer
+2	are removed
+2	can rank
+2	computationally binding
+2	to detect
+2	remind
+2	are broken
+2	does not exist
+2	enable
+2	checking
+2	widely used
+2	can be deployed
+2	do not provide
+2	seems
+2	can be combined
+2	required to verify
+2	to jointly compute
+2	proposes
+2	cannot be deployed
+2	claims
+2	also needs to be trusted
+2	solely reduces
+2	is not distributed
+2	inherits
+2	cast
+2	then uses
+2	then open
+2	received
+2	to offer
+2	oded
+2	collected
+2	need to be trusted
+2	argue
+2	can submit
+2	to sign
+2	information-theoretically secure
+2	to secretly overwrite
+2	exists
+2	is actually distributed
+2	contain
+2	were designed
+2	do provide
+2	futureproofing
+2	privately submitted
+2	to participate
+2	only known
+2	depending
+2	say
+2	is accepted
+2	can be derived
+2	then explain
+2	rerandomizes
+2	proving
+2	does not know
+2	illustrate
+2	to combine
+2	open
+2	stated
+2	are employed
+2	first describe
+2	put
+2	is created
+2	correct
+2	to formally analyze
+2	use to prove
+2	blinded
+2	correctly reflects
+2	to vi
+2	discuss
+2	is verified
+2	introduce
+2	to overcome
+2	to pbb
+2	chosen
+2	thank
+2	can manipulate
+2	to distinguish
+2	pointed
+2	will argue
+2	derives
+2	completely trusted
+2	breaking
+2	protects
+2	can be deployed to guarantee
+2	making
+2	to vote
+2	were created
+2	did not discover
+2	becomes
+2	knows
+2	taken
+2	abstaining
+2	contains
+2	are then tallied
+2	can be instantiated
+2	allows
+2	following
+2	further
+2	to see
+2	discover
+2	t1
+2	is published
+2	can be verified
+2	depend
+2	are marked
+2	focus
+2	consider
+1	al.s
+1	starting
+1	therefore find
+1	to extend
+1	are leaked
+1	resolving
+1	considered are
+1	requires
+1	breaks
+1	were supported
+1	can impersonate
+1	to develop
+1	reduces to publishing
+1	has already been deployed
+1	be replaced
+1	would break
+1	intend
+1	explaining
+1	further means
+1	cast-asintended
+1	cannot be based
+1	does not reveal
+1	possibly corrupted
+1	then appends
+1	completely removes
+1	homomorphic tallying allows
+1	can be regarded
+1	want
+1	to enable
+1	make now can still be
+1	using automated
+1	posting
+1	to ea
+1	computing
+1	were processed
+1	designed to make
+1	storing
+1	to issue
+1	discriminate
+1	secret-sharing
+1	there exist
+1	briefly introduce
+1	prevents
+1	is added
+1	applying
+1	made
+1	deployed
+1	to completely resolve
+1	unblind
+1	was published
+1	efficiently improve
+1	are tallied
+1	are then combined to obtain
+1	is licensed
+1	would consist
+1	is supposed to follow
+1	significantly differ
+1	should not only be distributed
+1	are honest.8
+1	systematically analyze
+1	then summarize
+1	would be
+1	then permutes
+1	propose is
+1	binding
+1	is acknowledged
+1	determine
+1	raises
+1	can run
+1	typically keep
+1	is not explained
+1	may therefore exploit
+1	raised
+1	systematizing
+1	introduced
+1	to support
+1	is discarded
+1	tally-hiding
+1	is commonly referred
+1	handling
+1	is run
+1	there still exist
+1	critically reflect
+1	then describe
+1	processing
+1	secretly shuffled according
+1	was designed
+1	presented
+1	analyzed
+1	mainly follows
+1	actually aim
+1	were submitted
+1	be justified
+1	confirm
+1	have been recorded
+1	provided
+1	will be
+1	confusing
+1	needs to be
+1	use to create
+1	were designed to guarantee
+1	was used
+1	b.
+1	also employ
+1	have been proposed to address
+1	become
+1	exploiting
+1	neither holds
+1	hosts
+1	to identify misbehaving
+1	facing
+1	was implemented
+1	to efficiently solve
+1	are dedicated
+1	identifying
+1	can still be biased
+1	had omitted
+1	remain secret
+1	wants to submit
+1	increases
+1	publicly tallyhiding
+1	ensure vote
+1	casting
+1	long run
+1	resolved
+1	is protected
+1	remaining
+1	combine
+1	not be based
+1	can sell
+1	does not offer
+1	even prosecute
+1	can exploit
+1	need to prove
+1	privately sends
+1	obtain
+1	have been proposed
+1	distribute
+1	captures
+1	then published
+1	have been analyzed
+1	modeled
+1	privately prove
+1	then publishes
+1	permanently store
+1	encrypt
+1	running
+1	can only commit
+1	often differ
+1	to leak
+1	can even handle
+1	to reencrypt
+1	originally employed
+1	was supported
+1	motivated
+1	are not defined
+1	impersonate
+1	homomorphically aggregate
+1	obeying
+1	are designed to guarantee
+1	cannot break
+1	vi
+1	permuted according
+1	studied
+1	stuffing
+1	have been used to rerandomize
+1	to identify
+1	has been
+1	applies
+1	are commonly used to design
+1	is denoted
+1	can avoid
+1	recently proposed
+1	assigning
+1	thus serve
+1	stems
+1	misbehaving
+1	is telling
+1	does not learn
+1	can only be read
+1	need to worry
+1	can target
+1	simply assigns
+1	distinguishing
+1	is not guaranteed
+1	prm
+1	verificato
+1	to submit
+1	actually achieve
+1	associated
+1	then takes
+1	cannot be guaranteed
+1	thus knows
+1	was shown to be flawed
+1	corresponds
+1	are essentially employed
+1	is checked
+1	are typically employed
+1	are identified
+1	then only consists
+1	to monitor
+1	agree
+1	are still open
+1	is violated
+1	monitor
+1	holds
+1	used to publicly prove
+1	must not be jeopardized
+1	follows to achieve
+1	can replace
+1	did not find
+1	password to authenticate to pbb
+1	registering
+1	then leave
+1	used to prove
+1	violates
+1	seal
+1	were designed to offer
+1	argued
+1	committed
+1	therefore offers
+1	can be processed
+1	learn
+1	could be used
+1	processed
+1	stored
+1	investigate
+1	computed
+1	remove
+1	to abstain
+1	resolve
+1	can only be realized
+1	also ensure
+1	was computed
+1	cannot
+1	sski
+1	aim
+1	cannot presume
+1	can make
+1	commonly referred
+1	means
+1	not relying
+1	to demonstrate
+1	helios
+1	achieve
+1	is approached
+1	distributes
+1	split-ballot
+1	do there exist
+1	was extended
+1	does not additionally safeguard
+1	should
+1	shuffling
+1	would have to participate
+1	to commit
+1	encoded
+1	is wrongly excluded
+1	will evaluate
+1	supported
+1	encrypted
+1	to answer
+1	can undetectably manipulate
+1	be mitigated
+1	i published
+1	mitigate
+1	tallied
+1	deterministically derive
+1	mixing/shuffling
+1	detect
+1	permuted
+1	publicly decrypted
+1	to encrypt
+1	serve
+1	would use
+1	was filed
+1	works built
+1	si
+1	is not biased
+1	built
+1	is centered
+1	cannot cheat
+1	was specifically designed
+1	can therefore conclude
+1	have
+1	already mentioned
+1	do not elaborate
+1	additionally allows
+1	possibly coerced
+1	to secure
+1	need to assume
+1	aim to provide
+1	addressing
+1	result
+1	re-encrypts
+1	mitigating
+1	will explain
+1	submitted
+1	can only be employed
+1	distinguishes
+1	to undetectably manipulate
+1	suggests to let
+1	to distribute
+1	determines
+1	condone
+1	ciphertext
+1	observed
+1	to sbb
+1	to close
+1	is specifically tailored
+1	there exists
+1	convinces
+1	designed to provide
+1	to learn
+1	used are established
+1	is to realize
+1	computationally privacy-preserving tallying
+1	is used
+1	to provide
+1	has spawned
+1	changing
+1	restrict
+1	can undermine
+1	hence offers
+1	to observe
+1	think
+1	did not submit
+1	also needs to know
+1	essentially differ
+1	to find
+1	strictly focus
+1	substantiate
+1	does not distribute
+1	generate
+1	is delivered
+1	theorems stated
+1	clarify
+1	to established
+1	given
+1	can be convinced
+1	secretly overwrites
+1	to derive
+1	was stored
+1	can check
+1	revoting based
+1	votor
+1	is to protect
+1	are revealed
+1	can easily be deployed
+1	additionally offers
+1	will further demonstrate
+1	additionally employ
+1	is supposed to offer
+1	pke employed
+1	related
+1	can be computed
+1	needs to be protected
+1	copyright held
+1	illuminate
+1	will see
+1	found
+1	does not create
+1	grows
+1	identified
+1	to pbb send
+1	were published
+1	verifying
+1	solves
+1	has/gains
+1	is often distributed
+1	mention
+1	is designed to distribute
+1	can simultaneously handle
+1	matches
+1	to ppat
+1	cannot establish
+1	can be overthrown
+1	then tallied
+1	can convince
+1	does not provide
+1	are denoted
+1	shuffles
+1	acknowledge
+1	is used to update
+1	alone is
+1	mentioned
+1	future-proofing
+1	can essentially be run
+1	argues
+1	summarized
+1	make to provide
+1	executed
+1	will recurrently use
+1	realizing
+1	tj learns
+1	realizes
+1	algorithms
+1	is not included
+1	to avoid
+1	need to be closed
+1	is to broadcast
+1	is applied
+1	could still refuse to reply
+1	need to choose
+1	sometimes called
+1	improving
+1	designed
+1	to express
+1	designated
+1	is not correct
+1	tried to achieve
+1	disproves
+1	classify
+1	can no longer make
+1	cannot be identified
+1	answer
+1	is supposed to provide
+1	work load is
+1	to metadata collected
+1	write
+1	can be instantiated to achieve
+1	can send
+1	are elected
+1	verify
+1	is to specify
+1	needs
+1	could exploit
+1	anonymously submitting
+1	can be achieved
+1	formally proved
+1	also poses
+1	coerce
+1	can be
+1	may seem
+1	closes
+1	is to enable
+1	give
+1	is pressing
+1	created
+1	contradicts
+1	are processed
+1	striving
+1	hold
+1	do not contain
+1	known
+1	to secretly add
+1	to connect
+1	aim to not only provide
+1	sharing
+1	password to authenticate
+1	is supposed to be preserved
+1	committing
+1	privately re-encrypted
+1	call
+1	refer to established
+1	distributing
+1	e0
+1	e1
+1	select
+1	counts
+1	apply
+1	also considers
+1	addressed
+1	replace
+1	then sends
+1	originally claimed
+1	need to trust
+1	cannot create
+1	can employ
+1	makes
+1	therefore disproves
+1	need to make
+1	exemplifies
+1	preceding
+1	leaving
+1	can be used
+1	is derived
+1	do not send
+1	then metadata alone does not help to link
+1	can be mitigated
+1	are linked
+1	appears
+1	pseudonyms
+1	to systematically analyze
+1	mentioned before are
+1	need to verify
+1	to compute
+1	let
+1	not only mitigates
+1	is still guaranteed
+1	to formally prove
+1	can serve
+1	secretly encodes
+1	to update
+1	essentially augments
+1	adds
+1	will
+1	are regularly used
+1	implemented
+1	pass
+1	could replace
+1	even need to trust
+1	also note
+1	do not require
+1	can be extracted
+1	overlooked
+1	employing
+1	pbb
+1	must remain secret
+1	commonly employ
+1	solved
+1	meant
+1	thus break
+1	used to ensure
+1	anonymously submits
+1	is commonly protected
+1	may leave
+1	do not study
+1	are currently used
+1	manipulated
+1	to perfectly hide
+1	to analyze
+1	to address
+1	to indicate
+1	are discarded
+1	updated
+1	employed to guarantee
+1	were not designed to protect
+1	to view
+1	actively deviate
+1	can protect is
+1	to put
+1	are trusted
+1	follow
+1	essentially reduces
+1	are encoded
+1	illustrates
+1	subsequently presented
+1	is closed

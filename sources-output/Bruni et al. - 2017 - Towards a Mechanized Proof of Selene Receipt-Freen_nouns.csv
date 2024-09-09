@@ -1,0 +1,642 @@
+44	selene
+34	vi
+31	tamarin
+27	v1
+21	v2
+16	tracker number
+15	wbb
+12	fr
+12	sb
+10	publishvote
+10	sa
+9	ea
+9	elgamal
+8	rf
+8	tracker numbers
+7	postcommitment
+7	vp
+6	public key
+6	sendsecrettovoter
+5	election authority
+5	env
+5	g ri
+5	mixnet
+5	observational equivalence
+5	pedersen-style
+5	springer
+5	stv1
+5	tellers
+5	zq
+5	} pk
+4	computer
+4	g n
+4	if
+4	individual verifiability
+4	pk i
+4	receipt-freeness
+4	sendvote
+4	stt0
+4	stt1
+4	v2-2
+4	vote-privacy
+4	{ g n
+3	ac
+3	commitment scheme
+3	counter example
+3	dependency graph
+3	equational theory
+3	furthermore
+3	g r
+3	international conference
+3	j } pk
+3	message m
+3	passvote
+3	potential coercer
+3	publishtracker
+3	secret key
+3	secret key sk
+3	stv0
+3	t1
+3	t2
+3	theorem prover
+3	universal verifiability
+3	v2-1
+3	voters identity
+3	{ g ni } pk
+2	= t
+2	acm
+2	actual vote
+2	algebraic programming
+2	arity n
+2	automated
+2	ben smyth
+2	bulletin board
+2	cedric fournet
+2	commitment schemes
+2	copenhagen
+2	corresponding vote
+2	cryptology
+2	definition
+2	dependency graphs
+2	di terms
+2	env r
+2	equational theories
+2	eva drewsen
+2	f #
+2	fake receipt
+2	fake receipts
+2	foo
+2	formal
+2	formal analysis
+2	full formalization
+2	full version
+2	helios
+2	i i
+2	intel xeon
+2	it
+2	j terms
+2	jannik dreier
+2	large scale elections
+2	logic
+2	m pk r
+2	martn abadi
+2	maude church-rosser
+2	multiset rewrite rules
+2	n1 + n2
+2	n1 =
+2	nprp
+2	observational equivalences
+2	okamoto
+2	original paper [
+2	otei } pk
+2	phd
+2	pk ri i
+2	pk ri i g n
+2	private information
+2	private key sk
+2	protocol [
+2	proverif
+2	public bulletin board
+2	publishtrackers
+2	qatar
+2	r.
+2	ralf sasse
+2	ram
+2	random tracker numbers
+2	real receipt
+2	real tracker number
+2	receive
+2	rewrite rules
+2	secret randomness
+2	security protocols
+2	sendtracker
+2	setup
+2	shue
+2	shuetrackers
+2	shuing
+2	signvi
+2	simplified selene
+2	steve kremer
+2	t2-sync
+2	tatsuaki okamoto
+2	theorem
+2	tn terms
+2	v1 i + hn2
+2	v2 i
+2	veronique cortier
+2	voting
+2	zero-knowledge proofs
+2	{ pk ri i } pk
+1	# r
+1	+ operator
+1	-calculus [
+1	= g m pk r
+1	= g sk
+1	= m2
+1	= s \e
+1	= sk = g m
+1	=e m
+1	abstract
+1	acm sigplan notices
+1	acm sigsac
+1	actions a1
+1	actual cast vote
+1	additional tracker numbers
+1	advances
+1	advancing
+1	agent type
+1	alternative protocol ensures
+1	annual
+1	april
+1	archive
+1	assess results
+1	associative-commutative multiset operators
+1	assumptions
+1	atsushi fujioka
+1	attack
+1	attacker [
+1	attacker knowledge
+1	attacking
+1	authch
+1	authentic communication channels
+1	available values
+1	ballot
+1	ballot independence
+1	ballot secrecy
+1	basic requirement
+1	basic s.
+1	bb
+1	bb bulletin
+1	ben adida
+1	benedikt schmidt
+1	brief introduction
+1	bruno blanchet
+1	bulletin
+1	bulletin board contains |c| v + v tracker-vote pairs
+1	byoungcheon lee
+1	c.
+1	carsten schurmann
+1	carsten } @ itu.dk
+1	cast votes
+1	central cryptographic primitive
+1	charles dumenil
+1	checks proofs
+1	citeseer
+1	coercers tracker number
+1	coherence properties
+1	colin boyd
+1	commitment scheme constitutes
+1	common rules
+1	communications
+1	completeness issues
+1	complex equational theories
+1	complex verification problems
+1	computes g ni
+1	computes { g ri
+1	computing
+1	conclusions
+1	confidential channel
+1	confluent equational theory
+1	correctness proofs
+1	correspondence property
+1	corresponding public key
+1	corresponding public keys
+1	corresponding secret key sk
+1	corresponding tuple
+1	creation
+1	critical pairs whenever
+1	crypto system
+1	cryptographic operations
+1	cryptographic theorem provers
+1	cryptology-icisc
+1	cryptologyauscrypt92
+1	current symbolic theorem provers
+1	cyclic group
+1	cyrille wiedling
+1	danish council
+1	data
+1	david
+1	david bernhard
+1	decryption
+1	delaune
+1	dependency
+1	dependency graph dg
+1	design mistakes
+1	dg
+1	di -terms
+1	dierent m0
+1	diffie-hellman
+1	discrete logarithm problem
+1	dishonest teller
+1	distinct tracker number
+1	dolevyao
+1	dreier
+1	e-voting
+1	e.variables
+1	ed dawson
+1	election authority generates
+1	election authority ni ni post ni
+1	encryption pair
+1	encryption scheme
+1	encryption schemes
+1	ensure ballot independence [
+1	entity executes
+1	environment rules
+1	equality
+1	equation adec
+1	equational reasoning
+1	equations trap-door
+1	equivalence properties
+1	essential result
+1	eth zurich
+1	evi i hni
+1	evi i vi = decrypt evi hni
+1	example asymmetric encryption
+1	exists action
+1	extra information
+1	extra tracker
+1	fact symbols
+1	facts
+1	facts l
+1	fake certificate
+1	fake constructors
+1	fake function
+1	fake m m0
+1	fake tracker numbers
+1	fake trackers
+1	fake vote
+1	fake votes cast
+1	false results
+1	fig
+1	figure
+1	final cipher texts
+1	final result
+1	final tally
+1	final tally amounts
+1	financial cryptography
+1	finite multisets
+1	fix
+1	form f
+1	form l [
+1	formal methods
+1	formal model
+1	formal proof
+1	formal verification
+1	francisco duran
+1	fresh nonces
+1	fresh random ri
+1	full explanation
+1	function f
+1	functions
+1	functions commit/3
+1	future work
+1	g m =
+1	g ni
+1	gb
+1	generator g.
+1	goal rule
+1	graph equivalence implies observational equivalence
+1	graphs modulo
+1	ground facts
+1	ground rule instances
+1	hallmark characteristics
+1	i + hn2
+1	i + y
+1	i =
+1	i evi = { vi } pkt si =
+1	i g ni = decrypt elh
+1	i hpki
+1	i ni
+1	i post hpki
+1	identity
+1	incompatible sub-sorts
+1	independent phases
+1	individual verifiabilityand
+1	information
+1	initial states
+1	input facts
+1	interface rules
+1	intermediate stages
+1	introduce zero-knowledge proofs
+1	introduction
+1	j=1 r { pk i i
+1	jeongmo yang
+1	jose meseguer
+1	june
+1	kazuo ohta
+1	kd
+1	key exchange protocols
+1	knuth-bendix
+1	kristian gjsteen
+1	ku
+1	kwangjo kim
+1	lee
+1	linear fact
+1	linear facts
+1	long hashes
+1	m = sk
+1	m pk
+1	main construction
+1	main steps
+1	mark ryan
+1	mechanized
+1	memorisable tracker numbers
+1	message m2
+1	message sequence charts
+1	mirroring
+1	mixnets
+1	mixnets chain
+1	mobile
+1	model
+1	model corresponds
+1	model omits
+1	model secrecy
+1	model shows
+1	model vote-privacy
+1	model zero knowledge proofs
+1	modelling
+1	modelling approach channels selene
+1	multiple mixes
+1	multiple tellers
+1	multiplicative homomorphic property
+1	multiset operation
+1	multiset operator
+1	multiset rewrite rule
+1	multiset semantics
+1	multisets [
+1	n r1 rn
+1	n0 =
+1	n01 + n02
+1	n2 /n01 }
+1	n2 /n02 }
+1	national research fund
+1	necessary conditions
+1	new names
+1	ni =
+1	non-deterministic semantic
+1	non-interactive
+1	non-interactive zero knowledge proofs
+1	non-persistent facts
+1	norwegian
+1	norwegian internet
+1	observational equivalence property
+1	observational equivalences tamarin
+1	obviously
+1	official documentation [
+1	onlyonce
+1	order q
+1	original input
+1	original model
+1	original motivation
+1	original tracker numbers
+1	outgoing edges
+1	output = g r
+1	outputs fake receipts
+1	own receipt
+1	own tracker number
+1	pairs o
+1	paper [
+1	paper uses
+1	partial argument
+1	partial model
+1	pedersen
+1	pedersen-style commitments
+1	peoperties suffice
+1	persistent
+1	personal tracker number
+1	peter
+1	peter ya ryan
+1	physical protocols
+1	pk = g sk
+1	pk i = g sk i
+1	pk r
+1	pks
+1	possible choices
+1	possible instantiations
+1	possible ways
+1	post
+1	precise message sequence chart
+1	principals behave
+1	principles
+1	privacy-type properties
+1	private channel
+1	private key
+1	proceedings
+1	programme comission
+1	proof scripts
+1	proof technique
+1	proofs receipt-freeness
+1	proper implementation
+1	protocol
+1	protocol behave
+1	protocol input
+1	protocol specification
+1	protocol w
+1	protocols
+1	proves receipt-freeness
+1	providing
+1	public channels
+1	public key pk = pk
+1	public key pk i
+1	public messages
+1	public outcome
+1	public/secret key pairs
+1	r2 i r1
+1	random choice
+1	random multi-set reductions
+1	random r
+1	random r0
+1	random value
+1	randomness r
+1	re-encryption
+1	re-encryption mixes
+1	re-encryption mixnet
+1	re-encryption mixnets
+1	re-encryption randomisation
+1	re-encryption schemes
+1	real [
+1	real receipts
+1	real tracker number n1
+1	real vote
+1	receipt fake
+1	receipt-free
+1	receipt-free scheme
+1	receipt-freeness proofs
+1	receipt-freeness properties
+1	receipt-freeness receipt-freeness
+1	recently
+1	reencryption proofs
+1	references
+1	related
+1	relation s
+1	research papers [
+1	revealing
+1	rewrite engine
+1	rewrite theories
+1	ri = pkiri g ni hpki
+1	right projections
+1	right-hand side systems
+1	rnne
+1	rule acts
+1	rule l [
+1	rule premise
+1	rule r1
+1	rule recipes
+1	rules conclusion
+1	rules encode
+1	s tracker number
+1	s vote
+1	sa env sb
+1	scheme poses
+1	scheme preserves vote-privacy
+1	search space
+1	secret information
+1	sections
+1	security protocol verification
+1	security symposium
+1	selene receipt-freeness
+1	selene tamarin
+1	selenes
+1	sendvalue
+1	server checks
+1	set
+1	seungjae yoo
+1	si i 8i
+1	si i post hpki
+1	similarly
+1	simon meier
+1	simplifications
+1	sk i
+1	small |m|
+1	sort system
+1	space explosion
+1	space limitations
+1	special terms di
+1	specific schemes
+1	state explosions
+1	state fact
+1	state s
+1	stateful protocols
+1	stephanie delaune
+1	strategic growth
+1	strategic research
+1	stricter condition
+1	study contributes
+1	stx0
+1	style trap-door commitments
+1	substitution { n1 /n01
+1	subtermconvergent equational theories
+1	such construction
+1	such mistakes
+1	suitable amount
+1	suitable period
+1	supports convergent equational theories
+1	symbol + denotes multiset union
+1	symbolic model
+1	symbolic proofs
+1	synchronisation point
+1	synchronisation points
+1	synchronization point
+1	syntactic categories
+1	sys
+1	system rules
+1	t teller vi voter ea
+1	tamarin tamarin
+1	tamarin team
+1	tamarin-prover manual
+1	technical
+1	technologies
+1	teller assigns
+1	teller assigns ni
+1	teller generates
+1	teller instances
+1	teller j creates r
+1	term fake
+1	terms =e
+1	threshold decryption
+1	tool supports precise analysis
+1	top generic sort msg
+1	torben pryds pedersen
+1	towards
+1	trace properties
+1	trace-based
+1	tracker
+1	tracker ni
+1	tracker number n1
+1	tracker number n2
+1	tracker numbers ni
+1	transition system
+1	transition systems
+1	transitive closure
+1	transparent verifiability
+1	trap door commitment
+1	trap-door commitments
+1	trapdoor commitment
+1	trapdoor commitments
+1	uniform r
+1	unique tracker number
+1	unique tracker numbers ni
+1	useful properties
+1	usenix
+1	uses re-encryption mixnets
+1	v21
+1	value m
+1	variable x
+1	various parties
+1	verifiable re-encryption mixes
+1	verifiable schemes
+1	verifying
+1	vi + hn2
+1	vi + y
+1	vi i + y
+1	vi i = g ri
+1	vi i post hni
+1	vi0 i v0
+1	vincenzo iovino
+1	virtual server
+1	vote-privacy alessandro bruni
+1	vote-privacy vote-privacy
+1	voter encrypts
+1	voter i
+1	voter identity
+1	voter retrieves
+1	voter reveals
+1	voter v
+1	voter votes
+1	voter |c| trackers
+1	voters dont
+1	voters receipts
+1	voters vote
+1	voterstheir choice
+1	votes cast
+1	web bulletin
+1	web-based
+1	wrong tracker
+1	{ 1..max }
+1	{ 1..max0 }
+1	{ albr
+1	{ n1 /n02
+1	{ pk i i
+1	{ pk ri i g n
+1	|c| +
+1	|c| v votes

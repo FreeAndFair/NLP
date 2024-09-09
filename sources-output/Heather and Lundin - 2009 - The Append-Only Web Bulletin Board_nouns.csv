@@ -1,0 +1,442 @@
+75	web bulletin board
+18	state hash
+15	t0
+15	ti
+15	wi
+14	definition
+14	tb
+13	sb
+11	hi
+11	message
+11	signi
+10	bsigni
+8	security properties
+7	assumption
+7	bulletin board
+7	h0
+7	lncs
+7	proceedings
+7	suppose
+6	current state hash
+6	lemma
+5	hk+1
+5	hwbb0n0 i
+5	t1
+5	theorem
+4	publication date
+4	reader retrieves
+4	unalterable history
+3	+ <
+3	advances
+3	b w
+3	hn0
+3	hwbb1n1 i
+3	hwbbn i
+3	mi .ti .wi .hi1
+3	new message
+3	private key
+3	swi
+3	threshold key
+3	timely publication
+2	a. fujioka
+2	acm
+2	board sends
+2	bx
+2	c. boyd
+2	d. chaum
+2	detect corruption
+2	discussion board
+2	distinct terms
+2	distributed
+2	e. dawson
+2	early rejection
+2	electronic
+2	hash function
+2	hash value
+2	hi1
+2	hk
+2	hn
+2	i n
+2	introduction
+2	ith term
+2	liveness properties
+2	message +
+2	message m
+2	mk+1 .tk+1 .wk+1 .hk
+2	n k peers
+2	n peers
+2	new entry
+2	privacy
+2	public keys
+2	punchscan
+2	r. rivest
+2	secret key
+2	sequence hwbbn i
+2	simple induction
+2	surrey
+2	symposium
+2	t. okamoto
+2	threshold cryptography scheme
+2	trustworthy elections
+2	web bulletin board peers
+2	writer sends
+1	//crypto.csail.mit.edu/ rivest/rivestthethreeballotvotingsystem.pdf
+1	1. n = n
+1	2006. http
+1	2k > n.
+1	a. juels
+1	abstract
+1	acknowledgements warm
+1	acm symposium
+1	adequate private key infrastructure
+1	america
+1	analysis
+1	applied cryptography
+1	appropriate checks
+1	assumptions
+1	auction context
+1	auctions
+1	auditable discussion boards
+1	auditable history
+1	auscrypt92
+1	available public key
+1	b. adida
+1	b. lee
+1	b. schneier
+1	b. schoenmakers
+1	bandwidth requirements
+1	basic idea
+1	bidder wishes
+1	board involves
+1	boards commitment
+1	boards sequence
+1	bsign
+1	bsignn0
+1	bulletin board peers
+1	bulletin board satisfies
+1	bulletin boards
+1	c. a. neff
+1	c. john wiley
+1	catastrophic failure
+1	certain information
+1	certified
+1	clean fashion
+1	coding
+1	coercion-resistant
+1	collective history
+1	collective responds
+1	computer
+1	computing
+1	conclusion
+1	considerable advantage
+1	consistent afterwards
+1	consistent histories hwbbn i
+1	consistent history
+1	contains messages
+1	contents hwbb0n0 i
+1	contents hwbb1n1 i
+1	contents hwbbn i
+1	core components
+1	current fashion
+1	d. catalano
+1	d. pointcheval
+1	d. tuinstra
+1	d.lundin } @ surrey.ac.uk
+1	david lundin
+1	decent protection
+1	definitions
+1	delay decisions
+1	delay exceeds
+1	deliberate misconduct
+1	different length
+1	different state hashes
+1	different values
+1	digital signature
+1	disaster recovery
+1	discrete logarithms
+1	discrete logarithms residues
+1	distributed computing
+1	early
+1	edition edition
+1	efficiency reasons
+1	efficient multi-authority election scheme
+1	election [
+1	election observers
+1	election result
+1	electronic elections
+1	electronic society
+1	element hmn0
+1	elgamal
+1	enable agents
+1	enable others
+1	enforceable policy
+1	entire board
+1	entire history
+1	entry k+1
+1	entry k.
+1	equivalence relation
+1	equivalent histories
+1	esorics05
+1	essentially
+1	eurocrypt97
+1	eurocrypt99
+1	f. miura
+1	false allegations
+1	fault tolerance
+1	following
+1	form hm
+1	form hmi
+1	fouque
+1	free algebra
+1	fresh timestamp
+1	fresh timestamp.1
+1	full trust
+1	furthermore
+1	g. poupard
+1	good collision-free hash function
+1	graaf
+1	guildford
+1	h+1
+1	h.
+1	h1
+1	high-integrity election system
+1	http
+1	hwbb i
+1	hwbb0n i
+1	hwbbn i .sb
+1	hwbbn i whenever
+1	iavoss
+1	icisc03
+1	ieee
+1	ieee transactions
+1	immediate consequence
+1	important consequence
+1	increase trust
+1	indisputable electronic elections
+1	inductive hypothesis
+1	inequivalent consistent web bulletin board histories
+1	information security99
+1	interesting consequences
+1	it
+1	ith terms
+1	j. adler
+1	j. benaloh
+1	j. stern
+1	j. yang
+1	james heather
+1	jeroen
+1	k boards
+1	k key holders
+1	k peers
+1	k. fisher
+1	k. kim
+1	k. ohta
+1	key holders
+1	large number
+1	large scale elections
+1	large-scale system
+1	lee
+1	length k.
+1	liveness guarantees
+1	locking
+1	log files
+1	loose ends
+1	m. abe
+1	m. jakobsson
+1	m. ohkubo
+1	m.t0 .h
+1	m0k+1 .tk+1 .wk+1
+1	m0k+1 .tk+1 .wk+1 .hk0
+1	main motivation
+1	message involves
+1	message mi
+1	message origin
+1	message timestamp
+1	messages need
+1	metadata abstract
+1	mi = mi
+1	mk+1 .tk+1 .wk+1 =
+1	motivation
+1	multicandidate election system
+1	n =
+1	n = k +
+1	n bulletin board peers
+1	n establishes
+1	n k +
+1	n parts
+1	n0 elements
+1	n1 < n0
+1	national election
+1	natural way
+1	neat way round
+1	need store
+1	new state hash
+1	o. baudron
+1	obtains proof
+1	often
+1	old signatures
+1	old timestamps
+1	online petition
+1	otherwise
+1	own history
+1	p. paillier
+1	p. ryan
+1	p.-a
+1	paillier
+1	paper fills
+1	particular cryptographic mechanism
+1	particular history hwbb i
+1	particular message
+1	particular threshold cryptography scheme
+1	particular time
+1	particular web bulletin board peer
+1	peer refuses
+1	peer results
+1	peers
+1	pki
+1	plain text files
+1	podc01
+1	political parties
+1	practical
+1	practical methods
+1	practical upshot
+1	practical voter-verifiable election scheme
+1	preliminary results
+1	preproceedings
+1	previous assumption
+1	previous section
+1	primary motivation
+1	principal weakness
+1	principles
+1	privacy magazine
+1	pro9
+1	proposition
+1	providing
+1	public key cryptosystem
+1	public key scheme
+1	public-key
+1	publication vehicle
+1	publish
+1	publish zero-knowledge proofs [
+1	r. aditya
+1	r. carback
+1	r. cramer
+1	r. gennaro
+1	reader checks
+1	readers retrieve
+1	reading assumptions message
+1	receipt-free
+1	recent entry
+1	recent years
+1	references
+1	remark
+1	repository suffers catastrophic failure
+1	required
+1	retrieving
+1	reverse direction
+1	ricardo filipe custodio
+1	roadmap
+1	roberto araujo
+1	robust
+1	robust web bulletin board
+1	roger peel
+1	rough idea
+1	s timestamp
+1	s. schneider
+1	s. yoo
+1	scratch
+1	secondly
+1	secret ballot receipts
+1	secret share
+1	secretballot elections
+1	section 4.
+1	sections
+1	security parameter
+1	separate organisation
+1	sequence hwbbn i .sb
+1	service attack
+1	severe sanctions
+1	sheer number
+1	sign
+1	signature scheme
+1	signed
+1	significant air time
+1	signn0
+1	simple mathematical induction
+1	source code
+1	specific data
+1	state hashes
+1	stoc94
+1	submit messages
+1	such cases
+1	summary
+1	system crashes
+1	system definition
+1	system failure
+1	system logs
+1	system satisfies
+1	systematic treatment
+1	t tb
+1	t. elgamal
+1	t. sherman
+1	terms form
+1	theory
+1	thorough robustness properties
+1	threshold scheme
+1	threshold subset
+1	ti ti
+1	timeliness
+1	timely fashion
+1	tn0
+1	true voterverifiable elections
+1	trustbus04
+1	typically
+1	uk
+1	underhand tactics [
+1	useful information
+1	various assumptions
+1	various claims
+1	various parties
+1	various partiesthe writersto publish information
+1	various writers
+1	verifiability
+1	verifiable online log
+1	vital components
+1	votehere inc
+1	voters receipt
+1	votes [
+1	w b
+1	way round
+1	wbbi = hmi
+1	wbbi contains
+1	web
+1	web bulletin board appends hm.t.w.h.sw
+1	web bulletin board checks
+1	web bulletin board histories hwbbn i
+1	web bulletin board rejects
+1	web bulletin board robust
+1	web bulletin board stores
+1	web bulletin board suggests
+1	web bulletin board tries
+1	web bulletin boards
+1	web bulletin boards signature
+1	web bulletin boards timestamp
+1	whenever
+1	whether
+1	whole election
+1	widespread requirement
+1	wn0
+1	wote
+1	writer chooses
+1	writer collude
+1	writer rejects
+1	writer signs
+1	writer w attempts
+1	writers commitment
+1	writers name
+1	writers signature commits
+1	writing protocol
+1	writing writing
+1	zhe xia
+1	{ j.heather
+1	| <

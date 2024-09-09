@@ -1,0 +1,659 @@
+17	id-card
+15	pc
+14	estonia
+12	j.
+11	mobile device
+10	a.
+10	android
+10	feedback channel
+9	computer
+8	os
+7	estonian internet
+7	individual verification
+6	e2e
+6	mobile devices
+6	qr-code
+6	willemson
+5	allow
+5	d.
+5	digital hygiene
+5	estonian
+5	m.
+5	proceedings
+5	root access
+5	s.
+4	encpkserver
+4	figure
+4	heiberg
+4	nfc
+4	oses
+4	p.
+4	pc-based
+4	possible mitigation measures
+4	promote
+4	r.
+4	sigvoter
+4	source software
+4	springer
+4	tartu
+4	z.
+3	currently
+3	e-voting
+3	estonian internet voting
+3	freshness notification
+3	h.
+3	international conference
+3	internet
+3	k.
+3	large scale attack
+3	lecture notes
+3	mitigation measures
+3	pin-pad
+3	rand
+3	september
+3	sms
+3	usenix
+3	verification device
+3	verification process
+3	vote
+3	vote verification protocol
+2	2014. pp
+2	@ eesti.ee redirection service
+2	acm sigsac
+2	analyse
+2	analysis
+2	apple
+2	austria
+2	bregenz
+2	buldas
+2	cards authentication environment
+2	communications
+2	current state
+2	display
+2	e-id solutions
+2	e.g
+2	electronic identity
+2	electronic voting
+2	fig
+2	future work
+2	identity
+2	improving
+2	information
+2	introduce
+2	ivxv
+2	key k
+2	kiniry
+2	krimmer
+2	l.
+2	laud
+2	legal measure
+2	linux
+2	list l
+2	malware detection measures
+2	mobile device screen
+2	mobile platforms
+2	mobile-id/smart-id signature
+2	narva
+2	october
+2	open source software
+2	oruaas
+2	pin
+2	pins
+2	postpone
+2	present-day threat landscape
+2	prevent id-card
+2	qian
+2	require
+2	sim
+2	smart-id
+2	specter
+2	springall
+2	state level actors
+2	symposium
+2	system-wide measure
+2	t.
+2	tallinn
+2	threat actors
+2	usa
+2	user knowledge
+2	verification protocol
+2	verification scheme
+2	verification system
+2	verifying
+2	voatz
+2	volkamer
+2	voteid
+2	voters e-id
+2	zhang
+1	# = measure
+1	// www.idownloadblog.com/2019/10/26/coolstar-sileo-development-suspended/
+1	//doi.org/ 10.1007/978-3-319-22270-7\_2
+1	//doi.org/ 10.1109/evote.2014.7001135
+1	//old.reddit.com/r/jailbreak/comments/7iu0sx/discussion_can_ we_please_find_someone_to_help/dr2m6nx/
+1	//rk2019.valimised.ee/en/participation/participation.html https
+1	//www.cvedetails.com/ https
+1	//www.mkm.ee/sites/default/files/content- editors/e- valimiste_ tooruhma_koondaruanne_12.12.2019_0.pdf
+1	//www.valimised.ee/en/archive/statistics- about- internet- votingestonia
+1	ablon
+1	acceptable trade-o
+1	acknowledgements
+1	acm
+1	acquiring
+1	actual usage
+1	additional legal analysis
+1	adversarial control
+1	adversarys activities
+1	ahn
+1	allowing
+1	anderson
+1	android root exploits
+1	ansper
+1	antivirus software
+1	application
+1	application displays
+1	application scenario
+1	attack goals
+1	attack model
+1	attack surfaces
+1	attacker changes
+1	attacker manages
+1	aug
+1	authenticate candidate
+1	authentication factors
+1	average life expectancy
+1	awareness
+1	az
+1	ballot
+1	barrat
+1	bc
+1	behaviour
+1	benaloh
+1	bern
+1	blockchain
+1	bogart
+1	breaching
+1	busted
+1	c.
+1	cambridge
+1	card reader
+1	case coercion
+1	case voters device
+1	ccs
+1	certain attacks
+1	certain time-limit
+1	cheng
+1	civil hacktivist
+1	classification
+1	client
+1	coercer observes
+1	coercers capability
+1	coercers incentive
+1	coercibility level
+1	coercion attacks
+1	coercion-resistance requirements
+1	common knowledge
+1	comparable security level
+1	comparative security level
+1	complex set
+1	computers
+1	computing machinery
+1	concept security
+1	concerning
+1	conclusions
+1	core problems
+1	corresponding risk level
+1	critical zero-day flaw
+1	cryptographic coprocessor
+1	current paper builds
+1	current set-up
+1	current verification scheme
+1	current verification system
+1	current vote verification system
+1	cybernetica as
+1	d.j
+1	dai
+1	daily interactions
+1	delay delivery
+1	deploy malware
+1	design path
+1	detect [
+1	detect anomalies
+1	detect interference
+1	detect malware
+1	detect vote
+1	detecting
+1	developing
+1	development models
+1	device [
+1	dierent devices
+1	digital channels
+1	digital hygiene awareness
+1	digital services
+1	direct bribery
+1	discourage
+1	display confirmation codes
+1	drivers licence
+1	drops votes
+1	durumeric
+1	e-id devices
+1	e-id ecosystem
+1	e-id environment
+1	e-id tokens
+1	e-id tools
+1	e-id utility
+1	e-mailbox passwords
+1	e-vote-id
+1	e-voting_concept_security_analysis_and_measures_2010.pdf
+1	e2e-viv
+1	efficient
+1	efficient measure
+1	efficient prevention measure
+1	eid level risks
+1	election organiser
+1	election outcome
+1	elections
+1	electoral office
+1	elgamal
+1	email address
+1	email attachments
+1	email redirection service
+1	enck
+1	encrypt vr
+1	encryption randomness r.
+1	escalate privileges
+1	esorics
+1	esoteric apps
+1	estimate security level
+1	estonia abstract
+1	estonian estonian
+1	estonian internet voting scheme
+1	estonian parliamentary elections
+1	estonian personal
+1	eu48684
+1	european regional development fund
+1	evote
+1	excellence
+1	existing
+1	exploits
+1	extra attack capability
+1	extra cryptographic key k
+1	fake notifications
+1	familiar manner
+1	farzaliyev
+1	feedback channel measure
+1	feedback mechanism
+1	figures
+1	final tally
+1	finkenauer
+1	foley
+1	folk beliefs
+1	foltzer
+1	foreign state-level actor
+1	foreign trade
+1	form personalcode @ eesti.ee
+1	freedom need
+1	full control
+1	full security study
+1	future research
+1	future research steps
+1	future study
+1	g.
+1	gasparis
+1	general awareness level
+1	general direction
+1	general electronic identity
+1	general havoc
+1	general level
+1	general risks
+1	generate havoc
+1	gollmann
+1	good example
+1	good measure
+1	goodman
+1	governmental entities
+1	grant
+1	grant number
+1	haenni
+1	halderman
+1	high-resource state level attackers
+1	holistic study
+1	hostile take-over
+1	hursti
+1	i-voting
+1	i.
+1	id
+1	id-cards
+1	id-cards nfc
+1	ideal world
+1	identify attacks
+1	ideological motives
+1	ieee
+1	independence
+1	independent devices
+1	independent e-id tools
+1	independent notification channel
+1	independent verification platform
+1	individual recovery measure
+1	individual verification [
+1	individual verification option
+1	individual verification protocol
+1	individual vote verification mechanism
+1	individual vote verification protocol
+1	inherent risk
+1	initial choice
+1	initial findings
+1	initial vote
+1	input-output mechanisms
+1	integrity guarantees
+1	integrity risks
+1	international enterprises
+1	internet voting application used
+1	internet voting soola
+1	introducing
+1	introduction casting
+1	invalid vote
+1	ios community
+1	j.a
+1	jan willemson2,3
+1	jan.willemson } @ cyber.ee
+1	joint
+1	jurgenson
+1	kalu
+1	key measure
+1	key storage
+1	kiayias
+1	kitcat
+1	koenig
+1	koppel
+1	krips
+1	krishnamurthy
+1	kristjan krips2,4
+1	large scale attack = measure
+1	law enforcement
+1	legal aspects
+1	legal impacts
+1	legal right
+1	legitimate session
+1	level risks
+1	level threats
+1	li
+1	lipmaa
+1	lochau
+1	log
+1	log analysis
+1	long lifetime
+1	long run [
+1	m.a.
+1	ma
+1	macalpine
+1	maealuse
+1	main classes
+1	main dierences
+1	main directions
+1	main eid solutions
+1	main kinds
+1	main mailbox
+1	main rationale
+1	main reason
+1	malicious device
+1	malicious manipulation
+1	malicious ones
+1	malware
+1	malware attacks
+1	manipulating
+1	martens
+1	meaningful security guarantees
+1	median lifetime
+1	medium level
+1	meng
+1	methods range
+1	mit
+1	mitigation
+1	mitigation measure
+1	mobile e-id solutions
+1	mobile phone
+1	mobile platform
+1	mobile verification device
+1	mobile votes
+1	mobile-id
+1	morina
+1	multiple scenarios
+1	n.j.
+1	namely
+1	near field communication
+1	new i-vote
+1	new measures
+1	new political coalition
+1	new recommendations
+1	new release
+1	newly
+1	nights
+1	norway
+1	notification feedback channel
+1	november
+1	ny
+1	obfuscation g
+1	obfuscation obfuscation
+1	official @ eesti.ee email redirection service
+1	official ios
+1	one-time cryptographic
+1	only work
+1	open action items
+1	open development models
+1	open source
+1	original choice
+1	original focus
+1	original motivation
+1	os-es
+1	oslo
+1	overall security level
+1	overwrites voters
+1	p.y.a.
+1	paper ballot
+1	paper considers
+1	parliamentary
+1	parsovs
+1	part i. lecture notes
+1	partial integrity check
+1	particular version
+1	pc mobile
+1	personal email account
+1	personal view
+1	personal voting machine
+1	perspectives
+1	physical access
+1	pin-pad-based id-card
+1	pin-pad-equipped id-card
+1	pin-pads
+1	pin1
+1	pinfirewalled
+1	policy decisions
+1	political party
+1	positive eect
+1	possible countermeasure
+1	possible drawback
+1	possible measures
+1	possible new detection mechanism
+1	possible solutions
+1	potential bounties
+1	potential feedback channel
+1	potential problems
+1	practice [
+1	present estonian
+1	present scheme
+1	present system
+1	prevention detection
+1	preventive measure
+1	previous vote
+1	priisalu
+1	primary goal
+1	proof-of-concept vote manipulation malware
+1	proposed estonian
+1	protocol description
+1	protocol suite
+1	public disclosures
+1	public sources
+1	qr
+1	r vr
+1	r.e.
+1	raiend
+1	raising
+1	rapid decline
+1	rare dataset
+1	rare technical capabilities
+1	receipt freedom
+1	recent posts
+1	recent studies
+1	recent study
+1	reference vr k
+1	reference vr vr
+1	references
+1	regular smart card reader
+1	relevant e.g
+1	reliable statistics
+1	report [
+1	research scrutiny
+1	residual risks
+1	resourceful attacker
+1	respective applications
+1	retain
+1	reverse engineer
+1	revised selected papers
+1	right
+1	robinson
+1	root exploits
+1	root permissions
+1	root providers
+1	root user permissions
+1	ross anderson
+1	ryan
+1	s.n.
+1	s.v
+1	scalable manner
+1	scheme relies
+1	scientific literature
+1	scottsdale
+1	security aspects
+1	security level
+1	security model
+1	separate analysis eort
+1	serious attack vectors
+1	serious implication
+1	serious steps
+1	server side
+1	server-side auditability [
+1	server-supported rsa signatures
+1	sever authenticate candidate
+1	sever mobile
+1	short periods
+1	side eect
+1	side eects
+1	side restrictions
+1	signature key
+1	significant new attack vectors
+1	significant organisational capability
+1	significant positive impact
+1	significant resources
+1	similarly
+1	single
+1	smartcard reader
+1	smartmatic-cybernetica centre
+1	smartphone users
+1	smses
+1	snekkenes
+1	software [
+1	specific cryptographic scheme [
+1	specific devices
+1	stacc
+1	standard measures
+1	state-level attacker
+1	strong notion
+1	subscriber identity module
+1	such action
+1	such argumentation
+1	such attacks
+1	such failures
+1	such malware
+1	such readers
+1	sufficient evidence
+1	superfluous action
+1	superuser credentials
+1	survival probability
+1	sven @ ivotingcentre.ee
+1	sven heiberg1
+1	switzerland
+1	system authority
+1	system versions [
+1	system-level properties [
+1	target
+1	teague
+1	technical point
+1	thing
+1	threat actor
+1	time window
+1	time windows
+1	times people vote
+1	token scenario
+1	u.s.
+1	u.s. vote
+1	untrustworthy locations
+1	usability points
+1	usage
+1	user behaviour
+1	user experience
+1	user interface
+1	user study
+1	users screen
+1	v.
+1	v.l.
+1	valid vote
+1	vancouver
+1	veldre
+1	verifiability
+1	verifiable internet
+1	verification
+1	verification app
+1	verification application
+1	verification devices
+1	verification platforms
+1	verification time window
+1	verification time-window
+1	vinkel
+1	virtual presence
+1	virunurm
+1	vote integrity
+1	vote privacy
+1	vote reference vr
+1	vote secrecy
+1	vote verification
+1	voter confusion
+1	voter performs
+1	voter privacy
+1	voter uses
+1	vs ios
+1	vulnerability reports8
+1	vulnerable platform
+1	wagner
+1	way [
+1	weakest point
+1	weitzner
+1	whether
+1	whole suite
+1	whole system
+1	wide use
+1	widespread individual verification
+1	wikstrom
+1	windows
+1	work on6
+1	y.
+1	york
+1	yung
+1	zero
+1	zero day vulnerabilities
+1	zero day vulnerabilities [
+1	zero-click exploits
+1	zero-day attacks
+1	zero-day vulnerabilities
+1	zero-day vulnerabilities [
+1	zimmerman
+1	{ kristjan.krips

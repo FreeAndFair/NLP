@@ -1,0 +1,668 @@
+26	voter
+25	pret
+19	audit
+18	ebm
+13	] [
+11	ryan
+10	bulletin
+10	m.
+8	c.
+8	d.
+8	election authority
+8	j.
+8	scantegrity ii
+7	chaum
+7	rhs
+7	s.
+7	variant
+6	a.
+6	k.
+6	lhs
+6	proc
+6	r.
+6	springer
+6	star-vote
+6	t.
+5	bb
+5	e.
+5	election tellers
+5	eurocrypt
+5	p.y.a.
+5	privacy
+5	teague
+4	assumption
+4	audit ensures
+4	ballot paper
+4	candidate order
+4	electronic ballot marker
+4	fig
+4	mixer outputs
+4	sako
+4	schneider
+4	v.
+4	victorian
+4	voter checks
+4	vprng
+3	audits
+3	b.
+3	ballot
+3	ballot papers
+3	candidate list
+3	computational device
+3	culnane
+3	definition
+3	ebms
+3	essex
+3	figure
+3	hirt
+3	lee
+3	mental calculation assumption
+3	okamoto
+3	original ballot
+3	p.
+3	plaintext list
+3	pret-a-voter
+3	privacy threshold
+3	re-encryption mixers
+3	ryans
+2	a.t.
+2	acm
+2	acm trans
+2	aditya
+2	anonymous channel
+2	anonymous polling-booth
+2	audit paper
+2	ballot construction
+2	ballot generation
+2	ballot generators
+2	ballot secrecy
+2	ballots cast
+2	benaloh
+2	boyd
+2	carback
+2	civitas
+2	clark
+2	coercion resistance
+2	computer level
+2	confirmation codes
+2	correct
+2	corrupt devices
+2	dawson
+2	distinct states
+2	efficient
+2	election result
+2	election scheme
+2	encrypt votes
+2	false aspersions
+2	filling
+2	full knowledge
+2	full threshold device privacy
+2	heather
+2	in-booth mixers
+2	individual poll-site devices
+2	inf
+2	large scale elections
+2	left hand side
+2	major parties
+2	mixing
+2	motivation
+2	new permutation
+2	optional
+2	overview
+2	permutation p
+2	popoveniuc
+2	primary contribution
+2	public key
+2	r.l.
+2	receipt-free
+2	rivest
+2	s.a.
+2	scanner prints
+2	scanning
+2	secur
+2	shen
+2	sherman
+2	signature scheme
+2	single
+2	solution
+2	step occurs
+2	sufficient information
+2	syst
+2	threshold cryptography
+2	threshold device privacy
+2	upon
+2	victoria
+2	vote
+2	voter chooses
+2	voter enters
+2	voter input
+2	voter uses
+2	voters selection
+1	] .that
+1	] addresses
+1	] attacks
+1	] oers privacy
+1	] style proof
+1	a.c.
+1	abe
+1	abstract
+1	accessibility legislation
+1	accessibility reasons
+1	acknowledgements
+1	active voter coercion attack
+1	adams
+1	additional
+1	additional complication
+1	additional constraint
+1	additional in-booth hardware
+1	additional mix
+1	additional property
+1	additional re-encryption process
+1	additionally
+1	advanced it tools
+1	advances
+1	adversarys power
+1	anonymous channels
+1	anonymous untappable channel
+1	approach draws
+1	appropriate method
+1	arc
+1	art
+1	audit involves
+1	audit step
+1	auditing
+1	auditor checks
+1	audits fall
+1	auscrypt92
+1	australia
+1	australian
+1	autonomous individual-ballot third-party
+1	background
+1	ballot contains
+1	ballot generation function
+1	ballot generation information
+1	ballot generation occurs uses trapdoor information
+1	ballot marker
+1	ballot privacy
+1	ballot reflects
+1	ballot reveals votes
+1	ballot states
+1	ballots
+1	ballots collected
+1	ballots fall
+1	basic algebraic operation
+1	batch processing
+1	benefits outweigh
+1	blind signatures [
+1	blind-signature-based
+1	brief suggestions
+1	broadcast channel
+1	burton
+1	byrne
+1	c.a
+1	cast ballot
+1	cast ballots
+1	cast doubt
+1	catalano
+1	ccs
+1	central issue
+1	chaums visual cryptography
+1	check-in
+1	checking
+1	chong
+1	ciphertext candidate-ids
+1	ciphertext candidate-ids output
+1	clarkson
+1	coercion-resistant
+1	cohen
+1	common parts
+1	common suggestion
+1	communications
+1	composable mix-net
+1	compromise privacy
+1	computer ate
+1	concern worldwide
+1	conclusion
+1	confirmation codes prevents re-encryption
+1	contains boxes
+1	controversial assumption
+1	conventional pret
+1	core idea
+1	corr
+1	correct ballot
+1	correct ebm
+1	correct in-booth mixing universal
+1	correct mixing
+1	correct output
+1	corresponding permutation
+1	corrupt authority
+1	corrupt election authority
+1	corrupt set
+1	cramer
+1	critical information
+1	cryptographic work
+1	cryptol.icisc
+1	cumulative eect
+1	current ballot
+1	current literature
+1	d.s
+1	deliberate attacks
+1	device
+1	device learns
+1	device-anonymous polling booth
+1	dierences
+1	dierent approach
+1	dierent implementations
+1	dierent stages
+1	dierent ways
+1	digital
+1	digital pseudonyms
+1	direct encryption
+1	directions
+1	disposal bin
+1	dividing
+1	e2e
+1	ea
+1	easiest solution
+1	ebm assisted variant fig
+1	election officials
+1	election organisers
+1	election results
+1	election system vvote [
+1	election technology
+1	election trustees
+1	elections
+1	elections [
+1	electronic ballot markers
+1	electronic elections
+1	electronic voting technology/workshop
+1	enable vote verification
+1	end-to-end
+1	end-to-end schemes
+1	end-to-end verifiability
+1	endto-end verification
+1	ensure integrity
+1	ensure receipt-freeness
+1	entire ciphertext
+1	entropy therein
+1	esorics
+1	etrics
+1	everlasting
+1	evt
+1	example ballot
+1	expensive proposition
+1	expressiveness suers
+1	external attacker
+1	external computation device
+1	f.
+1	facial recognition database
+1	failures
+1	faster
+1	fill
+1	filled-in ballots
+1	filling process
+1	final ballot
+1	final permutation
+1	final tally
+1	fischer
+1	focs
+1	formal methods
+1	franklin
+1	fresh ballots
+1	freshlygenerated
+1	ft1401185
+1	fujioka
+1	full threshold device privacy property
+1	general adversaries
+1	general adversary
+1	general categories
+1	generates ballots
+1	generic passive
+1	gogolewski
+1	government elections
+1	governmental election
+1	great concern
+1	grundland
+1	hand side
+1	hengartner
+1	hernson
+1	high level
+1	home district
+1	homomorphic
+1	homomorphic encryption
+1	homomorphic encryption [
+1	human input
+1	human-computable threshold schemes
+1	human-permutation variant
+1	i-th round
+1	i-th round mix
+1	ieee
+1	ieee symposium
+1	implies information-theoretic privacy
+1	important property
+1	improvement alleviates
+1	in-booth mixer
+1	in-polling-booth
+1	in-polling-booth ballot generation
+1	in-polling-booth end-to-end
+1	incorrect signature
+1	individual ballot
+1	individual ballots
+1	individual paper ballots
+1	individual votes
+1	info
+1	information forms
+1	initial permutation
+1	input component
+1	instant-runo voting
+1	introduction cryptographic
+1	invisible ink confirmation codes
+1	irv
+1	issues
+1	italian attack6
+1	italian attacks works
+1	itoh
+1	j.c.
+1	j.d.
+1	jakobsson
+1	jcj
+1	joaquim
+1	john conwaym
+1	juels
+1	key dierences
+1	key innovation
+1	key points
+1	kilian
+1	kim
+1	kleptographic
+1	kleptographic [
+1	kleptographic problem
+1	klonowski
+1	kortum
+1	kubiak
+1	kurosawa
+1	kutylowski
+1	large permutations
+1	lauks
+1	limitations
+1	linear work
+1	m.j.
+1	m.r.
+1	major benefit
+1	major issues
+1	malicious device
+1	malleability attack
+1	mayberry
+1	mcburnett
+1	mental
+1	mental calculations
+1	mental permutation
+1	mere serial number
+1	mix
+1	mix servers
+1	mix-networks
+1	mixer permutes
+1	mixer prints
+1	mixers
+1	mixing universal
+1	mixnet-based
+1	mixnets
+1	mixnets [
+1	moran
+1	moran-naor
+1	multi-authority
+1	multiple devices
+1	multiple entities creates
+1	multiple printers
+1	multiple re-encryption clerks
+1	municipal election
+1	myers
+1	n.
+1	naor
+1	ne
+1	network access
+1	new information
+1	new states
+1	new variants
+1	non-standard paper
+1	notable dierence
+1	o.
+1	ohta
+1	optical scan election systems
+1	optical scan systems
+1	optional re-encryption
+1	original scheme
+1	overall audit flow
+1	own final mix
+1	p.b.
+1	p.l
+1	p.s.
+1	p.t.
+1	p.y.
+1	paper [
+1	paper ballot
+1	paper home
+1	parliamentary election
+1	partial applicability
+1	partial compromise
+1	partial identification
+1	particular emphasis
+1	peacock
+1	pereira
+1	permutation
+1	permutation networks
+1	permutation p.
+1	personal audits
+1	peter ryan
+1	pfitzmann
+1	ph.d.
+1	physical printer
+1	plaintext version
+1	pointwise sequential evaluation
+1	political parties
+1	poll-site devices
+1	poll-site machines
+1	polling-booth assumption
+1	polling-place devices
+1	polling-station attendants
+1	pollingbooths
+1	possible level
+1	possible solutions
+1	practical matters
+1	practical privacy
+1	practical solution
+1	practical voter-verifiable election scheme
+1	practically
+1	pre-election logistics
+1	prevents deanonymisation
+1	previous work
+1	primary benefit
+1	primary conflicts
+1	primary technique
+1	print ballot papers
+1	print ballots
+1	print-on-demand
+1	printers
+1	printers data
+1	privacy breaches
+1	privacy enchantment
+1	privacy implications
+1	privacy issues
+1	privacy levels
+1	privacy risk
+1	procedural measures
+1	proceedings
+1	prominent in-polling-booth
+1	proposals fall
+1	proto-ballots
+1	proto-ballots leak
+1	protocols
+1	providing
+1	pseudo-random number generator
+1	public bulletin board information
+1	public function
+1	public information
+1	public receipts
+1	qr
+1	queensland
+1	randomness r.
+1	randomness values
+1	re-encrypation mixers
+1	re-encryption
+1	re-encryption clerks
+1	re-encryption occurs
+1	re-mixable confirmation codes
+1	readable candidate list
+1	readable forms
+1	realise in-booth ballot construction
+1	reasonable assumption3
+1	receipt
+1	receipt-freeness [
+1	receipt-freeness property
+1	receipts
+1	recent paper [
+1	recent work
+1	references
+1	relative cost
+1	relevant parties
+1	remote setting
+1	return addresses
+1	right hand side
+1	risky proposition
+1	runo voting
+1	runs contrary
+1	scanner submits
+1	scanners
+1	scantegrity
+1	scheme [
+1	schemes facilitate
+1	schoenmakers
+1	sec
+1	secret confirmation codes
+1	secret creates difficulties
+1	secret information
+1	secret-ballot
+1	secretballot elections
+1	security issue
+1	separate ciphertexts
+1	separated-mixed
+1	signature
+1	signature correctness
+1	significant difficulty
+1	significant disincentive
+1	significant issues
+1	significant number
+1	similar way
+1	similarly
+1	simple case
+1	single-device attacks
+1	small permutations
+1	solution relies
+1	special case
+1	specific voter
+1	split-ballot
+1	srinivasan
+1	standard manner
+1	standard method
+1	standard mixnet
+1	standard mixnets
+1	standard order
+1	standard re-encryption mixnet
+1	stark
+1	starvote
+1	state election
+1	state elections
+1	stricter usability constraints
+1	strong dierence
+1	strong evidence
+1	strong similarity
+1	stv
+1	subject themself
+1	subsequent mix
+1	suitable proofs
+1	summary
+1	supported
+1	system model
+1	systems
+1	takoma
+1	tallying
+1	tamper-evident ballot papers
+1	tcc
+1	technology workshop
+1	third-party mixing
+1	threeway collusion
+1	threshold key parts
+1	threshold-cryptographic key
+1	throughout
+1	timing attack
+1	touch screen
+1	toward
+1	trace votes
+1	trivial revelation
+1	true
+1	truly multi-authority pret-a-voter thomas haines
+1	trust amongst
+1	trust assumption
+1	trustworthy elections
+1	u.
+1	unconditionally-secret ballots
+1	universal audits
+1	universal proof
+1	untappable channel
+1	unusual vote
+1	usenix
+1	usenix accurate electronic voting
+1	usenix evt/wote
+1	usenix hot topics
+1	usenix j
+1	uses hybrid human-computer cryptography
+1	uses re-encryption
+1	valid fake receipt
+1	valid proof
+1	valid signature
+1	vanessa teague
+1	variant 1s
+1	variant 2s
+1	variant relies
+1	variant targets
+1	variant uses re-encryption
+1	various agents
+1	verifiable mixes
+1	verifiable secret shue
+1	verifiable secret-ballot elections
+1	verification
+1	verification information
+1	victorian pret-a-voter
+1	visual cryptography
+1	visually
+1	vora
+1	vote occurs
+1	voter action
+1	voter complains
+1	voter composes
+1	voter fills
+1	voter learns
+1	voter selection
+1	voter uncovers
+1	voter-verifiable elections
+1	voter-verifiable scheme
+1	voters identity
+1	voters input
+1	voters interact
+1	voters privacy
+1	vvote team
+1	wallach
+1	way ballots
+1	wen
+1	white papers
+1	wikstrom
+1	wombat
+1	wpes
+1	xavier boyen
+1	xia
+1	yale
+1	yang
+1	yoo
+1	yung
+1	z.
+1	zagorski

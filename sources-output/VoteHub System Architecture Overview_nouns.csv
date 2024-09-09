@@ -1,0 +1,774 @@
+50	bulletin board
+33	architecture overview version
+33	version date
+17	digital ballot box
+14	digital ballot
+12	voter authorizer
+10	election administrator
+10	identity providers
+9	new item
+9	pre-election phase
+9	protocol document
+8	ballot duplication
+8	election officials
+8	identity tokens
+7	external verifier
+7	public key
+7	votehub
+7	voter
+6	cryptographic protocol document
+6	election phase
+6	key pair
+6	trustee application
+6	verification track
+6	voter authorizer service
+5	additionally
+5	details
+5	election process
+5	election system
+5	identity provider
+5	private key
+5	vote
+4	ballot box
+4	ballot retrieval
+4	ballot style
+4	bulletin
+4	channels
+4	e2eviv
+4	eligible voters
+4	general system
+4	previous item
+4	requirements
+4	section 4.3.3.5
+4	verifier
+4	vote cryptogram
+4	vote cryptogram generation process
+4	voting
+4	voting application
+3	activities
+3	auditor
+3	ballot cryptograms item
+3	challenge process
+3	communication channels
+3	component descriptions
+3	configuration
+3	confirmation receipt
+3	cryptographic operations
+3	cryptographic protocol documentation
+3	decryption key
+3	decryption phase
+3	descriptions
+3	election administrator application
+3	election administrator service
+3	election protocol
+3	encryption parameters
+3	final tally
+3	human readable record
+3	internet connection
+3	multiple times
+3	new event
+3	official interacts
+3	parent item
+3	post-voting
+3	pre-election
+3	public keys
+3	third-party identity providers
+3	upon
+3	voter authentication details
+3	voter authentication mode
+2	active voting
+2	adjudication process
+2	administrative components
+2	authentic channels
+2	ballot cryptogram
+2	ballot duplication files
+2	ballot duplication process
+2	ballot extraction
+2	ballot marking
+2	basic system
+2	below
+2	board event types
+2	cast
+2	cast ballot
+2	challenging
+2	challenging vote cryptograms
+2	configuration items
+2	contents
+2	contest configuration
+2	cryptographic protocol paper
+2	data communications
+2	david lundin
+2	decryption process
+2	description
+2	description/diagrams
+2	description/method demonstration
+2	detailed
+2	digital ballots
+2	election 4.3.1
+2	election configuration
+2	election cycle
+2	election data
+2	election encryption key
+2	election jurisdiction
+2	election parameters
+2	election period
+2	election result
+2	election title
+2	event type
+2	extraction
+2	extraction data
+2	figure
+2	final result
+2	follow-up
+2	functional requirements
+2	furthermore
+2	general security
+2	identity-based
+2	individual components
+2	initial item
+2	intended audience
+2	item contains
+2	item types
+2	james heather
+2	multiple vote options
+2	name suggests
+2	new actor
+2	new bulletin board
+2	overall
+2	overview diagram
+2	phase description/steps
+2	previous configuration item
+2	private channels
+2	property implies
+2	public auditor
+2	public bulletin board
+2	publication
+2	purpose
+2	scope
+2	section 4.3.2
+2	section 4.3.4
+2	section 5.2.2
+2	summary
+2	threshold ceremony
+2	threshold configuration
+2	trustee administration application
+2	trustees collaborate
+2	unique identifier
+2	user types
+2	valid signature
+2	valid votes
+2	voter authorization mode
+2	voter identifier
+2	voters selections
+2	votes cast
+2	web bulletin board
+2	writing
+2	writing application
+1	09/12/2023 system
+1	4.3.2.2 election
+1	4.3.2.4 threshold ceremony
+1	academic descriptions
+1	active role
+1	actor
+1	actor configuration
+1	additional
+1	adjudication
+1	administration application
+1	administrator service
+1	administrator service exists
+1	air-gapped enclave
+1	alternate languages
+1	ancestry line
+1	anonymity
+1	appendix
+1	application
+1	application collaborates
+1	application device
+1	application generates
+1	application learns
+1	application runs
+1	application use
+1	architectural level
+1	architecture overview
+1	assembly end-to-end
+1	audio ballot
+1	audit activities/capabilities
+1	audit capabilities
+1	audit purposes
+1	audit steps
+1	auditable components
+1	auditable election data
+1	auditing
+1	auditing auditing
+1	auditing revision history
+1	auditing tools
+1	auditors
+1	authentic channel
+1	authentic channel protects
+1	authentic communication channel involves
+1	authentication fingerprint
+1	authentication modes
+1	authenticity property
+1	author/publishing agent description
+1	authorization configuration
+1	authorization configuration 4.3.2.5 threshold ceremony 4.3.3
+1	authorization procedure
+1	authorization procedure 4.3.3.2
+1	authorizes voters
+1	auxiliary events
+1	available bulletin board
+1	available data storage
+1	available information
+1	ballot
+1	ballot adjudication
+1	ballot box computes
+1	ballot box initialization
+1	ballot box verifies
+1	ballot contains
+1	ballot cryptogram item
+1	ballot cryptograms
+1	ballot cryptograms items
+1	ballot data
+1	ballot data creation/definition
+1	ballot definitions
+1	ballot display
+1	ballot encryption key
+1	ballot replacement
+1	ballot style exists
+1	ballot submission
+1	ballot-on-demand system
+1	basic definitions/use cases
+1	board 5.2.2
+1	board hash value
+1	box contains
+1	box initialization
+1	box initialization 4.3.2.2 election
+1	broad descriptions
+1	built-in mechanisms
+1	bulletin board item references
+1	bulletin board items
+1	bulletin board strings
+1	bulletin board structure
+1	bulletin board structure implies
+1	can be
+1	candidate content
+1	candidate election
+1	cases cloud
+1	cases election officials
+1	cast data
+1	cast request
+1	cast request item
+1	cast/stored
+1	central component
+1	certain circumstances
+1	certain conditions
+1	certain operations
+1	challenge request
+1	channel type
+1	channel types
+1	cleansing/extraction procedure
+1	common knowledge references
+1	common proofs
+1	communication channel
+1	communications channels
+1	complete ballot
+1	complete decryption
+1	complete different election tasks
+1	component integration points
+1	component integration points previous
+1	comprehensive list
+1	computational process
+1	conceptually
+1	conduct operations
+1	configuration data
+1	configuration documentation
+1	configuration events
+1	configuration items reference
+1	configuration updates
+1	contains discussions
+1	contains fingerprints
+1	contest configuration items
+1	contest identifier act
+1	contest titles
+1	core architecture
+1	corresponding keys
+1	counted/tallied
+1	creates ballot artifacts
+1	credential-based
+1	credentialed
+1	critical actors
+1	critical election data
+1	critical election operation steps
+1	critical items
+1	crucial user group
+1	cryptogram generation process
+1	cryptogram generation process 4.3.3.5
+1	cryptograms
+1	cryptographic environment
+1	cryptographic identity
+1	cryptographic infrastructure
+1	cryptographic key management
+1	cryptographic key pairs
+1	cryptographic parameters
+1	cryptographic processes
+1	cryptographic protocol
+1	current board hash value
+1	current election processes
+1	current results
+1	data causes
+1	data consistent
+1	data elements
+1	data flow descriptions
+1	data structure
+1	data structures
+1	data types
+1	david wallick initial version
+1	dbb
+1	decryption artifacts
+1	decryption data
+1	decryption event
+1	decryption files
+1	definition system
+1	dependency audit activities
+1	deployment specifics
+1	description/steps 4.3.4.1
+1	diagram activities
+1	different actors
+1	different ballots
+1	different events
+1	different phases
+1	different system components
+1	digit ballot box
+1	digital ballot box bundles
+1	digital ballot box identifies
+1	digital ballot box protects
+1	digital ballot data
+1	digital ballot markings
+1	digital signatures
+1	digital storage location
+1	digital vote
+1	direct vote
+1	distinct identities
+1	distinct labels
+1	distinct responsibilities
+1	document
+1	document below
+1	document exists
+1	document lays
+1	draft
+1	e2ev
+1	e2ev rav
+1	early use cases
+1	election administrator coordinates
+1	election administrators
+1	election configuration data
+1	election configuration events
+1	election configuration information
+1	election configuration items
+1	election configuration specifies
+1	election configurations
+1	election contains
+1	election date
+1	election decryption
+1	election decryption key
+1	election definition data
+1	election definition items
+1	election definitions
+1	election deployment
+1	election details
+1	election event
+1	election integrity
+1	election level
+1	election level configuration
+1	election metadata
+1	election monitors
+1	election officials election officials
+1	election operation
+1	election operation components
+1	election outcome
+1	election phase lasts
+1	election proceeds
+1	election protocol uses
+1	election results
+1	election settings
+1	election setup
+1	election state
+1	election timing categories
+1	election types
+1	election updates
+1	elections
+1	elections operation
+1	eligibility
+1	eligible signature verification key
+1	eligible voter identity from..
+1	enable election officials
+1	encode vote choices encrypt
+1	end date
+1	end-to-end verifiability
+1	ensure secrecy
+1	entire process
+1	entire system
+1	etc system
+1	evaluation purposes
+1	event
+1	event log
+1	example
+1	examples
+1	exclusive voter authentication modes
+1	expanded
+1	external entities
+1	external/independent verifier
+1	extra history
+1	extraction confirmation
+1	extraction event
+1	extraction file
+1	extraction intent
+1	extraction intent item
+1	fact system
+1	file storage
+1	final election outputs
+1	final election period
+1	final output
+1	final review page
+1	final round
+1	final tally results
+1	free deployment
+1	free-form text
+1	functional requirements functional
+1	future extractions
+1	future iterations
+1	general categories
+1	general groupings
+1	general overview
+1	generic end-to-end
+1	genesis item
+1	happy path use cases
+1	hash value
+1	hidden
+1	history line
+1	history property
+1	honest election result
+1	human actors/user groups
+1	human election officials
+1	human factors component
+1	implies detection mechanisms
+1	important data verification step
+1	indistinguishable way
+1	individual ballots
+1	individual contests system
+1	individual voter
+1	individual voters
+1	initial configuration items
+1	initial intentions
+1	initial product offering
+1	initial setup
+1	input updates
+1	instances offline
+1	integration points
+1	integrity
+1	intended
+1	interactions/integration points
+1	introduces external security dependencies
+1	item defines
+1	item type
+1	josh benaloh
+1	key pairs
+1	list item addresses
+1	live-voting
+1	main categories
+1	main components
+1	main history
+1	malicious activities
+1	man-in-the-middle attack
+1	marked
+1	marked/stored
+1	marking/tabulation rules
+1	mathematical proof
+1	maximum size
+1	may
+1	mixing phase
+1	mixing phase mixing
+1	mobile application
+1	mobility
+1	mode 5.3.2
+1	multiple
+1	multiple ballots
+1	multiple categories
+1	multiple choice
+1	multiple sub-elections
+1	mutual distrust
+1	necessary level
+1	new concept
+1	new election
+1	new items
+1	new key pair
+1	new property
+1	new roles
+1	new voter session item
+1	non-functional requirements
+1	non-functional requirements non-functional
+1	obviously
+1	oct
+1	official creates
+1	official role
+1	oidc
+1	one-time-password service
+1	online system
+1	operational considerations configuration aspects
+1	own credentials
+1	own private key
+1	own rules
+1	paper system
+1	parent items
+1	parent reference
+1	partial decryption
+1	partial decryptions
+1	partial keys
+1	partial result
+1	particular location
+1	particular technology
+1	particular type
+1	particular use case
+1	particular voter
+1	parties push/pull data to/from
+1	party providers
+1	pc
+1	per-election basis
+1	period item
+1	personal information
+1	phase description/steps 4.3.2.1
+1	phase description/steps 4.3.3.1
+1	phase lasts
+1	phones camera
+1	plain-text results
+1	plain-text vote
+1	plain-text votes
+1	poll station
+1	possible action
+1	post-election ballot decryption
+1	post-election ballot processing steps
+1	post-election phase
+1	potential actor reference
+1	potential attack vectors
+1	pre-election activity
+1	pre-election configuration
+1	pre-election period
+1	preand post election phases
+1	prerequisite knowledge
+1	prerequisite knowledge/information needed
+1	prerequisite knowledge/information needed readers
+1	previous challenge
+1	previous configuration items
+1	previous vote
+1	privacy
+1	private channel
+1	private channel prevents
+1	private communication channels
+1	private decryption key
+1	procedure 4.3.4.2
+1	process creates
+1	process proofs
+1	proofs
+1	proper ballot style
+1	proper manner
+1	proper number
+1	provider service
+1	public audit process
+1	public auditability
+1	public channel
+1	public channels
+1	public data
+1	public elections
+1	public information
+1	public networks
+1	public verification key
+1	publics trust
+1	publish date
+1	publish election definition data
+1	qr
+1	question type
+1	randomizer values
+1	rav
+1	receipt-freeness
+1	recent vote
+1	record paper ballot
+1	reference descriptions
+1	registration timestamp
+1	relevant actor
+1	relevant criteria differentiate
+1	replay
+1	requirements describe properties
+1	requirements relate
+1	respective locations
+1	result data
+1	result items
+1	result rules
+1	results event
+1	revision history versi date
+1	rightful actors
+1	round item
+1	screen contrast changes
+1	secret communication channel implies
+1	section 4.3.1
+1	section 4.3.2.1
+1	section 4.3.2.2
+1	section 4.3.2.3
+1	section 4.3.2.5
+1	section 4.3.2.6
+1	section 4.3.3
+1	security measure
+1	security requirements describe properties
+1	select trustees
+1	selection data
+1	sensitive information
+1	sensitive operations
+1	separate device
+1	separate election result
+1	server commitment opening
+1	server encryption commitment
+1	setting election
+1	setup requirements
+1	share information
+1	side comparison
+1	signature verification
+1	simple
+1	simplified
+1	small jurisdiction elections
+1	sole purpose
+1	special election officials
+1	specialized
+1	specific device
+1	specific event
+1	specific hardware devices
+1	specific instructions
+1	specific item
+1	specific point
+1	specific properties
+1	specific request
+1	specific set
+1	specific terms
+1	specifically
+1	specifics
+1	start date
+1	subsections describe
+1	subsequent data retention period
+1	subsequent proof
+1	subsequent trustee application
+1	subsequent voters
+1	successful authentication
+1	successful authorization
+1	successful creation
+1	such cases
+1	such circumstances
+1	such designs
+1	such mechanisms
+1	supplemental ballot delivery
+1	system architecture
+1	system architecture basics
+1	system auditors
+1	system components
+1	system configuration document
+1	system configuration steps
+1	system evaluators
+1	system occurs
+1	system relies
+1	system supports
+1	tally actions
+1	tally results
+1	technical design
+1	technology evolves
+1	text size adjustment
+1	third-party application
+1	threshold configuration item
+1	threshold election encryption key
+1	threshold encryption key creation
+1	threshold encryption keys
+1	threshold number
+1	threshold setup parameters
+1	threshold value
+1	threshold vote encryption key generation
+1	time regardless
+1	track exists
+1	traditional spoil method
+1	transparency
+1	triggered
+1	trustee data
+1	trustee uses
+1	trustees need
+1	unforeseen circumstances
+1	unique activity
+1	unique item
+1	user
+1	user experience
+1	valid ballots
+1	valid digital ballot
+1	valid set
+1	valid structure
+1	valid verifier
+1	valid verifier application
+1	valid vote
+1	valid vote cryptogram
+1	valid voter
+1	validates data
+1	various accessibility
+1	various attack vectors
+1	various audit tasks/goals
+1	various communications
+1	various components exchange
+1	various stages
+1	various technologies
+1	verifiable remote accessible
+1	verification application
+1	verification mechanisms
+1	verifier item defines
+1	verifiers
+1	version
+1	version reviewer
+1	vote authorizer process
+1	vote choices
+1	vote confirmation receipt 4.3.3.1
+1	vote cryptogram 4.3.3.6
+1	vote cryptograms
+1	vote data
+1	votehub admin
+1	voter affidavit verification
+1	voter anonymity
+1	voter authentication
+1	voter authentication/authorization components
+1	voter authorization
+1	voter authorization configuration
+1	voter authorization configuration item
+1	voter authorizer service stores
+1	voter authorizer stores
+1	voter cast
+1	voter chooses
+1	voter chooses candidate
+1	voter commitment opening
+1	voter commitment opening item
+1	voter encryption commitment
+1	voter encryption commitment item
+1	voter flow
+1	voter identity
+1	voter inputs
+1	voter registration data
+1	voter registration data inputs
+1	voter session
+1	voter session item
+1	voter tries
+1	voters actions
+1	voters ballot
+1	voters credentials
+1	voters device
+1	voters eligibility
+1	voters encryption parameters
+1	voters identity
+1	voters interact
+1	voters part
+1	voters selection choices
+1	voters voters
+1	write-in vote
+1	writer chooses
+1	writing application chooses
+1	writing application closes
+1	writing application sends
+1	writing application verifies

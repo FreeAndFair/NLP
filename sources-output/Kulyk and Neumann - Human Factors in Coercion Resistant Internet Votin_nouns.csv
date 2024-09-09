@@ -1,0 +1,745 @@
+33	springer
+31	international conference
+25	m.
+19	ieee
+18	r.
+17	j.
+16	s.
+12	k.
+11	a.
+11	deniable vote
+11	human factors
+10	acm
+10	internet
+10	volkamer
+8	d.
+8	o.
+7	data
+7	e-voting
+7	financial cryptography
+7	proceedings
+6	araujo
+6	identity
+6	kulyk
+6	ryan
+6	v.
+5	alice
+5	coercion resistance
+5	electronic elections
+5	fake credential
+5	privacy
+5	t.
+5	traore
+5	voter coercion
+4	applications
+4	coercion-resistant
+4	computer
+4	e.
+4	electronic voting
+4	estonia
+4	haenni
+4	koenig
+4	p.
+4	panic passwords
+4	real credential
+4	resistant systems
+4	votes cast
+4	willemson
+3	= valice
+3	availability
+3	benaloh
+3	c.
+3	cryptographic techniques
+3	ensure coercion resistance
+3	f.
+3	factors
+3	fake credentials
+3	i.
+3	information
+3	international workshop
+3	joint
+3	krips
+3	l.
+3	neumann
+3	p.b.
+3	p.y
+3	reliability
+3	renaud
+3	rnne
+3	simple vote
+3	symposium
+3	theory
+3	usability
+2	a.s.
+2	a.t.
+2	annual
+2	b.
+2	ballots cast
+2	blind signatures
+2	bursuc
+2	c0 6= c
+2	case result
+2	cast votes
+2	catalano
+2	chen
+2	civitas
+2	clark
+2	communications
+2	computing systems
+2	credential c
+2	credential c0
+2	cryptology
+2	dang
+2	democratic processes
+2	efficient
+2	electronic society
+2	fake credential counter-strategy
+2	final ballot
+2	furthermore
+2	future work
+2	g.
+2	g.s.
+2	gjsteen
+2	grewal
+2	h.
+2	hengartner
+2	homomorphic encryption
+2	human factors assumptions
+2	ieee symposium
+2	input
+2	iovino
+2	jakobsson
+2	juels
+2	kim
+2	kutylowski
+2	lessons
+2	linear time
+2	literature review
+2	masking
+2	mental models
+2	neto
+2	network
+2	norwegian internet
+2	previous research
+2	rajeb
+2	remote
+2	return code sheet
+2	ritter
+2	sako
+2	schlapfer
+2	security model
+2	selene
+2	smart
+2	spycher
+2	system outputs
+2	systems
+2	t.k
+2	teague
+2	toward
+2	towards trustworthy elections
+2	trustworthy elections
+2	u.
+2	untappable channel
+2	usability issues
+2	usable security research
+2	usenix
+2	user interface
+2	user studies
+2	valid ballot
+2	valid vote
+2	value b
+2	value vk
+2	vote cast
+2	voter capabilities
+2	voter casts
+2	voters capabilities
+2	w.
+2	x.
+2	y.
+2	z.
+2	zhang
+2	zn
+1	+ veve = valice
+1	... vl
+1	= i=1 vi
+1	= v + b
+1	= valice veve beforehand
+1	= xi
+1	a.c.
+1	abstract
+1	accepts c0
+1	achenbach
+1	acm sigsac
+1	actual vote
+1	additional action
+1	additional information
+1	additional security assumptions
+1	additional stress
+1	additionally
+1	adelani
+1	admissible credentials
+1	admissible passwords
+1	advanced
+1	adversarial candidate
+1	adversarial observation
+1	adversarial vote
+1	adversary demands
+1	adversarys instructions
+1	alethea
+1	algorithms
+1	anonymous
+1	app approach
+1	ares07
+1	assumption relies
+1	atashpendar
+1	authentication material
+1	authors institution
+1	autonomic
+1	available counter-strategies
+1	available counterstrategies
+1	available credentials c
+1	aziz
+1	b =
+1	backes
+1	ballot privacy
+1	ballot vm
+1	ballot vm = m
+1	bank account holders
+1	barki
+1	beleniosrf
+1	benefit trade-os
+1	bernhard
+1	blibech
+1	brazilian symposium
+1	brunet
+1	buchmann
+1	buckland
+1	budurushi
+1	c.c
+1	c/i
+1	calculate
+1	calculate vk
+1	calculating
+1	candidate list v1
+1	candidate vi
+1	candidates v1
+1	cast ballots
+1	cast vm
+1	cast vote
+1	caveat
+1	ccc
+1	certain level
+1	certain secrets
+1	certain way
+1	chaidos
+1	challenges oksana kulyk1
+1	chang
+1	chi
+1	chong
+1	ciolacu
+1	clarkson
+1	classification
+1	client stores
+1	cobra
+1	code list b = x1
+1	code r1
+1	code ri
+1	coercer demands access
+1	coercers instructions
+1	coercion
+1	coercion detection mechanisms
+1	coercion evidence [
+1	coercion occurs
+1	coercion resistance and/or receipt-freeness
+1	coercion resistance property
+1	coercion resistance protection
+1	coercion resistant internet voting
+1	coercion scenario
+1	coercion-resistant election systems
+1	coercion-resistant internet
+1	coercion-resistant scheme
+1	coercionevidence
+1	coercionresistant
+1	communication technology-eurasia
+1	complex actions
+1	complex processes
+1	compsac05
+1	computer literacy
+1	computer science
+1	computer skills
+1	computer software
+1	computing
+1	conclusions
+1	concurrent ballot authorization
+1	congress
+1	consider
+1	content computing
+1	continuous support
+1	copenhagen
+1	correct credential
+1	cortier
+1	counter strategies
+1	counter-strategies furthermore
+1	counter-strategy fake
+1	creative computing
+1	cross-cultural studies
+1	crucial importance
+1	cryptographic
+1	cryptographic mechanisms
+1	cryptographic protocol
+1	cryptographic protocols
+1	cryptographic schemes
+1	cryptographic solutions
+1	csf
+1	cyberforensics
+1	cybersecurity
+1	denmark
+1	development process
+1	dictionary words
+1	dierent
+1	dierent counter-strategies
+1	dierent kinds
+1	dierent procedure
+1	dierent societies
+1	discussion following
+1	dossogne
+1	dousti
+1	duncan
+1	dynamic ballots
+1	e-vote-id
+1	education campaigns
+1	efficient homomorphic coercion
+1	eighth
+1	election information
+1	election officials
+1	election procedure
+1	election technology
+1	electoral processes
+1	electoral system
+1	electronic governance
+1	electronic voting systems
+1	eleventh annual
+1	embedded software
+1	emeroz
+1	empirical studies
+1	enable deniability
+1	encryption randomness
+1	end-to-end
+1	english
+1	enhanced
+1	eos
+1	essex
+1	estonian internet
+1	evt/wote
+1	excludes dictionary
+1	existing solutions
+1	explicit instructions
+1	extending
+1	fake
+1	fake credential counterstrategy
+1	fake credentials approach
+1	fake credentials counter-strategy
+1	fake credentials strategy
+1	fake sheets
+1	false positives
+1	final ballot v = f
+1	fischli
+1	flechais
+1	forwarding
+1	foulle
+1	foundations symposium
+1	framework
+1	frequent vote
+1	frontier
+1	fuchsbauer
+1	function f
+1	function m
+1	fundamental components
+1	fundamental issue
+1	future implementations
+1	future work directions
+1	gagne
+1	galindo
+1	general instructions
+1	general practical issues
+1	generating
+1	generations
+1	george
+1	google scholar
+1	grontas
+1	gutmann
+1	haghighat
+1	han
+1	hardware tokens
+1	heiberg
+1	hierarchical binary search tree
+1	high-stress situation
+1	hirt
+1	household member
+1	human factor assumptions
+1	human-centered
+1	icnc
+1	identified
+1	identify potential issues
+1	ieee transactions
+1	ieee/sice
+1	iet information
+1	ifip
+1	igi global
+1	important direction
+1	improved
+1	improving
+1	incoercible
+1	incorporate non-intuitive elements
+1	individual verification
+1	individual voters
+1	information engineering
+1	information forensics
+1	information integration
+1	information systems
+1	initial scheme
+1	initial simplicity
+1	inputting
+1	integration
+1	interactive feedback
+1	interactive way
+1	interface design
+1	international journal
+1	introducing
+1	introduction
+1	invalid ballot
+1	invalid ballots
+1	invalid credential
+1	invalid credentials
+1	invalid vote
+1	involve
+1	involving
+1	ispan-fcst-iscc
+1	it
+1	iterative feedback
+1	jalili
+1	jets
+1	kempka
+1	keywords coercion resistance
+1	kiayias
+1	kilian
+1	krzywiecki
+1	lafitte
+1	lagrangian
+1	large scale election
+1	large scale elections
+1	last-minute attacks
+1	last-minute coercion
+1	last-vote-counts policy
+1	lee
+1	leite
+1	li
+1	limited
+1	linear work
+1	linkable ring signature
+1	locher
+1	lowe
+1	m.a.
+1	m.d
+1	m.d.
+1	m.m.
+1	m.p.
+1	m.r.
+1	m.s.
+1	main assumption
+1	malicious voters
+1	management
+1	marky
+1	martens
+1	masked
+1	mathematical calculations
+1	mcesg pollsterless
+1	memorisation strategies
+1	mental
+1	methodology
+1	mobile app
+1	mobile device
+1	mobile device communication
+1	mobile electronic election
+1	moran
+1	mota
+1	muller-quade
+1	multimedia computing
+1	myers
+1	n.b
+1	n.b.
+1	n.c.s.
+1	naish
+1	namely
+1	necessary option
+1	negative repercussions
+1	neji
+1	networked systems
+1	networking
+1	networks
+1	new approach
+1	new concepts
+1	new counter-strategies
+1	new devices
+1	new receipt-free
+1	new risks
+1	new schemes
+1	nguyen
+1	nguyen thi
+1	non-interactive form
+1	non-interactive receipt-free
+1	non-interactive supplementary materials
+1	non-technological measures
+1	nordic
+1	norway
+1	nudging
+1	oh
+1	okamoto
+1	okku @ itu.dk
+1	olembo
+1	onashoga
+1	ones cast vote [
+1	open access
+1	open framework
+1	oreilly
+1	original proposal
+1	over-the-shoulder coercion
+1	over-the-shoulder coercionresistance
+1	p.y.
+1	pagourtzis
+1	panic password
+1	panic passwords introduce
+1	paper post
+1	papers
+1	participation privacy
+1	particular challenge
+1	particular vote
+1	patachi
+1	pervasive systems
+1	physical presence
+1	pin management
+1	pins
+1	pk
+1	platform problem
+1	popular counter-strategy relies
+1	possible combinations
+1	possible solution
+1	possible votes vm
+1	potential coercer
+1	potential coercion attempts
+1	potential privacy issues
+1	potential voters
+1	practical
+1	practical aspects
+1	practical coercion
+1	practical considerations
+1	practical implementation aspects
+1	practical point
+1	practical solution
+1	practical use
+1	presented
+1	preventing
+1	print fake code sheets
+1	private eligibility verifiability
+1	proceedings databases
+1	proper use
+1	provably-secure coercionresistant
+1	provide
+1	public election information
+1	r.e
+1	radomirovic
+1	ramchen
+1	random sample
+1	rational decision
+1	real credentials
+1	real world
+1	real-world applications
+1	recalling
+1	receipt-free
+1	receipt-free online elections
+1	receipt-freeness and/or coercion resistance
+1	recommendations
+1	references
+1	remember
+1	remote coercer
+1	remote electronic elections
+1	remote observation
+1	ren
+1	requirements engineering
+1	research directions
+1	resistant aims
+1	resistant property
+1	resistant scheme
+1	resistant schemes
+1	resistant strategies
+1	rethinking
+1	return code sheets
+1	return codes
+1	review
+1	revocable anonymity
+1	riadh
+1	rial
+1	robbana
+1	robust
+1	s.g.
+1	sasse
+1	schmid
+1	schurmann
+1	scientific papers
+1	search results
+1	sebastian
+1	secret credential
+1	secret information
+1	secret keys
+1	secure it systems
+1	secured transactions
+1	security [
+1	security conference
+1	security mechanisms
+1	security proofs
+1	security research
+1	security-critical systems
+1	selections
+1	self-efficacy
+1	separate type
+1	set list
+1	seventh
+1	severe impact
+1	shirazi
+1	short
+1	shue-sum
+1	shuesum
+1	signal abuse
+1	significant issue
+1	sii
+1	skoruppa
+1	smart cards
+1	smart watches
+1	smartphone security
+1	so-called ballot selfies
+1	so-called code
+1	so-called coercion resistance property
+1	so-called counter-strategy
+1	so-called deniable vote
+1	so-called fake credential c0 6= c.
+1	so-called fake credentials
+1	so-called panic passwords [
+1	so-called return codes
+1	socio-technical investigation
+1	sodiya
+1	souheib
+1	specific candidate
+1	specific part
+1	springerlink
+1	standard model
+1	stephan neumann2
+1	stephane
+1	stephanneumann @ tutamail.com
+1	storer
+1	strong privacy
+1	such coercion
+1	such function
+1	such issues
+1	such lack
+1	such protection
+1	such systems
+1	support voters
+1	switzerland
+1	system accepts
+1	system commits
+1	system component [
+1	system design
+1	system ensures protection
+1	system prototypes
+1	system specifics
+1	system treats c0
+1	system usability
+1	systematic investigation
+1	systems [
+1	systems symposia
+1	t.a.t.
+1	tally results
+1	tamper-resistant device
+1	technical assumptions
+1	technical issues
+1	tong
+1	total [
+1	towards
+1	traditional paper ballots
+1	transparent verifiability
+1	trivitas
+1	true
+1	trusted computing
+1	trustworthy computing
+1	uncontrolled environment
+1	uncontrolled environments
+1	unique code
+1	unrealistic
+1	unrealistic assumptions
+1	untappable channels
+1	usability criteria
+1	usability point
+1	usable coercion
+1	usable security
+1	usable solution
+1	uses paper code sheets
+1	valuable tool
+1	value b0
+1	value c
+1	value f
+1	value valice = m
+1	value vm
+1	value vm = m
+1	various values
+1	verifiability
+1	verifiable elections
+1	verifiable internet
+1	view [
+1	vinkel
+1	vm = m
+1	vote authorization
+1	vote b
+1	vote buying
+1	vote buying scenario
+1	voter [
+1	voter attempts
+1	voter authenticates
+1	voter feedback
+1	voter inputs
+1	voter instructions
+1	voter obeys
+1	voter privacy
+1	voter registration
+1	voter remembers b
+1	voter tries
+1	voter uses
+1	voter uses c0
+1	voter utilises
+1	voters behaviour
+1	voters need
+1	voters privacy
+1	voters request
+1	votes v1
+1	voting
+1	watermarking
+1	web-based applications
+1	weber
+1	wen
+1	whenever
+1	whole voter environment
+1	workshop/workshop
+1	wri
+1	wrong candidate
+1	wrong value vk
+1	wu
+1	x0alice = xeve
+1	x0eve = xalice
+1	xia
+1	xiao
+1	xor-function
+1	yi
+1	youssfi
+1	zacharakis
+1	zacharias
+1	zaghloul
+1	zagorski

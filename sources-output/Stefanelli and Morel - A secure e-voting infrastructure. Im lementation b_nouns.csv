@@ -1,0 +1,483 @@
+16	s iss post
+15	s itzerland
+11	infrastructure
+7	sdm
+6	access
+5	chancellery
+5	e-voting
+5	individual verifiability
+4	access layer
+4	c ltd
+4	choice codes
+4	e2e
+4	eligible voters
+4	it
+4	net ork
+4	s iss ederal
+3	ballot box
+3	cryptographic
+3	cryptographic protocol
+3	data
+3	internet
+3	protocol ith
+3	s iss
+3	scytl secure electronic voting
+2	additionally
+2	ans er
+2	application
+2	appliccation server
+2	back office
+2	ballot box data theft
+2	client certificate
+2	control components
+2	data center
+2	data entry
+2	dataa centers
+2	electronic ballot box
+2	electronic vote
+2	end-to-end encryption
+2	federal level
+2	federal requirements
+2	four-eye principle
+2	front-end server
+2	infra astructure
+2	iso
+2	iss ost
+2	mandatory access control
+2	online voting protocol
+2	physical access
+2	requirements
+2	reveerse proxy
+2	reverse proxies
+2	s iss citizens
+2	scytl
+2	security measures
+2	security requirements
+2	t o
+2	thee
+2	token number
+2	trojan
+2	urls
+2	voter device
+2	voter reverse proxy
+1	.the rule
+1	// .admin.ch/opc/en/classified-compilation/20132343/index.html
+1	// .bk.admin.ch/themen/pore/evoting/07979/index.html lang
+1	// .post.ch/-/media/post/evoting/dokumente/ hitepaper-infrastruktur-post-evoting.pdf
+1	// .post.ch/-/media/post/evoting/dokumente/s iss-post-online-votingprotocol.pdf
+1	// .post.ch/-/media/post/evoting/dokumente/s iss-postonline-voting-protocol-explained.pdf
+1	// .scytl.com/ p-content/uploads/2017/01/distributedimmutabilization-of-secure-logs
+1	@ swisspost.ch
+1	abstract
+1	acceess layer
+1	access control mechanism
+1	access layeer
+1	access layer ith
+1	access points
+1	accessibility
+1	accesss
+1	accesss layer
+1	accordance ith
+1	actual elecction
+1	adm ministrate thee election
+1	admi ministration users
+1	admin back-end
+1	admin part
+1	admin portal
+1	admin reverse proxy
+1	administration system
+1	administrative access
+1	administrative requirements
+1	administrator client
+1	administrator logs
+1	adminn
+1	alarming
+1	and/or e-mail alerts
+1	ap part
+1	application generates
+1	application level ith
+1	area concept separates
+1	avascript files
+1	ays authenticate
+1	back k-end
+1	back-end sserver
+1	back-end systems
+1	ballot boxes
+1	ballot papers
+1	ballott box
+1	barcelona
+1	barcelona-based
+1	beccause
+1	bern
+1	bespoke policy
+1	blank vote
+1	bo
+1	c access thee infrastructurre
+1	c oon
+1	canton
+1	canton caan vote
+1	canton ccomprises t o
+1	canton providess
+1	canton reeverse proxy
+1	canton s landscape
+1	canton s needs
+1	canton s sovereignty
+1	canton s systtems
+1	cantonaal administrattors
+1	cantonal autonomy
+1	cantonal electoral commission
+1	cantonal level
+1	cantonnal users
+1	cantons hen
+1	cantonss environmen nts
+1	cantton hen usin ng
+1	cast-as-intended
+1	central infrastructure
+1	certain specificities
+1	certification
+1	chancellery ordinance
+1	change management tool
+1	channel allo s
+1	choice codes correspond
+1	collaboration ith
+1	common threats
+1	communication channel
+1	compatible ith
+1	confidential transmission
+1	conte
+1	control measure
+1	cooperation ith s iss post
+1	corrupt
+1	creation
+1	credential theft
+1	crucial element
+1	cry togra hic
+1	cryptographic evidence
+1	currently
+1	custom rule
+1	custom rules
+1	d data center
+1	d different redun
+1	d zero data looss
+1	daata
+1	daatabase
+1	data centeer
+1	data centerss
+1	data man nager
+1	data manager
+1	database
+1	database infrastructure re comprises
+1	database infrrastructure
+1	date eachh request com
+1	datta center
+1	ddo
+1	ddos
+1	defence exercises
+1	denial-ofservice attack
+1	denis morel
+1	deployment completion
+1	deployment process
+1	device-independent
+1	diagram m
+1	different net orks
+1	digital reply envelopes
+1	direct democracy
+1	distributed
+1	distributed denial
+1	e-voting protocol explained
+1	e-votinng service
+1	eb server utual authentication
+1	ebsite manipulation
+1	ecurity threats
+1	een client
+1	election periods
+1	electionn ith
+1	elections ithout assistance
+1	electoral registers
+1	electronic voting
+1	eliable e-vo
+1	encryption
+1	encryption ensures
+1	end-to-end
+1	entire platform
+1	esssentially
+1	experiences s iss post
+1	external access
+1	external attack
+1	ey ords
+1	fe ussers
+1	federal event
+1	federal state
+1	filter f
+1	fire allls
+1	fire f alls
+1	fo multi-cliennt
+1	formal errors
+1	fulfils strict security requirements
+1	full end-to-end encryption
+1	g solution
+1	geo-redundanc g cy
+1	graph hic illustrates
+1	guaraantees busines s continuity
+1	guaranteedd ithin
+1	guichet virtuel
+1	hard aree
+1	hash value
+1	hich ensure
+1	hich ensures
+1	hite paper s iss post
+1	hite papers s iss post
+1	identity
+1	ids
+1	igh-security o
+1	illegible ans ers
+1	im
+1	implements end-toend encryption
+1	independent partners
+1	individual citizen
+1	individual phases
+1	infrastruct i ture
+1	infrastructure components
+1	infrastructure explained
+1	infrastructure ith
+1	infrastructure problem
+1	innfrastructure problem m
+1	insecure
+1	insufficient
+1	integ gration s choiice
+1	integration
+1	internal
+1	introduce online
+1	introduction
+1	intrusion detection system
+1	ip
+1	ire alls
+1	is0
+1	ise voters cast
+1	it insufficient
+1	ith online
+1	ith zero data d loss
+1	ithstand shorter attacks
+1	itil
+1	itss o n e-votin ng environmeent
+1	itzerland itzerland
+1	kno n
+1	kno n patterns
+1	l/tl
+1	laayer/reverse ro ies
+1	levels confederation
+1	lication inffrastructure
+1	lo
+1	logs
+1	loyment rocess
+1	main function nality
+1	management process
+1	mandatory m access control booth
+1	measure type
+1	mobile end devices
+1	moddular basis
+1	module m
+1	monitoring
+1	monnat
+1	multiple
+1	multiple levels
+1	multiple m instancces
+1	multiple-control principle
+1	mutual interference ith
+1	natural choice
+1	nd business ccontinuity ma anagement
+1	nd storage infrrastructure
+1	ne release
+1	necessary system management ports
+1	negative verification results
+1	net ork level
+1	o data cen nter
+1	o n infrastructure
+1	o n infrastruucture
+1	ocations ms
+1	online
+1	online vote
+1	online voting
+1	online voting protocol explained
+1	opensource solution
+1	operatingg system
+1	operation aspects
+1	operation measures
+1	oppen source rule
+1	othher
+1	our-eye rinci
+1	outage
+1	outside envirronment
+1	p function nality
+1	paper format
+1	people ith disabilities
+1	persisting ddos
+1	physical net ork fire
+1	physical productive seervers
+1	platform p
+1	platform servers
+1	possible acceess points
+1	posst
+1	post1
+1	postal channel
+1	postal vote
+1	postal votes
+1	preparation stage
+1	prevents
+1	prevents manipulation
+1	prim mary data centter
+1	procedural aspects
+1	protection fro om attacks ith
+1	protocol step
+1	prrovide geograaphical reall
+1	public voter part
+1	public votter part
+1	quality processes
+1	r d.
+1	r11 r12 r13
+1	r14 loss
+1	r8 manipulation
+1	r9 r10 corrupt
+1	raffaele stefanelli
+1	redundannt ith criticaal
+1	reeverse proxiess
+1	reeverse proxy
+1	reeverse proxy yer
+1	registration number
+1	regular controls
+1	related
+1	requ uests
+1	request iss
+1	request level
+1	res onse check
+1	response body
+1	reverrse proxy infrrastructure perrforms variouus security tests
+1	reverrse proxy layeer
+1	reverse
+1	reverse prox
+1	reverse proxiies
+1	reverse proxy
+1	reverse proxy checks files hashes
+1	reverse proxy inffrastructure
+1	reverse proxy modules
+1	reverse proxy validates
+1	reverse r proxyy
+1	reverse ro y
+1	reversee proxy
+1	risk r1 r2 r3 r4 r r r7 related measures risk outage
+1	rom m
+1	room redu undancy
+1	s autonomy
+1	s canton layer/appplication layer
+1	s ecific e securiity measurres
+1	s iss citizens resident
+1	s iss post applications
+1	s iss post components
+1	s iss post employees
+1	s iss post reveerse proxy
+1	s iss post s
+1	s iss post s caanton layer/ap pplication layeer
+1	s iss post s onnline portal
+1	s iss voters
+1	s iss voters vote
+1	s l injecttion
+1	scytl.pdf
+1	sd ddc
+1	sddc
+1	section .1
+1	section .2
+1	secttion addressess
+1	security aspects
+1	security measures m
+1	security-rrelevant aspeccts
+1	seecurity policiees
+1	sepaarate net ork
+1	separate context
+1	separate laptop hich
+1	separate parrts
+1	separated
+1	separatee interconnecctions
+1	separation ensures
+1	server access list
+1	server adm ministrator rights
+1	server process runs
+1	service attacks
+1	service iss
+1	service providers
+1	service s iss post
+1	sev veral
+1	simple user interface prevents
+1	sms
+1	specific logs ith events
+1	specific voter
+1	ssl
+1	stan ndard/generic
+1	static s file hostt
+1	stoorage location b
+1	such systems
+1	system administrator ants
+1	system calculates
+1	system dundancyy
+1	system integrity
+1	system level
+1	system s
+1	system satisfies
+1	syystem comprisses
+1	t admin revverse proxy
+1	t measures
+1	t o iintegrative dedicatedd systems
+1	t o variants
+1	t productiive
+1	technical
+1	technical fau ult
+1	technical fault
+1	th hat
+1	thhe
+1	thhe admin partt
+1	thhe reverse proxy
+1	thiis
+1	thiss involves imp
+1	throug gh
+1	tim mes
+1	time-
+1	traffic allo
+1	transparency
+1	tri
+1	triplee
+1	trust orthy carrier
+1	tsi/en
+1	tthe administraation applicatiion
+1	tthe voters
+1	ttps
+1	tual s ecificities
+1	uncontrolled environment
+1	unexpected access
+1	unexpected components
+1	universal verifiability
+1	universal verifiability ith
+1	up
+1	url
+1	various instances
+1	various meaasures
+1	various net n ork areas//layers
+1	various servers communication
+1	vast competences
+1	veles
+1	vie point
+1	virtualizaation platform m mirrors
+1	vooter
+1	vote coercion
+1	vote ters
+1	voteer application
+1	voteer exists
+1	voter front end
+1	voter paart
+1	voter portal
+1	voter s device
+1	voter s name
+1	voter seals
+1	votes
+1	votes cast
+1	votes regardless
+1	votter s bro ser accesses s isspost i s reverrse proxy infrrastructure
+1	zero data loss

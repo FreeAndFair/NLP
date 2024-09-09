@@ -1,0 +1,2932 @@
+340	level
+166	internet
+72	cis controls
+64	mapping
+48	ei-isac
+44	establish
+41	guide
+37	practices
+36	safeguards
+35	actions
+34	handbook
+33	ensure
+31	cis handbook
+31	goals
+30	it
+29	necessary actions
+28	maintain
+25	ems
+25	removable media
+24	election officials
+23	infrastructure
+22	additional actions
+22	implement
+22	maturity
+21	ai
+19	election offices
+18	cots
+17	cisa
+17	learn
+16	edr
+15	network
+15	pdf
+14	elections
+14	encrypt data
+14	usb
+14	vpn
+13	contact
+13	election administration
+13	risks
+12	asset management
+12	cis
+12	ids
+12	maturity organizations
+12	staff
+11	conduct
+11	consider
+11	deploy
+11	maturities
+11	maturity level
+11	media
+11	security weaknesses
+11	understand
+11	vote tabulation
+11	voter registration systems
+10	backups
+10	election security
+10	incident
+10	maturities organizations
+10	maturity levels
+10	reporting
+10	types
+9	artificial intelligence
+9	dns
+9	endpoint protection
+9	essential guide
+9	generative ai
+9	https
+9	model
+9	previous page
+9	type
+9	voter
+8	cdm
+8	community defense
+8	data
+8	election night
+8	election office
+8	electronic
+8	enterprise assets
+8	handbook bp
+8	igs
+8	information
+8	law enforcement
+8	mdbr
+8	mfa
+8	nist
+8	require mfa
+8	threat actors
+8	title essential guide
+8	train workforce
+8	transit
+8	u.s.
+8	vendors
+8	wireless networks
+7	additionally
+7	administrative access
+7	create
+7	cybersecurity posture
+7	election day
+7	election process
+7	elections @ cisecurity.org
+7	identify
+7	implementing
+7	inaccurate information
+7	join
+7	know
+7	multi-factor authentication
+7	priority
+7	protect
+7	remote connections
+7	review
+7	user management
+7	vote
+7	website
+6	access control
+6	albert
+6	cost-effective tools
+6	cyber
+6	difficulty
+6	election technology
+6	errors
+6	free tools
+6	free tools relevant
+6	improper changes
+6	major elections
+6	manage
+6	mitigate risk
+6	perform
+6	practice priorities
+6	regularly
+6	rest
+6	software
+6	vpns
+6	vulnerability_info @ cisa.dhs.gov
+5	backup
+5	cisas
+5	communication channels
+5	communication protocols
+5	ddos
+5	eac
+5	election infrastructure
+5	election results
+5	employ
+5	examples
+5	firewalls
+5	index
+5	internal systems
+5	intrusion detection
+5	inventory
+5	ips
+5	limit
+5	ms-isac
+5	network devices
+5	nvd
+5	paper record
+5	prepare
+5	providers
+5	publication
+5	requesting cyber hygiene
+5	subject line
+5	tamper evident seals
+5	utilize
+5	vdp
+5	windows
+5	wireless access points
+5	wireless network
+4	accounts
+4	additional information
+4	analysis
+4	ciss
+4	common attacks
+4	communicating
+4	cost-effective tools gca cybersecurity toolkit
+4	develop
+4	disruptions
+4	dre
+4	election community
+4	election environment
+4	election management system
+4	emss
+4	encrypt sensitive data
+4	end-user devices
+4	endpoint detection
+4	ensuring
+4	excel
+4	exercising plans
+4	have
+4	identifiable information
+4	ig1
+4	implementation group
+4	incidents
+4	include
+4	infrastructure-
+4	local jurisdictions
+4	malicious domain blocking
+4	mobile devices
+4	network connections
+4	network infrastructure
+4	operations
+4	optical scanner
+4	paper ballot
+4	patch
+4	pci
+4	penetration test
+4	pii
+4	preparing
+4	primary risks
+4	private network
+4	proper management
+4	properly
+4	provide
+4	restrictions
+4	secure
+4	secure configuration process
+4	securing
+4	sensitive data
+4	set
+4	sign
+4	social media accounts
+4	software updates
+4	successful attack
+4	tls
+4	transmit data
+4	vote data
+4	voter information
+4	voter registration
+4	voter registration system
+4	web application
+4	website defacements
+4	weve
+4	worksheets
+3	.gov domain
+3	addressing physical threats
+3	administrative work
+3	amanda
+3	appropriate measures
+3	assistance commissions
+3	attack vectors
+3	ballot format
+3	baseline priority
+3	block traffic
+3	bmd
+3	build
+3	campaign assessments
+3	ccos
+3	common software applications
+3	con-
+3	contains
+3	critical data
+3	cve
+3	cvss
+3	cyber hygiene
+3	cyber threat actors
+3	cyber threats
+3	cybersecurity risk
+3	cybersecurity risks
+3	data inventory
+3	defense-in-depth
+3	define
+3	digital component
+3	domain name system
+3	doxing
+3	dvd-r
+3	election activities
+3	election data
+3	election systems
+3	election workers
+3	encrypt
+3	exercises
+3	federal agencies
+3	federal guidelines
+3	find
+3	firewall
+3	formal cybersecurity assessments
+3	free
+3	grc
+3	guides
+3	hardware assets
+3	ig
+3	important data
+3	inaccurate
+3	includes
+3	independent assessments
+3	infrastructure information sharing
+3	internet connectivity
+3	ip
+3	keep
+3	large number
+3	linux
+3	local jurisdiction
+3	local media
+3	maintain dedicated computing resources
+3	malicious activity
+3	mitigate risks
+3	monitor
+3	navigation panel
+3	network monitoring
+3	network segmentation
+3	network segmentation based
+3	organizations
+3	os
+3	paper ballots
+3	paper pollbooks
+3	patching
+3	pcos
+3	personal information
+3	physical threats
+3	prevention systems
+3	private networks
+3	process
+3	production system
+3	proprietary products
+3	public-facing network scanning
+3	read
+3	recognize
+3	remediate penetration test findings
+3	remote network access
+3	remote penetration
+3	right column
+3	roughly
+3	secure configurations
+3	secure network management
+3	sensitivity
+3	simple steps
+3	sltt
+3	small
+3	social media
+3	software assets
+3	stick
+3	store
+3	test
+3	thwart threats
+3	uninstall
+3	various types
+3	verify
+3	vote selections
+3	vulnerabilities
+3	vulnerability management
+3	vvpat
+3	well-established set
+3	wide variety
+3	wireless connection
+3	wpa2
+3	your
+2	% 20the % 20impacts % 20of % 20doxing_508.pdf
+2	.gov top-level domain
+2	//www.cisa.gov/cyber-hygiene-services https
+2	//www.cisa.gov/sites/default/files/publications/cisa %
+2	//www.cisecurity.org/cis-benchmarks/ https
+2	//www.cisecurity.org/insights/white-papers/cis-controls-telework-and-small-office-network-security-guide https
+2	//www.cisecurity.org/white-papers/cis-hardware-and-software-asset-tracking-spreadsheet/ https
+2	//www.owasp.org/index.php/penetration_testing_methodologies https
+2	absentee voting
+2	abuse
+2	account
+2	accurate information
+2	actual data
+2	additional
+2	additional defenses
+2	additional resources
+2	additional risks
+2	additional steps
+2	adobe
+2	aes
+2	apple
+2	application security
+2	appropriate uses
+2	assessments
+2	asset inventory
+2	assets
+2	assign
+2	assign key roles
+2	assistance
+2	attack surface
+2	attackers
+2	audit procedures
+2	authentication
+2	authentication attempts
+2	authoritative sources
+2	available resources
+2	ballot definition files
+2	ballot delivery
+2	ballot information
+2	ballots
+2	ban
+2	based
+2	baseline con-
+2	baseline election priorities
+2	baseline priorities
+2	bottom-up system
+2	built-in
+2	cast vote records
+2	cd-r
+2	cfaa
+2	choose
+2	cis benchmark
+2	cis critical
+2	cisas cybersecurity toolkit
+2	cisas cyhy
+2	cisas incident
+2	cloud systems
+2	code base
+2	common vulnerabilities
+2	communications approach
+2	conduct post-incident reviews
+2	conduct routine incident
+2	conduct scans
+2	connected additional
+2	connectedness network connected indirectly connected
+2	connecting
+2	contact information
+2	coop
+2	core devices
+2	cost-effective tools ciss
+2	cots it
+2	crimes coordinator
+2	criminal background checks
+2	critical information
+2	critical infrastructure
+2	critical role
+2	critical system files
+2	critical systems
+2	csses
+2	current maturity
+2	current version
+2	cybersecurity
+2	cybersecurity vulnerabilities
+2	data transfers
+2	default credentials
+2	defense-in-depth journey
+2	define mechanisms
+2	depending
+2	designate personnel
+2	destination device
+2	detect
+2	determine
+2	digital
+2	digital records
+2	digital scanner
+2	digital signatures
+2	direct record
+2	disaster recovery plans
+2	disinformation
+2	domain name
+2	dont need
+2	dos
+2	download
+2	effective
+2	effective tools
+2	effectively
+2	ei-isac edr
+2	election day disruptions
+2	election equipment
+2	election information
+2	election priorities
+2	election technology providers
+2	elections infrastructure
+2	elections purposes
+2	electoral process
+2	email providers
+2	emergency management officials
+2	enable encryption
+2	enable firewall management
+2	encrypted
+2	encryption capabilities
+2	encryption standards
+2	engage
+2	enroll
+2	ensure voters
+2	enterprise
+2	enterprise process
+2	exchange data
+2	exercise
+2	external ports
+2	externally-exposed applications
+2	famous
+2	federal partners
+2	federal requirements
+2	fig
+2	filtering
+2	firewall management
+2	free vulnerability
+2	gca cybersecurity toolkit
+2	general characteristics
+2	generic accounts
+2	github
+2	government agencies
+2	groups
+2	guest network
+2	harmful web domains
+2	heres
+2	http
+2	idps
+2	idss
+2	ig2
+2	immediate risk
+2	impacts
+2	important thing
+2	incident response plan
+2	incident thresholds
+2	indirectly
+2	indirectly connected
+2	information security terms
+2	information technology
+2	internet connection
+2	introduction
+2	ipsec
+2	it inventory worksheets
+2	large datasets
+2	legal areas
+2	leverage
+2	likely response
+2	limit infections
+2	local level
+2	log
+2	machine
+2	machine transmits data
+2	macos
+2	mail-in ballots
+2	maintain contact information
+2	maintain role-based access
+2	malicious actors
+2	malicious domain
+2	malicious domains
+2	malinformation
+2	malware
+2	malware infections
+2	manage default accounts
+2	manage firewalls
+2	manage incident handling
+2	management
+2	management systems
+2	maturity priorities level
+2	maturity your
+2	mdm
+2	measures
+2	media outlets
+2	member network
+2	microsoft
+2	microsoft windows
+2	mitigating
+2	mock elections
+2	ms-isacs technical
+2	multi-factor
+2	multipurpose network scanner
+2	national association
+2	national institute
+2	ncsr
+2	net-
+2	network capabilities
+2	network segments
+2	networks
+2	new device
+2	new devices
+2	nist sp
+2	official site
+2	offline
+2	offline backups
+2	offline system
+2	offsite
+2	offsite backups
+2	often
+2	online portals
+2	optical scanners
+2	organizations capabilities
+2	overseas
+2	own risks
+2	paper
+2	paper ballot output
+2	paper timely patching reduces
+2	paper-based
+2	participate
+2	patch management program
+2	patching-tlp-white.pdf
+2	payment card
+2	pcmcia
+2	pdfs
+2	peak election periods
+2	penetration testieng
+2	perform internal penetration test
+2	person site audits
+2	physical assets
+2	physical devices
+2	physical location
+2	poc
+2	pollbooks
+2	potential disruptions
+2	potential threats
+2	previous section
+2	primary output
+2	priorities
+2	prioritizing
+2	privileges
+2	proactive approach
+2	provider contracts include
+2	public safety
+2	recognizing
+2	recovery data
+2	recovery plan
+2	recovery process
+2	regardless
+2	regular timetable
+2	remediate
+2	remote means
+2	remove
+2	reporting incidents
+2	requirements
+2	resource
+2	resources
+2	responsibilities
+2	rest encrypt data
+2	restore
+2	restrict
+2	reviews
+2	risk assessments
+2	risk framework
+2	risk profile
+2	role information technology
+2	safe
+2	scope
+2	section focuses
+2	securely
+2	security assessment
+2	security policies
+2	security posture
+2	security researchers
+2	segment data processing
+2	sensitive election data
+2	separate network
+2	service attacks
+2	set schedule
+2	sftp
+2	shieldsup
+2	small office
+2	soc @ cisecurity.org
+2	social group
+2	social media content
+2	social media platforms
+2	software applications
+2	source
+2	standards
+2	start
+2	state agency
+2	state law enforcement
+2	state level
+2	storage based
+2	strong passwords
+2	such risks
+2	suspicious patterns
+2	system administrators
+2	system updates
+2	systems
+2	technical data
+2	technical expertise
+2	technical methodology
+2	territorial governments
+2	third-party companies contacts
+2	threats evolve
+2	tools
+2	track progress
+2	transit ensure
+2	transmission
+2	transmit information
+2	understanding
+2	unique user
+2	unnecessary
+2	unofficial election results
+2	unofficial results
+2	uocava
+2	update
+2	us-cert
+2	useful reference
+2	user
+2	user account
+2	user accounts
+2	user activity
+2	user credentials
+2	users
+2	validate
+2	vast majority
+2	verifiable paper audit trail
+2	vote tabulation equipment
+2	voter registration database
+2	voter registration information
+2	votes
+2	vulnerability disclosure program
+2	vulnerable systems
+2	white powder hazards
+2	wi-fi protected access
+2	wide array
+2	wide range
+2	wireless
+2	wpa
+2	write-once media
+1	% 20election % 20security % 20through % 20public % 20communications_508c.pdf
+1	% 20guidance % 20for % 20election % 20workers % 20and % 20law % 20enforcement.pdf
+1	% 28letter % 20size % 29.pdf
+1	.aspx https
+1	.gov domain owners
+1	.gov domain suffix
+1	.gov domains
+1	.gov site
+1	.gov website
+1	.gov website domain
+1	.net addresses
+1	//about.meta.com/actions/preparing-for-elections-with-meta/ https
+1	//chat.openai.com/auth/login https
+1	//csrc.nist.gov/glossary/ https
+1	//csrc.nist.gov/publications/detail/sp/800-175b/rev-1/final https
+1	//docs.cisecurity.org/en/latest/_worksheets/eges_level_1_baseline_wksts.xlsx https
+1	//gcatoolkit.org/elections/ >
+1	//gcatoolkit.org/elections/backup-and-recover/ https
+1	//gcatoolkit.org/elections/beyond-simple-passwords/ https
+1	//gcatoolkit.org/elections/update-your-defenses/ https
+1	//get.gov https
+1	//help.twitter.com/en/rules-and-policies/x-report-violation #
+1	//learn.cisecurity.org/ei-isac-registration https
+1	//learn.cisecurity.org/election-procurement-guide https
+1	//nvd.nist.gov https
+1	//pages.nist.gov/800-63-3/sp800-63b.html # memsecretver https
+1	//support.microsoft.com/en-us/windows/keep-your-pc-up-to-date-de79813c-7919-5fed-080f-0871c7bd9bde https
+1	//www.aircrack-ng.org https
+1	//www.belfercenter.org/publication/elections-battle-staff-playbook https
+1	//www.cisa.gov/critical-infrastructure-exercises https
+1	//www.cisa.gov/sites/default/files/2023-08/bomb % 20threat % 20guide_v1.0.pdf https
+1	//www.cisa.gov/sites/default/files/2024-01/last % 20mile % 20toolkit %
+1	//www.cisa.gov/sites/default/files/publications/cisa % 2520fact % 2520sheet % 2520- % 2520psa % 2520program % 2520- % 2520508c_iaa % 2520final.19mar2020.pdf
+1	//www.cisa.gov/sites/default/files/publications/cisa_ms-isac_ransomware % 20guide_s508c_.pdf
+1	//www.cisa.gov/topics/election-security/rumor-vs-reality https
+1	//www.cisa.gov/uscert/sites/default/files/publications/ddos % 20quick % 20guide.pdf
+1	//www.cisecurity.org/blog/new-release-cis-controls-mobile-companion-guide https
+1	//www.cisecurity.org/controls/cis-controls-navigator https
+1	//www.cisecurity.org/ei-isac/ei-isac-services/vdp https
+1	//www.cisecurity.org/elections https
+1	//www.cisecurity.org/insights/white-papers/cis-community-defense-model-2-0 https
+1	//www.cisecurity.org/ms-isac/ms-isac-toolkit https
+1	//www.cisecurity.org/services/cis-cybermarket https
+1	//www.cloudflare.com/athenian/ https
+1	//www.eac.gov/documents/2017/08/03/six-tips-contingency-and-disaster-planning-eac https
+1	//www.eac.gov/sites/default/files/eac_assets/1/1/2014 % 20statutory % 20overview_final-2014-05-15.pdf
+1	//www.fbi.gov/contact-us/field-offices https
+1	//www.ncsl.org/research/elections-and-campaigns/automatic-voter-registration.aspx https
+1	//www.skyboxsecurity.com/products/skybox-network-assurance https
+1	//www.veracrypt.fr/en/how % 20to % 20back % 20up % 20securely.html
+1	//www.zabbix.com https
+1	100+ technologies
+1	5+ letters
+1	800-63b section 5.1.1.243
+1	a body
+1	abnormal activities
+1	abnormal events
+1	access
+1	access applications
+1	access granting process
+1	access granting process user management
+1	access points
+1	access resources
+1	access revoking process
+1	access revoking process user management
+1	access user management
+1	access voter registration systems
+1	access72
+1	accessible way
+1	accidental deletions
+1	accidental disclosure
+1	accordingly
+1	account manager
+1	accountability
+1	accurate election information
+1	accurate message
+1	accurate results
+1	acronyms
+1	action #
+1	action reviews
+1	actions fullfilled
+1	activation key
+1	active attacks
+1	active development company
+1	active discovery tool
+1	active shooter situations
+1	active shooters
+1	actual bombs
+1	actual emergencies
+1	actual votes
+1	ad- type
+1	additional approvals
+1	additional business processes
+1	additional components
+1	additional direction
+1	additional information network con- online registration
+1	additional information network connected unless
+1	additional information pollbook
+1	additional inputs
+1	additional requests
+1	additional tools
+1	additional transmission
+1	additional transmission-
+1	address major areas
+1	address risks
+1	address security threats
+1	address unauthorized assets
+1	address unauthorized software
+1	address unauthorized software asset management
+1	address weaknesses
+1	addressing
+1	administrative console
+1	administrative decisions
+1	administrative election processes
+1	administrative functions
+1	administrative tasks
+1	administrator passwords
+1	administrators
+1	advanced encryption
+1	advanced maryland automatic network disk archiver
+1	adverse impacts
+1	advisor7
+1	aes advanced encryption
+1	after-action plans
+1	after-action reports
+1	agency186
+1	ais
+1	alert readers
+1	alert96
+1	alliance < https
+1	allocated
+1	allow
+1	allow-list traffic
+1	allowlist
+1	allowlist authorized software
+1	allowlist authorized software asset management
+1	amanda network backup51
+1	america
+1	and level
+1	android
+1	anomalous behavior
+1	api
+1	apis
+1	apparent risk
+1	apparent risks
+1	appearing
+1	appendices
+1	apple auto-update
+1	apple configuration profile
+1	apples
+1	applicable building
+1	application firewalls
+1	application program interfaces
+1	applies
+1	applying
+1	appoint
+1	approaches
+1	appropriate cybersecurity profile
+1	appropriate device encryption
+1	appropriate internal team
+1	appropriate media sanitization
+1	appropriate network segmentation tools
+1	appropriate personnel
+1	appropriate portion
+1	appropriate responses
+1	appropriate safeguards
+1	appropriate security
+1	artificial intellience
+1	assess
+1	assessment specialists
+1	asset
+1	asset management asset management asset management
+1	asset management plan
+1	asset management software
+1	asset management user management user management asset management
+1	asset protection
+1	asset sanitation
+1	asset tags
+1	assists
+1	associations thereof
+1	athenian project
+1	attack paths
+1	attack section
+1	attack types
+1	attacker virtual
+1	attacking
+1	attacks target webservers
+1	attempts
+1	authentic citizens
+1	authentic information
+1	authentication factors
+1	authentication system
+1	authoritative data sources
+1	authorization systems
+1	auto-update android86
+1	auto-update windows84 auto-update ms
+1	automatic voter registration192
+1	autoplay
+1	autorun
+1	available cybersecurity training
+1	available software updates
+1	available threat data
+1	available tools
+1	avoid
+1	awareness
+1	awareness materials
+1	awareness program
+1	backend activities
+1	background
+1	background check options
+1	background checks
+1	backup copies
+1	backup location
+1	backup mechanism
+1	backup plans
+1	backup recovery
+1	backup solution
+1	backup strategy
+1	backups integrity
+1	bacula
+1	bacula52
+1	bad actors
+1	bad configuration decisions
+1	ballot
+1	ballot definition
+1	ballot definition file
+1	ballot definitions
+1	ballot drop box
+1	ballot layout information
+1	ballot rules
+1	ballot secrecy
+1	ballotmay leverage digital infrastructure
+1	baseline
+1	basic cybersecurity measures
+1	basic wireless security practices
+1	becoming
+1	belfer
+1	belfer centers
+1	belfer centers elections
+1	believable material
+1	below
+1	benchmark35
+1	benchmark40
+1	best practices resource
+1	bidirectional authentication
+1	big box store
+1	birth date
+1	bitlocker29
+1	block
+1	blocks access
+1	blog posts
+1	bluetooth
+1	bolsters network security
+1	bomb threat
+1	bomb threats
+1	boundary data
+1	brennan
+1	brief
+1	bring your own device
+1	broad ways
+1	budget assessment
+1	built-in backup tools
+1	business continuity plans
+1	business processes
+1	byod
+1	captured
+1	careful orchestration
+1	carefully
+1	case-by-case basis
+1	cast vote record
+1	cast votes
+1	catastrophic failure
+1	causes
+1	causes delays
+1	cdm3
+1	cell phone
+1	cellular modems
+1	center publication
+1	central machine
+1	central platform
+1	centralize access
+1	centralize account management
+1	centrally manage anti-malware software
+1	certain jurisdictions
+1	certain policy
+1	certain techniques
+1	certain threats
+1	certification process
+1	certification program194
+1	cfaa computer fraud
+1	chapter eight join the ei-isac cis
+1	chapter eighteen remediate penetration test findings often
+1	chapter eleven encrypt data in transit
+1	chapter fifteen incident response planning
+1	chapter fifty election results reporting and publishing
+1	chapter fiftyone glossary nists computer
+1	chapter fiftytwo acronyms nists computer
+1	chapter five prioritizing best practices for the level
+1	chapter forty how to use the essential guide to election security
+1	chapter fortyeight vote capture vote
+1	chapter fortyfive voter registration
+1	chapter fortyfour election systems and their network connections
+1	chapter fortynine vote tabulation vote
+1	chapter fortyone level
+1	chapter fortyseven state and local election management systems
+1	chapter fortysix pollbooks pollbooks
+1	chapter fortythree
+1	chapter fortytwo mapping to the handbook for election infrastructure security handbook bp
+1	chapter four prioritizing best practices for the level
+1	chapter fourteen backups backups
+1	chapter nine asset management
+1	chapter nineteen perform internal penetration test internal
+1	chapter one the essential guide to election security want
+1	chapter seven addressing physical threats sadly
+1	chapter seventeen patching and vulnerability management patching
+1	chapter six index of best practices
+1	chapter sixteen building and managing staff cybersecurity
+1	chapter ten encrypt data at rest
+1	chapter thirteen user management
+1	chapter thirty exercising plans exercising
+1	chapter thirtyeight index of appendices
+1	chapter thirtyfive defense-in-depth defense-in-depth
+1	chapter thirtyfour managing vendors
+1	chapter thirtynine about the essential guide to election security
+1	chapter thirtyone formal cybersecurity assessments
+1	chapter thirtyseven preparing for election day disruptions
+1	chapter thirtysix artificial intelligence in elections generative artificial intelligence
+1	chapter thirtythree managing inaccurate election information inaccurate
+1	chapter thirtytwo implementing the cis controls
+1	chapter three determining your maturity level
+1	chapter twelve managing infrastructure with secure configurations infrastructure
+1	chapter twenty network segmentation based on sensitivity network segmentation
+1	chapter twentyeight website security
+1	chapter twentyfive network monitoring and intrusion detection intrusion detection systems
+1	chapter twentyfour malicious domain blocking and reporting malicious domain blocking
+1	chapter twentynine managing removable media
+1	chapter twentyone managing remote connections remote
+1	chapter twentyseven public-facing network scanning
+1	chapter twentysix managing wireless networks wireless
+1	chapter twentythree endpoint protection endpoint
+1	chapter twentytwo firewalls and port restrictions firewalls
+1	chapter two maturities
+1	character passphrases
+1	chief election
+1	childrens names
+1	choosing
+1	cidr
+1	cipher text
+1	cis benchmark100
+1	cis benchmark101
+1	cis benchmark33
+1	cis benchmarks
+1	cis benchmarks143
+1	cis benchmarks146
+1	cis benchmarks39
+1	cis benchmarks73
+1	cis build kits
+1	cis controls navigator149
+1	cis controls navigator150
+1	cis controls navigator151
+1	cis enterprise asset inventory worksheet18
+1	cis securesuite membership discounts
+1	cis securesuite membership74
+1	cis-cat pro assessor
+1	cis-cat pro tool75
+1	cis-cat pro147
+1	cis-cat144
+1	cis-elections-ebook-15-feb.pdf
+1	cisa cybersecurity
+1	cisa physical
+1	cisas ddos quick guide134
+1	cisas de-escalation
+1	cisas enhancing
+1	cisas insight
+1	cisas protective
+1	cisas swatting prevention
+1	cisas training video series178
+1	cisco suricata109
+1	ciss guide
+1	ciss handbook
+1	ciss mobile
+1	ck
+1	clarify issues
+1	classification levels
+1	classify
+1	clear communication protocols
+1	clear communication strategies
+1	clear framework
+1	clear understanding
+1	clonezilla49
+1	closed-local area network
+1	cloud environments
+1	cloud platforms
+1	cloud service providers
+1	cloud services
+1	cloudflare123
+1	cloudflare130
+1	collaborative
+1	commercial printer
+1	commercial provider
+1	commercial software
+1	commercial solutions
+1	commercial vendors
+1	commodity routers
+1	common disinformation narratives
+1	common form
+1	common item
+1	common methods
+1	common name
+1	common terms
+1	common types
+1	common typos
+1	common uses
+1	common vector
+1	common way voters access
+1	common ways
+1	communicate information
+1	communicate results
+1	communicate vulnerability information
+1	communication
+1	communications protocols
+1	communications toolkit
+1	communications180
+1	compact disc
+1	companies release patches
+1	companion guide117 nist
+1	complementary tools
+1	complete
+1	complete action #
+1	complete backup program
+1	complete election system
+1	complex information attacks
+1	complex scenarios
+1	complexity need
+1	complicate evacuation plans
+1	components creates vulnerabilities
+1	composition rules
+1	comprehensive assessment
+1	comprehensive crisis communication strategies
+1	comprehensive information security approach
+1	comprehensive recommendations
+1	comprehensive security plans
+1	compromises70
+1	compromises81 apple auto-update
+1	computer data
+1	computer emergency readiness team uocava uniformed
+1	computer emergency readiness teams
+1	computer fraud
+1	computer programs
+1	conduct joint training
+1	conduct operations
+1	conduct penetration tests
+1	conduct risk assessments
+1	conduct role-specific
+1	conduct software
+1	conduct vulnerability management
+1	confidential materials
+1	configuration guidelines
+1	configuration process
+1	configuration settings
+1	configure automatic anti-malware scanning
+1	configure automatic session locking
+1	configure data access
+1	configure workstation permissions
+1	connected
+1	connected additional transmissionbased risks
+1	connected paper-based
+1	connectedness classes
+1	connectedness network connected
+1	consider cis benchmarks34
+1	consistent manner
+1	conssistent process
+1	constant threat
+1	consumer market
+1	continual development process
+1	continual evolution
+1	continual improvement
+1	continually
+1	continue
+1	continuity
+1	continuous process
+1	continuous processall
+1	contracting
+1	contractor
+1	control election processes
+1	control panel
+1	controls
+1	controls148
+1	convenient list
+1	coordinate roles
+1	coordinator
+1	correct format
+1	correct operation
+1	corrects security
+1	correspondingly
+1	corrupt data
+1	cost-effective tools aircrack-ng114
+1	cost-effective tools applocker36
+1	cost-effective tools appropriate
+1	cost-effective tools cis controls navigator152
+1	cost-effective tools cis enterprise asset inventory worksheet21
+1	cost-effective tools cisa cyber hygiene services121
+1	cost-effective tools cisas
+1	cost-effective tools cisas bomb
+1	cost-effective tools cisas cyber hygiene services145
+1	cost-effective tools cisas cybersecurity toolkit
+1	cost-effective tools cisas insight
+1	cost-effective tools cisas rumor
+1	cost-effective tools ciss cyber incident checklist59
+1	cost-effective tools ciss telework
+1	cost-effective tools ei-isac edr
+1	cost-effective tools ei-isac mdbr
+1	cost-effective tools free
+1	cost-effective tools owasp penetration testing methodologies88
+1	cost-effective tools owasp penetration testing methodologies90
+1	cost-effective tools zabbix105
+1	cots-based
+1	counter misinformation
+1	country domain name system
+1	county functions
+1	county name
+1	county recorder
+1	county technology
+1	couple dozen
+1	creating
+1	criminal background building
+1	crisis
+1	critical actions
+1	critical assets
+1	critical endpoints
+1	critical functions
+1	critical infrastructure15
+1	critical infrastructure8
+1	critical infrastructure9
+1	critical patches
+1	critical piece
+1	critical points
+1	cross-train
+1	crucial role
+1	cryptographic process
+1	csf
+1	csf nist cybersecurity frameowrk cve
+1	csv
+1	current continuity
+1	current maturity status
+1	current security
+1	currently supported
+1	custom configurations
+1	cve record
+1	cyber attacks
+1	cyber defense
+1	cyber defenses
+1	cyber hygiene web application
+1	cyber incident
+1	cyber threats malware
+1	cyberscurity guidance
+1	cybersecurity activities
+1	cybersecurity advisories
+1	cybersecurity advisories68
+1	cybersecurity alerts
+1	cybersecurity alliances
+1	cybersecurity assessment
+1	cybersecurity assessment services
+1	cybersecurity assessments
+1	cybersecurity awareness
+1	cybersecurity defense
+1	cybersecurity experts
+1	cybersecurity firms
+1	cybersecurity guidance
+1	cybersecurity incident
+1	cybersecurity matters
+1	cybersecurity perspective
+1	cybersecurity postures
+1	cybersecurity program
+1	cybersecurity review nist
+1	cybersecurity review2
+1	cybersecurity risk management
+1	cybersecurity staff
+1	cybersecurity threat
+1	cybersecurity threat actors
+1	cybersecurity training
+1	cyhy
+1	dall-e169
+1	dangers
+1	data asset owner
+1	data breach
+1	data breaches
+1	data classification
+1	data endpoint detection
+1	data handling
+1	data inventories
+1	data loss
+1	data management plan
+1	data recovery process
+1	data sensitivity
+1	data-driven community defense
+1	database application
+1	database platforms
+1	day communications
+1	day functions
+1	day-to-day administration
+1	ddos attacks125
+1	deactivate ports
+1	deceive voters
+1	decision tree
+1	dedicated
+1	dedicated ad-
+1	deep cybersecurity experience
+1	deep fakes
+1	deepfakes
+1	default access passphrase
+1	default accounts
+1	default password
+1	default passwords
+1	defense tools
+1	defense-in-depth cybersecurity posture
+1	defense-in-depth posture
+1	definitions election equipment security processes
+1	delegate
+1	democracy
+1	denial
+1	deploy application
+1	deploy baseline configurations
+1	deploy baseline configurations work
+1	deploy edr
+1	deploy mdbr
+1	deploy network intrusion detection
+1	deploy port-level access
+1	deploy tools
+1	design ballots
+1	detailed
+1	deter voter participation
+1	determining your maturity level
+1	detonate explosives
+1	developed
+1	developing
+1	development companies
+1	device authentication
+1	devices
+1	dhcp
+1	dhs
+1	diagnostic menu
+1	didnt account
+1	dielectronic component
+1	different aspects
+1	different classes focus
+1	different disruptions
+1	different election offices
+1	different facets
+1	different factors
+1	different implementations
+1	different kinds
+1	different needs
+1	different resources
+1	different sensitivity
+1	different times
+1	different types
+1	difficult question
+1	difficulty understanding
+1	digital compotransmissionnent
+1	digital inventory records
+1	digital registration databases
+1	digital video disc
+1	direct connection
+1	direct connections
+1	direct means
+1	directors faqs162
+1	dis-
+1	disable peer-to-peer wireless network capabilities
+1	disable wireless access
+1	disable wireless peripheral
+1	disable wireless peripheral access
+1	disaster planning
+1	disrupt election administration operations
+1	disrupting
+1	disruptions bomb threats bomb
+1	disruptions pose safety hazards
+1	disrupts operations
+1	dissemination
+1	dissuade people
+1	distinct authentication factor
+1	dmv
+1	dmvs
+1	dmz
+1	dns filtering
+1	docs
+1	document online
+1	domain names
+1	dont
+1	dormant accounts
+1	dormant accounts user management
+1	download patches
+1	download results
+1	downloadable file
+1	downloadable worksheets
+1	downloads
+1	dozen residents
+1	dramatic demonstration
+1	drop box locations
+1	dropbox security183
+1	dump and/or
+1	dynamic host configuration protocol
+1	e eac
+1	eac continuity
+1	eac20
+1	eacs continuity
+1	easeus32
+1	easiest way
+1	easy way
+1	easy-to-use
+1	education worksheet
+1	educational materials
+1	effective communication
+1	effective defense-in-depth strategy
+1	effective steps
+1	effective tool
+1	effective ways
+1	efficiency rankings
+1	efficient safeguards
+1	efficient use
+1	ei-isac cyber incident checklist103
+1	ei-isacs
+1	ei-isacs guide
+1	ei-isacs vulnerability assessment127
+1	ei-isacs vulnerability disclosure program120
+1	either
+1	election administration operations
+1	election administrators
+1	election community writ
+1	election cycle
+1	election database
+1	election datastore
+1	election day changes
+1	election day disruptions pose
+1	election day process
+1	election day system configuration
+1	election deadlines
+1	election ecosystem warrant
+1	election environments
+1	election functions
+1	election infrastructure security
+1	election integrity occurs
+1	election jurisdictions
+1	election management systems
+1	election nears
+1	election office environment
+1	election office regardless
+1	election offices adherence
+1	election offices need
+1	election offices website
+1	election officials integrity
+1	election officials need
+1	election officials need guidance
+1	election officials review
+1	election officials work
+1	election officies
+1	election operations
+1	election organization
+1	election outcome
+1	election process track
+1	election processes
+1	election results transmission
+1	election security-and
+1	election sites
+1	election space
+1	election staff
+1	election support staff
+1	election system
+1	election system component
+1	election system provider
+1	election vendor
+1	elections community
+1	elections components
+1	elections domain
+1	elections integrity
+1	elections network
+1	elections officials
+1	elections process
+1	elections system components
+1	elections systems
+1	elections systems components
+1	elections team
+1	elections-vdp @ cisecurity.org
+1	electionsfrom voter registration
+1	electronic ballot
+1	electronic machines
+1	electronic pollbooks
+1	electronic receipt
+1	electronic vote
+1	eligible organizations
+1	email domain
+1	emergency contacts
+1	emergency response
+1	employee connects
+1	employee data
+1	employees
+1	empty bomb threats
+1	en-
+1	enable analysis
+1	enable election teams
+1	enable network
+1	enable user level authentication
+1	encounter inaccurate information
+1	encouragement
+1	encrypt system images
+1	encrypt wireless data
+1	encryption
+1	encryption requiremens
+1	encryption technologies
+1	encryption utilities
+1	end user devices
+1	end-user machines
+1	end-user training
+1	endpoint address translation
+1	enforcement reference guides13
+1	engineering
+1	enhance online presence
+1	enhance overall preparedness
+1	enormous amount
+1	ensure authorized software
+1	ensure base system components
+1	ensure contacts
+1	ensure coop readiness
+1	ensure law enforcement counterparts
+1	ensure legitimacy
+1	ensure network infrastructure
+1	ensure recovery
+1	ensure remote devices utilize
+1	ensure rogue ones
+1	ensure voter
+1	enterprise data
+1	enterprise defenses
+1	enterprise telework
+1	enterprises aaa infrastructure
+1	enterprises cybersecurity program
+1	enterprises network infrastructure
+1	enterprises weaknesses
+1	entire team
+1	equivalent control
+1	equivalent software
+1	errors users
+1	essentialguide @ cisecurity.org
+1	establish communication protocols
+1	establish initial meetings
+1	establish relationships
+1	everyday life
+1	example
+1	excel workbook
+1	exchange information
+1	exising
+1	expected
+1	experience
+1	experienced
+1	exploits cvss
+1	export
+1	exposed credentials
+1	exposures
+1	extensible markup language
+1	extensive cybersecurity resources
+1	extensive guidance
+1	external disk
+1	external disk drive
+1	external exercises
+1	external partner
+1	external security researchers
+1	external sources
+1	externally-exposed applications user management
+1	externally-exposed enterprise assets
+1	extra efforts
+1	facebook
+1	factors impact connectedness
+1	factual information
+1	false information
+1	fax leverages
+1	fax transtional mission
+1	federal bureau
+1	federal government
+1	fedvte
+1	feel
+1	figure
+1	file history
+1	filevault30
+1	financial checks
+1	firewall rule
+1	firewall rules
+1	firewall software
+1	first-stop resource
+1	fix issues
+1	flash cards
+1	flash media
+1	focus
+1	following
+1	foreign_malign_influence_operations_2024final_508c.pdf
+1	formal
+1	formal cybersecurity assessment
+1	formal exceptions
+1	formal guidance
+1	formal patch management plan
+1	format187 file
+1	format189 download
+1	format190 download
+1	foundational
+1	free access
+1	free full disk encryption utility
+1	free it
+1	free microsoft windows
+1	free program
+1	free remote penetration
+1	free service
+1	free services
+1	free web application
+1	frequency
+1	frequently
+1	ftp
+1	ftps
+1	full backups
+1	full expert assessment
+1	full set
+1	full-disk encryption
+1	full-disk encyrption
+1	functionality problems
+1	fundamental aspect
+1	fundamental components
+1	fundamental steps
+1	furthermore
+1	g aes
+1	gain access
+1	gain voter trust
+1	general network
+1	general public
+1	general purpose
+1	general technical support
+1	generate inaccurate information
+1	generic name
+1	genuine information
+1	geopological
+1	global cyber
+1	glossary
+1	glossary195
+1	glossary198
+1	gnu
+1	good backup
+1	good backup practices
+1	good cybersecurity decisions
+1	good cybersecurity outcomes
+1	good news
+1	good ones
+1	good passphrase
+1	good password policies
+1	good password practices
+1	good reason
+1	good solutions
+1	good user management
+1	google124
+1	google131
+1	google156 snap157 tiktok158
+1	googles bard167
+1	government censorship
+1	government entities
+1	government portal
+1	government processes
+1	government websites
+1	governmental functions
+1	graphic user interface
+1	great position
+1	group de-escalation resources182
+1	guest wireless network
+1	guidance
+1	guidance isnt
+1	guidance175
+1	guide174
+1	guide92
+1	guide98
+1	guidelines
+1	hand
+1	handbook191
+1	handbooka
+1	handbooks
+1	hard time
+1	harden networks
+1	hardware
+1	hardware address
+1	hardware products
+1	hardware stack
+1	hardware/software systems
+1	harm election administration
+1	harm multi-factor authentication
+1	harmful activities
+1	harvard kennedy
+1	harvard universitys belfer
+1	have22
+1	helps
+1	high priority
+1	high risk assets
+1	high-level information
+1	high-risk
+1	historical data
+1	historically
+1	holistic security approach
+1	homeland
+1	hours worth
+1	hsin
+1	html
+1	https hyper text transfer protocol secure
+1	huge impact
+1	human resources
+1	human resources portal
+1	human rights
+1	human threat actors
+1	hybrid approach
+1	hypertext markup language
+1	ideas
+1	identifies patches
+1	identify anomalies
+1	identify devices
+1	identify information
+1	identify problems
+1	identify security
+1	identifying your organizations
+1	ids ensure
+1	ids/ips
+1	ietf rfc
+1	ig3
+1	impact election administration
+1	implement mfa
+1	implementation addresses
+1	implementation programs
+1	implementation strategy
+1	important differences
+1	important example
+1	important information
+1	important part
+1	important practices
+1	important source
+1	important tool
+1	important topics
+1	importantly
+1	impose
+1	in- type
+1	in-house
+1	in-person communication
+1	in-scope enterprise assets
+1	inaccurate content
+1	inaccurate news articles
+1	inaccurate statements
+1	inappropriate access
+1	incident occurs
+1	incident reponse sections
+1	incident resources
+1	incident response
+1	incident response plans
+1	incident response practices
+1	incident trackers
+1	inconsistent configuration management
+1	increase security
+1	increasingly
+1	independent election systems
+1	independent threat actors
+1	indirect connection
+1	indirect means
+1	indirectly con-
+1	individual action
+1	individual disinformation accounts
+1	individual needs
+1	individual targets
+1	individual tries
+1	individuals access
+1	industry partners
+1	industry reports
+1	industry standards
+1	influence operations playbook163
+1	influencing
+1	infor-
+1	information exchanges
+1	information network
+1	information onincident network response service providers
+1	information system
+1	information system link
+1	information systems
+1	informative election infrastructure primer
+1	informative section
+1	infrastructure against
+1	infrastructure configuration
+1	infrastructure exercising plans
+1	infrastructure limit
+1	infrastructure process
+1	infrastructure require
+1	infrastructure security184
+1	infrastructure subsector
+1	inherent difficulty
+1	initial outreach
+1	insecure networks
+1	insider
+1	instagram
+1	integrity protection
+1	intelligence services
+1	intelligences
+1	intentional disinformation
+1	intercept data
+1	internal
+1	internal communication
+1	internal jurisdiction assets
+1	internal networks
+1	internal penetration
+1	internal tabletop-style walkthrough
+1	international association
+1	internet communication protocol
+1	internet connections
+1	internet results
+1	internet security1
+1	introduce errors
+1	introduce ideas
+1	intrusion de-
+1	intrusion detection encrypt data
+1	intrusion detection system
+1	intrusion prevention systems
+1	intrustion prevention system
+1	invalid login attempts
+1	inventory process
+1	inventory records
+1	investigate
+1	ipss
+1	iso
+1	isolate
+1	issues
+1	it inventory
+1	itarian76
+1	job function
+1	joint communication protocols
+1	joint training exercises
+1	jurisdictions non-election endpoints
+1	jurisdictions resources
+1	keeping
+1	key personnel
+1	kismet115
+1	knowing
+1	lack
+1	lacks sesntive data
+1	large assessments
+1	large nation-states
+1	large volumes
+1	law enforcement officials
+1	law enforcement plan
+1	law enforcement work
+1	lead regardless
+1	left column
+1	legacy infrastructure-old systems
+1	legacy purposes
+1	legal counsel
+1	legitimate users
+1	leverage cis benchmarks
+1	leverage general-purpose
+1	leverage technology
+1	leverages connections
+1	leveraging multiple channels
+1	limit risk
+1	limit voters
+1	link contains
+1	list items
+1	lists
+1	load data
+1	local area
+1	local disasters
+1	local election
+1	local election offices
+1	local election officials
+1	local election officials workstations
+1	local election websites
+1	local entity
+1	local fbi field office6
+1	local governments
+1	local hardware backups
+1	local jurisdictions hardware
+1	local law enforcement
+1	local law enforcement counterparts
+1	local law enforcement officials
+1	local levels
+1	local network
+1	local network connections
+1	local officials
+1	local server
+1	local storage
+1	local storage devices
+1	localities deploy governance
+1	lock screen
+1	log information
+1	log management
+1	log sensitive data access
+1	logging
+1	logical
+1	logical manner
+1	login attempts
+1	login credentials
+1	login thresholds
+1	love feedback well
+1	low-cost way
+1	low-value election assets
+1	m malicious domain
+1	machine creates
+1	machine hardware
+1	machine name
+1	machine prints
+1	machine50
+1	macos83
+1	mail ballots
+1	mail screening176
+1	maintain anti-malware software
+1	maintain detailed enterprise asset inventory
+1	maintaining
+1	maintenance record
+1	maintenance records
+1	major
+1	major disruptions
+1	major revision
+1	major role
+1	major steps
+1	malicious actions
+1	malicious content
+1	malicious cyber activity
+1	malicious link
+1	malicious software
+1	malicious users
+1	malicious websites
+1	malicous cyber attacks
+1	malign influence operations160
+1	malware software
+1	manage backup
+1	manage crises
+1	manage misinformation
+1	manage network firewalls
+1	manage risk
+1	manage security
+1	manage security events
+1	manage staff access
+1	manage user
+1	management involves
+1	management solution
+1	management systems connectedness
+1	master backup server
+1	master registration database
+1	master voter database
+1	master voter registration database
+1	mathematical algorithm
+1	mature organizations
+1	maturities descriptions
+1	maturity applies
+1	maturity baseline
+1	maturity baseline priorities
+1	maturity creating
+1	maturity determination
+1	maturity manage
+1	maturity organization
+1	maturity reaching
+1	maturity user recommendations
+1	maturity worksheet
+1	mdbr dns
+1	mdbr malicious domain blocking
+1	means experts
+1	means organizations
+1	means voter registration systems
+1	media sanitization
+1	media sanitization program
+1	membership
+1	meta
+1	microsoft backup
+1	microsoft intune device lock
+1	microsofts backup
+1	midjourney168
+1	minimal interruptions
+1	minimize disruptions
+1	minimize risk
+1	minor events
+1	minor updates
+1	mis-
+1	misinformation
+1	missing
+1	mitigate instances
+1	mitigate potential
+1	mitigate threats
+1	mitigation continuous diagnostics
+1	mitre att
+1	mobile app
+1	mobile device management
+1	mobile device management mis-
+1	mobile end-user devices
+1	model attacks
+1	model continuous diagnostics
+1	model procurement language
+1	modern connectivity
+1	modern laptops
+1	monitor compliance logs
+1	monitor network data traffic
+1	monitor network traffic
+1	monitor traffic
+1	monitoring
+1	monitoring cd-r
+1	monitors network data traffic
+1	motor vehicles
+1	move
+1	ms-isac albert
+1	ms-isac cybersecurity awareness toolkit62
+1	ms-isac joint ransomware guide55
+1	ms-isac multi-state information sharing
+1	ms-isacs
+1	multi factor authentication
+1	multi-factor authenticator
+1	multi-state isac
+1	multiple employees
+1	multiple formats
+1	multiple hosts
+1	multiple methods
+1	multiple physical locations
+1	multiple platforms
+1	multiple roles
+1	multiple security mechanisms
+1	multiple simultaneous disruptions
+1	multiple source computers
+1	multiple sub-networks
+1	multiple time zones
+1	multiple tools
+1	multiple versions
+1	n ncsr
+1	nased
+1	nasss
+1	nat
+1	nation-state actors
+1	nation-state threat actors
+1	national agency check
+1	national standards
+1	natural disasters
+1	natural movement
+1	necessary documents
+1	network address
+1	network configuration
+1	network connectivity
+1	network disruptions
+1	network environment
+1	network intrusion detection solution
+1	network intrusion prevention solution
+1	network isolation
+1	network management
+1	network security
+1	network segmentation capabilties
+1	network segmentation sensitivity
+1	network segmentation strategy
+1	network segmentation tools
+1	network service providers
+1	network storage
+1	network threats
+1	network traffic
+1	network-based url filters
+1	netwrix37
+1	never
+1	new advances
+1	new capabilities ransomware
+1	new hires
+1	new issues
+1	new opportunities
+1	new reports
+1	new risks
+1	new security infrastructure
+1	new state
+1	new techniques
+1	new ways
+1	news articles
+1	niche apps
+1	nist csf
+1	nist cybersecurity framework
+1	nist sp nist
+1	nist19
+1	nmap spiceworks25
+1	nmap23
+1	nmap79
+1	no-cost
+1	no-cost support
+1	no-cost tools
+1	non-digital
+1	non-profit organization
+1	non-secret value
+1	nonprofit organizations
+1	normal operations
+1	numeric value
+1	objective insights
+1	office network
+1	official channel
+1	official government organization
+1	official information
+1	official record
+1	official sources
+1	official way
+1	officials10
+1	officials11
+1	officials181
+1	offsite backup capabilities
+1	offsite employee
+1	once-write media
+1	onion111
+1	online
+1	online courses free
+1	online cybersecurity training
+1	online life
+1	online port
+1	online portal
+1	online registration
+1	online request
+1	online systems
+1	online tools
+1	online version
+1	online voter lookups
+1	open source
+1	open source datasets
+1	open source intrusion detection system
+1	open source network analysis tool
+1	open-source
+1	open-source framework
+1	openais chatgpt166
+1	openaudit38
+1	opendns107
+1	openvas78
+1	operational cycles
+1	opinions
+1	opposite principle
+1	opposite problem
+1	opsi77
+1	optical media
+1	organization assess
+1	organization assesses
+1	organization building
+1	organization focuses
+1	organization points
+1	organization responds
+1	organizational
+1	organizational cybersecurity readiness
+1	organizational maturities
+1	organizational recommendations
+1	organizations cybersecurity policies
+1	organizations identify malicious activity
+1	organizations identify malicious cyber activity
+1	organizations network
+1	organizations policies
+1	organizations security
+1	organizations systems
+1	organizations vulnerability management program
+1	organizations website
+1	original data
+1	out-of-date recommendations
+1	outline
+1	overall cybersecurity posture
+1	overall maturity
+1	overall plan
+1	overall process-such
+1	overall risk profilethe types
+1	overseas ballot
+1	own exercises
+1	own plans
+1	own section
+1	own security platform
+1	own solutions
+1	own systems
+1	own unique list
+1	own vulnerability
+1	packet
+1	page links
+1	paper assets
+1	paper mail-in ballot
+1	paper pollbooks wouldnt
+1	paper voter registration form
+1	particular aspects
+1	particular set
+1	particularly
+1	partition
+1	partners encrypt data
+1	partners57
+1	partnership scope
+1	partnerships ensure
+1	password
+1	password breach service42
+1	password guidance
+1	password manager
+1	password managers
+1	passwords
+1	patch management
+1	patch release
+1	patch vulnerabilities
+1	pcmcia personal computer memory card
+1	peer support tool
+1	pendant chair
+1	penetrate defenses
+1	penetration
+1	penetration test report
+1	penetration testing program
+1	penetration tests
+1	perform application layer filtering
+1	perform automated
+1	perform automated application patch management
+1	perform automated vulnerability scans
+1	perform periodic internal penetration tests
+1	perform periodic internal penetration tests internal pen testing
+1	performance improvements
+1	periodically
+1	persistent election
+1	persistent network connection
+1	personal
+1	personal firewalls
+1	personal information online
+1	personal lives
+1	personal use
+1	pervasive threats
+1	phishing
+1	phone calls
+1	phone number
+1	physical
+1	physical copies
+1	physical media
+1	physical media connection
+1	physical segmentation
+1	physical transmission
+1	physical transmission utilize tamper evident seals
+1	place hours
+1	plain old telephone system
+1	plain text
+1	platform uses
+1	platforms pose
+1	platforms terms
+1	playbook58
+1	playbooks60
+1	poams
+1	pocs
+1	political environment
+1	political outcomes
+1	poll
+1	poll worker
+1	pollbook
+1	pollbook data
+1	popular platforms
+1	popularize perspectives
+1	port fil- tions
+1	port vulnerabilities
+1	portable document format
+1	portal access
+1	positive feedback
+1	possible ensure logs
+1	possible malicious files
+1	post-election review
+1	postal address
+1	postelection procedures
+1	potential crises
+1	potential effects
+1	potential impact
+1	potential misinformation
+1	potential public relations concern
+1	potential threat
+1	potential votes
+1	powder hazards
+1	power failures
+1	power outages
+1	pr
+1	practice actions
+1	practice doesnt
+1	practice good cyber hygiene
+1	practice guides185
+1	practice implementation
+1	practice index
+1	practice prioritization
+1	practices priorities
+1	practices safeguard title essential guide
+1	pre-approve messaging
+1	prebunk
+1	precinct definitions
+1	precinct locations
+1	precise cybersecurity dialogue
+1	preparation
+1	preparation involves
+1	preparedness
+1	presidential election year
+1	press releases
+1	prevent
+1	preventing
+1	primary aim
+1	primary infection vectors
+1	primary input
+1	primary inputs
+1	primary wireless network
+1	primer
+1	primer on election infrastructure security
+1	primers
+1	prioritize
+1	prioritize implementation
+1	prioritizes
+1	priority action
+1	priority actions
+1	priority priority level
+1	priority priority priority
+1	priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority priority
+1	private assets
+1	private county network
+1	private sector
+1	private vendors
+1	privilege misuse
+1	proactive steps
+1	proactive study
+1	procedures work
+1	process perspective
+1	process weaknesses
+1	processing high-risk data
+1	procurement process
+1	procurements.99
+1	procurements102
+1	procurements164
+1	procurements165
+1	production systems
+1	professional manner
+1	professionals
+1	program brochure
+1	program documentation
+1	project shield
+1	proper configuration turning
+1	proper logical access
+1	proper record
+1	proper records
+1	proper system configuration
+1	prospective voters
+1	prospective voters submit
+1	protect elections133
+1	protect elections170
+1	protect elections171
+1	protected
+1	protecting passwords
+1	protocols compatible
+1	protocols nections
+1	provider inventory account inventory asset protection asset protection account
+1	provider management policy
+1	provides
+1	provisional ballot process
+1	psa
+1	public confidence
+1	public education effort
+1	public forums
+1	public writ
+1	public-facing network scanning encrypt data
+1	publication nvd
+1	purpose
+1	quad9106
+1	quality assurance review
+1	quarantine
+1	quick glance
+1	rank safeguard
+1	ransom54
+1	ransomware
+1	ransomware delivery domain
+1	ransomware infections
+1	ransomware retrieve
+1	rapid pace
+1	rapid response
+1	rcp
+1	rdp
+1	re-
+1	readily
+1	ready
+1	ready-made hardware
+1	real customer base
+1	real-life sources
+1	real-world analyses
+1	real-world attacks
+1	realistically
+1	reality
+1	rebuilding
+1	receive
+1	recognizable people
+1	reconciliation procedures
+1	record updates
+1	recover46
+1	redirect traffic
+1	reduce
+1	refer
+1	registration database
+1	registration information
+1	registration system
+1	registration systems
+1	registration systems support pollbookspaper
+1	regular backups
+1	regular basis
+1	regular cybersecurity assessments
+1	regular port scans
+1	regular schedule
+1	regular workstations
+1	relationship
+1	release
+1	release bulk security patches
+1	relevant 15.2.2
+1	relevant information
+1	relevant laws
+1	relevant media outlets
+1	relevant risks
+1	relevant stakeholders
+1	reliable facts
+1	reliable state
+1	remediate detected vulnerabilities
+1	remediate findings
+1	remediate inaccuracies
+1	remediate penetration test findings remediate pen test findings
+1	remediating misinformation
+1	remote
+1	remote access
+1	remote condates
+1	remote connection
+1	remote connections user management user management user management user management user management
+1	remote location
+1	remote network
+1	remote system
+1	remote work environment
+1	removable devices
+1	removable media sanitization
+1	report inaccurate information
+1	reporting mdm
+1	repository
+1	reputable email
+1	reputable organizations
+1	require
+1	resource availability
+1	resource hub142
+1	resource limitations
+1	resource strain
+1	resources14
+1	respective capabilities
+1	respective precincts
+1	respond
+1	responder community
+1	response capacity
+1	response security software
+1	response time
+1	responsibilitiesand dont
+1	restore files
+1	restore53
+1	restricare
+1	restrichost-based
+1	retention
+1	reuse passwords
+1	review cisas enterprise vpn
+1	review ciss telework
+1	review logs
+1	review ms-isacs
+1	review nists guide
+1	revoke access
+1	rfcs
+1	right defenses
+1	rigorous maturity model
+1	rigorous protocol
+1	risk
+1	risk assessment program
+1	risk characteristics
+1	risk exposure
+1	risk increase
+1	risk management
+1	risk management process
+1	risk mitigation strategies
+1	risk mitigations
+1	risks stem
+1	risky scenarios
+1	robust assessment program
+1	robust preparedness
+1	robust security measures
+1	rotate passwords
+1	rough contours
+1	rough order
+1	s community defense
+1	safe online64
+1	safeguards cis controls
+1	safer elections12
+1	same-day
+1	same-day registration
+1	sample ballot
+1	sample ballots
+1	scans
+1	scapcompliant
+1	scarce security resources
+1	scope mation
+1	scope ment
+1	scope tection
+1	scp
+1	secretaries
+1	section draws
+1	section prioritizes
+1	secure configuration
+1	secure elections
+1	secure elections resources
+1	secure file transfer protocol
+1	secure network architecture
+1	secure sockets layer
+1	securely decommission
+1	securely manage network infrastructure
+1	securing login credentials
+1	securing wireless
+1	security advisors program172
+1	security agencies
+1	security agency
+1	security alerts
+1	security awareness training
+1	security election infrastructure
+1	security expectations
+1	security goals
+1	security i
+1	security ii
+1	security iii
+1	security issues
+1	security management
+1	security mechanisms
+1	security plan
+1	security posture management
+1	security principles
+1	security priorities
+1	security processes
+1	security questions
+1	security resilience
+1	security resource
+1	security resources
+1	security risks
+1	security software
+1	security specialists
+1	security staff
+1	security suite
+1	security team
+1	security updates
+1	security vulnerabilities
+1	security97
+1	securityor lack thereofmay
+1	segment traffic
+1	segmentation uses virtual networks
+1	segregate high-risk applications
+1	self-assessments
+1	sen-
+1	sensitive functions
+1	sensitive network
+1	sensitive security information
+1	sensitive tasks
+1	sensors deem
+1	separate day
+1	separate device
+1	separate networks
+1	separate wireless network
+1	serious cybersecurity considerations
+1	server environments
+1	servers
+1	servers firewalls
+1	service attack
+1	service provider inventory
+1	severe consequences
+1	severity ratings shoudlnt
+1	shadow copy service47
+1	share information
+1	short period
+1	significant changes
+1	significant contributions
+1	significant increase
+1	significant information
+1	significant negative impact
+1	significant risks
+1	significant safety risks
+1	significant strides
+1	signing
+1	similar approaches
+1	similar rule applies
+1	similar vulnerabilities
+1	similarly
+1	simple
+1	simple actions
+1	simple goals
+1	simple guidance
+1	simple method
+1	simple passwords41
+1	simple step
+1	simple task
+1	simple tool
+1	simple tools
+1	simply
+1	simulate attacks
+1	site doesnt
+1	skills training
+1	skybox network assurance112
+1	small jurisdictions
+1	small operations
+1	small share
+1	snort108
+1	soc
+1	social discourse
+1	social media sites
+1	social media thats
+1	software installation
+1	software packages
+1	software solutions
+1	software suites
+1	software tools
+1	software updates maintain
+1	software updates user management user management asset management user management
+1	sole responsibility
+1	solutions conform
+1	sophisticated approach
+1	sophisticated controls
+1	sophisticated guidance
+1	sp
+1	specific
+1	specific cybersecurity domains
+1	specific data
+1	specific definition
+1	specific disposal procedures
+1	specific purpose
+1	specific purposes
+1	specific recommendations
+1	specific security function
+1	specific technology systems
+1	specific voter
+1	specifically
+1	spotlight typosquatting132
+1	ssh2
+1	ssl
+1	staff asset management
+1	staff members
+1	staff playbook61
+1	staff safety
+1	standalone machine
+1	standards council89
+1	standards council91
+1	state #
+1	state election
+1	state election director
+1	state election office
+1	state laws
+1	state leadership
+1	state organization
+1	state registration portal
+1	state voter registration database
+1	state-specific information
+1	states department
+1	states system
+1	statewide registration system
+1	statewide voter registration list
+1	static model
+1	static nature
+1	static paper
+1	statutory overview193
+1	step-by-step instructions
+1	steps
+1	stop
+1	storage devices
+1	strategies
+1	stress tests
+1	stricter security levels
+1	strong encryption algorithms protects
+1	strong password
+1	strong protections
+1	structure
+1	subjectin cybersecurity parlance
+1	subscription form69
+1	subsequent time
+1	substantial amount
+1	substantial impact
+1	substantial risks
+1	successful attacks
+1	successful authentication
+1	successful exploitation
+1	successful manipulation
+1	successful restoration
+1	such behavior
+1	such data
+1	such disruptions
+1	sufficient throughput
+1	suitable organization
+1	support
+1	support election administration
+1	support implementation
+1	suspicious files
+1	suspicious packages
+1	suspicious users
+1	swatting swatting
+1	system access
+1	system administrator
+1	system gateway
+1	system installation
+1	system tions
+1	system vendor
+1	systems operational
+1	tabletop
+1	tabletop exercises
+1	tactical response
+1	tag community review
+1	tape drives/changers
+1	target demographics
+1	targeted intrusions
+1	tax bases
+1	technical
+1	technical body
+1	technical capabilities
+1	technical characteristics
+1	technical insight
+1	technical knowledge
+1	technical sophistication
+1	technical staff
+1	technical support
+1	technical terms
+1	technology advances
+1	technology prevents
+1	telnet
+1	template173
+1	template177
+1	temporary physical connections
+1	territorial
+1	territorial government organizations
+1	tested
+1	testing
+1	tests
+1	text description
+1	thank
+1	theres
+1	third-party
+1	third-party cloud service providers
+1	third-party company
+1	this95 joint advisory
+1	thorough incident response plan
+1	threat actor
+1	threat briefings
+1	threat environment
+1	threat information
+1	threat intelligence
+1	threat signatures
+1	threats aim
+1	thunderbolt
+1	timely manner
+1	tip
+1	title whitelist
+1	todays machines
+1	todays society
+1	todays threats
+1	together
+1	too
+1	tool
+1	tool kit179
+1	top attack types
+1	top priority safeguards
+1	top-down system
+1	top-level
+1	total votes
+1	total worksheets
+1	touchid
+1	track assets
+1	track changes
+1	track training
+1	track whats
+1	tracking
+1	traditional antivirus functionality
+1	traditional web servers
+1	train staff
+1	training
+1	training staff
+1	transmission introduces risks
+1	transmission mode
+1	transmission risks
+1	transmissionthe
+1	transmit election results
+1	transmitting enterprise data
+1	tribal
+1	trick users
+1	true beginner
+1	trustedinfo2024
+1	trustworthy organizations
+1	twitter
+1	type attacks
+1	typically
+1	typosquatting typosquatting
+1	u uocava
+1	ultimate goal
+1	understand vpn
+1	unexpected shutdown
+1	uniformed
+1	unintentional data exposure
+1	unintentional inaccuracies
+1	unintentional mistakes
+1	unique approach
+1	unique combinations
+1	unique passwords
+1	unique passwords user management
+1	universal serial bus
+1	unix
+1	unknown assets
+1	unless
+1	unnecessary services
+1	unofficial vote tabulation
+1	unpatched
+1	up-to-date
+1	up-to-date online
+1	up-to-date software
+1	up-to-date version
+1	update enterprise asset inventory
+1	update plans
+1	update voter rolls
+1	update your defenses28
+1	update your defenses71
+1	updates
+1	url
+1	urls
+1	us-certs
+1	usability improvements
+1	useful functionality
+1	useful insight
+1	user access
+1	user account incidents
+1	user anonymity
+1	user logs
+1	user management establish
+1	user management utilize
+1	user recommendations
+1	user training
+1	users email addresses
+1	users encounter inaccurate information
+1	users web browser
+1	uses native utilities
+1	utilize anti-
+1	utilize eac
+1	v vdp
+1	valuable resource
+1	valuable resources
+1	valuable services
+1	variety
+1	various aspects
+1	various benefits
+1	various business units
+1	various disruption scenarios
+1	various disruptions
+1	various election technology components work
+1	various forms
+1	various machines
+1	various security organizations
+1	various social media platforms
+1	various sources
+1	vendor control panel
+1	vendor security procedures
+1	vendor software
+1	vendors public-facing network scanning
+1	veracrypt31
+1	veracrypt48
+1	verification process
+1	verifies patches
+1	verifying
+1	verizon data breach investigations report4
+1	view alerts
+1	virtual
+1	virtual training environment63
+1	virtually
+1	visit
+1	vnc
+1	voice network
+1	voluntary membership
+1	vote aggregation
+1	vote capture
+1	vote capture con-
+1	vote cast
+1	vote summaries
+1	vote tabulation devices
+1	vote tabulation system
+1	vote tabulation systems
+1	voter anonymity
+1	voter casts votes
+1	voter lookups-such
+1	voter record
+1	voter registration components
+1	voter registration implementations
+1	voter registration systems connectedness
+1	voter registration systems consist
+1	voter registration systems exhibit
+1	voter rolls
+1	voters connection
+1	voters record
+1	voters vote selections
+1	voting
+1	vss
+1	vulnerability
+1	vulnerability assessment
+1	vulnerability database os
+1	vulnerability database66
+1	vulnerability database80
+1	vulnerability manage-
+1	vulnerability management data
+1	vulnerability management efforts
+1	vulnerability management program
+1	vulnerability scanner
+1	vulnerability scanning
+1	vulnerability scoring
+1	vulnerability scoring system87
+1	vulnerable default settings
+1	warning signs
+1	weaknesses
+1	web
+1	web application hacking
+1	web applications
+1	web browsers label websites
+1	web form
+1	web pages
+1	web presence
+1	webdav
+1	webinars
+1	webservers internet connection
+1	website defacements pose
+1	websites
+1	well
+1	well-resourced
+1	were
+1	whats changed
+1	whatsapp154 x
+1	whenever processes
+1	wherever
+1	white powder
+1	white powder incidents aim
+1	who
+1	whomever youre
+1	wi-fi
+1	wide-ranging talent
+1	wifi
+1	wireless access
+1	wireless authentication protocols
+1	wireless clients
+1	wireless connections
+1	wireless connectivity
+1	wireless networks network monitoring
+1	wireless traffic use
+1	wireshark116
+1	wlans
+1	work impacts outcomes
+1	worker management systems
+1	worksheet
+1	worksheet hardware inventory software inventory data inventory
+1	workstation management
+1	workstation servers
+1	world data
+1	wpa3
+1	xml
+1	youll hold
+1	youtube
+1	zeek nids110
+1	zenmap24
+1	zero-day attacks

@@ -1,0 +1,806 @@
+36	tls
+30	pin
+29	incapsula
+28	ddos
+16	ivote server
+15	javascript
+15	wa
+13	australian
+13	cloud provider
+13	incapsulas
+12	ivote system
+10	id
+10	state election
+8	san
+7	a.
+7	ip
+6	aes
+6	pkcs
+6	s.
+6	waec
+5	australia
+5	brute force attack
+5	computer
+5	j.
+5	partial votes
+5	wales
+4	b.
+4	d.
+4	electoral commission
+4	furthermore
+4	gcm
+4	listing
+4	long password
+4	m.
+4	mitigation service
+4	n.
+4	pbkdf2
+4	pbkdf2withhmacsha1
+4	protection service
+4	voter credentials
+4	voterid value
+3	acm
+3	attack scenarios
+3	base64encoded
+3	base64encoded ca certificate
+3	china
+3	communications
+3	distributed denial
+3	e.
+3	election day
+3	fig
+3	figure
+3	final vote
+3	halderman
+3	login time
+3	nist
+3	partial vote
+3	pop
+3	private key
+3	private keys
+3	proceedings
+3	registration server
+3	t.
+3	token
+3	voters computer
+2	8-digit ivote
+2	acm sigsac
+2	additional findings
+2	additionally
+2	base64
+2	based
+2	cao
+2	certificate
+2	clash attack
+2	complex interaction
+2	core voting
+2	credential file
+2	cvs
+2	decpassks
+2	domestic law enforcement
+2	election servers
+2	election website
+2	europe
+2	feb
+2	following
+2	foreign government
+2	heninger
+2	identify voters
+2	ieee
+2	incapsulas ddos
+2	information systems
+2	internet
+2	ips
+2	issuer
+2	iv oteid
+2	iv oteids
+2	ivote protocol
+2	japan
+2	json
+2	key findings
+2	legitimate users
+2	malicious traffic
+2	march
+2	melbourne
+2	mitigation methods
+2	mitigation services
+2	national security operation
+2	network
+2	nonce length
+2	nov
+2	nsw
+2	null bytes
+2	onchange listeners
+2	online elections
+2	p in
+2	p.y.
+2	part
+2	poland
+2	profile cookie
+2	protocol
+2	receipt number
+2	registration step
+2	ryan
+2	salt value
+2	server
+2	server responds
+2	server responses
+2	servers worldwide
+2	sha1
+2	sha256
+2	ssl
+2	stark
+2	subject alternate name
+2	sufficient information
+2	symposium
+2	tag length
+2	teague
+2	telephone verification service
+2	timing analysis
+2	valid ballot
+2	voters client
+2	voters connection
+2	voting
+2	was
+2	z.
+1	//blockchain.info/stats mark
+1	//www.incapsula.com/blog/make-website-invisible-direct-to-origin-ddos-attacks.html incapsula.com
+1	//www.incapsula.com/incapsula-global-network-map.html https
+1	1. ivote
+1	112-bit security level [
+1	12-digit receipt number
+1	16-byte key
+1	20-core droplet
+1	6-digit user-chosen value
+1	< script > element
+1	] data
+1	a.t.
+1	abstract
+1	access
+1	accurate clash attacks
+1	accurate election result
+1	accurate prediction
+1	acknowledgements
+1	actual votes
+1	additional cookies
+1	additional details
+1	additional malicious code
+1	additional requests
+1	address https
+1	adelaide
+1	adida
+1	adrian
+1	aes cipher
+1	aes key
+1	aessex @ uwo.ca
+1	aleksander essex3
+1	alternate names
+1	amazon ec2
+1	america
+1	americas
+1	anonymous reviewers
+1	archive
+1	argentina
+1	arxiv:1708.00991v1 [ cs.cr ]
+1	asia
+1	asics
+1	attack relies
+1	attack scenario
+1	attacker need
+1	attackers [
+1	auditors [
+1	aug
+1	august
+1	australias
+1	available technical documentation
+1	average vote
+1	background
+1	bad ones
+1	bailey
+1	ballot ksignsk
+1	ballot preferences
+1	ballot secrecy
+1	base64 challenge object
+1	base64 copy
+1	base64 encoded pem certificate
+1	base64 encrypted string
+1	base64 siganture
+1	base64encoded aes key
+1	base64encoded certificate
+1	base64encoded client certificate
+1	base64encoded pkcs12 keystore
+1	behaviour poses
+1	bell
+1	ben-nun
+1	benaloh
+1	bismark
+1	bitcoin
+1	bits
+1	bodduluri
+1	browser generates
+1	browser plugins
+1	brute force attacks
+1	brute force voterids
+1	brute forcing voter credentials
+1	brute-force search
+1	brute-forcible voter credentials
+1	bypassing
+1	bypassing ddos mitigation
+1	byrne
+1	byte key
+1	bytes
+1	canada
+1	candidate preferences
+1	carback
+1	cast ballot
+1	census
+1	censys
+1	certificate footprint incapsulas
+1	certificate management practices
+1	certificates subject
+1	certificates subject alternate name
+1	chaum
+1	chris culnane1
+1	christopher.culnane @ unimelb.edu.au
+1	clark
+1	clash attack relies
+1	client-side key derivations
+1	cloud application delivery company
+1	cloud provider [
+1	cloud provider sits
+1	cloud provider uses
+1	cloud providers
+1	cloud providers practice involves
+1	code calls
+1	code inserts
+1	code refers
+1	coercive entity
+1	cohen
+1	cohney
+1	combined
+1	common name
+1	communication
+1	comodo subject
+1	comparable cost
+1	complete overview
+1	computational resources
+1	computer engineering
+1	computing
+1	concept
+1	conclusion
+1	concurrent droplets
+1	concurrent instances
+1	configuration file
+1	contempoary bitcoin
+1	contemporary deployments
+1	cookie calculates
+1	cookie exists
+1	cookies
+1	cost [
+1	cpu
+1	credential exchange
+1	credential file generation
+1	credential file processing
+1	credential.json file
+1	credential.json whenever
+1	credential.json- > vk- > secrets
+1	credential.json- > vk- > store
+1	credential.json- > vkp
+1	crucial consequence
+1	crucially
+1	cryptographic key derivation implementation
+1	cryptographic values
+1	cryptology
+1	d.s.
+1	data centers
+1	data centers.8
+1	data centres
+1	ddos prevention
+1	ddos protection
+1	ddos provider
+1	debeauvoir
+1	decdk
+1	default account max
+1	demo system uses
+1	demonstration website
+1	demos-2
+1	denial-of-service prevention
+1	destination website
+1	different browsers
+1	different key
+1	different story
+1	digital
+1	digital certificate
+1	digital oceans
+1	direct-to-origin ddos
+1	distributed
+1	dk =
+1	dns
+1	domain *.example.com
+1	domain name look-ups
+1	durumeric
+1	e-voting
+1	eakin
+1	economics references
+1	election agencies
+1	election commission
+1	election outcome
+1	election outcomes
+1	election result
+1	election setting
+1	election software
+1	election systems
+1	electoral divisions
+1	electrical
+1	electronic voting
+1	encpk
+1	encrypt partial votes
+1	encryption
+1	encryption key
+1	end-to-end
+1	entire web
+1	eo string
+1	essex
+1	estonias
+1	evt
+1	evt/wote
+1	factoring
+1	failure statistics
+1	february
+1	file credential.json
+1	file size
+1	filter malicious connections
+1	filter malicious requests
+1	final outcome
+1	final submission
+1	final vote preferences
+1	financial expense
+1	findings section
+1	firstly
+1	fisher
+1	foreign country
+1	foreign election
+1	foreign intelligence service
+1	foreign nation
+1	foreign power
+1	form ivoteid +
+1	france
+1	fried
+1	front-end ivote protocol
+1	full functionality
+1	function uses
+1	fundamental tension
+1	g.
+1	galois/counter mode
+1	gentle introduction
+1	genuine evidence
+1	genuine protocol
+1	germany
+1	global content delivery network
+1	global network
+1	global scan
+1	globalsign subject
+1	good connections
+1	google
+1	google analytics
+1	government online ecensus system
+1	gpu
+1	gpu-optimized
+1	hardware level
+1	hash rates
+1	hashcat
+1	hashlib
+1	heather
+1	helios
+1	helpful feedback
+1	hex values
+1	high degree
+1	high-level
+1	high-level overview
+1	historical domain registrations
+1	html
+1	http
+1	i.
+1	id/pin
+1	identify points
+1	identify users
+1	identity
+1	immediate timing comparison
+1	imperva incapsula
+1	implications
+1	important question
+1	importantly
+1	inaccurate result
+1	incapsula ssl support
+1	incapsula voter
+1	incapsula-controlled tls
+1	incapsula:9
+1	independent channel
+1	individual user connections
+1	individual users
+1	individual voters
+1	inexpensive elastic cloud
+1	information forensics
+1	initial analysis
+1	initial response
+1	injecting overview
+1	input boxes
+1	interactive voice response
+1	interesting scenario
+1	international conference
+1	internet scan
+1	internet-wide
+1	internet-wide scan
+1	intricate sequence
+1	introduction democratically
+1	invisible ink confirmation codes
+1	ip address
+1	ipv4
+1	ivote ballots
+1	ivote election
+1	ivote infrastructure
+1	ivote server pass
+1	ivote servers
+1	ivote servers domain
+1	ivote system incorporates
+1	ivote website https
+1	ivoteid +
+1	ivr
+1	j.a
+1	j.a.
+1	jonathan
+1	joosen
+1	key derivation
+1	key derivation function
+1	key management
+1	key store
+1	keys
+1	keystore
+1	kiayias
+1	kingdom
+1	knowledge
+1	kortum
+1	kp =
+1	l.
+1	large number
+1	large-scale certificate sharing ddos
+1	legislative assembly
+1	legislative council
+1	legitimate connections
+1	legitimate domestic surveillance operation
+1	li
+1	liao
+1	likely forms part
+1	lindeman
+1	link voters
+1	lithuania
+1	live election website
+1	live online election
+1	login
+1	login page
+1	login phase
+1	m.d.
+1	macgibbon
+1	main limitations
+1	main phases
+1	malicious cloud provider injects
+1	malicious entity
+1	malicious injection script
+1	malicious purpose
+1	malicious script
+1	man-in-the-middle attacks
+1	maneuvering
+1	mark eldridge2
+1	mark.eldridge @ student.adelaide.edu.au
+1	markup language
+1	mcburnett
+1	meaningful form
+1	methodology publicly
+1	millisecond range
+1	mirian
+1	mitigation process
+1	modify
+1	modify ballots
+1	month period
+1	montoya
+1	multi-national footprint
+1	multi-use certificates
+1	multinational company
+1	multiple voters
+1	nation state
+1	national institute
+1	national security request
+1	natural target
+1	ndss
+1	near real-time attack capability
+1	network observers
+1	nikiforakis
+1	nominally
+1	non
+1	non end-to-end encryption
+1	non end-to-end nature
+1	non end-to-end tls
+1	notice changes
+1	numerous domains
+1	numerous hosts
+1	numerous security services
+1	numerous websites
+1	o.
+1	observable properties
+1	observe local elections
+1	observe network messages
+1	obtaining
+1	offering crypto brute
+1	old principle
+1	online
+1	online services
+1	ontario
+1	optical scan election systems
+1	origin
+1	outsource trust
+1	own certificate
+1	own local server
+1	own program
+1	p.
+1	p.b
+1	p.b.
+1	pacific region.8
+1	page load
+1	paper
+1	parker
+1	partial vote preferences
+1	partial vote skeleton
+1	partial vote submission
+1	particular attack scenario
+1	passport number
+1	password input
+1	password string
+1	password value
+1	pereira
+1	persistent cookie
+1	philippines
+1	plaintext traffic
+1	points
+1	popoveniuc
+1	pops
+1	potential attackers
+1	potential attacks
+1	practice ivote server
+1	practice website
+1	preference order
+1	prefs
+1	prefs aeskp
+1	presence
+1	pret
+1	prevention exposes
+1	prevention service
+1	previous section
+1	previous voters ballot
+1	privacy
+1	proc
+1	procure custom hardware
+1	profiling
+1	protecting
+1	protection imperva incapsula
+1	protection ineffective
+1	protection need
+1	protection servers
+1	protection services
+1	protocol overview
+1	proxy ivote connections
+1	public key
+1	public-key group parameters
+1	publication
+1	putting
+1	python
+1	quick acknowledgement
+1	r.
+1	r.l.
+1	random nonce
+1	random oracles
+1	readable format
+1	real election server
+1	real-world feasbility
+1	recall
+1	receipt
+1	recent
+1	recent elections
+1	recent work
+1	recommendation
+1	recommended
+1	ref s
+1	ref s pk token.json ballot =
+1	references
+1	registration
+1	registration website
+1	relevant aspects
+1	remote nature
+1	resource files
+1	resp = credential.json- > challenge objectknonce resp ksignsk
+1	resume laterto facilitate
+1	review
+1	revision
+1	risk limiting audits
+1	risky approach
+1	riva
+1	rivest
+1	robust infrastructure
+1	rosen
+1	rsa
+1	sample user
+1	scalable e2e
+1	scantegrity
+1	schneider
+1	science university
+1	script injection
+1	script injection attack
+1	script payloads
+1	scripts
+1	scytl
+1	scytl keystore
+1	search engine
+1	search space
+1	secondary certificate
+1	secondly
+1	secret key
+1	secret keys
+1	security failures
+1	security implications
+1	security providers
+1	security researchers
+1	selective fashion
+1	separate connection
+1	server administrators
+1	server authentication
+1	server content
+1	server corresponds
+1	server exists
+1	server misconfiguration
+1	servers challenge
+1	servers signature
+1	service attacks
+1	service provider
+1	session state
+1	shen
+1	sherman
+1	short life
+1	short script
+1	side channel
+1	significance
+1	significant
+1	significant impact
+1	significant implications
+1	significant risk
+1	similar tasks
+1	singapore
+1	sk =
+1	sms
+1	spain
+1	specific requests
+1	specifically
+1	specifically incapsula
+1	springer
+1	ssl faq
+1	standards
+1	star-vote
+1	store custom variables
+1	string differs
+1	subject
+1	subsequent by-election
+1	subsequent posts
+1	such case study
+1	such services
+1	suffix passks
+1	sullivan
+1	switzerland
+1	sydney
+1	symmetric key
+1	symmetric key kp
+1	system security
+1	ta-shma
+1	taken
+1	target website
+1	technical analysis
+1	technical findings
+1	telephone verification service [
+1	telephone verification system [
+1	text
+1	thanks
+1	third-party servers
+1	third-party vendor
+1	third-party verification server
+1	tls proxy
+1	token post
+1	token.json files
+1	transport layer
+1	transport layer security
+1	trick voters
+1	true public
+1	trust model
+1	trustworthy elections
+1	u.s.
+1	upon
+1	upper house
+1	us-based
+1	usd
+1	usenix
+1	utmv cookie
+1	v.
+1	valenta
+1	valid keys
+1	valid signature
+1	valid voterid
+1	van goethem
+1	vanessa teague4
+1	various parts
+1	various points
+1	verifiability
+1	verifiable cryptographic systems [ 3,5,7,16,11,12 ]
+1	verifiable elections
+1	verification
+1	verification evidence
+1	verification failure rate
+1	verification flaws
+1	verification success
+1	verify xml signatures
+1	virtual
+1	vissers
+1	vjteague @ unimelb.edu.au
+1	vote
+1	vote confirmation pages
+1	vote-encoder/partial_vote/ { voterkeysid }
+1	vote-encoder/token/ { voterkeysid }
+1	voter ballot preferences
+1	voter browser cloud
+1	voter certificate
+1	voter connections
+1	voter connects
+1	voter credential file skeleton
+1	voter experience
+1	voter machine
+1	voter registers
+1	voter security
+1	voter sign
+1	voterauth
+1	voterid =
+1	voterid credential.json passks =
+1	voterid space
+1	voterid/credential.json pairs
+1	voterkeysid value
+1	voters behalf
+1	voters browser
+1	voters credential
+1	voters credentials
+1	voters cryptographic credentials
+1	voters identity
+1	voters interaction
+1	voters iv oteid
+1	voters ivoteid
+1	voters registration details
+1	voters session
+1	voters system
+1	votes cast.5
+1	vpn
+1	w.
+1	wa core voting
+1	wales ivote system
+1	wallach
+1	weac
+1	web browser
+1	website domains
+1	wide scan
+1	wijmans
+1	wildcard domain *.elections.wa.gov.au
+1	winn
+1	wombat
+1	work focuses
+1	workshop/workshop
+1	x-iinfo headers
+1	xia
+1	y.
+1	yoni
+1	your website invisible
+1	yuval yarom
+1	zacharias
+1	zeifman
+1	zhang

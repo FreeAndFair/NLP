@@ -1,0 +1,819 @@
+42	e2e
+26	universal verifiability
+19	bulletin board
+17	helios
+15	threeballot
+13	kusters
+12	r. kusters
+12	t. truderung
+8	a. vogt
+8	definition
+8	election result
+8	honest voters
+8	ktv
+8	mix net
+8	simple ballots
+8	v. cortier
+8	verifiability
+7	accountability
+7	analysis
+7	t1
+7	tm
+7	vav
+6	honest voter
+6	individual verifiability
+6	mix servers
+6	simple ballot
+5	chaumian
+5	csf
+5	final result
+5	itms
+5	mix nets
+4	coercion-resistance
+4	d. galindo
+4	dishonest voter
+4	dishonest voters
+4	e2e verifiability
+4	formal analysis
+4	hence
+4	legal requirements
+4	negligible function
+4	pr
+4	privacy
+4	verifiability definition
+4	verification procedure
+4	voting
+3	a. ryan
+3	accountability constraints
+3	accountability property
+3	aggelos kiayias
+3	assume
+3	bingsheng zhang
+3	c. wiedling
+3	c2
+3	ccs
+3	central security requirements
+3	certain checks
+3	clearly
+3	coercionresistance
+3	cryptographic
+3	formal definition
+3	intuitively
+3	k votes
+3	ktv framework
+3	practical purposes
+3	random coins
+3	relationship
+3	security parameter
+3	thomas zacharias
+3	tls
+3	universal
+3	vote-id
+2	^ ^ dis
+2	^ dis
+2	_ dis
+2	a. halderman
+2	accountability definition
+2	actual choices
+2	applications
+2	attacking
+2	benaloh
+2	bingo voting
+2	bulletin board b
+2	c.
+2	c1
+2	c3
+2	ciphertext encrypts
+2	civitas
+2	clash
+2	clash attacks
+2	coercion-resistance definitions
+2	common misconceptions
+2	complex systems
+2	computational model
+2	corrupt parties
+2	cortier
+2	crypto
+2	cryptographic analysis
+2	cryptographic protocols
+2	cryptographic security analysis
+2	e-voting
+2	e-voting systems
+2	elections
+2	elgamal
+2	enc
+2	eurocrypt
+2	fc
+2	following
+2	formal model
+2	formal security definitions
+2	fundamental security requirements
+2	furthermore
+2	game-based definition
+2	generic verifiability definition
+2	high level
+2	honest program
+2	honest voters vote
+2	huge progress
+2	ieee
+2	individual accountability
+2	input ciphertexts
+2	itm
+2	j. muller
+2	judge accepts
+2	judge outputs
+2	judging procedure
+2	k. bhargavan
+2	kilian
+2	legal framework
+2	m. volkamer
+2	own goal
+2	perfect level
+2	peter y
+2	political elections
+2	previous sections
+2	privacy definition
+2	probabilistic polynomial-time
+2	protocol participant
+2	protocol runs
+2	provable security
+2	public keys
+2	public-key encryption scheme
+2	random numbers
+2	receipt-free
+2	remote electronic voting
+2	rigorous
+2	run r
+2	security properties
+2	security property
+2	security requirements
+2	select [
+2	similarly
+2	single ballot
+2	sok
+2	system select [
+2	technical
+2	turing
+2	typically
+2	v1
+2	verifiability guarantees
+2	verifiability notions
+2	verifiable decryption
+2	vi
+2	vn
+2	vote buying
+2	voter votes
+2	voters vote
+2	zero-knowledge proofs
+1	1| | k
+1	2010. http
+1	= k = k
+1	] assumes
+1	_ _ dis
+1	a. buchmann
+1	a. c. myers
+1	a. datta
+1	a. delignat-lavaud
+1	a. kankipati
+1	a. rastogi
+1	a. schmidt
+1	a. sinha
+1	aaron d. jaggard
+1	abort
+1	abstract
+1	abstract system descriptions
+1	according
+1	account real-world uncertainties
+1	accountability constrains
+1	accountability issues
+1	accountability strengthens
+1	achievements
+1	acm trans
+1	actual causes
+1	actual code
+1	actual votes cast
+1	adding
+1	additional data
+1	additional subproperties
+1	additionally
+1	adversaries obtains
+1	analyze dierent
+1	analyze mix nets [
+1	appendix
+1	applicable frameworks
+1	applicable security definitions
+1	appropriate choices
+1	arbitrary protocols
+1	archive
+1	artificial example
+1	assumptions
+1	asw
+1	attack dier
+1	attacks uses
+1	auction schemes
+1	average voters
+1	b. adida
+1	b. beckert
+1	b. blanchet
+1	b. chevallier-mames
+1	b. smyth
+1	b. warinschi
+1	ballot box
+1	ballot secrecy
+1	barbara simons
+1	beleniosrf
+1	ben smyth
+1	benalohs
+1	benign adversary
+1	besides vote privacy
+1	big challenge
+1	block
+1	boolean
+1	bounded
+1	brief summary
+1	broad class
+1	broken
+1	bryan schwartz
+1	c. fournet
+1	c. thorpe
+1	c=
+1	canada
+1	candidate
+1	candidate b
+1	candidate c
+1	candidate c0
+1	candidate mi
+1	captures soundness/fairness
+1	case
+1	case studies
+1	cast o x o
+1	cast o x x
+1	cca2-
+1	certain additional assumption
+1	certain assumptions
+1	certain candidates
+1	certain information
+1	certain legal requirements
+1	certain level
+1	certain probability
+1	certain usability attributes
+1	chaumian mix nets
+1	chaumian rpc
+1	chevallier-mames
+1	choice mi
+1	chris culnane
+1	ci =
+1	ciphertext ci
+1	ciphertexts c1
+1	clash attacks [
+1	close connection
+1	code-level analysis
+1	coercer demands
+1	coercer leverage
+1	coercion resistance
+1	coercion-mitigation
+1	coercion-resistance does
+1	coercion-resistance implies privacy
+1	coercion-resistant protocol
+1	coin flip
+1	common general framework
+1	communications
+1	complex hardware/software systems
+1	comprehensive analysis
+1	comput
+1	computational
+1	computer
+1	conclusion
+1	consider
+1	consideration votes
+1	constraint c
+1	constraint c1
+1	constraint c2
+1	constraint c3
+1	conversely
+1	correct ballot
+1	correct result
+1	corresponding plaintexts
+1	corrupt messages
+1	counterstrategy cs
+1	critical aspects
+1	cryptographic primitives
+1	cryptographic tasks
+1	cryptology
+1	csfw-19
+1	csli publications
+1	d. bernhard
+1	d. bruns
+1	d. garg
+1	d. heinson
+1	d. k. kaynar
+1	d. parkes
+1	d. pointcheval
+1	d. sharma
+1	d. springall
+1	d.c. internet voting
+1	dan grice
+1	daniel
+1	david bismark
+1	dawn isabel
+1	definition assumes
+1	definitions
+1	demos-2
+1	deployment
+1	deployment issues
+1	depth
+1	developing
+1	device creates
+1	device encrypts
+1	device performs
+1	device stores
+1	dierent parties
+1	dierent runs
+1	dierent versions
+1	dierent voters
+1	digital signatures
+1	dishonest scanner
+1	dishonest trustee
+1	dishonest voter votes
+1	diverse ways systems
+1	douglas jones
+1	dummy strategy
+1	dummy strategy dum
+1	e-voting protocols
+1	e. scapin
+1	e. wustrow
+1	efficient e2e
+1	election outcome
+1	election result corresponds
+1	elections canada
+1	electronic boardroom voting
+1	electronic copies
+1	electronic voting
+1	electronic voting protocols
+1	eligible voters
+1	encryption layer
+1	end-to-end
+1	eric wustrow
+1	esorics
+1	establishing
+1	estonian internet voting
+1	europe
+1	euros
+1	everlasting privacy
+1	evote
+1	evoting
+1	evt
+1	evt/wote
+1	example
+1	exists c =
+1	expressive protocol model
+1	external auditors
+1	external observers
+1	f. eigner
+1	f. karayumak
+1	fact implies
+1	fact runs dum
+1	fair exchange
+1	fairness condition
+1	false verdicts
+1	favorite candidate
+1	final election result
+1	fixing helios
+1	form dis
+1	form o o o
+1	formal
+1	formal accountability definition
+1	formal definitions
+1	formal privacy
+1	formal verifiability definitions
+1	formal/cryptographic analysis
+1	formally
+1	fortunately
+1	fouque
+1	full control
+1	full definition
+1	full picture
+1	full-fledged cryptographic security analysis
+1	function returns
+1	fundamental security property
+1	fuzzy verdict
+1	g. fuchsbauer
+1	game-based ballot privacy definitions
+1	general definition
+1	general formal definition
+1	general formal frameworks
+1	general framework
+1	general protocol model
+1	generic framework
+1	generic ways
+1	global verifiability
+1	goal k
+1	goal k contains
+1	goal specifies
+1	goals { k } k
+1	good chance
+1	gregor goler
+1	gregor wenda
+1	h. hursti
+1	h. k. prasad
+1	homomorphic property
+1	honest voter k
+1	honest voter obtains
+1	honest voter votes
+1	honest voters submit x x o x o o
+1	honest votes
+1	hostile states
+1	human beings
+1	human parties
+1	hybrid approach
+1	icec06
+1	icics
+1	ideal x
+1	identifiable abort [
+1	ieee computer
+1	ignore corruption messages
+1	illustrative example
+1	implementation flaws
+1	implementing
+1	imply privacy
+1	important aspects
+1	important piece
+1	important role
+1	importantly
+1	improving privacy
+1	incompatible properties
+1	incorrect and/or elections
+1	indias
+1	indispensable corner stone
+1	individual party
+1	individual verification procedures
+1	inf
+1	input plaintexts m1
+1	insights
+1	intelligence agencies
+1	interactive probabilistic polynomial time
+1	intermediate ciphertexts
+1	international workshops
+1	introduction privacy
+1	invalid ballot result
+1	invalid choice
+1	ith candidate
+1	ith position
+1	j. alex halderman
+1	j. k. zinzindohoue
+1	j. kitcat
+1	j. pan
+1	j. protzenko
+1	j. stern
+1	j. traore
+1	james heather
+1	java
+1	java programs
+1	jcj
+1	jcs
+1	jeremy epstein
+1	joan feigenbaum
+1	joe kilian
+1	johannes muller2
+1	josh daniel cohen benaloh
+1	judge beliefs
+1	judge runs
+1	judge states
+1	k =
+1	kazue sako
+1	key pair
+1	l. langer
+1	legal penalties
+1	legal terms
+1	level
+1	lightweight
+1	limitations
+1	limitations ralf kusters1
+1	lower
+1	m. arnaud
+1	m. izabachene
+1	m. kauer
+1	m. kirsten
+1	m. kohlweiss
+1	m. m. olembo
+1	m. macalpine
+1	m. maei
+1	m. mohr
+1	m. naor
+1	m. r. clarkson
+1	m. rabin
+1	m. waidner
+1	m1
+1	machine checks
+1	machine posts
+1	maina m. olembo
+1	major achievements
+1	malicious authorities
+1	malicious servers/authorities drop
+1	mark ryan
+1	measure privacy
+1	melanie volkamer
+1	mental
+1	mere verifiability
+1	metayer
+1	michael r. clarkson
+1	minimal verdicts
+1	misconception
+1	misconceptions
+1	mix nets [
+1	mix server
+1	mix server decrypts
+1	mn
+1	model
+1	model voters
+1	modification
+1	mpc
+1	muellerjoh @ uni-trier.de
+1	multi-party computation
+1	n. asokan
+1	n. kobeissi
+1	n. swamy
+1	natural way
+1	necessary
+1	negative votes
+1	negligible probability
+1	network and/or dishonest parties
+1	new systems
+1	non-negligible advantage
+1	non-negligible chance
+1	nonce ni
+1	noninteractive receipt-free electronic voting scheme
+1	norwegian e-voting
+1	nspw
+1	number
+1	o ballots
+1	o o x x o o
+1	o. pereira
+1	observer o
+1	optimistic
+1	oracles
+1	organizational issues
+1	original definition
+1	original paper [
+1	original variant
+1	outer encryption layer
+1	outright malicious
+1	overall verifiability
+1	p. b. rnne
+1	p. chaidos
+1	p. richter
+1	p. y
+1	p.-a
+1	paper summarizes
+1	parameter k
+1	particular problematic
+1	particular voter
+1	perceived
+1	personal nonce ni
+1	phd
+1	plaintext mi
+1	political system
+1	popular notions
+1	positive side
+1	possible minimal verdicts
+1	post
+1	powerful adversaries
+1	practical
+1	practical reasons
+1	practical security
+1	practical solution
+1	pret
+1	privacy reasons
+1	probabilistic polynomial-time interactive
+1	probability distribution
+1	program actions
+1	program code
+1	program.
+1	prominent notions
+1	protects voters
+1	protocol model
+1	protocol run
+1	protocol runs.3
+1	protocol specification
+1	protocol-specific sense
+1	proving
+1	proving coercion-resistance
+1	proving noninterference
+1	prst
+1	public key pk
+1	public/secret key pair
+1	pure election result
+1	r. gonggrijp
+1	r. l. rivest
+1	rafail ostrovsky
+1	ralf.kuesters @ sec.uni-stuttgart.de
+1	random nonce ni
+1	random number
+1	random order
+1	random partial
+1	random permutation
+1	randomized partial checking
+1	re-encryption rpc mix nets
+1	real consequences
+1	real world
+1	realistic values
+1	reasonable assumptions
+1	reasonable level
+1	reasonable security level
+1	rebecca n. wright
+1	rec
+1	receipt-freeness
+1	recent work
+1	recent years
+1	record layer
+1	reference implementations
+1	references
+1	regular
+1	regular voters
+1	relevant cases
+1	remote voting
+1	replay attacks [
+1	research area
+1	reverse order
+1	rigorous analysis
+1	rigorous approach
+1	rigorous cryptographic analysis
+1	rigorous security analysis
+1	robert stein
+1	roughly
+1	rpc
+1	run dum
+1	runs r
+1	s. chong
+1	s. glondu
+1	s. k. sakhamuri
+1	s. kremer
+1	s. shieber
+1	s. wolchok
+1	s. zanella beguelin
+1	sako
+1	sanity check
+1	scantegrity ii
+1	sci
+1	scott wolchok
+1	secret key sk
+1	secret key sk1
+1	secret-ballot elections
+1	secur.
+1	secure multi-party computation
+1	secure voting
+1	security analysis
+1	security definition
+1	security notions
+1	security parameter `
+1	security procedure
+1	security proofs
+1	security statements
+1	select shows
+1	selected areas
+1	selene
+1	separate entities
+1	set contains runs
+1	setup assumptions
+1	short
+1	simple check
+1	simple example demonstrates
+1	simple variant
+1	smyth
+1	so-called clash attacks
+1	so-called coercion-resistance
+1	so-called judging procedure
+1	solid basis
+1	solid formal basis
+1	solid formulations
+1	sophisticated attackers
+1	source
+1	specific candidate
+1	specific protocol structure
+1	specific protocol structures
+1	state dis
+1	steen bartsch
+1	stephanie delaune
+1	steve a. schneider
+1	steve kremer
+1	steve schneider
+1	steven frink
+1	strong adversaries
+1	strong properties
+1	strong verifiability notion
+1	stuttgart
+1	subproperties
+1	subsequent notions
+1	subtle relationships
+1	successful code-level analysis
+1	such analyses
+1	such analysis
+1	such attacks
+1	such definitions
+1	such manipulations
+1	such powerful adversaries
+1	such properties
+1	such requirements
+1	such systems
+1	syst
+1	system [
+1	system select
+1	systems suer
+1	systems usability w.r.t
+1	t. finkenauer
+1	t. moran
+1	technical overheads
+1	technical report [
+1	throughout
+1	total number
+1	toward
+1	towards
+1	transparent verifiability
+1	trier
+1	truderung
+1	trust assumptions
+1	trustworthy auctions
+1	twin
+1	type-based verification
+1	undetectable way
+1	universal verifiability implies
+1	universal verifiability sako
+1	usability
+1	usability analysis
+1	usability aspects
+1	usability attributes
+1	usability issues
+1	usability studies
+1	usenix
+1	uses asymmetric encryption
+1	v. iovino
+1	v. shoup
+1	v. yagati
+1	valid choice
+1	valid multi-ballots
+1	valid votes
+1	vanessa teague
+1	various kinds
+1	various parameters
+1	various tellers
+1	various works
+1	vassilis zikas
+1	verifiability [
+1	verifiability e-voting
+1	verifiability level
+1	verifiability levels
+1	verifiability notion
+1	verifiability tolerance
+1	verifiable election system
+1	verifiable way
+1	verification code
+1	verification issues
+1	verification purposes
+1	verified
+1	vice versa
+1	virtual entity
+1	vogt
+1	voter
+1	voter coercion
+1	voter complaints
+1	voter marks
+1	voter memorizes
+1	voter names
+1	voter uses
+1	voters ballot
+1	voters check
+1	voters devices
+1	voters encrypt
+1	voters performs
+1	voters publish
+1	votes cast
+1	voting machines demise
+1	voting protocols
+1	voting schemes
+1	w. d. smith
+1	washington
+1	weak form
+1	weak trust assumptions
+1	weaker
+1	weakness
+1	web-based open-audit voting
+1	who
+1	will
+1	wombat voting
+1	wote
+1	x o o
+1	x o o x x o
+1	x o o x x o x
+1	x x o
+1	x x o x o o
+1	x x o x o x
+1	x x x
+1	yuval ishai
+1	z. durumeric
+1	z. opitz-talidou
+1	zero-knowledge proof
+1	zhe xia
+1	zkp
+1	zkps
+1	| | k
+1	| |dis

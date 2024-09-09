@@ -1,0 +1,1299 @@
+37	coq
+37	usenix
+35	bayer-groth
+26	epcck
+22	zq
+19	terelius-wikstrm
+18	symposium
+17	sec
+16	computer
+14	haines
+12	enc
+11	bg
+11	lecture notes
+11	ocaml
+11	springer
+11	tw
+11	zero-knowledge proofs
+10	product argument
+9	acm
+9	definition
+9	fiat-shamir
+9	pick
+9	scytl
+9	sigma protocols
+9	statement s
+9	swiss post
+8	3-round protocol
+8	rel
+8	special soundness
+8	znq
+7	bayer
+7	challenge
+7	common reference string
+7	groth
+7	hash function
+7	pcck
+7	proceedings
+7	thomas haines
+7	zero-knowledge
+7	zero-knowledge proof
+7	zkp
+6	comments
+6	commitment scheme
+6	define
+6	encryption scheme
+6	hadamard
+6	ieee
+6	initial
+6	sigma protocol
+6	statement
+6	swiss post implementation
+6	verifiable evidence
+6	verification
+6	verificatum
+6	verifier accepts
+6	wikstrm
+6	zeroknowledge proofs
+5	5-round protocol
+5	almeida
+5	axiom
+5	compute
+5	csf
+5	multi-exponentiation argument
+5	pen-and-paper proofs
+5	provers
+5	s w
+5	security definitions
+5	terelius
+5	zero argument
+5	zero-knowledge arguments
+4	additional information
+4	communications
+4	completeness
+4	cryptology
+4	easycrypt
+4	election authority
+4	elgamal
+4	engage
+4	international conference
+4	manuel barbosa
+4	mpc
+4	p0
+4	pedersen
+4	previous work [
+4	privacy
+4	rcom
+4	shuffle
+4	software independence
+4	switzerland
+4	tereliuswikstrm
+4	tost
+4	work [
+4	zkps
+4	zm
+3	9-round protocol
+3	accept
+3	arch.
+3	australia
+3	background
+3	ballot integrity
+3	ccs
+3	challenge e
+3	chvote
+3	coqs
+3	douglas wikstrm
+3	efficient
+3	estonia
+3	eurocrypt
+3	extraction facility
+3	failure event
+3	formal definition
+3	full version
+3	future work
+3	gilles barthe
+3	iacr cryptol
+3	ieee symposium
+3	initial sequence
+3	jens groth
+3	jos bacelar almeida
+3	mj=1 a1 j
+3	mukesh tiwari
+3	multiexponentiation argument
+3	n p
+3	negligible probability
+3	original paper
+3	p1
+3	phd
+3	point e
+3	proof size
+3	proposition
+3	rajeev gor
+3	random coins
+3	redundant data
+3	s r w
+3	s0
+3	schwarz-zippel
+3	security proofs
+3	shuffle argument
+3	similar work
+3	simmap s w e x r
+3	specifically
+3	st
+3	statements s
+3	usa
+3	} li=1
+3	~ca = comck
+2	3-round protocols
+2	5-round protocols
+2	5-round sigma protocol
+2	= mn
+2	acm sigsac
+2	additional rounds
+2	advances
+2	alldifferent e
+2	analysis
+2	annual
+2	applications
+2	arbitrary adversaries
+2	australian
+2	auxiliary information
+2	bas spitters
+2	ben smyth
+2	bernhard
+2	bilinear map
+2	bjrn terelius
+2	c =
+2	c = c0
+2	c1
+2	ca
+2	cambridge
+2	cb =
+2	certicrypt
+2	correct verifier
+2	crypto
+2	cryptographic protocols
+2	cryptographic techniques
+2	cryptographic theory
+2	david bernhard
+2	distinct openings
+2	e 6= e0
+2	efficiency
+2	efficient simulator
+2	election outcome
+2	encryption
+2	encryption schemes
+2	endre bangerter
+2	equality
+2	esorics
+2	extractor t e
+2	fake proofs
+2	figure
+2	financial cryptography
+2	following
+2	formal definitions
+2	full properties
+2	full protocol
+2	government elections
+2	group identity
+2	hadamard product argument
+2	hn
+2	honest run
+2	honest-verifier zero knowledge
+2	honest-verifier zero-knowledge
+2	ieee computer
+2	interactive version
+2	json
+2	key observation
+2	kristian gjsteen
+2	l-special soundness
+2	machine-checking multi-round proofs
+2	main aim
+2	main contribution
+2	mathematical
+2	matrix commitments
+2	mpc-in-thehead
+2	national elections
+2	national university
+2	new sequence contains
+2	non-zero polynomial
+2	nordsec
+2	norway
+2	olivier pereira
+2	original paper [
+2	overall shuffle argument
+2	political elections
+2	posts
+2	ppatc
+2	probability distribution
+2	proof transcripts
+2	public key pk
+2	q q
+2	randomness r
+2	recall
+2	ronald cramer
+2	s = s0
+2	sabine oechsner
+2	santiago zanella bguelin
+2	schnorr
+2	secondly
+2	security analysis
+2	security proof
+2	sigma-protocols
+2	sigmaplus
+2	sigmaplus5plus3to9
+2	sigmaplus5plus3to9comp
+2	sigmaplusto
+2	sigmaplusto5
+2	single value product argument
+2	sok
+2	soundness
+2	ssprove
+2	statements s s
+2	stephan krenn
+2	stoc
+2	sub-argument ]
+2	subtle bug
+2	terelius-wikstrom
+2	test vectors
+2	towit
+2	transform [
+2	trapdoor information x
+2	uk
+2	valid proofs
+2	value product argument
+2	vanessa teague
+2	vector commitments
+2	vector e
+2	verifiable mix nets
+2	verifier round
+2	voter privacy
+2	vronique cortier
+2	w w
+2	weak transform
+2	weak variant
+2	wide deployment
+2	zero-knowledge argument
+2	znm
+2	} m1 i=0
+2	~ca0 =
+2	~cb1 =~ca1
+2	~cbm = cb
+2	~x =
+1	.. .. .. .. ..
+1	.. .. d ~bm+1 m+1 ~ ~
+1	... bn = xbn + n s = xsx + s1
+1	// github.com/republique-et-canton-de-geneve/ chvote-protocol-poc
+1	//github.com/gerlion/ secure-e-voting-with-coq
+1	/\ simmapinv s w e x
+1	2m m+1i cbx i i=0
+1	2q +
+1	3-round interactive proof
+1	3-round sigma protocol proves
+1	3-round single value product argument
+1	3-round zero argument
+1	5-round protocol definition
+1	5-round sigma-protocols
+1	5-round sigmaesque-protocol
+1	5-round sigmaesqueprotocol
+1	5-round variant
+1	5round protocols
+1	7-rounds protocols
+1	9-round protocols
+1	9-round sigma protocol
+1	9-round variants
+1	978-1-939133-37-3 open access
+1	= c
+1	= d1
+1	= m
+1	= nj=1
+1	= r /\ simmap s w e x
+1	= simulator s
+1	= t.
+1	= xan + dn r = xr + rd b1 = xb1 +
+1	= {
+1	= { ~a j } mj=1
+1	= { ~ai } m i=1
+1	= ~ ~b
+1	= ~ai ~bi
+1	= ~ai+1 d~i ~1 d~ i=1
+1	> alldifferent e
+1	> allvalid s c e t
+1	[ t ]
+1	[ ~ catenation
+1	[ ~a0
+1	[ ~ca0
+1	\/ fail_event s c e.
+1	] claims
+1	] contains
+1	] framework
+1	] mixnets
+1	] proof
+1	] show
+1	] ~x tr = [ r0
+1	abstract description
+1	abstract shuffles
+1	abstract versions
+1	acisp
+1	acknowledgments
+1	acm sigplan-sigact symposium
+1	actual computer implementations
+1	actual encodings
+1	actual property
+1	adapting helios
+1	additional details
+1	additional restrictions
+1	adi shamir
+1	africa
+1	africacrypt
+1	ahmad-reza sadeghi
+1	ai j = b ~cb = {
+1	alas
+1	alina oprea
+1	allvalid s c0 c1 e t
+1	als work
+1	alternative proposals
+1	amit sahai
+1	amos fiat
+1	anaheim
+1	analogous coercion-resistance
+1	andrea cerulli
+1	antoine van muylder
+1	appellation zero-knowledge
+1	appropriate 3-move form
+1	appropriate use
+1	arbitrary ballots
+1	arguments sake
+1	arithmetic circuits
+1	association [
+1	association a1 = xa1 + d1 ...
+1	association product arguments
+1	attacking
+1	august
+1	aula
+1	australasian
+1	australian discovery early career
+1	authors state
+1	automatic tools
+1	availability
+1	axiom to_valid
+1	b = ai i=1
+1	b = { bi } i=1
+1	b = { x i=1 m1 {
+1	b d = >
+1	b. grgoire
+1	b1 = a1 bn = xb
+1	b1 d2
+1	b2 ~a0 ~b2 ~a1 ~b2
+1	ballot secrecy
+1	barbados
+1	barthe
+1	bayer groth
+1	bayer-groth thomas haines
+1	bayer-groth thomas haines australian
+1	belgium
+1	below
+1	benjamin grgoire
+1	bghadprod
+1	bgmultiarg
+1	bgsingleprod
+1	bgzeroarg
+1	bhavesh sharma
+1	binary relation
+1	bit string
+1	bm =
+1	bogdan warinschi
+1	bootle
+1	bringing
+1	brisbane
+1	bristol
+1	bruno blanchet
+1	bryan parno
+1	c i
+1	c mi i=0
+1	c ~
+1	c ~ 0~b
+1	c ~ m
+1	c++
+1	c0
+1	c0 c
+1	c0 decrypts
+1	c0i = c
+1	c0i i
+1	c1 =
+1	canonical group generator
+1	carmine abate
+1	cas cremers
+1	cast
+1	cast ballot contains
+1	catalin hritcu
+1	catch subtle
+1	cb = q
+1	cbk =
+1	cbm =
+1	cbm+1 =
+1	ccs12
+1	cd =
+1	cd = i=1 ~
+1	centre
+1	certain commitments
+1	certain conditions
+1	certain constants
+1	certain global parameters
+1	certain parts
+1	certain probability
+1	certain random values
+1	challenge space
+1	challenge vector u1
+1	changes introduce
+1	channel attacks
+1	charles rackoff
+1	checkable evidence
+1	christ
+1	christine paulin-mohring
+1	christophe petit
+1	ciphertext c =
+1	ciphertext group identity element
+1	ciphertext space
+1	ck ca =
+1	clarified
+1	claudia daz
+1	claus-peter schnorr
+1	clear understanding
+1	code
+1	code-based cryptographic proofs
+1	collected
+1	column vector ~a0
+1	combined
+1	commitment key ck
+1	commitment key elements
+1	commitment parameters
+1	commitment parameters g
+1	commitment space
+1	commitment-consistent
+1	commitments
+1	commitments [
+1	commitments c
+1	commitments c0
+1	commitments c1
+1	common construction
+1	common technique
+1	common use
+1	common way
+1	compatible encryption scheme
+1	compatible encryption schemes
+1	complete 5-message
+1	complete 5-round
+1	complete honest-verifier zero knowledge argument
+1	complexity class
+1	computation
+1	computational casewhich
+1	computational efficiency
+1	computational model
+1	compute cb =
+1	compute commitments { ~cdi =
+1	compute { ~cb = i
+1	compute ~ rd
+1	compute ~ ~
+1	computer-aided
+1	computes c = gu
+1	computes u0
+1	conclusion
+1	concurrently
+1	conditions suffice
+1	conference version
+1	consider
+1	constant time
+1	constant time mathematics library
+1	coqart
+1	correct sigma protocol
+1	correct use
+1	correctness
+1	correctness criteria
+1	corresponding l
+1	corresponding mixnet
+1	corresponding permutation matrix
+1	counted
+1	critical area
+1	cronus
+1	crucial fact
+1	crucial role
+1	crucial use
+1	cryptographic community
+1	cryptographic design
+1	cryptographic proof
+1	cryptographic proofs
+1	cryptographic proofs whereas
+1	cryptography [
+1	cryptol.
+1	cryptological
+1	cryptology crypto
+1	cui i
+1	current definitions
+1	current swiss post implementation
+1	current swiss post implementation contains
+1	current version
+1	cx c =
+1	cxa cd =
+1	cyclic group
+1	c~
+1	d = y~a + b and~t = y~r +~s
+1	d. stinson
+1	d0 dm1 dm
+1	daniel hedin
+1	daniel j. bernstein
+1	data
+1	david chaum
+1	david pointcheval
+1	de220100595
+1	definitions
+1	degree d
+1	denis firsov
+1	detail limitations
+1	details future work
+1	di z
+1	diagonals prover commits
+1	different commitment
+1	different means
+1	different openings
+1	different relation
+1	different relationship
+1	different sequence
+1	difficult part
+1	digital pseudonyms
+1	digital signature schemes
+1	direct logical combinations
+1	discrepancy occurs
+1	discrete log
+1	discrete log relation
+1	discrete log setting
+1	discrete logarithms
+1	dn z
+1	dni+1 z
+1	dni+n z
+1	domain s c
+1	dominique unruh
+1	dozen times things
+1	drew springall
+1	e c1 w
+1	e-voting
+1	e0*vector e1
+1	efficient implementations
+1	efficient kind
+1	efficient sigma protocol
+1	efficient zero-knowledge protocols
+1	efficient zeroknowledge argument
+1	ek
+1	ekx
+1	election authority uses mixnets
+1	election ballots
+1	elections support voter privacy
+1	electronic
+1	electronic ballot
+1	electronic ballots
+1	electronic ballots cast
+1	eligible voters
+1	em
+1	encryption [
+1	encryption function
+1	encryption operation
+1	encryption scheme [
+1	encryptionschemeplus
+1	engineering
+1	entire system
+1	entity authentication
+1	errors [
+1	estonian
+1	everlasting
+1	exact details
+1	exact encodings
+1	exact rights
+1	excellent feedback
+1	excellent systematisation
+1	executable specification
+1	exequiel rivas
+1	expensive operation
+1	extended honest verifier zero knowledge
+1	extra information
+1	extra rounds
+1	extra trapdoor information
+1	extractor w e
+1	extras rounds
+1	eyal kushilevitz
+1	f f
+1	failure condition
+1	failure event occurs
+1	failure-event occurs
+1	failure-event parameter
+1	failures
+1	fair degree
+1	fair election
+1	famous foundational paper
+1	famous sigma protocol
+1	fc
+1	february
+1	fiat
+1	fiatshamir
+1	fig
+1	final sequence
+1	final shuffle argument
+1	firsov
+1	firstly
+1	fiveround protocol
+1	fixing helios
+1	fnr
+1	forall s c
+1	forall s w r r1 e
+1	form
+1	formal
+1	formal certification
+1	formal methods community
+1	formal proof
+1	formal structural relations
+1	formalised
+1	formally
+1	fortunately
+1	foundational framework
+1	foundations symposium
+1	franois dupressoir
+1	full benefits
+1	full details
+1	full discussion
+1	full proof cryptography
+1	function bvforall3 encodes
+1	function m
+1	function simmap
+1	function simmaphelp
+1	fundamental principles
+1	future work section
+1	fwf
+1	g generates
+1	g. barthe
+1	gbk
+1	general issues [
+1	general result
+1	geneva
+1	gjosteen
+1	gm
+1	gm statement
+1	good efficiency
+1	good trade-off
+1	good value
+1	gor
+1	grard huet
+1	gregory neven
+1	gt = c
+1	gtb
+1	guaranteeing
+1	h.
+1	hang
+1	harri hursti
+1	helios
+1	honest
+1	honest mixer
+1	honest parties
+1	honest protocol
+1	honest run random coin r
+1	honest runs
+1	honest verifier
+1	honest verifier zero-knowledge argument
+1	honest verifier zero-knowledge proof
+1	honest-verifier
+1	honest-verifier zeroknowledge
+1	honestverifier zero knowledge
+1	hovav shacham
+1	hugo pacheco
+1	hypothetical elliptic curve
+1	i [
+1	i=1 2m m+1 s = xm+1i si t = x i ti i=1 i=0
+1	i=1 32nd
+1	i=1 i ~cxdi =
+1	i=1 j=1 i=1
+1	i=1 ~
+1	identity
+1	ieee transactions
+1	implementation bugs
+1	implementation errors
+1	important election
+1	in-depth knowledge
+1	incorrect parameter generation
+1	inductive constructions
+1	information
+1	information input
+1	information theory
+1	informationtheoretic secure
+1	initial link
+1	initial pen-and-paper proof
+1	input ciphertexts c1
+1	input s.
+1	input sigma-protocols
+1	insecure generation
+1	insufficient pre-condition
+1	integers modulo
+1	intel
+1	interactive
+1	interactive proof-assistant [
+1	interactive proof-assistant supports
+1	interactive proof-assistants
+1	interactive proof-systems
+1	interactive proofs
+1	interactive variant
+1	interactive variants
+1	interesting observations
+1	international association
+1	introduction
+1	invalid data
+1	inverse simmapinv
+1	involves probabilities
+1	isabelle/hol
+1	ivote system
+1	ix k=0 mi t
+1	j alex halderman
+1	j d j y j
+1	j } ni=1 i=1
+1	j. alex halderman
+1	jasmin
+1	jason kitcat
+1	java
+1	johannes kinder
+1	johannes mller
+1	jonathan bootle
+1	jonathan katz
+1	july
+1	k 6= m
+1	k =
+1	k cxbk =
+1	k m
+1	k ~ ~aki
+1	karim eldefrawy
+1	karthik bhargavan
+1	kenji maillard
+1	kevin liao
+1	key derivation function
+1	key distribution
+1	kinds underpins
+1	knowledge complexity
+1	konrad kohbrok
+1	kth
+1	l witnesses { wi w
+1	l*l responses
+1	l*l responses t
+1	l-l-special soundness
+1	l-lspecial soundness
+1	large batch proofs
+1	large computational resources
+1	large election
+1	lemma [
+1	lemma states
+1	length l
+1	letting rcom
+1	leuven
+1	limitations
+1	line module
+1	line proof
+1	live online
+1	logical language
+1	logical relationships
+1	london
+1	lorenzo cavallaro
+1	luxembourg
+1	m =
+1	m i ~b = ~ai { bi =
+1	m m ~a = xi~ai r = xi ri i=0 i=0
+1	m m+1 i ~cxai =
+1	m ~
+1	m ~ ~ai c =
+1	m+1 ~b = xm+1i~bi =
+1	m. bellare
+1	macbook pro
+1	machine-checked
+1	machine-checked zkp
+1	main focus
+1	main software
+1	manuel l. correia
+1	margaret macalpine
+1	mathematical proof
+1	mathematical proofs
+1	mathematical statements
+1	mathematics [
+1	may
+1	message c
+1	message group identity element
+1	message m
+1	middle contribution
+1	mihir bellare
+1	minor compatibility issues
+1	minor contribution
+1	mixers [
+1	mixnets
+1	mixnets statement
+1	mller
+1	modular
+1	modular cryptographic proofs
+1	modules wiksigma
+1	morten rotvold solberg
+1	mpc-in-the-head
+1	mpc-in-the-head zeroknowledge protocols
+1	multi-exponentiation
+1	multi-party
+1	multi-signatures
+1	multiexponentiation arguments
+1	multiparty computation
+1	multiple parties
+1	n =
+1	n n
+1	n times m.
+1	n ~ca = comck
+1	n1 bn1 dn
+1	n1 dn
+1	name 32nd
+1	name suggests
+1	national research fund
+1	natural generalisation
+1	natural language
+1	natural language additions
+1	natural language definition
+1	nc
+1	ncbr
+1	new attack
+1	new definitions
+1	new formal definition
+1	new parameters
+1	new protocol
+1	new sigma-protocol
+1	ni=1
+1	niche area
+1	nikolaj sidorenco
+1	non-interactive
+1	non-interactive arguments
+1	non-interactive proofs
+1	non-interactive variants
+1	non-interactive version
+1	noninteractive variant
+1	notation
+1	notation comck
+1	notices
+1	november
+1	np
+1	numerous techniques
+1	obvious generalisation
+1	obvious way
+1	october
+1	odd scenario
+1	open problem
+1	openings d1 z
+1	ordinary sigmaprotocols
+1	original paper proof
+1	original penand-paper definitions
+1	original penand-paper proof
+1	original proposition
+1	outline
+1	output ciphertext c01
+1	overall proof
+1	overall result
+1	overall statement
+1	own implementation
+1	own words
+1	p. rogaway
+1	pairwise composition
+1	pairwise distinct wrt
+1	paper definitions
+1	paper systems
+1	paperbased
+1	parameters n
+1	parametric structural relations
+1	particular ballots
+1	particular deployment scenario
+1	particular election result
+1	particular form
+1	particular run
+1	particularly
+1	past work [
+1	paz morillo
+1	pen-and-paper equivalents
+1	pen-and-paper mathematics
+1	pen-and-paper proof
+1	pen-and-paper proof sketches
+1	pen-and-paper version
+1	pereira
+1	perfect
+1	performance
+1	performance reasons
+1	philipp g. haselwarter
+1	philipp locher
+1	philosophical transactions
+1	physical
+1	physical ballot boxes
+1	pierre castran
+1	plain public-key model
+1	poland
+1	polish
+1	pollux-vii/1/2019
+1	pollux/fnrcore
+1	polynomial length
+1	polynomial m
+1	polynomial time
+1	polynomials f
+1	popl
+1	post system
+1	practical
+1	practical applicability
+1	practical cryptographic protocols
+1	precise description
+1	previous section
+1	previous work
+1	prime order q
+1	prime p
+1	prime q
+1	principal contribution
+1	principles
+1	problem [
+1	proc
+1	prodarg
+1	product argument builds
+1	program development
+1	programming languages
+1	project [
+1	project number
+1	prominent proofs
+1	prominent role
+1	prominent vendor
+1	prominent vendors
+1	proof approaches
+1	proof assistant
+1	proof paradigm
+1	proof-assistant accepts
+1	proofs
+1	protocol [
+1	protocol leaks
+1	protocols whereas
+1	provable ballot privacy
+1	prover claims
+1	prover commits
+1	prover complexity
+1	prover computes t = u + e w
+1	prover proves knowledge
+1	prover sends
+1	proverif
+1	public algorithm
+1	public data
+1	public evidence
+1	public input
+1	public input statement s
+1	public key
+1	public key cryptosystem
+1	pyrros chaidos
+1	q shuffle
+1	quadratic residues modulo
+1	r e
+1	r r1 w
+1	r w
+1	r1 w
+1	rafail ostrovsky
+1	rajeev gor polish
+1	rajeev gore
+1	raleigh
+1	random challenge e
+1	random coin r
+1	random coins r
+1	random coins spaces
+1	random e outputs
+1	random number u
+1	random oracle model
+1	random oracle model [
+1	random oracles
+1	random order
+1	random point e
+1	random values
+1	randomness group identity element
+1	range {
+1	real protocol
+1	realistic threat
+1	recent
+1	recent advances
+1	recent papers
+1	recent work
+1	redundant values
+1	references definitions assume
+1	relation
+1	relation j=1
+1	relation ~ca = comck
+1	reply t
+1	research council
+1	research focus
+1	response phases
+1	restricted shuffles
+1	return addresses
+1	revised selected papers
+1	rivest
+1	rolf haenni
+1	ronald
+1	round challenge e
+1	round commitments c
+1	round protocol
+1	round protocol uses
+1	round zero-knowledge proofs
+1	royal institute
+1	royal society
+1	s.
+1	s. zanella bguelin
+1	s0 s
+1	s1 = r1
+1	safe prime group
+1	salient differences
+1	san jose
+1	sandra guasch
+1	sanity check
+1	sarah jamie lewis
+1	schemes [
+1	schwarz-zippel lemma
+1	scytl-swiss
+1	sec.1.1.2
+1	secret input
+1	secret input w
+1	sections
+1	security model
+1	sends c
+1	sends t
+1	sensible way
+1	separate tool
+1	september
+1	set
+1	set s
+1	set w
+1	shafi goldwasser
+1	shamir
+1	sharing
+1	sharma
+1	shuffle [
+1	shuffle uses
+1	shufflearg
+1	side
+1	side channel attacks
+1	sidorenco
+1	sigma
+1	sigma proof
+1	sigma protocol proves
+1	sigma-protocol
+1	sigmaesque-protocol protocols
+1	sigmaplus5
+1	sigmaplus5 *
+1	sigmaplus5comp
+1	sigmaplus5to5
+1	sigmaplus5to5comp
+1	sigmaplus9
+1	sigmaplusto5sim
+1	signature generation
+1	signature problems
+1	signature scheme
+1	significant advancement
+1	significant body
+1	significant complications
+1	significant history
+1	significant limitations
+1	significant period
+1	silvio micali
+1	similar issues
+1	similar system
+1	simmap exists
+1	simmaphelp s x
+1	simmapinv s w e x t
+1	simpler ones
+1	simpler whereas
+1	simpler zero-knowledge proofs
+1	simplify notation
+1	simulator random coin t
+1	slow performance
+1	sm =
+1	sm = s
+1	smart cards
+1	so-called zeroknowledge proofs
+1	software implementation contains bugs
+1	sophisticated cryptographic techniques
+1	sophisticated mathematics
+1	source contains
+1	source files
+1	sp
+1	space w
+1	special issue
+1	specialsoundness extractor
+1	specific class
+1	specific format
+1	specific random values
+1	springer-verlag
+1	standard security definitions
+1	state-of-the-art interactive proofassistant
+1	statement h = gw
+1	statement s s
+1	statement space s
+1	stephanie bayer
+1	stphane graham-lengrand
+1	strong fiat-shamir
+1	strong transform
+1	structural elements
+1	structural formalisations
+1	structural issues
+1	structural reasoning
+1	structural relations contribute
+1	structural relationships
+1	stv
+1	subarguments
+1	sublinear complexity
+1	subtle design errors
+1	succinct zero-knowledge proofs [
+1	such claims
+1	such precise description
+1	such proposal exists
+1	such schemes g
+1	sufficient conditions
+1	supplementary random coins
+1	supplementary random coins r1
+1	support ballot integrity
+1	suppose
+1	swiss elections
+1	swiss post implementation rejects
+1	swiss post uses
+1	sylvain heraud
+1	symposium combiner
+1	symposium theorem
+1	symposium usenix
+1	ta = [ ~a0
+1	taher el gamal
+1	tamarin
+1	tanja lange
+1	te
+1	techniques
+1	telerius-wikstrm
+1	terelius phd
+1	term proofs
+1	test cases
+1	test data
+1	tested
+1	testing
+1	texts
+1	theoretical computer science
+1	theory
+1	thesis [
+1	tho winterhalter
+1	thomas johansson
+1	thomas schneider
+1	ti } m1 i=0
+1	timing attacks
+1	tiwari
+1	tm+1 =
+1	torben p. pedersen
+1	travis finkenauer
+1	true \/ fail_event s
+1	true \/ fail_event s c e.
+1	ts = s k x k t = k xk k=0 k=0
+1	typically
+1	u0 cui i =
+1	universiteit
+1	unruh
+1	upon
+1	use cases
+1	users pen-and-paper proofs
+1	users proof
+1	uses multi-exponentiation
+1	utilising
+1	valid sigma protocol
+1	various corollaries
+1	various proof protocols
+1	vector sig .w l
+1	vector t
+1	vector ~b
+1	vectors v~1
+1	verifiable compilation
+1	verifiable election
+1	verifiable mixnets
+1	verifiable transcripts
+1	verification component
+1	verification equation
+1	verification equations
+1	verification flaws
+1	verification software
+1	verification time
+1	verified
+1	verifier 
+1	verifier complexity
+1	verifier responds
+1	verifier software
+1	verifier specification
+1	verifier zero-knowledge proof
+1	verifiers computation
+1	verifiers interaction
+1	verifpalthere
+1	verifying
+1	vijay atluri
+1	virtually
+1	vitor pereira
+1	voteid
+1	voter identities
+1	v~2 ]
+1	w = w
+1	w w demonstrates
+1	wales
+1	warinschi
+1	weak transform causes
+1	weakest trust assumptions
+1	well-known methods
+1	well-known optimisations [
+1	wide class
+1	wikstrommixnet usenix
+1	witness
+1	witnesses w
+1	witnesses w w
+1	works exhibit
+1	works form
+1	works pertain
+1	x s
+1	xb2 b1 a2
+1	xbn bn1
+1	xiaofeng wang
+1	y cd = ~ca~cb
+1	years shows
+1	yi + xi z
+1	yuval ishai
+1	yves bertot
+1	z2m+1
+1	zakir durumeric
+1	zero
+1	zero polynomial
+1	zero polynomial iff
+1	zero-knowledge proof proposal
+1	zero-knowledge properties
+1	zeroknowledge proof
+1	zk-pok
+1	znq znq zq
+1	zq provers
+1	zq zq zq
+1	zqnm
+1	{ cdi = i m1 xi ~cxbi } m1 cbi+1
+1	{ ~bi = ij=1 ~a j } m1 i=2
+1	} 2m i=0
+1	} i=0
+1	} m i=1
+1	} m1 ca
+1	} m1 i=2
+1	~ c ~
+1	~ m f
+1	~ pute ~ca = {
+1	~ ~ ~
+1	~ ~x =
+1	~0 =
+1	~a ~b
+1	~a0 ~a1 ~am
+1	~am bm+1 ~a0 bm+1 values
+1	~am ~b2 d2m
+1	~am ~bm
+1	~b = m ai
+1	~b1 =~a1
+1	~b1 ~b1 ~b1
+1	~bm = ~b
+1	~ca ] ~x =
+1	~cb = comck
+1	~cdm+1 =
+1	~cd~cz = {
+1	~cz = {
+1	~r ] ~x tb = bk xk k=0
+1	~t =

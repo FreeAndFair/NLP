@@ -1,0 +1,534 @@
+37	ey
+33	mac
+11	gq
+10	el gamal
+10	ith voter
+10	proceedings
+10	return codes
+9	zq
+8	secret key
+7	[ s ]
+7	computer
+7	j =
+6	epk
+6	return code
+6	september
+6	setup phase
+5	individual voter
+5	symposium
+5	zero-knowledge proof
+4	[ m ]
+4	archive
+4	ez
+4	g x
+4	iacr cryptology
+4	identity
+4	international conference
+4	jth choice
+4	mack
+4	usa
+3	august
+3	corresponding secret key
+3	cryptology
+3	david chaum
+3	distributed
+3	e-voting
+3	esorics
+3	estonia
+3	foundations
+3	furthermore
+3	g ai bj
+3	helger lipmaa
+3	july
+3	key generation
+3	kristian gjsteen
+3	mac0
+3	norway
+3	online servers
+3	public key cryptosystem
+3	return code schemes
+3	rey
+3	secure
+3	sven heiberg
+3	voteid
+3	voter i
+3	x x
+3	zero-knowledge proofs
+2	a. ryan
+2	acm
+2	advances
+2	arbitrary message
+2	bc
+2	ben adida
+2	benaloh
+2	benalohs
+2	ca
+2	california
+2	cambridge
+2	canada
+2	cast votes
+2	cast-as-intended
+2	ciphertext decrypts
+2	commun
+2	computation
+2	compute ux
+2	considerable amount
+2	cryptography
+2	die-hellman
+2	evt06
+2	feldmans
+2	filip
+2	g fa
+2	helios
+2	homomorphic cryptosystem
+2	i m
+2	ith voter computes vi
+2	ith voter submits
+2	laenen
+2	m parties
+2	macai
+2	norwegian internet
+2	october
+2	oded goldreich
+2	one-time pad
+2	party `
+2	pedersens
+2	peter y
+2	public key
+2	public key y
+2	random oracle
+2	remark
+2	revised selected papers
+2	rez
+2	san jose
+2	sandra guasch
+2	servers generate
+2	steve a. schneider
+2	switzerland
+2	tallinn
+2	technology workshop
+2	university press
+2	usenix
+2	usenix/accurate electronic voting
+2	vancouver
+2	variant
+2	votebox
+2	voters choice
+2	write-in votes
+2	zeroknowledge proof
+1	2012. wombat
+1	= ax + b mod q
+1	= gb
+1	= i=0 xi z i
+1	= m
+1	= ma
+1	= mai
+1	= mai i
+1	= vu x
+1	[ ]
+1	] addresses
+1	] method
+1	] submits
+1	] system
+1	` th party
+1	abstract
+1	actual voters choices
+1	additional structure
+1	additionally
+1	adi shamir
+1	ai j
+1	alon rosen
+1	alternative approach
+1	amnon ta-shma
+1	analysis
+1	anders smedstuen lund
+1	annual
+1	annual symposium
+1	anonymous channel
+1	application
+1	applications
+1	approach ensures
+1	arne ansper
+1	assumption states
+1	athens
+1	austria
+1	b }
+1	ballot
+1	basic approaches
+1	below
+1	ben riva
+1	bern
+1	bregenz
+1	c ` = i2 { ` } i/
+1	c ` s
+1	c. andrew ne
+1	canonical example
+1	cast-asintended
+1	castle hofen
+1	chaum
+1	chaums
+1	choice amounts
+1	choices { mj } j2 [ s ]
+1	choonsik
+1	ciphertext list w1
+1	ciphertext pair
+1	ciphertexts list v1
+1	ciphertexts wi
+1	ciphertexts wi,1
+1	classical code book encryption
+1	co-organized
+1	code
+1	code book
+1	code book encryption
+1	coherent integration
+1	commitment g s `
+1	commitment scheme [
+1	complex system
+1	compute gab
+1	compute m0 /m
+1	compute u = c ` `
+1	conclusion
+1	consider
+1	construct return codes
+1	continuous blackbox
+1	corresponding proof
+1	corresponding public key
+1	corresponding return codes
+1	corresponding voter
+1	corresponding zero-knowledge proof
+1	cost considerations
+1	counted-asrecorded
+1	critical software
+1	crypto
+1	cryptographic constructions
+1	cryptographic techniques
+1	cultural contexts
+1	cut-and-choose zero knowledge proofs
+1	dan s. wallach
+1	daniel sandler
+1	david galindo
+1	ddh-assumption
+1	decisional die-hellman
+1	decode voters choice
+1	decryption protocol
+1	depending
+1	die-hellman mac schemes recall
+1	dierent device
+1	dierent election schemes
+1	dierent trust assumptions
+1	dierent types
+1	dierent verification mechanisms
+1	dierent voters
+1	digital pseudonyms
+1	discrete logarithm equality
+1	dog @ kth.se
+1	douglas wikstrm
+1	douglas wikstrm2
+1	dx
+1	e-valg
+1	e-vote integrity
+1	e-voting.cc
+1	ecient
+1	ecient algorithm
+1	ecient way
+1	election authorities
+1	election scheme
+1	electronic device
+1	electronic voting
+1	electronic voting systems shahram khazaei1
+1	element j
+1	element m
+1	encompasses schemes
+1	encryption device
+1	encryption procedure
+1	end-to-end verifiability
+1	ensure privacy
+1	estonian parliamentary elections
+1	eurocrypt
+1	europe
+1	evote
+1	exponent ai
+1	exponentiation protocol
+1	f `
+1	f ` =
+1	feldman
+1	fresh re-encryption
+1	function fa
+1	functions f = { fa
+1	g ai
+1	g b
+1	g bj
+1	g r
+1	g x0
+1	general purpose
+1	generate random elements i
+1	generator g
+1	generic way
+1	germany
+1	gesellschaft
+1	global mac
+1	gq gq
+1	great level
+1	greece
+1	group element
+1	guarantees security
+1	guess m
+1	hamburg
+1	have-or-eat protocol
+1	high level
+1	homomorphic encryptions
+1	hostile hardware
+1	hugo krawczyk
+1	i `
+1	idea [
+1	important cryptographic protocol
+1	independent public keys
+1	individual codes
+1	individual party
+1	individual voters
+1	informatik
+1	input ciphertext
+1	input ciphertexts
+1	internet
+1	internet age
+1	introduction electronic
+1	it systems
+1	italy
+1	j = g bj
+1	j i
+1	j. cryptology
+1	jan willemson
+1	jonathan
+1	jordi puigalli
+1	jordi puiggal allepuz
+1	jordi puiggali
+1	josh benaloh
+1	jth alternative
+1	kaoru kurosawa
+1	kazutomo itoh
+1	key ai
+1	key insight
+1	keys k1
+1	kth
+1	kyle derr
+1	lagrange
+1	lofthus
+1	los angeles
+1	m = g x
+1	m = v/ux
+1	m mix-servers
+1	m servers
+1	m1 m2
+1	mac schemes
+1	maca
+1	macki
+1	macs
+1	macs consider
+1	main dierences
+1	main idea
+1	main requirement
+1	maj i i
+1	malicious hardware
+1	malicious servers
+1	malicious voter computers
+1	maximum individual assurance
+1	may
+1	mechanisms
+1	message authentication code
+1	message authentication codes
+1	message m
+1	message m0
+1	message spaces
+1	milan
+1	mix-net
+1	mix-nets
+1	mix-servers generate
+1	motivation
+1	multiparty computation
+1	multipary computation
+1	multiple votes
+1	nation-wide elections
+1	new instantiation
+1	non-interactive
+1	non-standard assumption
+1	nordic
+1	nordsec
+1	normal blackbox
+1	normal use
+1	notation
+1	oine tallying servers
+1	online participation
+1	online tallying servers
+1	online vote
+1	online-server danger
+1	option j
+1	organizational overhead
+1	oslo
+1	output list
+1	output plaintexts
+1	party observer
+1	paul feldman
+1	peeter laud
+1	performance loss
+1	performance tradeos
+1	pilot project
+1	plaintext j
+1	plaintext meanings
+1	plausible assumption
+1	possible choice
+1	powerful toolbox
+1	practical scheme
+1	practical voterverifiable election scheme
+1	pre-computed submitted return
+1	preliminary goal
+1	preparation phase
+1	prime order q
+1	privacy
+1	privacy property
+1	procedure [
+1	product ciphertext
+1	proposed
+1	protocol [
+1	prt
+1	prt voter
+1	public choice representatives
+1	public key cryptosystems
+1	public key y = y0
+1	public key z
+1	public keys y
+1	random bits
+1	random choice
+1	random ciphertext pairs
+1	random code
+1	random codes
+1	random element
+1	random elements
+1	random elements i
+1	random encryptions
+1	random one-time
+1	random oracle model
+1	random representations
+1	random representatives
+1	random tuple
+1	random value
+1	random values wi
+1	random x
+1	randomness r
+1	randomness r.
+1	randomness r1 + r2
+1	re-encryption mix-net [
+1	re-encryption mixes
+1	re-voting
+1	re-voting write-ins
+1	recall
+1	references
+1	regular random map
+1	representatives v1
+1	requirements dier
+1	resistant hash function
+1	respective re-encryptions
+1	return
+1	return addresses
+1	return code maj i i
+1	return code systems
+1	right choice
+1	rosario gennaro
+1	royal institute
+1	rump session
+1	sandra guasch castell
+1	santa barbara
+1	scheme matches
+1	scheme-dependent zero-knowledge proof
+1	schemes demand
+1	schemes work
+1	secret exponents
+1	secret key k `
+1	secret key x
+1	secret key x = x0
+1	secret keys
+1	secret random pairs
+1	secret random value and/or choice-dependent
+1	secret random values i
+1	secret share
+1	secret value
+1	security level
+1	security point
+1	security properties
+1	semi-honest adversaries
+1	separate key
+1	separate schemes
+1	serious privacy drawback
+1	session identifiers
+1	set { mj } j2 [ s ]
+1	shahram.khazaei @ sharif.ir
+1	shamirs
+1	share s ` = f
+1	sharif
+1	side channel
+1	simple
+1	simple code-verification
+1	simple combinations
+1	simple way
+1	slight changes
+1	small constant factor
+1	small number
+1	standard definition
+1	standard definitions
+1	standard hybrid argument shows
+1	stanislaw jarecki
+1	straightforward solution
+1	strong non-standard
+1	such attacks
+1	such ciphertexts
+1	such constructions
+1	such return codes
+1	summarizes dierent
+1	summary
+1	suppose
+1	surevote
+1	symmetric encryption
+1	symmetric key
+1	tal rabin
+1	tally corresponds
+1	tallying
+1	technical overview
+1	techniques
+1	term message authentication code
+1	theory
+1	tom andr
+1	tool box
+1	torben p. pedersen
+1	touch screen
+1	transmit return codes
+1	trust assumptions
+1	trustworthy elections
+1	u1 u1
+1	ug r
+1	unique representatives
+1	unique x
+1	universal hash functions used
+1	universal2 hash function
+1	usability properties
+1	v1 v2
+1	various usability
+1	verifiability detects
+1	verifiable elections
+1	verification assures
+1	verification mechanism
+1	vote submission
+1	voter casts
+1	voter submits
+1	voter-dependent symmetric key
+1	voters control
+1	voters identifier
+1	votes o-line
+1	web-based
+1	wombat
+1	wote01
+1	write-in candidates
+1	x rey
+1	x x x x
+1	xj s
+1	y = g x
+1	zero knowledge proof
+1	zero-knowledge

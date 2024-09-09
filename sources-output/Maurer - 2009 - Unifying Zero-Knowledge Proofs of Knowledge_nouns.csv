@@ -1,0 +1,560 @@
+31	peggy
+16	vic
+13	main protocol
+12	theorem
+11	knowledge
+9	group homomorphism
+8	unifying zero-knowledge proofs
+8	zq
+7	challenge space c
+7	gq
+7	lncs
+7	schnorr
+7	zm
+6	heidelberg
+6	interactive proofs
+6	springer
+5	a.
+5	die-hellman
+5	mod q
+5	protocol execution
+5	value x
+4	[ x ]
+4	challenge space
+4	compute x
+4	crypto
+4	denition
+4	figure
+4	g h
+4	h.
+4	i =
+4	interactive proof
+4	pedersen
+4	proves knowledge
+4	shamir
+4	special case
+4	value z
+3	 [
+3	arbitrary subset
+3	c = ab
+3	c c
+3	c1 c2
+3	c2 c
+3	commitment scheme
+3	conventional proof
+3	cramer
+3	discrete logarithms
+3	element z
+3	fiat
+3	fiat-shamir
+3	fig
+3	general type
+3	generators h1
+3	gf
+3	guillou-quisquater
+3	hr = t z c
+3	knowledge extractor
+3	mod m
+3	prime order q
+3	protocol [
+3	rsa
+3	three-move protocol round
+3	u. maurer peggy vic
+3	z = [ x ]
+2	= z 
+2	[ [ ] ]
+2	[ xb ]
+2	] =
+2	] ] =
+2	alice
+2	b =
+2	b = [ b ]
+2	bob
+2	c [
+2	cases
+2	challenge c
+2	chooses k
+2	completeness
+2	credential systems
+2	distinct c1
+2	dl
+2	ecient
+2	ecient knowledge extractor
+2	ecient program
+2	euclids
+2	eurocrypt
+2	feige
+2	group homomorphisms
+2	group operations
+2	h1
+2	honest verier
+2	i-th round
+2	interactive protocol
+2	large class
+2	main protocol proves
+2	mathematical statement
+2	multi-party computation
+2	new instantiations
+2	new protocols
+2	okamoto
+2	one-way group homomorphism
+2	otherwise
+2	peggys
+2	perfect zero-knowledge
+2	prime order |h| = q
+2	probability distribution
+2	protocol
+2	protocol type
+2	public key
+2	recall
+2	s.
+2	sections
+2	sends c
+2	sends r
+2	sends t
+2	simple instantiation
+2	special property
+2	success probability
+2	t.
+2	typical application
+2	u =
+2	u.
+2	u. maurer
+2	values x1
+2	values z1
+2	x  [ x ]
+2	x  [ x ] = hx
+2	xb + x
+2	z =
+2	zero-knowledge proof
+2	zero-knowledge property
+2	} {
+1	 
+1	   hrr = z cc = hx
+1	  [ r1  r ] = [ r1 ] [ r ] = z c t1 t z c = z c z c = z cc 
+1	 
+1	 r b
+1	 r e  z cc
+1	 r xcc
+1	 
+1	    [ u ] = [ u1 ]
+1	 r
+1	 r 
+1	 b x = ua  r1  r
+1	 = e
+1	 = q
+1	a +
+1	 [ [
+1	 c r
+1	-protocols [
+1	2-extractability condition
+1	2-extractable rounds
+1	2009. c
+1	= [
+1	= [ k ] t c
+1	= f
+1	= hab
+1	= hk t c
+1	= k  xc r
+1	= k + xc
+1	= k xc c r
+1	= ke t c
+1	= true.3
+1	= z1
+1	= zi
+1	[ [
+1	[ [ x ] ] =
+1	[ ]
+1	[ ab ]
+1	[ ab ] = hab
+1	[ b ]
+1	[ r ] = t z c
+1	[ r1  r ] b  =
+1	[ r ] =  t z c
+1	[ u ] = [
+1	[ u ] = [ z ] = z e = z 
+1	[ u ] = z 
+1	[ ui ]
+1	[ un ]
+1	[ x ] = [ ua 
+1	[ x ] = z
+1	[ xn ]
+1	[ y ]
+1	] = [ x1 ]
+1	] = b x hx
+1	] = g x hx
+1	] = h01 h0m =
+1	] = h1 hm
+1	] = m  j=1
+1	] captures
+1	a.m
+1	abstract
+1	abstract viewpoint
+1	acm
+1	actual protocol execution
+1	actual transcript
+1	addition modulo q
+1	adleman
+1	africacrypt
+1	aggarwal
+1	amsterdam
+1	arhus
+1	articial way
+1	asymptotic families
+1	b  = z a+
+1	b = [
+1	b = z.
+1	b ] = [ u ]
+1	b x
+1	b. preneel
+1	base h
+1	basic aspects
+1	basic idea
+1	brassard
+1	breaking rsa
+1	brickell
+1	c c
+1	c = [ c ]
+1	c ab
+1	c form
+1	c-simulatability condition
+1	c-simulatable three-move rounds
+1	c.
+1	c.g
+1	c.p
+1	c1 = c2
+1	c1 c2 modulo q
+1	certain predicate
+1	challenge sequences
+1	challenge space c [
+1	challenge value c c
+1	check [ r ] = tz c
+1	check hr = t z c
+1	check r e = t z c
+1	choice  = q
+1	choose
+1	chooses r
+1	claim c = ab
+1	classical denition [
+1	classical examples
+1	commercial service
+1	commitment one-way homomorphism
+1	commitments [
+1	common secret key
+1	communications
+1	comparing
+1	comparison
+1	complete proof
+1	compute [ x  y ] = [ x ] [ y ]
+1	compute e-th roots modulo m.
+1	compute x.
+1	computer
+1	computes t
+1	computing
+1	conclusions
+1	consider
+1	constitutes knowledge
+1	context e
+1	conventional proofs
+1	correct argument
+1	correct key
+1	correctness
+1	corresponding private key
+1	corresponding signature schemes
+1	corresponding state
+1	cramers
+1	cryptology
+1	cyclic group
+1	d.
+1	damgard
+1	ddh
+1	decisional diehellman
+1	die
+1	die-hellman keys
+1	diehellman
+1	dierent protocols
+1	dierent quantities
+1	digital signatures
+1	discrete logarithm
+1	dishonest prover
+1	dishonest verier
+1	distinct c
+1	e-th root x modulo m
+1	e.f
+1	e1 ]  r
+1	ea +
+1	ecient program s
+1	ed
+1	embedded values
+1	entire protocol transcript
+1	entire transcript
+1	equality
+1	equivalently
+1	eth zurich ch-8092 zurich
+1	exponent e
+1	f need
+1	false statement
+1	feigenbaum
+1	function f
+1	g h1 hn
+1	g hi
+1	g1 gn
+1	g1 gn h1 hn
+1	gcd-algorithm yields integers
+1	general groups
+1	general statements
+1	general theorem
+1	generate
+1	generator h
+1	generic model
+1	gi hi
+1	goldwasser
+1	group element t = hk
+1	group element t = k e
+1	group operation
+1	group operations 
+1	group order |h| = q
+1	guillou
+1	guillou-quisquater protocols consider
+1	gunther
+1	h1 hn
+1	h2 i2 hmim
+1	hellman
+1	helpful comments
+1	high level
+1	hj 1j
+1	hk
+1	hn
+1	homomorphism
+1	homomorphism [ ]
+1	homomorphism x [ [ x ] ]
+1	homomorphism x1 xm
+1	homomorphisms
+1	honest prover
+1	hx1 h2
+1	i.
+1	identical principle
+1	identication protocol
+1	ieee transactions
+1	implies knowledge
+1	important step
+1	independent protocol executions
+1	individual instantiation
+1	informally
+1	information theory
+1	interactive proof [
+1	interactive proof systems
+1	introduction
+1	issue challenge ci
+1	j.-j
+1	joux
+1	k h
+1	k.
+1	knowledge complexity
+1	knowledge protocol
+1	knowledge proves
+1	knowledge ueli maurer
+1	l.
+1	l.c.
+1	large number
+1	linear representations
+1	m  j=1 hj sj
+1	m [
+1	m.e
+1	main motivation
+1	main theorem
+1	martin hirt
+1	mathematical structure
+1	maurer
+1	maurer @ inf.ethz.ch
+1	means exhaustive
+1	micali
+1	modular
+1	modular root
+1	modulo m
+1	modulus m
+1	mpc
+1	multiplication
+1	multiplication symbols +
+1	multiplicative relation
+1	n homomorphisms
+1	n.
+1	namely
+1	negligible probability
+1	neutral element
+1	new directions
+1	new general protocol
+1	new level
+1	non-interactive
+1	nonnegligible probability
+1	number z
+1	odlyzko
+1	often
+1	okamotos
+1	one-way
+1	one-way function
+1	one-way group homomorphisms
+1	one-way group homomorphisms.12
+1	one-way homomorphism
+1	one-way property
+1	order q
+1	outline
+1	overall challenge space c s
+1	paper
+1	particular challenge sequence c1
+1	particular choice
+1	particular example
+1	pedersen commitments
+1	ph.d.
+1	point implies
+1	polynomial size
+1	powerful organization
+1	practical cryptographic protocols
+1	practical identication schemes
+1	practical solution
+1	practical zero-knowledge protocol
+1	preimage
+1	preimage x
+1	previous section
+1	previous treatments
+1	prime exponents
+1	product commitment
+1	proofs
+1	protocol challenge value c c
+1	protocol examples
+1	protocol implies knowledge
+1	protocol proves
+1	protocol round
+1	protocol steps
+1	protocol suces
+1	protocol transcript
+1	protocols
+1	provably
+1	proving knowledge
+1	public-key cryptosystems
+1	q1 ]  c r
+1	quisquater
+1	r1  r
+1	re = t z c
+1	r g
+1	r r x
+1	r zm
+1	r zq
+1	r.
+1	r.l.
+1	racko
+1	random challenge ci
+1	random r
+1	re = t z c
+1	re = t z c 
+1	real protocol
+1	real transcript
+1	references
+1	representation consider
+1	representation equations
+1	restricts c
+1	right level
+1	rivest
+1	round i
+1	rsa-modulus
+1	rst round
+1	s rounds
+1	satisfying [ x ] = z
+1	satisfying condition
+1	satisfying z1 = hx1
+1	schnorr protocol consider
+1	schnorrs
+1	secret key
+1	secret value x
+1	secret values
+1	security microprocessor
+1	security parameter
+1	sends [
+1	sends [ b ] = hb
+1	separate proof
+1	set
+1	siam
+1	signature problems
+1	simple procedure
+1	simple treatment
+1	simple zero-knowledge proof
+1	simulation [
+1	simulator chooses
+1	size |c|
+1	sm linear
+1	small challenge space
+1	smart cards
+1	soundness
+1	soundness argument
+1	soundness guarantees
+1	special case e =
+1	special case m =
+1	special honest-verifier zero-knowledge [
+1	special soundness [
+1	special symbols
+1	springer-verlag berlin heidelberg
+1	square modulo
+1	square root
+1	standard notions
+1	step yields
+1	such denitions
+1	such protocols
+1	sucient number
+1	switzerland
+1	symbol [ ]
+1	t = [ r ] z c
+1	theorem states
+1	three-move protocols
+1	transferable proof
+1	true }
+1	u = z
+1	u. maurer acknowledgments
+1	u. maurer schnorr
+1	u1 = = un = u
+1	unnecessary indices
+1	value c c
+1	value g x hx
+1	value r = k + xc
+1	value r = k xc
+1	value z = [ x ]
+1	values
+1	values 
+1	values [ x ]
+1	values x
+1	vassilis zikas
+1	veriable steps
+1	w.
+1	well-known examples
+1	x  y
+1	x  [ x ]
+1	x  [ [ x ] ] =
+1	x  [ x ] = [ x ]
+1	x  [ x ] = xe
+1	x =
+1	x = xea+
+1	x r1 r2 c1 c2
+1	x z = [ x ] k
+1	x z = gx k
+1	x z = hx k
+1	x za  r
+1	xe = z
+1	z 
+1	z = f
+1	z = hx
+1	z = hx1
+1	z = xe
+1	z cc
+1	z1 = [ x ]
+1	z1 = [ x1 ]
+1	z2 = hx1
+1	z3q h h
+1	zero-knowledge
+1	zero-knowledge protocols
+1	zero-knowledge simulator
+1	zi = h1 i1
+1	zk = [ x ]
+1	zn = z 
+1	zn = [ xn ]
+1	zq h h
+1	zq zq h
+1	zrq h

@@ -1,0 +1,442 @@
+64	osev
+16	source code
+15	nda
+14	web
+12	evacs
+9	vote
+8	act
+8	blitzm systems
+8	digital elections pty ltd
+8	osev verify
+7	computer
+7	cryptographic building blocks
+7	lecture notes
+7	procedural mechanisms
+7	r.
+7	springer
+6	gore
+6	osev web
+6	overseas e-voting
+6	sec
+6	security goals
+6	verify
+5	foi
+5	non-disclosure agreement
+5	osev desktop
+5	thomas haines
+4	australian capital territory
+4	desktop
+4	e-vote-id
+4	osev vote
+4	principle highlights
+4	pseudo-code algorithms
+4	review
+4	summary
+4	system components
+4	t.
+3	] contains
+3	australia
+3	australian
+3	based
+3	fig
+3	haines
+3	information
+3	october
+3	osev detailed requirements
+3	reflections
+3	rnne
+3	security goal
+3	security requirements
+3	sequence diagram
+3	tls
+3	web application
+2	areas
+2	asymmetric encryption
+2	audit specs
+2	building blocks
+2	c.
+2	canberra
+2	chvote
+2	code base
+2	communication diagrams
+2	detailed
+2	dre
+2	e.
+2	election management software
+2	election system
+2	electoral commission
+2	electoral system
+2	export sequence diagram
+2	haenni
+2	high level security properties
+2	lebedeva
+2	m.
+2	meumann
+2	moses
+2	national university
+2	november
+2	online system
+2	overview
+2	principle encourages
+2	private key
+2	pseudo-code
+2	public key
+2	public scrutiny
+2	public transparency
+2	readme
+2	rsa
+2	secret key
+2	security properties
+2	sequence diagram v0.6.1
+2	sixteen
+2	specifically
+2	storage application
+2	storage system
+2	sufficient information
+2	system complies
+2	system design
+2	system design v3.0
+2	system source code
+2	t wilson-brown
+2	t wilson-browns foi
+2	teague
+2	threat model
+2	valid votes
+2	various components
+2	version 4cba9731 v1
+2	vote privacy
+2	vote storage
+2	voteid
+2	voter
+1	//www.elections.act.gov.au/__data/assets/pdf_file/ 0005/1659812/osev-authentication-sequence-diagram.pdf
+1	//www.elections.act.gov.au/__data/assets/pdf_file/ 0006/1659813/osev-check-sequence-diagram.pdf
+1	//www.elections.act.gov.au/__data/assets/pdf_file/ 0010/1659817/osev-export-sequence-diagram.pdf
+1	//www.elections.act.gov.au/__data/assets/pdf_file/ 0012/1659819/osev-register-sequence-diagram.pdf
+1	//www.elections.act.gov.au/__data/assets/pdf_file/0004/ 1659811/osev-architecture-diagram_v1_1.pdf
+1	//www.elections.act.gov.au/__data/assets/pdf_file/0007/ 1659823/osev_security_summary_v1_4_.pdf
+1	//www.righttoknow.org.au/request/ vote_secrecy_in_2020_election
+1	4cba9731 v1
+1	] .4
+1	a.
+1	a.c.t
+1	abstract
+1	academic community
+1	academic freedom policy
+1	academic institutions
+1	access towe
+1	active adversary
+1	additional expertise
+1	additional insight
+1	adequate validation
+1	alas
+1	application downloads
+1	application learns
+1	appropriate building blocks
+1	architecture diagram v1.1
+1	architecture documents
+1	asymmetric algorithm
+1	august
+1	australian capital territory thomas haines
+1	authentication sequence diagram
+1	authentication sequence diagram v0.6.2
+1	automated
+1	automated synthesis
+1	available high level security goals
+1	avoiding
+1	b.
+1	ballot box
+1	ballot information
+1	ballot paper
+1	basic security properties
+1	beckert
+1	below
+1	blocks
+1	buffer overflows
+1	central reason
+1	certain key requirements
+1	certain period
+1	challenging task
+1	check sequence diagram v0.6.0
+1	clear
+1	clear gaps
+1	clear idea
+1	clear intention
+1	clear notation
+1	clear security claims
+1	clear understanding
+1	clear view
+1	client side code
+1	code wasnt
+1	comment
+1	commission reintroduce
+1	common unit
+1	communication
+1	complex voting schemes
+1	component mediates
+1	comprehensive description
+1	computational task
+1	conclusion
+1	consistent
+1	conway
+1	correct choice
+1	counting
+1	crucially
+1	cryptographic
+1	cryptographic parameters
+1	cryptographically relevant code
+1	culnane
+1	curious adversary
+1	current separation
+1	current state
+1	current system
+1	d.
+1	dawson
+1	ddos protection
+1	decryption
+1	denial-of-service attacks
+1	design document
+1	design goals [
+1	desirable property
+1	detail section
+1	detect attempts
+1	diagram [
+1	direct contradiction
+1	direct link
+1	direct-recording electronic
+1	documentationand source code comments
+1	documents tends
+1	draft report
+1	dres
+1	drop votes
+1	dubuis
+1	e-voting systems haines
+1	eldridge
+1	election period
+1	election runs
+1	elections act
+1	electoral process
+1	electorate
+1	electronic
+1	eligable voters
+1	eligible voters
+1	encryption scheme
+1	essex
+1	evote
+1	excellent case study
+1	exceptional circumstance
+1	excuses
+1	execution flow
+1	external advice
+1	external libraries
+1	external parties
+1	extra pressure
+1	fig.1
+1	final recommendation
+1	financial cryptography
+1	following
+1	fortunately
+1	furthermore
+1	future deployments
+1	general confusion
+1	good choices
+1	great concern
+1	high level
+1	high level descriptions
+1	high level issues
+1	high level principles
+1	higher-order logic
+1	hinders analysis
+1	ide
+1	ieee
+1	important privacy issues
+1	independent verifier
+1	ineligible voters
+1	information reviewers
+1	initial public disclosure [
+1	input sanitation errors
+1	integrity
+1	integrity advantage
+1	interaction [
+1	internal development team
+1	introduction
+1	invaluable feedback
+1	irrelevant components
+1	isolate sections
+1	ivote system [
+1	j.e.
+1	june
+1	key component
+1	key requirements
+1	key track
+1	koenig
+1	l.b.
+1	lack thereof
+1	legacy material
+1	legal liability
+1	legislative assembly
+1	lessons learned modelling
+1	levy
+1	local government functions
+1	local variables
+1	locher
+1	machine-checked
+1	main issue
+1	major problem
+1	major reasons
+1	manual code review
+1	materials subject
+1	maven
+1	methodology
+1	minimal
+1	minimality
+1	modelling
+1	modify ballots
+1	monotonicity criterion
+1	multiple components
+1	national capital
+1	new online
+1	new standards
+1	new version
+1	obvious issues
+1	occasional exception
+1	online components
+1	online elections
+1	online part
+1	open source variant
+1	orderly manner
+1	osev architecture
+1	osev architecture diagram
+1	osev authentication sequence diagram
+1	osev export sequence diagram
+1	osev-detailed-requirements-v1_2.pdf
+1	osev-system-design-v3_0.pdf
+1	osev64
+1	out-of-date material
+1	overall
+1	overall security model
+1	overseas
+1	p.
+1	p.b
+1	parties
+1	pattinson
+1	performs checks
+1	physical polling-places
+1	poor processes
+1	practical
+1	practices
+1	preferably
+1	previous bugs
+1	previous section
+1	principal highlights
+1	principal interactions
+1	principle suggests
+1	principles
+1	privacy
+1	privacy advantage
+1	privacy goals
+1	procedural mechanism
+1	process
+1	process flow
+1	prominent users
+1	proper level
+1	proprietary libraries
+1	protocol participants
+1	protocol structure
+1	proving
+1	public details
+1	publicly
+1	punitive conditions
+1	r.e.
+1	realising
+1	recent papers [
+1	recommendations
+1	references
+1	regularly
+1	relevant diagrams [
+1	relevant expertise
+1	relevant language
+1	relevant sequence diagrams [
+1	requirements
+1	requirements v1.2
+1	results section
+1	review methodology
+1	schurmann
+1	scope
+1	security level
+1	security mechanism
+1	security model
+1	security parameters
+1	security requirement
+1	security summary v1.4
+1	selected
+1	separation
+1	significant redesign
+1	similar issue
+1	similarly
+1	simulating stv
+1	source code examinations
+1	sources
+1	specific instance
+1	specific vulnerabilities
+1	standard tool
+1	standards
+1	stateless proxy
+1	storage application check
+1	storage component
+1	storages output
+1	store votes
+1	sufficient data
+1	suitable interfaces
+1	system defines
+1	system design document
+1	system design v3.0 [
+1	system relies
+1	systems
+1	systems [ 1,3,13 ]
+1	tech
+1	technical depth
+1	test suites
+1	test vectors
+1	thomas haines transparency
+1	thomas.haines @ anu.edu.au
+1	thorough
+1	tiger
+1	tiwari
+1	tls thomas haines
+1	together
+1	transparency
+1	trust assumptions
+1	trust implications
+1	understandable decision
+1	user votes
+1	users connection
+1	users identity
+1	users interactions
+1	v.
+1	v1.2 [
+1	v1.4 [
+1	various components [ 5,9,6,8 ]
+1	vast majority
+1	verifiable software
+1	verifier
+1	verify api
+1	verify web
+1	volatile memory
+1	vote integrity
+1	vote storage api
+1	vote storage application
+1	vote-counting programs
+1	voter eligibility
+1	voter identity
+1	voter preferences
+1	voter uses
+1	voters browsers
+1	voters computer
+1	voters device
+1	voters request
+1	votes
+1	voting
+1	voting sequence diagram
+1	web client
+1	web client code
+1	web site

@@ -1,0 +1,503 @@
+21	strobe-voting
+14	short selection codes
+13	blank ballots
+13	proceedings
+13	vbm
+10	short selection code
+9	long ballot code
+7	august
+6	a.
+6	ballot code
+6	ca
+6	e2e-verifiability
+6	selection codes
+5	chaum
+5	d.
+5	did-not-vote selection codes
+5	election administrators
+5	electionguard
+5	elgamal
+5	helios
+5	j.
+5	selectable option
+5	star-vote
+4	benaloh
+4	did-not-vote option
+4	remotegrity
+4	short codes
+3	ballot codes
+3	crypto
+3	electronic voting
+3	internet
+3	mail-in voters
+3	p. y
+3	physical ballot
+3	privacy
+3	r.
+3	ryan
+3	s.
+3	santa barbara
+3	sha-256
+3	short code
+3	vote
+2	acm
+2	adida
+2	alexandria
+2	cambridge
+2	carback
+2	cast ballot
+2	cast ballots
+2	catalano
+2	chaum-pedersen
+2	clark
+2	clash
+2	corresponding selection codes
+2	d6 e
+2	diligent voter
+2	e2e
+2	electronic
+2	end-to-end
+2	essex
+2	hash code
+2	identical ballots
+2	identical short selection codes
+2	jakobsson
+2	juels
+2	malicious election administrator
+2	new research
+2	p.
+2	remote voters
+2	rivest
+2	sample selection code
+2	san jose
+2	simple
+2	strobevoting
+2	support vote-by-mail
+2	tear-o strip
+2	technology workshop
+2	trustworthy elections
+2	twin ballots
+2	va.
+2	verifiable system
+2	verifiable tally
+2	voter chooses
+2	voter devices
+2	votes cast
+2	washington
+2	wpes
+2	xc3k0-a21bm-8wp8q-mwq6e-uyw9y-zpbl5-93lre-m3j62-mj1w7-87dyf
+1	% chance
+1	% risk
+1	32-byte ballot code
+1	32-byte ballot hash code
+1	a. t. scantegrity ii
+1	ab
+1	abstract
+1	accommodate in-person
+1	acknowledgements
+1	actual candidate
+1	actual encryptions
+1	adding e2e-verifiability
+1	additional ballots
+1	additional blank ballots
+1	additional security
+1	additional voter actions
+1	alice
+1	alice e
+1	alice q4 bob d6 carol l7 r9
+1	alternate ballots
+1	ample room
+1	anonymous reviewer
+1	anonymous reviewers
+1	applied cryptography
+1	assurance level
+1	attempting
+1	authors home state
+1	b.
+1	b. helios
+1	ballot
+1	ballot case
+1	ballot cast
+1	ballot contents
+1	ballot correctness
+1	ballot designs
+1	ballot encoding josh benaloh microsoft
+1	ballot hash
+1	ballot hash code
+1	ballot oers
+1	ballot orientation
+1	ballot printers
+1	ballot selections
+1	ballot systems
+1	ballot variants
+1	ban
+1	basic approach
+1	basic requirements
+1	basic technique
+1	bc
+1	bell
+1	blank twin ballot
+1	bob
+1	byrne
+1	candidate
+1	carol
+1	cast renders
+1	central decryption
+1	central entity
+1	chaumpedersen
+1	clash attacks
+1	clean division
+1	clearly
+1	codes
+1	coercion-resistant electronic elections
+1	collision
+1	common form
+1	comparison
+1	compromise privacy
+1	compromise voter privacy
+1	computational eciency
+1	computer
+1	conclusions strobe-voting
+1	contest options
+1	contest order
+1	contest yield
+1	convenient means
+1	convenient way
+1	correct candidates
+1	correct short codes
+1	corresponding encryptions
+1	corresponding options
+1	cramer
+1	cramer-damgardschoenmakers
+1	creates potential health risks
+1	current equipment
+1	d. s.
+1	d. surevote
+1	damgard
+1	dc
+1	debeauvoir
+1	decrypt election tallies
+1	decryptions
+1	detailed example
+1	deterministic function
+1	dierent
+1	dierent actions
+1	dierent selections
+1	dierent ways
+1	diligent voter need
+1	direct confidence
+1	direct evidence
+1	direct means
+1	disambiguate cases
+1	disambiguation rules
+1	discrete logarithms
+1	disjunctive technique [
+1	dispute resolution
+1	distinct ballots
+1	distinct encryptions
+1	e.
+1	e. suppose
+1	e2e-verifiable designs
+1	e2e-verifiable election
+1	e2e-verifiable election systems
+1	e2e-verifiable solution
+1	e2e-verifiable solutions
+1	e2e-verifiable systems
+1	e2e-verifiable systems incompatible
+1	e2everifiability
+1	eakin
+1	easy check
+1	election artifacts
+1	election jurisdiction
+1	election jurisdictions utilize
+1	election ocials
+1	election ocials check
+1	election results
+1	election trustees
+1	election trustees.3
+1	elections
+1	electronic ballot delivery
+1	electronic delivery
+1	enable mail-in
+1	encryption
+1	encryption changes
+1	encryption corresponds
+1	encryption vector
+1	end-to-end verifiability
+1	entire ballot
+1	entire ballots
+1	errant ballot
+1	expert assurances
+1	explicit choice
+1	facilitate coercion
+1	fiat
+1	fiat-shamir
+1	fisher
+1	fruitful attack
+1	full encryptions
+1	full-length ballot code
+1	g.
+1	genuine photograph
+1	good ballot
+1	great temptation
+1	great value
+1	hand-mark paper ballots
+1	hash isnt
+1	hashing
+1	helpful comments
+1	heuristic [
+1	heuristic technique
+1	hexadecimal characters
+1	hinder voters
+1	human readable form
+1	hybrid
+1	hybrid voting systems
+1	i.
+1	identical votes
+1	identification
+1	ieee transactions
+1	implicit choice
+1	important impact
+1	important limitation
+1	improper ballots
+1	improves integrity
+1	in-person ballots
+1	in-person voters
+1	in-person votes
+1	incorrect encryption
+1	incorrect encryptions
+1	independent election verification applications
+1	independent election verifiers
+1	independent selection codes
+1	indirect approaches
+1	individual cast ballot
+1	individual selections
+1	individual systems
+1	individual voter
+1	information theory
+1	interactive step
+1	internal randomness
+1	international conference
+1	international workshop
+1	introduction vote-by-mail
+1	invisible ink con
+1	italy
+1	jan willemson
+1	july
+1	june
+1	jurisdictions manage
+1	key cryptosystem
+1	key generation
+1	kit
+1	kortum
+1	l7 carol
+1	l7 e
+1	large ballot
+1	left codes
+1	legitimate ballot
+1	limitations strobe-voting
+1	long ballot code results
+1	long code
+1	m.
+1	m. d.
+1	m. star-vote
+1	mail-in vote tallies
+1	malicious administrator
+1	malicious system
+1	march
+1	mathematical operations
+1	mcburnett
+1	meaningful impact
+1	mere threat
+1	methodology
+1	microsoft electionguard software
+1	milan
+1	montoya
+1	multiple
+1	multiple ballots
+1	multiple contests
+1	multiple e2e-verifiable systems
+1	multiple voters
+1	n.
+1	natural distinct foldings
+1	network
+1	new ballot
+1	nizk
+1	nizks
+1	non-interactive
+1	non-interactive zero-knowledge proofs
+1	november
+1	numerous
+1	numerous voters
+1	nzik
+1	o.
+1	observers
+1	october
+1	one-byte truncations
+1	optical scan
+1	options approaches
+1	ordinary options
+1	own devices
+1	own use
+1	own votes
+1	p. b.
+1	p. remotegrity
+1	paper delivery
+1	parker
+1	partial knowledge
+1	particular ballot
+1	pedersen
+1	pereira
+1	popoveniuc
+1	popular mode
+1	possible approach
+1	postal delivery
+1	postal voting
+1	potential attacks
+1	potential weakness
+1	practical
+1	practical environments
+1	practical limits
+1	practical solutions
+1	pret
+1	privacy enhancements
+1	privacy guarantees
+1	private key
+1	proofs
+1	proofs [
+1	proper ballot
+1	protocols
+1	prove yourself
+1	pseudo-candidate did-not-vote
+1	public encryption key
+1	public impeachment
+1	public information
+1	public key
+1	public keys
+1	public tally
+1	putting
+1	q4 bob e
+1	q4 e
+1	q4-m1
+1	r. l.
+1	r. l. scratch
+1	r9
+1	r9 ballot
+1	receive
+1	recent years
+1	references
+1	remote voting
+1	responsibilities wherein
+1	return envelope5
+1	right codes
+1	rigorous security proofs
+1	scantegrity
+1	scheme
+1	schneider
+1	scratch-o labels
+1	secret data
+1	secret info
+1	secure
+1	security conference
+1	security threat
+1	selection code
+1	september
+1	shamir
+1	shen
+1	sherman
+1	shoenmakers
+1	short selection code collides
+1	signature problems
+1	signature scheme based
+1	significant cost
+1	similar homomorphic
+1	similar probabilities
+1	simple approach
+1	simple deterministic identifiers
+1	simpler approach
+1	simplified
+1	singe seed
+1	single
+1	single-ballot design
+1	single-ballot variations whether
+1	singleballot variation
+1	small
+1	small example
+1	small portion
+1	special eort
+1	specific architecture
+1	specifically
+1	spoil approach
+1	stark
+1	statistical analysis
+1	stretches credulity
+1	strobe
+1	strong indication
+1	subject voters
+1	substitute dierent encryptions
+1	such cases
+1	such jurisdictions
+1	such opportunities
+1	such systems
+1	suitable encryptions
+1	susceptibility
+1	suspicious voters
+1	symposium
+1	system unto
+1	systems
+1	t.
+1	t. p. wallet databases
+1	teague
+1	technical overview
+1	technology workshop / workshop
+1	three-digit code
+1	threshold decryption
+1	threshold decryption capability
+1	threshold key distribution
+1	time ballots
+1	tomales
+1	traditional mail-in ballots
+1	traditional vote-by-mail paper ballot
+1	transparent
+1	tri-fold
+1	twin ballot
+1	two-ballot approach
+1	two-letter code
+1	typical rectangular ballot
+1	u.s.
+1	uk
+1	uncast
+1	uncast twin ballot
+1	uncast twin ballots
+1	undervotes
+1	upon
+1	usability
+1	usability creates
+1	usenix
+1	v.
+1	vancouver
+1	various encryptions
+1	verifiable election systems
+1	verifiable systems
+1	verifiable vote-by-mail
+1	verification
+1	vora
+1	vote cast
+1	voter
+1	voter casts
+1	voter mark
+1	voter privacy
+1	voter-verifiable election
+1	voters need
+1	voters neednt
+1	voters possession
+1	voters probability
+1	voters return
+1	votes in-person
+1	voting
+1	wallach
+1	web-based open-audit voting
+1	wide variety
+1	winn
+1	witness hiding protocols
+1	zagorski

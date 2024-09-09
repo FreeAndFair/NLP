@@ -1,0 +1,468 @@
+71	is
+20	are
+14	coerced
+13	compute
+12	takes
+6	be
+6	using
+6	cast
+6	runs
+5	to verify
+5	tracking
+5	distributed
+5	have
+5	coerce
+5	makes
+5	tallying
+4	dene
+4	refer
+4	are only used
+4	proposed
+4	allows
+4	let
+4	do
+4	encrypted
+4	say
+4	proving
+4	is used
+4	chosen
+4	provide
+4	following
+4	contains
+4	prove
+4	use
+3	denote
+3	must decide
+3	works
+3	follows
+3	has
+3	to break
+3	make
+3	see
+3	means
+3	based
+3	note
+3	verifying
+3	to generate
+3	including
+3	simplies
+3	verify
+3	making
+2	assume
+2	was counted
+2	surveying
+2	to ensure
+2	computing
+2	proved
+2	honestly generated
+2	may be
+2	provides
+2	happens
+2	sends
+2	increases
+2	underlying
+2	satises
+2	uses
+2	do not use
+2	gets
+2	is sent
+2	interacts
+2	evaluates
+2	might
+2	described
+2	shuing
+2	to be
+2	originated
+2	set
+2	to extract
+2	reveals
+2	to understand
+2	raising
+2	has seen
+2	giving
+2	counted
+2	begin
+2	submitted
+2	require
+2	adversarially generated
+2	are put
+2	gives
+2	also satises
+2	used to encrypt
+2	used
+2	are included
+2	to see
+2	choose
+2	need to change
+2	to mitigate
+2	gjsteen
+2	are cast
+2	give
+2	avoiding
+2	capturing
+2	call
+2	to use
+2	followed
+2	appears
+2	returned
+2	is posted
+2	have proposed
+2	is not present
+2	pointing
+1	presenting
+1	casts
+1	allowing
+1	also works
+1	should be
+1	are working
+1	proofs used
+1	then counted
+1	check
+1	proves
+1	to obtain
+1	detailed
+1	demonstrate
+1	have been thoroughly analysed
+1	posted
+1	deployed
+1	organises
+1	accidentally choosing
+1	extended
+1	analyse
+1	is licensed
+1	formally dene
+1	do not verify
+1	removing
+1	is left
+1	is to make
+1	was introduced
+1	has interacted
+1	raises
+1	lies
+1	framed
+1	lied
+1	does not protect
+1	is transmitted
+1	extending gjsteen
+1	discussed
+1	might be
+1	re-voting
+1	analysing
+1	v. compute
+1	post
+1	does not verify
+1	to dening
+1	augmenting
+1	does
+1	to produce
+1	describing
+1	provided
+1	can be found
+1	does not attempt
+1	tampering
+1	to randomize
+1	know
+1	rst remark
+1	cannot be distinguished
+1	evaluate
+1	gave
+1	match
+1	belongs
+1	add
+1	cannot happen
+1	to accomodate
+1	can be easily inferred
+1	was cast
+1	was recorded
+1	is used to encrypt
+1	risking
+1	have been proposed
+1	briey introduce
+1	captures
+1	should go
+1	xed
+1	may also assume
+1	simulated
+1	are still published
+1	afterwards can embed
+1	analysed then-existing
+1	is to also simulate
+1	are not designed to accommodate
+1	to shue
+1	do not capture
+1	has been used
+1	to simulate
+1	is captured
+1	is balanced
+1	showing
+1	might not always be
+1	are encrypted
+1	are subjected
+1	containing
+1	intuitively captures
+1	are indeed supported
+1	also say
+1	is to only publish
+1	applies
+1	align
+1	to work
+1	typically make
+1	has been used to describe
+1	could allow
+1	thus avoiding
+1	can simulate
+1	simply run voterverify
+1	nv is
+1	also accommodate
+1	have appeared
+1	simply compare
+1	asks
+1	publishing
+1	ensures
+1	ct
+1	are used
+1	to help
+1	to analysing
+1	is attached
+1	is submitted
+1	actually submitted
+1	comes
+1	passing
+1	exceeds
+1	receives
+1	compared to standard
+1	tends to lead
+1	should be counted
+1	c
+1	thereby ensuring
+1	cannot exist
+1	is used to dene
+1	to be used
+1	generally instantiated
+1	opening
+1	adapted to properly accommodate
+1	is to achieve
+1	now can choose
+1	has not been revealed
+1	must be revealed
+1	was correctly cast
+1	modulo
+1	then run
+1	contain
+1	is structured
+1	then there exist
+1	doubly framed
+1	must cause verifying
+1	are also addressed
+1	=(
+1	does not manage to organise
+1	to simplify
+1	to protect
+1	seems to exist
+1	is considered to be
+1	is nally decrypted
+1	shues
+1	failed
+1	would require
+1	controls
+1	now performs
+1	simulating
+1	not captured
+1	can simply look up
+1	does not return
+1	requiring balanced left
+1	are tampered
+1	to accept
+1	are also posted
+1	do not happen
+1	to perform
+1	use are
+1	voting
+1	to make
+1	wt,i
+1	aect
+1	interacting
+1	are committed
+1	would be handled using
+1	to commit to tracking
+1	simplify
+1	rst verify
+1	rst species
+1	to encrypt
+1	have also been
+1	to dene
+1	instructs
+1	built
+1	including encrypted
+1	tells
+1	is not permitted
+1	need
+1	is dened
+1	sees
+1	are made
+1	can now trivially verify
+1	needs to subtract
+1	accessed
+1	were
+1	need to recognise
+1	simply let
+1	ciphertext
+1	believe
+1	lists
+1	can also verify
+1	x.
+1	ranging
+1	can lead
+1	to get
+1	are added
+1	are simply augmented
+1	indicate
+1	is missing
+1	only learns
+1	technically exists
+1	xv
+1	decides
+1	submit
+1	may also be
+1	may lie
+1	aects
+1	think
+1	was supported
+1	produce
+1	must be
+1	omit
+1	could
+1	then gets to see
+1	were made
+1	put
+1	to achieving
+1	ri
+1	get
+1	is revealed
+1	wv,(i
+1	does not control
+1	rv
+1	ns shue/chosen
+1	are simulated
+1	intuitively give
+1	also covers
+1	successfully verify
+1	will need to obtain
+1	found
+1	use also allows
+1	to cast
+1	has been published
+1	proposed using
+1	there will be
+1	would give
+1	is based
+1	loghv
+1	defining
+1	wt,(i
+1	thank
+1	complicate
+1	does however exist
+1	developed
+1	would have been
+1	to be cast
+1	do not correspond
+1	allow
+1	is not included
+1	to avoid
+1	may make
+1	tied
+1	may
+1	is given
+1	is assigned
+1	happens depends
+1	breaking
+1	correctly reects
+1	species
+1	might aect
+1	want
+1	to pret
+1	will describe
+1	indicated
+1	not necessarily appear
+1	claim
+1	now move
+1	can
+1	has organised counting
+1	seems to be
+1	can lie
+1	have been developed
+1	must now perform
+1	do not seem to do
+1	hold
+1	must determine
+1	will denote
+1	becomes
+1	are counted
+1	achieving
+1	are usually encrypted
+1	have not discussed
+1	is handled using distributed
+1	abstaining
+1	to ask
+1	working
+1	has been studied
+1	also captures
+1	must also be considered
+1	can be proven
+1	cti
+1	shaded
+1	actually receives
+1	subsequently ignoring
+1	could detect
+1	receive
+1	must also be changed
+1	is not used
+1	observing
+1	often complicates
+1	to compute
+1	are not equal up
+1	have not received
+1	revealing
+1	are performed
+1	is allowed to reveal
+1	is made
+1	also prevents
+1	briey
+1	gets to see
+1	typically involves
+1	also have
+1	plays
+1	have cast
+1	web-based
+1	have assumed trusted
+1	are extracted
+1	still shues
+1	does not capture
+1	employing
+1	concluded
+1	were cast
+1	notifying
+1	may even be prohibited
+1	though see
+1	permits
+1	did
+1	to lack
+1	perceived
+1	challenges used to achieve
+1	is to provide
+1	to address
+1	belonging
+1	sent
+1	include
+1	taken together yield
+1	voted
+1	also computes
+1	is not receipt-free
+1	may exacerbate
+1	preserves
+1	consists
+1	would remove
+1	are given
+1	existing
+1	is computed
+1	to have

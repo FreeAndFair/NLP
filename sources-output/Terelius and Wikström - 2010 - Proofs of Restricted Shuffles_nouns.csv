@@ -1,0 +1,709 @@
+33	zq
+23	zn
+22	lncs
+21	heidelberg
+21	springer
+17	permutation matrix
+14	fg
+12	gq
+10	j.
+10	proofs
+10	sigma proof
+10	wikstrom
+9	= c
+9	matrix m
+9	protocol
+8	restricted shues
+7	d.
+7	furukawa
+7	k.
+7	rcom
+7	sako
+6	[ x1
+6	b.
+6	b. terelius
+6	cck
+6	homomorphic cryptosystem
+6	input
+5	... xn
+5	= f
+5	acm
+5	commitment scheme
+5	d. wikstrom
+5	eurocrypt
+5	n n
+5	non-zero element
+5	polynomial f
+5	prime order q
+5	proposition
+5	sf
+5	xn ]
+4	automorphism group
+4	commitment-consistent proof
+4	epk
+4	full version
+4	groth
+4	hoogh
+4	pedersen
+4	r.
+4	rpk
+4	s.
+4	xi xj
+4	zero-knowledge proof
+3	... x
+3	adida
+3	anonymous channel
+3	arithmetic circuit
+3	c.
+3	commitment parameter
+3	commitment relation
+3	communications
+3	computer
+3	cpk
+3	crypto
+3	en
+3	honest verier zero-knowledge proof
+3	i=1 mi
+3	i=1 i=1
+3	k = s
+3	n zn
+3	ne
+3	p+
+3	p.
+3	public key pk
+3	q q
+3	randomness s
+3	recall
+3	reiter
+3	t.
+3	theorem
+3	time o
+3	v+
+3	wang
+2	= ae
+2	= i=1 xi
+2	a.
+2	abe
+2	abuse notation
+2	acisp
+2	asiacrypt
+2	below
+2	ccs
+2	chaum
+2	chooses e1
+2	commitment parameters g
+2	complete binary tree
+2	cryptographic protocols
+2	denes t = 1
+2	denote
+2	desmedt
+2	discrete logarithm assumption
+2	e 
+2	ecient
+2	el gamal
+2	equation
+2	extractor
+2	fc
+2	furthermore
+2	general technique
+2	generators g
+2	gn
+2	h.
+2	hands e1
+2	homomorphic encryptions
+2	homomorphic map pk
+2	imai
+2	important special case
+2	independent variables
+2	ith row
+2	j ej
+2	j kj
+2	j=1 l
+2	joint decryption
+2	kilian
+2	knowledge
+2	lj1
+2	m 
+2	m.
+2	matrix
+2	n t
+2	n/|s|
+2	natural way
+2	oine part
+2	permutation
+2	pf
+2	pkc
+2	previous work
+2	ptzmann
+2	public polynomial f
+2	r1
+2	r2
+2	random vectors
+2	restricted permutation matrix
+2	row mi
+2	satises f
+2	schoenmakers
+2	schwartz-zippel
+2	schwartz-zippels
+2	standard generator g
+2	tcc
+2	three-message protocol
+2	veriable mix-net
+2	veriable secret shue
+2	xi =
+2	x =
+2	xi yj
+2	york
+2	zero-knowledge properties
+2	{ e
+2	|s| 
+1	 m
+1	 multiplication
+1	 polynomial
+1	n 
+1	n  show
+1	n n n
+1	n ae
+1	n canejeasilys
+1	 inthe
+1	 polynomial
+1	n   mi
+1	 automorphism group
+1	= i
+1	    e =
+1	 
+1	   ci = pk c
+1	   d  ej
+1	 /
+1	 e1
+1	 e ei = ei 
+1	 nthat
+1	 m
+1	      l
+1	  f
+1	 j=1 g sj ej
+1	n i=1 mi
+1	 k2
+1	 { e
+1	-matrix  
+1	-proof   t
+1	-proof [ w |
+1	-proof e
+1	-proof e2
+1	1-matrix m
+1	2010. c
+1	5-message proof
+1	8-message proof
+1	= 
+1	=   
+1	= ae = c
+1	= ae i=1 ei = i=1 ei
+1	= aej
+1	= e
+1	= e
+1	= ee ie xi
+1	= g
+1	= g g
+1	= g s i=1 gimi
+1	= i=1 mi
+1	= {
+1	[ f
+1	] construct
+1	] constructs
+1	] points
+1	] shows
+1	a/g1e = g s
+1	a2 = c
+1	a3 = g s3 ae12 a2 = c
+1	abstract
+1	accepts e
+1	acknowledgements
+1	additional computational cost
+1	additional input m
+1	additional requirement
+1	africacrypt
+1	ai = c
+1	alternative way
+1	angle bracket a
+1	arbitrary function g.
+1	archive
+1	arge
+1	array s
+1	b denotes
+1	b =
+1	basic principle
+1	bernstein
+1	blackn 
+1	blaze
+1	box access
+1	boyd
+1	breaking
+1	briey describe
+1	ci = pk c
+1	cachin
+1	canetti
+1	case s
+1	central role
+1	certain value
+1	chaums
+1	chooses e
+1	chooses e s
+1	chooses s
+1	ciphertexts c1
+1	classical application
+1	cn
+1	comn m
+1	commitment
+1	commitment parameter ck
+1	commitment parameters
+1	commitment parameters consist
+1	commitment scheme [
+1	commitment y = c
+1	commitments [
+1	commitments a1
+1	committed
+1	committer computes n m n m
+1	committer forms g
+1	common input
+1	communication complexity [
+1	complete 4-message
+1	complete 5-message
+1	complete permutation
+1	complete proof
+1	composable mix-net
+1	composable security
+1	composite q
+1	computation
+1	computes witnesses
+1	conceptual simplication
+1	concrete general proof
+1	concrete instantiation
+1	consider
+1	construct ecient proofs
+1	construct protocols
+1	conversely
+1	corresponding verier
+1	cpk rpk cpk
+1	cramer
+1	cryptographic protocol
+1	cryptology
+1	cyclic graph 
+1	cyclic group
+1	d =
+1	d. wikstrom fg
+1	d.j
+1	de hoogh
+1	de santis
+1	degree d
+1	degxj f
+1	delicate analysis
+1	dene
+1	dene e
+1	denes e = m e
+1	denition
+1	di crescenzo
+1	dierent approach
+1	digital pseudo-nyms
+1	direct construction
+1	direction
+1	discrete logarithm assumption n eiholds
+1	discrete logarithm problem
+1	discrete logarithms
+1	dog } @ csc.kth.se
+1	douglas wikstrom csc kth stockholm
+1	e n e
+1	e = n i=1 ei
+1	e = i=1 ei
+1	e gi j=1 = c
+1	e j=1 gi i
+1	e = e
+1	e = m
+1	e = m e
+1	e } d=1
+1	e } d=1
+1	e v v
+1	e1 
+1	e3 = e1 e2
+1	ecient constructions
+1	ecient multi-authority election scheme
+1	ecient online part
+1	ecient proof
+1	ecient proofs
+1	ecient scheme
+1	ecient solution
+1	eds
+1	election scheme
+1	election schemes
+1	electronic election schemes [
+1	encoding graphs
+1	entire circuit
+1	esorics
+1	existsan extractor
+1	exists l
+1	f = g
+1	f = j=1 xj
+1	feigenbaum
+1	flaws
+1	focs
+1	form  -proof r
+1	form  -proof s
+1	form  
+1	form g s
+1	form i=1 xi yi
+1	form jj mi
+1	foundations
+1	four-round prover
+1	fragile
+1	framework [
+1	fumy
+1	function evaluation
+1	function evaluation [
+1	function f
+1	g dierent
+1	g s1 i=1 gi i,1
+1	g sn i=1 gi i
+1	g.
+1	general protocol
+1	generalization thereof
+1	generalizations
+1	generic cryptosystem
+1	gennaro
+1	gollmann
+1	gonzalez nieto
+1	group elements g1
+1	guillou
+1	halevi
+1	hands e
+1	helleseth
+1	helpful discussions
+1	hence
+1	homomorphic ciphertexts
+1	homomorphic properties
+1	hybrid ciphertexts [
+1	i < j i < j
+1	i = pk t
+1	i=1 ci
+1	i=1 ei = i=1 ei = i=1 ei
+1	i=1 x
+1	icalp
+1	icits
+1	idea distinct
+1	identical rst messages
+1	ieee computer
+1	ieee symposium
+1	ieee transactions
+1	ieice transactions
+1	independent e1
+1	independent interest
+1	independent vectors e
+1	independent vectors e1
+1	individual value ei
+1	informal description
+1	information theory
+1	inner product
+1	inner product i=1 ai bi
+1	input commitments
+1	input commitments a1 = c
+1	insider attacks
+1	integer comparison [
+1	interactive machine
+1	introduction mix-nets
+1	ishai
+1	itoh
+1	j =
+1	j ej
+1	j ej = c ej
+1	j ej m e gi i
+1	j j = g s
+1	j kj vector
+1	j xj
+1	j.-j
+1	j=1 aj /
+1	j=1 aj j = g s
+1	j=1 gj
+1	j=1 j=1 j=1 j=1 n
+1	jakobsson
+1	jarecki
+1	johan hastad
+1	joint veriable decryption
+1	jth column
+1	jth mix-server
+1	juels
+1	jurdzinski
+1	k mix-servers
+1	keywords
+1	killian
+1	kj =
+1	kj =c l
+1	kurosawa
+1	l <
+1	l =
+1	l.
+1	l.c.
+1	l0
+1	lemma
+1	linear
+1	linear algebra protocol
+1	linear independence
+1	list u =
+1	lj
+1	lk
+1	long inputs
+1	los alamitos
+1	lth column
+1	mdoes
+1	m =
+1	m e
+1	m e =
+1	m satises m
+1	m.k.
+1	m1
+1	map pk
+1	maps edges
+1	matrix    n
+1	matrix commitment scheme
+1	matrix commitments
+1	matrix m column-wise
+1	meier
+1	message mi
+1	mi denotes
+1	mild assumptions
+1	mix
+1	mix-server shues
+1	miyauchi
+1	mj
+1	mk
+1	mori
+1	motivated
+1	multiple edges
+1	multivariate polynomial f
+1	multivariate polynomial ring
+1	n n n n
+1	n n zn
+1	n suppose
+1	n.p
+1	nal list
+1	nal output
+1	naor
+1	natural concrete examples
+1	natural variations
+1	negligible knowledge
+1	negligible probability
+1	new commitment a3 = c
+1	new commitments ai
+1	new ecient proof
+1	new paradigm
+1	new proof
+1	new sigma protocol
+1	new variables  y1
+1	nite eld
+1	non-interactive
+1	non-invertible elements
+1	non-malleable cryptosystem
+1	non-trivial representation
+1	non-zero multivariate polynomial
+1	non-zero polynomial
+1	nonpermutation matrix
+1	nonzero element
+1	notation
+1	notice
+1	novel ecient proof
+1	novel technique
+1	obana
+1	observe
+1	october
+1	oine/online
+1	okamoto
+1	online complexity
+1	online part
+1	online processing
+1	online protocol
+1	optimistic mix-nets
+1	original construction
+1	original input
+1	p.y.a.
+1	parameters g
+1	partial decryption
+1	particular three-round prover
+1	pedersens
+1	permutation commitment
+1	permutations
+1	pk
+1	pk j
+1	point e
+1	polynomial equivalence testing
+1	polynomial invariant f
+1	polynomial relation
+1	polynomials
+1	possible applications
+1	pr
+1	pr fg
+1	pret
+1	previous
+1	previous mix-server
+1	previous proofs
+1	previous protocol
+1	prg
+1	prime integer
+1	probabilistic test
+1	product gate
+1	product inequality extractor
+1	prover n n
+1	prover constructs
+1	prover forms
+1	prover shows
+1	public key
+1	public key cryptosystem
+1	public parameter pk
+1	public polynomial
+1	public polynomial relation
+1	public subset
+1	q elements
+1	q extracts
+1	q i=1 gi
+1	q j=1 c ej
+1	quisquater
+1	r rcom
+1	r1 r2
+1	random exponents
+1	random j=1
+1	random order
+1	random rotation
+1	random seed
+1	randomness r
+1	re-encryption mixes
+1	recall states
+1	recent paper
+1	recently
+1	reciept-free
+1	references
+1	reistad
+1	restricted shue
+1	restricted shues bjorn terelius
+1	restricting
+1	return addresses
+1	rg
+1	rg rcom
+1	rn
+1	row sum
+1	roy
+1	rpk rcom
+1	rst denition
+1	rst ecient proofs
+1	rst message
+1	rst mix-net
+1	rst proof
+1	rst property
+1	rubin
+1	ryan
+1	s z = g s y t z/g1 = g r
+1	s = m
+1	s.a.
+1	s.p
+1	s1
+1	sabelfeld
+1	safavi-naini
+1	schneider
+1	schwarz-zippels
+1	seberry
+1	secure
+1	security parameter
+1	security parameter n
+1	sender encrypts
+1	senders submit
+1	set
+1	shue
+1	shues
+1	sigma proof    -proof e
+1	sigma proof   n n
+1	sigma proofs
+1	sigma protocol
+1	sigma protocol  -proof e2
+1	signature scheme
+1	simple analysis
+1	simple probabilistic test
+1	simpler analysis
+1	skoric
+1	slight modication
+1	smart
+1	sn
+1	society press
+1	special honest verier zero-knowledge
+1	special honest verier zero-knowledge [
+1	special soundness
+1	springer-verlag berlin heidelberg
+1	standalone model
+1	standard argument implies that
+1	standard decryption
+1	standard inner product
+1	standard sigma proof j=1 j j=1 i
+1	standard sigma proofs
+1	standard sigma-protocol
+1	standard unit vector
+1	statement x
+1	sub-linear
+1	sub-linear zero-knowledge arguments
+1	submission phase
+1	submission schemes
+1	such protocols
+1	summation gate
+1	suppose
+1	suppose i=1 x 
+1	sweden
+1	t =
+1	t = 1
+1	t = 1/b
+1	t = a1 c
+1	t. lange
+1	t.i.
+1	t.p
+1	t1 = a1 = c e
+1	tarlecki
+1	technique
+1	term fragile
+1	throughout
+1	toft
+1	together
+1	tools
+1	total degree d
+1	tsudik
+1	turning exponentiation
+1	u = r
+1	uc
+1	ue = i=1 uei i
+1	unique n factorization domain
+1	universally
+1	unwieldy literature
+1	useful q identity e c
+1	utmost generality
+1	v.
+1	vadhan
+1	value e
+1	values e1
+1	variations
+1	various ways
+1	vector e
+1	vectors x
+1	veriable rotation
+1	verier   probability
+1	verier compute commitment
+1	vertex i
+1	villegas
+1	work [
+1	x = i=1 xi
+1	x = i=1 xi
+1	x.
+1	xd ]
+1	xi =
+1	xi + 2xj +
+1	xi + xj
+1	xi x2j
+1	y.
+1	y.g
+1	z = g s y t
+1	zero polynomial
+1	zero vector
+1	zero-knowledge argument
+1	zq n n
+1	{ terelius
+1	} =1  n e1

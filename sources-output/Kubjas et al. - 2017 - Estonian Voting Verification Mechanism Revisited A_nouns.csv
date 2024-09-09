@@ -1,0 +1,469 @@
+13	estonian
+11	hence
+11	mus
+10	verification application
+8	encspub
+8	qr
+7	figure
+7	verification device
+5	heiberg
+5	international conference
+5	j.
+5	s.
+5	verification app
+5	vote
+5	vote manipulation attack
+5	voter application
+5	willemson
+4	internet
+4	lncs
+4	random seed
+4	springer
+4	symench
+4	voters computer
+3	analysis
+3	authentication
+3	candidate
+3	cenk
+3	cm }
+3	code candidates
+3	estonia
+3	estonian internet
+3	estonian internet voting
+3	fig
+3	i =
+3	kiraz
+3	malicious verification application
+3	p.
+3	public key
+3	r.
+3	random value
+3	sertkaya
+3	sigv
+3	tartu
+3	verification mechanism
+2	a.
+2	app store
+2	archive
+2	candidate list
+2	correct candidate number
+2	cryptology
+2	design choice
+2	e-voting
+2	elections [
+2	estonian voting verication mechanism revisited
+2	excellence
+2	gb
+2	i.
+2	identity
+2	improving
+2	internet voting
+2	k.
+2	list l = { c1
+2	log analysis
+2	m.
+2	m.s.
+2	malicious collaboration
+2	new message
+2	parliamentary elections
+2	parsovs
+2	partial results
+2	pre-computation phase
+2	random values
+2	randomness space
+2	reference vr
+2	set c
+2	storage requirement
+2	success probability
+2	such attacks
+2	sy
+2	table size
+2	values qi
+2	verification protocol
+2	vinkel
+2	vote cryptogram
+2	vote privacy
+2	voters choice
+1	.. .. ..
+1	.c r
+1	2-dimensional table
+1	32-bit parts
+1	4-byte code parts qi
+1	4character pattern
+1	7. nc r
+1	] assumes
+1	] discusses
+1	achieving
+1	acknowledgements
+1	actual vote
+1	additional side channel attack
+1	allowing
+1	alternative verification app
+1	analyzing
+1	app
+1	app casts
+1	applications competence
+1	applications manipulates
+1	arnis parsovs
+1	assumes access
+1	assumptions
+1	asymmetric encryption
+1	attack
+1	attack model
+1	attacker fixes
+1	attacker tries
+1	attackers success probability
+1	attempt
+1	authors vision
+1	average mark
+1	average score
+1	base-64 representations
+1	basic protocol
+1	bern
+1	bits qleft
+1	bits worth
+1	brute forces
+1	c.
+1	c1 r1,0 .. .. ..
+1	c1 r1,232
+1	c2 r2,0 .. .. ..
+1	c2 r2,232
+1	candidate ci
+1	candidate list l = { c1
+1	candidate values
+1	candidates qi
+1	capital
+1	case malicious behaviour
+1	choice cj
+1	cloud environment
+1	cm rm,0 .. .. ..
+1	cm rm,232
+1	code q
+1	common codes
+1	common punctuation marks altogether
+1	computation complexity
+1	computation time
+1	compute qi
+1	computer screen
+1	computes h =
+1	conclusions
+1	consider
+1	core motivation
+1	correct code
+1	corresponding keyboard character
+1	corresponding qright values
+1	corresponding values qright
+1	country-wide election event
+1	critical survey
+1	cryptographic protocol design
+1	cv stands
+1	cybernetica as ulikooli
+1	debatable assessments
+1	decrypt q
+1	description
+1	design decision
+1	desirable goal
+1	detect potential vote manipulation attacks
+1	detect vote manipulation attacks
+1	device screen
+1	dictionary qright choice ci ri
+1	dierent candidate
+1	dierent inputs ri
+1	digi-id
+1	double envelope postal
+1	draws attention
+1	early 2000s
+1	election candidate ci
+1	election candidates
+1	election management body
+1	election systems
+1	elections
+1	electronic voting
+1	electronic voting e-vote-id
+1	electronic voting e-voteid
+1	element code space
+1	encryption random seed
+1	encryption randomness
+1	encryption randomness r
+1	encryption randomness r.
+1	entire q
+1	entire value
+1	estonia abstract
+1	estonian centre
+1	estonian parliamentary
+1	estonian voting verification mechanism revisited
+1	european parliament
+1	european regional development fund
+1	evote
+1	exact message pass
+1	excellent chance
+1	excite
+1	explain e-stonia
+1	extra privacy protection capabilities
+1	extreme cases
+1	feasibility studies
+1	final security observation
+1	firstly
+1	fixing
+1	flaws starts
+1	frequent codes
+1	full disclosure
+1	future research
+1	generation
+1	google
+1	grant iut27-1
+1	guess qright
+1	h 6= hi
+1	h0 =
+1	haenni
+1	hash function application
+1	high probability
+1	high success rate
+1	high-level description
+1	human subjects
+1	human users
+1	ict
+1	id
+1	ieee
+1	improved
+1	incorrect qi
+1	incorrect symmetric decryption key
+1	independent verification apps
+1	individual verifiability mechanism
+1	individual verification mechanism
+1	inherent drop
+1	inner envelope
+1	institutional
+1	internet voting ulikooli
+1	introduction estonia
+1	ip
+1	ivo kubjas1
+1	jan willemson2,3
+1	janwil @ cyber.ee
+1	july
+1	koenig
+1	krimmer
+1	l b u sp
+1	l ch
+1	laud
+1	leftmost nonvoter
+1	legal methods
+1	list l
+1	list { q1
+1	local municipal elections
+1	log2 |r|
+1	long list
+1	lower-case letters
+1	m computation rounds
+1	m log2 |r|
+1	m times
+1	major drawback
+1	major vulnerabilities
+1	malicious app
+1	malicious applications
+1	malicious verification device
+1	manipulation attack
+1	martens
+1	maximum assumes
+1	message number
+1	mobile phones
+1	mobile-id
+1	n n
+1	namely
+1	national eid
+1	necessary values
+1	new protocol
+1	new scheme
+1	non-random
+1	number varies
+1	obvious candidate
+1	occurrence
+1	official app store
+1	official application
+1	online query
+1	operational environment
+1	ordinary office
+1	organisational
+1	organisational measures
+1	out-ofprotocol measures
+1	outer envelope
+1	own preference
+1	own q
+1	own version
+1	paper points
+1	parameter q
+1	parliamentary
+1	part qright
+1	particular candidate cj
+1	pc
+1	physical proximity
+1	poor random number generators [
+1	possible byte
+1	possible byte values
+1	possible pair
+1	possible solution
+1	possible strategies
+1	potential attacks
+1	potential privacy leak
+1	pre-computation
+1	preference biases
+1	present proposal
+1	primary design goal
+1	printable character
+1	privacy claims
+1	privacy enhancement
+1	privacy guarantees
+1	privacy issue
+1	privacy leakage
+1	privacy measure
+1	privacy properties
+1	proceedings
+1	proof-of-concept malware
+1	proposed
+1	protocol [
+1	protocol relies
+1	pseudorandom permutation
+1	psychological bulletin
+1	q =
+1	q = qi
+1	q = qleft k qright
+1	q h
+1	q n
+1	qi =
+1	qm v 6. vr
+1	qm vr vr 6.
+1	qm }
+1	query service
+1	questionable design choices
+1	r m
+1	r v
+1	r.e.
+1	random sequences
+1	random values r
+1	randomness columns
+1	re-create vote cryptogram
+1	real vote
+1	reasonable amount
+1	recent report
+1	recently
+1	reference vr 8. qright
+1	references
+1	remarkable edge
+1	report [
+1	research council
+1	right balance
+1	rightmost bits
+1	rough quantification
+1	scheme privacy
+1	security assumptions
+1	security guarantees
+1	security properties
+1	select q
+1	selection
+1	sends ri
+1	september
+1	server behaves
+1	server generates q
+1	side channel
+1	side channel attack
+1	similar manner
+1	similar name
+1	simple attack
+1	simple reason
+1	simple scheme
+1	small modification
+1	small screen
+1	small set
+1	smartmatic-cybernetica centre
+1	software
+1	specific qright
+1	specific value
+1	spotting
+1	standard approaches
+1	storage server
+1	store displays
+1	such assumptions
+1	suitable bytes
+1	suitable encryption randomness ri
+1	support verification device
+1	switzerland
+1	symdech0
+1	symdechi
+1	symmetric decryption
+1	symmetric encryption-decryption primitive behaves
+1	symmetric key
+1	symmetric keys
+1	t.
+1	table 1.
+1	tb
+1	technical details
+1	theorem
+1	tiit pikma1
+1	tiit } @ ivotingcentre.ee
+1	true value
+1	ulikooli
+1	unintuitive values
+1	up
+1	usability point
+1	usability problem
+1	usability problems
+1	user interface aspect
+1	user stops
+1	v 6. vr v
+1	valimised
+1	valimised5
+1	value qi
+1	values q1
+1	various reliability information
+1	verification application computes hi =
+1	verification attempts
+1	verification code
+1	verification code candidates q1
+1	verification code generation
+1	verification code qi
+1	verification experience
+1	verification privacy leaks
+1	verification procedure
+1	verification process
+1	verification request
+1	verification scheme
+1	verifying
+1	very-very high
+1	visual representation
+1	vote buying attacks
+1	vote cryptogram candidates
+1	vote cryptogram h =
+1	vote invalidation attack
+1	vote manipulation attacks
+1	vote privacy issue
+1	vote reference
+1	vote reference vr
+1	vote signature
+1	vote verification
+1	vote verification application
+1	vote verification mechanism
+1	vote verification protocol
+1	vote verification scheme
+1	vote verification scheme [
+1	voteid
+1	voter accepts verification
+1	voter choice ci
+1	voter computers memory
+1	voter computers screen
+1	voter details
+1	voter preference
+1	voter screen
+1	voter verification expectation
+1	voter-input code
+1	voters choice ci
+1	voters computer [
+1	voters party preference
+1	voters privacy
+1	votes [
+1	w.a
+1	wagenaar
+1	weak privacy properties
+1	whole q
+1	whole table
+1	wikstrom
+1	{ ivo

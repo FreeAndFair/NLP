@@ -1,0 +1,594 @@
+22	individual verifiability
+17	norway
+16	estonia
+16	return codes
+16	swiss post
+16	universal verifiability
+15	geneva
+15	switzerland
+12	norwegian
+12	source code
+11	ballot
+10	r.
+10	return code
+10	s.
+9	j.
+8	australia
+8	figure
+7	electronic voting
+6	austria
+6	chancellery
+6	krimmer
+6	m.
+5	bregenz
+5	c.
+5	estonian
+5	europe
+5	formal proofs
+5	international conference
+5	neuchatel
+5	nsw
+5	osce/odihr
+5	p.
+5	receipt number
+5	verification process
+5	warsaw
+4	bulletin
+4	fig
+4	grimm
+4	guasch
+4	krd
+4	proceedings
+4	security proofs
+4	verifiability
+4	verification information
+4	verification mechanism
+4	verification server
+4	volkamer
+4	vote
+4	voting card
+4	wales
+3	a.
+3	assessment
+3	berlin
+3	cast-as-intended
+3	components
+3	confirmation code
+3	cryptographic operation
+3	d.
+3	e-voting
+3	elections
+3	evote
+3	final
+3	heiberg
+3	heidelberg
+3	kripp
+3	municipal elections
+3	october
+3	provable security
+3	receipt
+3	security proof
+3	september
+3	springer
+3	system [
+3	tallinn
+3	universal
+3	verifiability mechanisms
+3	vote contents
+3	voter device
+3	voting receipt
+3	willemson
+2	2d barcode
+2	] [
+2	application
+2	audit processes
+2	b.
+2	cast
+2	castle hofen
+2	co-organized
+2	cryptology
+2	dierent governments
+2	e-vote-id
+2	e-voting.cc
+2	e.
+2	election [
+2	election authorities
+2	election manager
+2	election process
+2	end-to-end verifiability
+2	external auditors
+2	full disclosure
+2	galindo
+2	gesellschaft
+2	gi
+2	government implementations
+2	helios
+2	hence
+2	i.
+2	idea
+2	individ-
+2	individual verifiability protocol
+2	informatik
+2	internet
+2	invalid combination
+2	joint
+2	july
+2	lni
+2	methods
+2	mixing
+2	mixnet
+2	mobile phone
+2	mobile phone application
+2	multiple times
+2	near future
+2	partial disclosure
+2	proper behavior
+2	proper execution
+2	recommendation cm/rec
+2	recorded-as-cast
+2	recorded-as-cast verifiability
+2	return code generator
+2	security properties
+2	sms
+2	springer berlin heidelberg
+2	stockholm
+2	universal verifiable mixnet
+2	universal verification
+2	usenix
+2	verifiable internet
+2	verification mechanisms
+2	verification period
+2	vote correctness
+2	voter
+2	voter credentials
+2	voters cast
+2	voters need
+2	wolf
+1	% electorate authorization
+1	% electorate authorization process
+1	% electorate authorization process [
+1	% electorate autorization
+1	% electorate regulation requirements
+1	//doi.org/ 10.1007/978-3-319-22270-7_6
+1	//doi.org/10.1007/ 978-3-540-77493-8_1
+1	//github.com/ vvk-ehk
+1	//github.com/republique-et-canton-de-geneve/chvote-1-0/blob/master/ docs/system-overview.md
+1	//search.coe.int/cm/pages/ result_details.aspx
+1	//search.coe.int/cm/pages/result_ details.aspx
+1	//web.archive.org/web/ 20120309072858/http
+1	//www.elections.nsw.gov.au/about_us/ plans_and_reports/ivote_reports
+1	//www.post.ch/-/media/post/evoting/dokumente/ swiss-post-online-voting-protocol-explained.pdf
+1	//www.regjeringen.no/en/dep/krd/prosjekter/ e-vote-2011-project/source-code/the-system-architecture-.html
+1	2014. pp
+1	] cantons
+1	a.a.
+1	abstract
+1	academic community
+1	according
+1	accurate audit
+1	accurate results
+1	acknowledgments
+1	actual votes
+1	additional advantage
+1	additional property
+1	additionally
+1	adida
+1	administration oine components [
+1	amongst others
+1	analysis
+1	applied
+1	approach diers
+1	archive
+1	asiacrypt05
+1	assurance level
+1	audit environments
+1	audit process
+1	audit proofs generation
+1	australia australia
+1	authorization process
+1	automatic validation
+1	ballot box
+1	ballot identifier
+1	ballot identity
+1	barcelona
+1	barrat
+1	based
+1	bellare
+1	bern
+1	bibiloni
+1	bolo
+1	bravo
+1	brightwell
+1	bull
+1	burton
+1	canada
+1	candidate
+1	canton
+1	cantons
+1	case
+1	case study
+1	case voters
+1	cast vote
+1	cast votes
+1	cast-and-decrypt approach
+1	cast-as-intended return decryption return
+1	certain transparency
+1	certification
+1	certification process
+1	cham
+1	client side
+1	clouser
+1	common approach
+1	communication channel
+1	communication networks
+1	comparative analysis
+1	comparison
+1	complementary mechanisms [
+1	complete ones
+1	computer
+1	computing
+1	contexts diers
+1	corr
+1	correct selections
+1	cramer
+1	criteria
+1	cryptographic mechanisms
+1	cryptographic ones
+1	cryptographic proofs [
+1	cryptographic protocol [
+1	cryptographic protocols
+1	cucurull
+1	culnane
+1	current
+1	current government implementations
+1	current status
+1	currently
+1	damgard
+1	decryption
+1	decryption components
+1	detailed
+1	dierent approaches
+1	dierent proposals
+1	dierent teams
+1	dierent vendors
+1	dierent verifiability properties
+1	dierent ways
+1	digital signatures
+1	digits code
+1	digits codes
+1	directions
+1	disclaimer
+1	double encryption mechanism
+1	dubuis
+1	e-voting/key_documents/default_en.asp
+1	edition
+1	eective
+1	efficient multiauthority election scheme
+1	election administration
+1	election officers
+1	election operators
+1	election organizers
+1	election setup
+1	election systems
+1	election verifiability
+1	electoral board
+1	electronic elections
+1	electronic environments
+1	electronic means
+1	electronic processes
+1	electronic vote
+1	empirical study
+1	escala
+1	especific requirement
+1	estonian internet
+1	estonian internet voting
+1	eurocrypt
+1	evalg2011 system architecture
+1	explanatory memorandum
+1	exploratory paper
+1	federal chancellery ordinance
+1	federal level
+1	federal regulation
+1	fingerprint ensures voters
+1	following
+1	formal languages
+1	formal statement
+1	fumy
+1	furthermore
+1	future [
+1	future plans
+1	future tendencies
+1	general conclusion
+1	general tendency
+1	genevan
+1	gennaro
+1	gharadaghy
+1	gjsteen
+1	good reference
+1	governance
+1	government adoption
+1	government experience
+1	government experiences
+1	government online
+1	governments publish
+1	guidelines
+1	h.
+1	haenni
+1	handbook
+1	hardware
+1	homomorphic tally
+1	hsm
+1	human audits
+1	i.s.g.
+1	icts
+1	id=bwea_ 9zgqmwc
+1	identity
+1	ieee spectrum
+1	implementation guidelines [
+1	improving
+1	individual and/or
+1	individual verifiability mechanism
+1	individual verifiability properties
+1	individual verification approach
+1	individual verification mechanisms
+1	individual verification processes
+1	individual voter
+1	information
+1	inherent general distrust
+1	innovation
+1	international election observers
+1	internet voting
+1	introduction whenever
+1	invalid option
+1	involves recorded-as-cast verifiability
+1	issue 39. pp
+1	issues detection
+1	jordi cucurull1
+1	jordi puiggal1
+1	jordi.cucurull } @ scytl.com
+1	k.
+1	keywords
+1	koenig
+1	lecture notes
+1	lenarcic
+1	literature [
+1	lochau
+1	log analysis
+1	m.j.
+1	main aim
+1	main dierence
+1	main enhancements
+1	main groups
+1	main reference
+1	main references
+1	manual recount
+1	martens
+1	mathematical complexity
+1	mechanism
+1	mechanisms facilitate
+1	mercury
+1	method [
+1	methodology
+1	ministry
+1	mix-net-based
+1	mixnet mixnet vote reencryption
+1	mobile application part [
+1	mobile application uses
+1	modules
+1	morillo
+1	multiple
+1	multiple proposals
+1	neuchatels cast-as-intended verification mechanism
+1	neumann
+1	new credentials
+1	new proof
+1	new redesign
+1	new revision
+1	nist
+1	non security experts
+1	nore
+1	norway estonia switzerland switzerland australia
+1	norway norway
+1	norwegian experiences
+1	numbers
+1	numeric codes
+1	objectid=0900001680726c0b
+1	objectid=0900001680726f6f
+1	observation
+1	observation handbook
+1	oer online
+1	online government elections
+1	online voting protocol
+1	online voting protocol explained
+1	oorschot
+1	open source
+1	opening address
+1	originally
+1	osce
+1	osce chairmanship expert seminar
+1	p.c
+1	paper ballots
+1	paper trails [
+1	parreno
+1	parsovs
+1	particular interpretation
+1	period ends
+1	phone calls
+1	physical ballot boxes
+1	physical means
+1	physical tangible elements
+1	potential mistake
+1	practice-oriented provable-security
+1	present
+1	present topic
+1	press release
+1	previous limitation
+1	private key
+1	proceedings167/article5682.html
+1	project b42
+1	project put1361
+1	properties
+1	prospects
+1	provable security [
+1	proving
+1	public call
+1	public process
+1	public repository
+1	public source code
+1	puigalli
+1	puiggal
+1	puiggali
+1	r.e.
+1	r.g
+1	r.krimmer
+1	ragnar nurkse
+1	reallife context
+1	receipt contains
+1	receipts
+1	recommendation rec
+1	recorded-as cast verifiability
+1	recorded-as-cast verification
+1	recordedas-cast verifiability mechanisms
+1	recount
+1	reference
+1	reference [
+1	references
+1	regjeringen.no/en/aktuelt/internet-voting-pilot-to-be-discontinued/ id764300/
+1	regjeringen.no/en/dep/kmd/prosjekter/e-vote-trial/source-code/ specification-tenders-evaluation-and-con/id612121/
+1	regulation [
+1	remote evoting around
+1	research council
+1	return
+1	review
+1	robert krimmer2
+1	robert.krimmer @ ttu.ee
+1	s.f
+1	sage publications
+1	saltman
+1	sandra guasch1
+1	schneider
+1	schoenmakers
+1	schrmann
+1	schurmann
+1	scope
+1	scytl
+1	scytl secure electronic voting
+1	scytl secure online voting
+1	secure
+1	security department
+1	security experts
+1	security measures
+1	security mechanisms
+1	security requirements
+1	server contains
+1	server validates
+1	server vote correctness verification
+1	short-mid term [
+1	significant aspect
+1	significant security gain
+1	similar level
+1	similar steps
+1	small inconsistencies
+1	small sam- sample
+1	small sample
+1	small samples
+1	small-scale test elections
+1	social research
+1	software source code
+1	sound way
+1	source
+1	source code disclosure
+1	spain
+1	specific call center
+1	specific universal verifiability approach
+1	specification
+1	springer-verlag
+1	ssl
+1	standard computers
+1	standards [
+1	state election
+1	state election [
+1	stenerud
+1	swiss post model
+1	swiss regulation
+1	switzerland switzerland
+1	symposium
+1	system architecture
+1	system chvote 1.0. source code oine administration application
+1	system chvote 1.0. system overview
+1	system requirements
+1	system source code repository
+1	systems [
+1	t.
+1	tangible processes
+1	tech
+1	tem side side
+1	terminal displays
+1	theory
+1	traditional elections
+1	triessnig
+1	uniual
+1	universal verifiability [
+1	universal verifiability value
+1	universal verification mechanisms
+1	universally
+1	up
+1	valid vote
+1	validation process
+1	verifiability claims
+1	verifiability implementation
+1	verifiability mechanism
+1	verifiability properties
+1	verifiability scope
+1	verifiable efficient re-encryption mixnet
+1	verifiable mechanism implements
+1	verifiable mix-net
+1	verifiable propososals
+1	verifiable protocol properties
+1	verification [
+1	verification data
+1	verification mechanisms [
+1	verification percentage
+1	verification ratio
+1	verification time
+1	verificatum mixnet
+1	verifier voters
+1	verifying
+1	victoria
+1	victorian
+1	vienna
+1	vinkel
+1	vote buying
+1	vote cast
+1	vote collector server
+1	vote correctness properties
+1	vote correctness property [
+1	vote decryption
+1	vote encryption
+1	vote opening
+1	vote validatability
+1	vote-tallying
+1	voteid
+1	voter agrees
+1	voter casts
+1	voter confirmation
+1	voter disagrees
+1	voter downloads
+1	voter privacy
+1	voter survey
+1	voter verification process
+1	voters [
+1	votes
+1	voting
+1	voting receipts
+1	voting technologies
+1	vvote [
+1	way voters
+1	web-based
+1	well-known government online
+1	whether
+1	whole participants
+1	wikstrom
+1	yin
+1	zurich
+1	{ jordi.puiggali

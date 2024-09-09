@@ -1,0 +1,742 @@
+32	eos
+23	clr
+18	elgamal
+14	election authority
+14	electoral identity
+13	fig
+13	lncs
+13	springer
+12	heidelberg
+12	public bulletin board
+11	pseudo identity
+10	bulletin board
+10	d.
+10	hsm
+10	sect
+10	universal
+9	coercion resistant voting protocol
+9	j.
+8	rn 
+7	s. patachi
+7	selene
+7	theorem
+6	c. schurmann
+6	parallel shue
+6	r zq
+6	sn 
+6	v.
+5	eurocrypt
+5	jcj
+5	m.
+5	pin
+5	public verier
+5	signature scheme
+5	zero knowledge
+5	zero knowledge proofs
+4	a.
+4	acm
+4	ballot verication phase
+4	eligible voter
+4	green envelope
+4	groth
+4	i [ n ]
+4	lr
+4	mix server
+4	private key
+4	r zn
+4	red envelope
+4	ring
+4	s.
+4	special soundness
+4	zq
+3	 
+3	ballot generation
+3	bj
+3	bulletin boards
+3	coercer steals
+3	election authorities
+3	encryption
+3	g.
+3	honest verier zero knowledge
+3	k.
+3	kilian
+3	message m
+3	n elements
+3	ne
+3	proceedings
+3	protocol
+3	pseudo identities
+3	r znq
+3	r.
+3	re-encryption coecients s1
+3	recall
+3	ryan
+3	sako
+3	simulator s
+3	valid vote
+3	voters identity
+3	y.
+3	zero-knowledge proofs
+2	... sn 
+2	= g f
+2	= g t
+2	asiacrypt
+2	b.
+2	ballot generation algorithm
+2	bayer
+2	beliniosrf
+2	c.a
+2	camenisch
+2	catalano
+2	ccs
+2	ci+1 =
+2	cipher text
+2	civitas
+2	classic discrete logarithm equality zero knowledge proof
+2	coercers control
+2	coercion attacks
+2	coercion resistance
+2	communications
+2	computer
+2	conditional
+2	copenhagen
+2	correct parallel shue
+2	discrete logarithm
+2	discrete logarithm equality
+2	e-voting
+2	encryption key
+2	entire bulletin board
+2	entire set
+2	fauzi
+2	fuchsbauer
+2	furthermore
+2	future work
+2	g s
+2	gennaro
+2	green envelopes
+2	h.
+2	helios
+2	i =
+2	initial commitment
+2	j [  ] i [ n ]
+2	j [  ]
+2	j mi
+2	liu
+2	mg si yici si ci
+2	malicious voter
+2	mix nodes
+2	mixing
+2	mn 
+2	mod q
+2	multiple ballots
+2	multiple times
+2	multiple votes
+2	nes
+2	nicolosi
+2	nprp
+2	oracle model
+2	p.
+2	p.y.a.
+2	particular way
+2	plain text
+2	pointcheval
+2	potential coercer
+2	previous section
+2	privacy
+2	private keys
+2	public scrutiny
+2	qatar
+2	r pn
+2	red envelopes
+2	ri = mi + e1
+2	ring signatures
+2	sends challenge
+2	set-up phase
+2	signatures originate
+2	signer computes
+2	such identities
+2	symposium
+2	t tellers
+2	tallying phase
+2	threshold decryption
+2	together
+2	usenix
+2	veriable secret shue
+2	verication algorithm
+2	voters identities
+2	voting phase
+2	wei
+2	wikstrom
+2	yn 
+2	york
+2	zero-knowledge argument
+1	 ei g s
+1	 hold
+1	 i [ n ]  =g ai mi i [ n ] ai e
+1	 i [ n ] ai i [ n ]  i [ n ] ai g ei s
+1	 k =g e ai
+1	   
+1	  
+1	   d
+1	   f
+1	 columns
+1	   f
+1	-threshold cryptosystem
+1	... en 
+1	2n + 2 exponentiations
+1	2n modexp operations
+1	2n modexps
+1	3n multiplications
+1	4n + 2 exponentiations
+1	4n multiplications
+1	4n modexp operations
+1	4n modexps
+1	= g d
+1	= gk  b = yk ai mi i [ n ]  bi mi i [ n ]
+1	= gt ai ri ci ei i [ n ] b = yt   bi ri di ei  i [ n ] s outputs
+1	= h
+1	= i [ n ]  ci ei i [ n ] k i [ n ]   ai ri =
+1	= log
+1	= p
+1	= v
+1	= x
+1	= y
+1	= y kj i [ n ] bi
+1	= y tj i [ n ] bi
+1	[ 7,13,22 ]
+1	] =
+1	] protocol
+1	] uses
+1	a.c.
+1	abstention attack
+1	abstract
+1	account index j
+1	acisp
+1	acm sigsac
+1	ad hoc
+1	additional entropy
+1	adida
+1	adversarial environment
+1	adversarys control
+1	ag
+1	aj = g kj  ai
+1	algorithm
+1	algorithm validates
+1	alternate pseudo identities
+1	analysis eos
+1	anonymous
+1	anonymous channel
+1	archive
+1	assume
+1	authentication entropy
+1	authentication mechanisms
+1	authentication method yields
+1	authentication procedure determines
+1	authentication process
+1	b {
+1	ballot
+1	ballot cast
+1	ballot play
+1	ballot verication phase sect
+1	ballots
+1	ballots cast
+1	bao
+1	based
+1	bayers
+1	beleniosrf
+1	below
+1	berkeley
+1	beside
+1	bismark
+1	bitcoin
+1	blazy
+1	board contains
+1	boyd
+1	brenner
+1	bulletin
+1	c+1 =
+1	c.
+1	c. schurmann clr
+1	c. schurmann p
+1	c. schurmannthis
+1	cachin
+1	carsten schurmann
+1	carsten } @ itu.dk
+1	chaidos
+1	challenge e1
+1	challenge ei
+1	challenge sequence e1
+1	cheon
+1	chong
+1	clark
+1	clarkson
+1	clear text
+1	clever authentication schemes
+1	closely
+1	cn+1 = c1
+1	coercer forces
+1	coercer obtains
+1	coercer use dierent pseudo identities
+1	coercers choice
+1	coercion attempt
+1	coercion resistant voting protocol stefan patachi
+1	coercion-resistant
+1	color decrypts
+1	commitment-consistent proof
+1	common practice
+1	compared
+1	completeness
+1	computation cost
+1	compute = hx
+1	concatenation
+1	conclusion
+1	concretely
+1	conditional linkability
+1	constant size
+1	controversial assumption
+1	correct encryptions
+1	correct shue
+1	correlate outputs
+1	corresponding private key
+1	corresponding signature
+1	correspondingly
+1	cortier
+1	cramer
+1	crypto
+1	cryptographic hash function
+1	cryptographic hash value
+1	cryptographic information
+1	cyclic group
+1	d
+1	d v
+1	d.s
+1	danish council
+1	decrypt ballots
+1	decrypt votes
+1	decryption
+1	decryption key
+1	decryption operations
+1	decrypts color
+1	demtech
+1	dene [ n ]
+1	deng
+1	denmark
+1	deterministic nature
+1	dierent approach
+1	dierent attacks
+1	dierent challenge ei = ei
+1	dierent kinds
+1	dierent mix-net protocols
+1	dierent partial board
+1	dierent principals
+1	dierent pseudo identities
+1	dierent pseudo-identities
+1	dierent tellers
+1	dierent value
+1	dierent value kj
+1	dierent values
+1	different signers
+1	discrete logarithm equality proof
+1	discrete logarithms
+1	discussion
+1	disjunctive zero knowledge proof protocol
+1	dodis
+1	doi
+1	double vote
+1	ex
+1	e t +
+1	e tellers
+1	e-cash
+1	e-vote-id
+1	ecient
+1	ecient mixer
+1	ecient multiauthority election scheme
+1	ecient scheme
+1	eds
+1	ei  i [ n ]
+1	ei g s
+1	ei i [ n ] mi 
+1	election authority administrates
+1	election authority commences
+1	election authority performs
+1	election process
+1	election specic generator h.
+1	electoral identity decrypts
+1	electronic
+1	electronic elections
+1	electronic voting technology/workshop
+1	elegant generalization
+1	elgamal pairs
+1	eligible voters
+1	emit proofs
+1	encode pseudo-identities
+1	entire matrix
+1	eos protocol clr
+1	eos voting
+1	eth zurich
+1	evt/wote
+1	existential unforgability
+1	f   t
+1	f =
+1	f h   t
+1	f.
+1	fazio
+1	fc
+1	force voter
+1	forensics secur
+1	formally
+1	fumy
+1	furukawa
+1	g r
+1	g tj  i [ n ] ai
+1	galindo
+1	general statements
+1	generate c1 = ci+1
+1	generic model
+1	good source
+1	greek letters
+1	groths
+1	gt  ai ri =
+1	gt g k g g   k+ i [ n ] ei s
+1	guillou
+1	h =
+1	h.h.
+1	h1
+1	h2
+1	hacking
+1	hallmark characteristics
+1	hard problem
+1	hardware
+1	heather
+1	homomorphic encryptions
+1	honest tellers
+1	honest verier zero knowledge property
+1	hsms
+1	i = +
+1	i [ n ]  di
+1	i [ n ]  mi   ai i [ n ] ai =  i [ n ]
+1	i [ n ]  yt ci ei i [ n ]   bi ri = b i [ n ] di ei i [ n ]
+1	i [ n ]  t=k+  ei s
+1	i [ n ] ei s
+1	i [ n ] i [ n ] e
+1	i [ n ] t j = kj +   ei s
+1	iacr cryptology
+1	identity infrastructure
+1	identity selection phase
+1	ieee
+1	ieee trans
+1	important role
+1	indistinguishable transcript
+1	individual cipher texts
+1	inf
+1	initial commitments
+1	initial set
+1	internal consistency
+1	international conference
+1	introduce conditional linkability
+1	introduction
+1	invalid vote
+1	invalid write-in vote
+1	iovino
+1	ishai
+1	ispec
+1	it
+1	j [  ]
+1	j [  ] 
+1	j ei
+1	j ei aj = g tj i [ n ]
+1	j ei i [ n ]
+1	j ei y tj  bi
+1	j g s
+1	j mod q
+1	j ri =
+1	j ri = aj  i [ n ] ci
+1	j ri ci
+1	j ri di
+1	j y s
+1	j. cryptol
+1	j.-j
+1	j.h.
+1	j.k.
+1	j.l
+1	jakobsson
+1	johansson
+1	juels
+1	k 
+1	kiayias
+1	l = y1
+1	l.
+1	l.c.
+1	large scale
+1	lempaa
+1	linkability reduces
+1	linkable [
+1	linkable ring
+1	linkable ring signatures
+1	linkable ring signatures scheme
+1	linkable spontaneous anonymous group
+1	linkable spontaneous anonymous group signature
+1	linking
+1	lipmaa
+1	log = logg y
+1	log = x
+1	logg yi = logh y
+1	logs entries
+1	looses anonymity
+1	lsag
+1	mg u u
+1	m =
+1	m y =
+1	m {
+1	malicious agents
+1	malicious attempt
+1	malicious rmware
+1	malicious user
+1	mathematical operations
+1	meiklejohn
+1	mi +e
+1	mix-net
+1	mixer
+1	mixer generates
+1	mod q i [ n ]
+1	module
+1	modulo p.  r
+1	modulo q
+1	multiple countable votes
+1	multiple pseudo identities
+1	myers
+1	n compute
+1	n rows
+1	n }
+1	n.
+1	nal board
+1	nal step
+1	nal tally
+1	national research fund
+1	natural numbers
+1	natural ow
+1	negligible probability
+1	new board
+1	new bulletin board
+1	noninteractive receipt-free
+1	notable dierence
+1	notations
+1	o.
+1	obviously
+1	original protocol
+1	output bulletin board
+1	p v
+1	p.b.
+1	p.p.
+1	p.y.
+1	pang
+1	parallel
+1	parallel mixer
+1	parallel mixing
+1	parallel shufe
+1	particular [ 9,15,16,21 ]
+1	particular candidate
+1	particular server
+1	particular vote
+1	patachi
+1	physical access
+1	pieprzyk
+1	pin numbers
+1	pkc
+1	pn
+1	polynomial time
+1	preparation phase
+1	pret
+1	pret-a-voter
+1	previous mix server
+1	prime p order q
+1	private key x
+1	product aggregation
+1	programme comission
+1	prospective member
+1	protects condentiality
+1	protocol proceeds
+1	protocol protects
+1	pseudo
+1	pseudo identity decryption
+1	public bulletin boards
+1	public key
+1	public key y
+1	public key yi = g xi
+1	public key yi = g xi l
+1	public keys
+1	quisquater
+1	r g
+1	r zq
+1	r zq
+1	r zn
+1	r. krimmer
+1	r.h.
+1	r.l.
+1	ramchen
+1	ramchens
+1	random challenge
+1	random number
+1	random response
+1	random sequence e1
+1	randomizable cipher-texts
+1	randomizable cipher-texts [
+1	randomizable ciphertexts
+1	randomness s1
+1	randomness r
+1	re-encryption mechanism guarantees
+1	re-encryption q coecients
+1	real pseudo identity
+1	receipt freeness
+1	receipt-free
+1	recent ballot
+1	red envelope signals coercion
+1	references
+1	respective candidate
+1	respective identities
+1	respective private key xi
+1	respective vote
+1	rewind-on-success lemma
+1	ring creates
+1	ring l
+1	ring member
+1	ring members l = y1
+1	ring refers
+1	ring signature scheme
+1	ring signatures [
+1	rivest
+1	rn 
+1	rnne
+1	rohlo
+1	rp rp = ei ei
+1	rst argument
+1	rst challenge
+1	rst mix-net shues
+1	rst round
+1	rst uses
+1	s = u x c mod q
+1	s computes
+1	s proceeds
+1	s protocol
+1	satisfying special soundness
+1	schneider
+1	schoenmakers
+1	secret key xi
+1	security proof
+1	security properties
+1	semi-formal analysis
+1	sequence e1
+1	sequence r1
+1	server performs
+1	servers collude
+1	shamir
+1	short
+1	shoup
+1	shue argument
+1	shue ballots
+1	shue output
+1	shue proofs
+1	shue satises completeness
+1	signal coercion
+1	signature scheme [
+1	signature verication algorithm
+1	signature verier
+1	signatures
+1	signatures [
+1	signer ambiguity
+1	signer proves
+1	signer reveals
+1	signer ring signatures
+1	signer wishes
+1	signing
+1	signing algorithm
+1	simple case
+1	simple proof
+1	simple protocol
+1	smart
+1	stadler
+1	standard notation
+1	state-of-the-art mix-net
+1	step i = n
+1	strategic growth
+1	strategic research
+1	sub-linear
+1	sub-linear operations
+1	subsequent security analysis
+1	supports parallel shue
+1	t 
+1	t 
+1	t = f x mod q d
+1	t dishonest tellers
+1	t shares
+1	t y
+1	takagi
+1	tauman
+1	teague
+1	technical
+1	technical exposition
+1	technologies
+1	threshold decryption scheme
+1	threshold decryption schemes
+1	threshold encryption
+1	tracker number
+1	tracker numbers
+1	transcript s outputs
+1	transparent veriability
+1	trap door commitment
+1	trap-door commitment
+1	trezor
+1	true identity
+1	trustworthy elections
+1	tsang
+1	uct aggregation
+1	undue inuence
+1	uniform distribution
+1	unique values
+1	uses tracker numbers
+1	usual adversarial capabilities
+1	v zp
+1	v. otherwise
+1	v.k
+1	v.k.
+1	valid candidate v
+1	valid conversations
+1	valid identity
+1	valid pseudo identity
+1	valid set
+1	valid votes
+1	value t
+1	value v
+1	value y
+1	varadharajan
+1	vergnaud
+1	veriable decryption mix
+1	veriable decryption mixes
+1	veriable election system
+1	verication calculations
+1	verier learns
+1	view [
+1	vote choices
+1	vote decryption
+1	vote privacy
+1	vote secrecy
+1	vote v
+1	voter
+1	voter coercion
+1	voter commits
+1	voters intention
+1	votes
+1	wallach
+1	wang
+1	wong
+1	work [
+1	xia
+1	xn 
+1	y r m
+1	y s
+1	z.
+1	zajac
+1	zero-knowledge proof
+1	zhou
+1	znq
+1	{ stpa

@@ -1,0 +1,603 @@
+32	encpk
+19	return codes
+12	ballot sheet
+11	pet
+8	code table
+7	ballot box
+7	confirmation code
+7	finalization code
+6	computer
+6	flip bit
+6	general variant
+6	international conference
+6	ot
+6	pgd
+6	yes choice
+5	authentication code
+5	ballot sheets
+5	code generation procedure
+5	confirmation codes
+5	independent channel
+5	pets
+5	proceedings
+5	server side
+5	simple variant
+5	vp
+4	authentication mechanism
+4	ballot secrecy
+4	code tables
+4	elgamal
+4	honest voter
+4	k }
+4	p1
+4	paper [
+4	privacy result
+4	return code scheme
+4	september
+4	threshold decryption
+4	zero-knowledge proof
+4	zero-knowledge proofs
+3	appropriate zero-knowledge proofs
+3	archive
+3	austria
+3	bregenz
+3	bulletin board
+3	cast ballot
+3	ciphertext w
+3	client application
+3	complex ballots
+3	computational cost
+3	e-voting
+3	election process
+3	electronic voting
+3	eric dubuis
+3	full version
+3	helios
+3	honest voters
+3	identity
+3	norwegian internet
+3	p0
+3	reto e. koenig
+3	return code
+3	rolf haenni
+3	switzerland
+3	symposium
+3	technical level
+3	voteid
+3	voter platform
+3	voters choice
+3	voters privacy
+2	additional computational burden
+2	additional computational cost
+2	advances
+2	attractive balance
+2	authorities check
+2	ballot
+2	ballot cast
+2	ballot sheet delivery channel
+2	ballot size
+2	ballot structure
+2	belenios
+2	binary choice
+2	bulletin boards
+2	c00 j
+2	cast ballots
+2	cast-as-intended mechanism
+2	castle hofen
+2	choice v
+2	chvote
+2	co-organized
+2	code
+2	code table generation
+2	codes c1
+2	codes correspond
+2	computational power
+2	cryptology
+2	d0 =
+2	david galindo
+2	decrypt b
+2	decsk
+2	democracy
+2	dishonest voters
+2	e-voting.cc
+2	election procedure
+2	esorics
+2	estonia
+2	europe
+2	evote
+2	finalisation code
+2	flip bit b
+2	functional properties
+2	general case
+2	geneva internet
+2	gesellschaft
+2	iacr cryptology
+2	informatik
+2	july
+2	kristian gjsteen
+2	lecture notes
+2	mobile phones
+2	n tellers
+2	negligible probability
+2	neuchatel
+2	non-standard cryptographic assumption
+2	number k
+2	option i
+2	otherwise
+2	philipp locher
+2	pi
+2	pk c
+2	plaintext equivalence tests
+2	previous step
+2	prob
+2	r0
+2	registration phase
+2	return code solutions
+2	return codes based
+2	revised selected papers
+2	sandra guasch
+2	secret key
+2	secure
+2	server contains
+2	setup phase
+2	sgsp
+2	simple case
+2	simple security analysis
+2	specific roles
+2	springer
+2	standard cryptographic assumptions
+2	system [
+2	tallinn
+2	technical details
+2	trust assumptions
+2	usenix
+2	v1
+2	v2
+2	variant
+2	voter client
+2	voter contains
+2	voter obtains
+2	voter submits codes
+2	voters choice s =
+2	voters choices
+2	voters platform
+2	vt
+2	w =
+2	well-known cryptographic building blocks
+2	yes/no choice
+2	zkp
+1	-ot scheme
+1	2017. http
+1	= {
+1	[ 2,15,8,9 ]
+1	] negl
+1	] uses
+1	a. juels
+1	a. ryan
+1	a.brelle @ polyas.de
+1	a1 a2
+1	a2 =
+1	abstract
+1	achim brelle
+1	actual plaintext
+1	additional codes
+1	additional contribution
+1	additional decryption
+1	additional elements
+1	additional steps
+1	additionally
+1	adversary outputs
+1	aj =
+1	amongst voters
+1	analysis
+1	annual
+1	appendix
+1	application computes v = i2v
+1	applications
+1	appropriate choice
+1	appropriate ideal functionality
+1	attack
+1	attack scenario
+1	attack violates
+1	authentication codes
+1	authentication measure
+1	authorities compute/retrieve
+1	authorities decrypt b
+1	authorities generate
+1	b = b1
+1	b = v b
+1	ballot audit procedure
+1	ballot complexity
+1	ballot contains
+1	ballot contains dierent choices
+1	ballot delivery channel
+1	ballot processing
+1	ballot processing time
+1	ballot secrecy ballot
+1	ballot sheet contains
+1	ballot sheets delivery
+1	bart preneel
+1	ben adida
+1	bern
+1	bi = bi vi
+1	big size
+1	binary
+1	bit sequence b
+1	black-box access
+1	blind guess
+1	bull
+1	c =
+1	c1 b
+1	cast invalid ballots
+1	cast-as-intended
+1	cast-as-intended verifiability cast-as-intended
+1	cast-as-intended verification
+1	casts ballots
+1	cca2-secure
+1	chaumpedersen
+1	choice v1
+1	choice w
+1	choices s1
+1	ci =
+1	ciphertext cast
+1	ciphertexts
+1	ciphertexts c
+1	cj j
+1	client programs
+1	code c0
+1	code c1
+1	code db
+1	code distribution
+1	code generation
+1	code generation procedure generates
+1	codes
+1	codes need
+1	codes tends
+1	coercion resistance
+1	commitment cfin
+1	common case
+1	compared
+1	complex computations
+1	compute values
+1	computes b = g r1 +r2
+1	construction relies
+1	content contains
+1	correctness
+1	correctness guarantees
+1	corresponding decryption key
+1	corresponding public key
+1	county council elections
+1	crucial part
+1	cryptographic techniques
+1	cyclic group
+1	david pointcheval
+1	decrypt c
+1	decryption tellers
+1	derivation process
+1	dierent balance
+1	dierent solutions
+1	dierent steps
+1	dierent variants
+1	dimitris gritzalis
+1	discrete-log based cryptosystems
+1	dishonest authorities
+1	dishonest authority
+1	dishonest receiver
+1	dishonest run
+1	dishonest tellers
+1	dishonest voters devices
+1	distinct codes
+1	distinct voters
+1	e-vote-id
+1	e0 =
+1	e1 =
+1	efficient countermeasure
+1	efficient encodings i
+1	efficient zero-knowledge argument
+1	election authorities
+1	election verifiability
+1	electronic elections based
+1	eligible voter obtains
+1	eligible voters
+1	encode dierent types
+1	encrypt codes
+1	encrypt voters choices
+1	encryption scheme
+1	encryption schemeis
+1	endto-end verifiability
+1	eurocrypt
+1	examples
+1	explicit election result
+1	expressive voting schemes
+1	extended abstract
+1	extended version
+1	external observer
+1	facility generate keys
+1	facility learns
+1	final decryption
+1	final election result
+1	fix details
+1	flip bit sequence b
+1	flip bits
+1	flip bits b
+1	flip bits b = b1
+1	form cfin
+1	furthermore
+1	g. similarly
+1	general ballot structure
+1	generation
+1	geneva
+1	h. krawczyk
+1	high probability
+1	honest components
+1	honest run
+1	honest tellers
+1	honest voters chooses
+1	honest voters votes
+1	html/js
+1	i-th election option
+1	ida sofie gebhardt stenerud
+1	idea work
+1	ideal functionality
+1	importantly
+1	including
+1	ind-cpa
+1	independent binary choices
+1	independent choices
+1	independent parties
+1	independent re-randomization factors
+1	individual codes c1
+1	individual codes cv11
+1	individual honest voters
+1	individual options
+1	informal definition
+1	input record
+1	interesting solution
+1	interestingly
+1	international workshop
+1	internet
+1	introduction
+1	invalid ballots
+1	j k
+1	j. cryptology
+1	j2 {
+1	james heather
+1	jens groth
+1	joint
+1	jordi puigalli
+1	jordi puiggal allepuz
+1	jordi puiggali
+1	jumping
+1	k =
+1	k codes
+1	k k u0i
+1	k n
+1	k options
+1	key generation protocol
+1	knowing
+1	m > 2n
+1	m m0
+1	m n n0 codes
+1	m n1 n0
+1	m }
+1	m. jakobsson
+1	main ideas
+1	main technical dierence
+1	malicious behaviour
+1	malika izabachene
+1	marianthi theoharidou
+1	match
+1	minimal assumptions
+1	mix
+1	modular way
+1	multiple ballots
+1	n = k =
+1	n codes
+1	n0 < n
+1	natural countermeasure
+1	negligible value
+1	neuchatels cast-asintended verification mechanism
+1	non-standard security assumption
+1	norway
+1	norwegian experiences
+1	notably
+1	oblivious transfer
+1	observe
+1	october
+1	oorschot
+1	opposite choice
+1	option j
+1	option v
+1	original paper [
+1	overview
+1	p.y.a
+1	p2
+1	p3
+1	part ii
+1	paul c.
+1	peter y
+1	pets achim brelle
+1	pgp
+1	pk e
+1	pk p
+1	plaintext p
+1	plaintext p =
+1	plaintext-equivalence test [
+1	platform creates
+1	poland
+1	possible codes
+1	preliminaries
+1	preliminary definitions
+1	previous teller
+1	print ballot sheets
+1	printing
+1	private/public encryption key pair
+1	procedure generates
+1	process
+1	product v
+1	project [
+1	protocol stages
+1	protocols
+1	public code key pk c
+1	public election key
+1	public election key pk e key
+1	public key pk
+1	public key pk p
+1	publish results
+1	quadratic residues modulo
+1	quadratic time
+1	r.
+1	r. gennaro
+1	random bit
+1	random bit b
+1	random codes c0
+1	random codes c0i
+1	random finalization code
+1	random rj
+1	random sequence
+1	randomness r = r1 + r2
+1	reasonable values
+1	receipt freeness
+1	recently
+1	record contains
+1	references
+1	related
+1	remark
+1	report arxiv:1707.03632
+1	response contains
+1	retrieve/compute return codes
+1	return code scheme uses
+1	return code schemes supports
+1	return codes [ 8,9,17 ]
+1	return codes c0
+1	return codes solution
+1	return codes solutions
+1	return-codes scheme
+1	rity analysis
+1	ryan
+1	s. jarecki
+1	safe prime p = 2q +
+1	sandra guasch castello
+1	scheme scales
+1	secret keys
+1	secret s
+1	secure distributed key generation
+1	secure function evaluation
+1	security analysis
+1	security goal
+1	security guarantees
+1	security levels
+1	security results work regardless
+1	select eb
+1	serious flaw
+1	server sends
+1	set { j
+1	setup phase generates
+1	sharing
+1	short random alpha-numeric sequences
+1	shue
+1	shue protocol
+1	significant attention
+1	significant computational overhead
+1	significant degradation
+1	significant ways
+1	similar ideas
+1	similar solutions
+1	simple cases
+1	small prime numbers
+1	small primes
+1	small probability
+1	so-called usability layer
+1	solution impractical
+1	special measures
+1	special steps
+1	specific deployments
+1	specific solution
+1	specific way
+1	specification
+1	springer verlag
+1	standard assumptions
+1	stephane glondu
+1	stephanie bayer
+1	straightforward countermeasure
+1	strong assumption
+1	structure
+1	subgroup generated
+1	successful attack
+1	such assumption
+1	such details
+1	such devices
+1	such generalizations
+1	such servers
+1	such step
+1	such trust assumption
+1	sufficient security level
+1	swiss canton
+1	system diers
+1	system specification
+1	systems compatible
+1	t. rabin
+1	t.truderung @ polyas.de
+1	t0i =
+1	t0i corresponds
+1	t1i =
+1	t1i bi i=0
+1	t1i corresponds
+1	tallying
+1	technical
+1	tellers
+1	tellers shue
+1	theory
+1	thomas johansson
+1	threshold manner
+1	threshold t < n
+1	threshold-decryption scheme
+1	time o
+1	tomasz truderung
+1	tomasz truderung polyas gmbh
+1	total number
+1	trust mechanism
+1	u1i bi = t1i
+1	u1i i=0 = tbi i
+1	ubi i = t0i
+1	usability issues
+1	usability reasons
+1	usable solutions
+1	uses ballot
+1	v = i2v
+1	v s
+1	v. teague
+1	valid ballot
+1	valid return codes
+1	values wi = ubi i
+1	vanessa teague
+1	variant shares
+1	various solutions
+1	various steps
+1	verifiable mix net
+1	verifiable way
+1	veronique cortier
+1	visible link
+1	vj =
+1	vote buying schemes
+1	voter compares
+1	voter i
+1	voters authentication
+1	voters ballot
+1	voters code table
+1	voters code tables
+1	voters devices
+1	voters table
+1	voting
+1	voting procedure code
+1	weakens security guarantees
+1	web-based open-audit voting
+1	wi = u1i bi = t1i
+1	wi = ubi i = t0i
+1	wide variety
+1	wroclaw
+1	y r2
+1	y rj
+1	yes option
+1	yes/no elections
+1	zero-knowledge protocol

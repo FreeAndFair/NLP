@@ -1,0 +1,242 @@
+23	vc
+20	ccr
+10	sendvote
+9	confirmvote
+9	lin
+8	return codes
+8	sec
+7	nex
+6	vs
+5	aex
+5	c.
+5	kb
+5	protocol [
+5	swiss post
+5	v.
+4	a1
+4	a2
+4	aranha
+4	figure
+4	vcc
+3	baum
+3	ck
+3	cryptographic operations
+3	elpk
+3	options v
+3	partial return codes
+3	t.
+3	zero-knowledge proofs
+2	cc = cc
+2	commitments
+2	component computes
+2	confirmation key
+2	d.f.
+2	discrete log-type assumptions
+2	elgamal
+2	enc
+2	equation
+2	exact shortness
+2	exponentiation proof
+2	fig
+2	gjsteen
+2	k.
+2	key k
+2	lattice assumptions
+2	lattice-based
+2	lyubashevsky
+2	mb
+2	partial return codes pcc
+2	protocol
+2	rq
+2	silde
+2	together
+2	voting protocol
+2	zero-knowledge proof
+1	12.2.1.2 ]
+1	12.2.1.6 ]
+1	12.2.2 ]
+1	= 0n
+1	= k + k m od p.
+1	] /x
+1	] omit
+1	] proves
+1	abstract
+1	acknowledgements
+1	acm transactions
+1	additional ciphertext
+1	aexv
+1	anex
+1	ar + pe
+1	archive
+1	audhild hgasen
+1	b ut c ould n ot c hange t
+1	ballot b
+1	basic lattice cryptography
+1	bgv encryption
+1	binary secrets
+1	blocks
+1	br + pe + m
+1	brakerski
+1	c =
+1	ck=
+1	codes cc
+1	coefficients modulo p =
+1	com
+1	communication sizes
+1	complete verifiability
+1	component computes lccj
+1	component computes lccj =
+1	components compute shares k lccj =
+1	computation theory
+1	computational overflow w hich i s s
+1	compute c
+1	computes b
+1	computes commitments
+1	computes pcc mod p
+1	concrete efficiency
+1	concrete example
+1	confirmation return code
+1	control component
+1	control components
+1	correct vote
+1	cryptography
+1	cryptology
+1	ct-rsa
+1	d + m
+1	damgard
+1	decryption protocols
+1	diego f. aranha
+1	different values
+1	different vote encodings { pi }
+1	efficient commitments
+1	encode
+1	encodings { pi }
+1	encryption
+1	esgsp
+1	exact performance
+1	exact proof
+1	exact proofs
+1	exponentiation [
+1	extracts return codes cc
+1	fiatshamir signatures
+1	future threat
+1	future work
+1	gaussian
+1	generates return code shares lccj
+1	gentry
+1	h ash-functions
+1	hash function
+1	homomorphic encryption
+1	honest auditor verifies
+1	human operations
+1	i n
+1	i.
+1	incorrect exponentiation
+1	initial ciphertexts
+1	international conference
+1	introduction
+1	jm1 k
+1	jmk
+1	jmn k
+1	keywords
+1	kj + ej
+1	kj hpcc =
+1	lattice assumptions audhild hgasen
+1	lattice cryptography return codes electronic voting
+1	lcc = p/q lccj cc = table
+1	lccj = hpcc kj + ej
+1	linear relation
+1	long-time privacy
+1	longterm privacy
+1	m rq
+1	m1 + + n mn = n+1
+1	master thesis
+1	mathematical
+1	message m
+1	messages 
+1	networks
+1	new protocol
+1	noise ej
+1	noise value
+1	norwegian
+1	oechsner
+1	one-time commitments
+1	overall parameters
+1	p < < q primes
+1	p rotocol
+1	partial return codes { pcci } = { pki }
+1	pcc +
+1	pcc = + k mod p b =
+1	peikert
+1	performance
+1	plaintext equality
+1	polynomials k
+1	privacy [
+1	privacy version 0.9.11
+1	proofs lin
+1	protocol security reductions
+1	public election key
+1	public information
+1	public key
+1	public key pk =
+1	public matrices   [
+1	public scalars i
+1	quantum computers
+1	quantum random oracle model
+1	random oracle model
+1	references
+1	retrieve pcc
+1	return code control components
+1	return code share lccj = k
+1	return codes cc
+1	s ecret o verflow bi nary ve ctor z.
+1	s.
+1	scheme results
+1	secret key sk =
+1	secret user-specific key
+1	security analysis
+1	sends b
+1	sendvote protocol
+1	short openings
+1	short paper
+1	short uniform
+1	short uniform r
+1	short uniform random vector d
+1	shortness proofs
+1	signature [
+1	sizes
+1	so-called control component
+1	springer
+1	standard deviation
+1	swisspost
+1	switzerland
+1	system [
+1	system computational proof
+1	tally phase
+1	technology audhildh @ stud.ntnu.no
+1	timings
+1	tjerand silde
+1	tjerand.silde @ ntnu.no
+1	total communication size
+1	total timings
+1	trustworthy verifier
+1	tunge
+1	universal verifiability
+1	unsuccessful confirmation
+1	vaikuntanathan
+1	verifiable mix-nets
+1	verifies cc
+1	vote = pi
+1	votes cast
+1	voting
+1	voting protocol cryptographic
+1	voting_protocol_computational_proof.pdf
+1	vs.
+1	weakest part
+1	z = + k mod q
+1	z.
+1	zeroknowledge proofs
+1	zk-proofs
+1	zn
+1	zq
+1	{ pcci }

@@ -1,0 +1,216 @@
+11	civitas
+9	jcj
+9	ktt
+7	discrete logarithm
+7	tally tellers
+6	jcj/civitas
+5	tellers
+4	cryptology
+4	luxembourg
+4	registration tellers
+4	vi
+3	c s
+3	dle
+3	dlk
+3	g cij
+3	proceedings
+3	registration
+2	advances
+2	archive
+2	august
+2	ballots
+2	bulletin
+2	c.
+2	computer
+2	ddh
+2	elgamal
+2	fiat-shamir
+2	iacr cryptology
+2	international conference
+2	lecture notes
+2	melanie volkamer
+2	michael r. clarkson
+2	nizkp
+2	nizkps
+2	privacy
+2	protocol e.g
+2	public key
+2	registration procedure
+2	rtj
+2	secret key
+2	springer
+2	stephan neumann
+2	usa
+2	valid ballots
+2	verifiability guarantees
+2	verifiability trust
+2	verifier key
+2	zero-knowledge proof
+2	zq
+1	/ civitas implementation
+1	= g ci
+1	= g j cij +xi
+1	abstention attacks
+1	abstract
+1	acknowledgements
+1	acm
+1	additional zero-knowledge proof
+1	alert voter
+1	alexandria
+1	alternative value c0i
+1	andrew c. myers
+1	annual
+1	anonymous channel
+1	anr
+1	application
+1	ares
+1	ari juels
+1	asiacrypt
+1	attack verifiability
+1	availability
+1	beijing
+1	ben smyth
+1	bilinear maps
+1	bogdan warinschi
+1	bs /c s
+1	california
+1	catalano
+1	central security points
+1	chaum-pedersen
+1	china
+1	ci
+1	claus-peter schnorr
+1	coercion attacks
+1	coercion-resistant
+1	coercion-resistant protocol
+1	comments
+1	computational
+1	credential c
+1	credential shares
+1	crypto
+1	czech
+1	dario catalano
+1	david bernhard
+1	david chaum
+1	december
+1	definitions
+1	depending
+1	discrete logarithm problem
+1	discrete logarithms
+1	dynamic coercion scenarios
+1	efficient
+1	election verifiability
+1	electronic
+1	electronic elections
+1	eligibility verifiability
+1	eligible voter
+1	endanger coercion-resistance
+1	endangers verifiability
+1	ernest f. brickell
+1	extra elements
+1	extra multiplication
+1	extra overhead
+1	extra votes
+1	fake credential
+1	feier
+1	fiat-shamir heuristic
+1	fonds
+1	full proofs
+1	g xi
+1	generator g.
+1	generators g
+1	homomorphic property
+1	honest vote.1
+1	honest voters
+1	ieee computer
+1	ieee symposium
+1	important part
+1	improved verifiability guarantees peter browne rnne snt
+1	information
+1	inter-sequoia
+1	interactive proof
+1	introduction
+1	invalid credentials
+1	j. cryptology
+1	jakobsson
+1	juels
+1	kazue sako
+1	keys g xi
+1	long version
+1	main participants
+1	markus jakobsson
+1	mild price
+1	non-interactive zero-knowledge proofs
+1	novel part
+1	november
+1	olivier pereira
+1	peter b. rnne
+1	peter y.a
+1	peter.roenne @ uni.lu
+1	pin-codes [
+1	pitfalls
+1	plaintext equivalence tests
+1	possible coercion attacks
+1	practical point
+1	prague
+1	prime order q
+1	problems
+1	proof prevents
+1	proofs [
+1	protocol [
+1	protocol structure
+1	random coins
+1	random oracle assumption
+1	random s
+1	real world
+1	recherche
+1	references
+1	registration authorities
+1	registration phase proceeds
+1	registration teller rtj
+1	reliability
+1	reto e. koenig
+1	ryan
+1	santa barbara
+1	schnorr
+1	secret credentials
+1	secret key xi
+1	secret registration
+1	security properties
+1	seminal paper
+1	sequoia anr-14-ce28-0030-01
+1	seventh
+1	shows g ci
+1	signature generation
+1	smart cards
+1	stephen chong
+1	steve kremer
+1	steven frink
+1	such collusion
+1	such misbehavior
+1	such security checks
+1	t tk
+1	teller
+1	term g xi
+1	theory
+1	torben p. pedersen
+1	towards
+1	trivial randomness
+1	update policy
+1	va
+1	valid election
+1	valid vote
+1	verifiability definition
+1	verifier key infrastructure
+1	verifier keys dvki = g xi
+1	verifier proofs
+1	vincenzo iovino
+1	vote casting
+1	vote choice v
+1	vote counts
+1	voter append
+1	voter reports
+1	wallet
+1	wpes
+1	xiaoyun wang
+1	zero-knowledge

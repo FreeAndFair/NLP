@@ -1,0 +1,543 @@
+95	is
+39	fully distributed
+17	let
+17	be
+15	are
+15	reject
+13	computes
+13	weeding
+13	takes
+9	used
+9	holds
+8	runs
+8	given
+8	chooses
+7	parses
+7	using
+7	has
+7	distributed
+7	accept
+7	corrupted
+6	assume
+6	follows
+6	consists
+5	applying
+5	sends
+5	define
+5	have
+5	see
+5	prove
+5	to prove
+4	implies
+4	meaning
+4	provides
+4	exists
+4	based
+4	propose
+4	obtained
+4	tallying
+4	adds
+3	includes
+3	accepts
+3	works
+3	checking
+3	adding
+3	running
+3	id
+3	pedersens
+3	need
+3	c
+3	ends
+3	fails
+3	x
+3	to build
+3	is called
+3	encrypts
+3	proving
+3	may
+3	is given
+3	verify
+3	is obtained
+3	halts
+3	recall
+3	knows
+3	achieving
+3	appears
+3	can be seen
+2	requires
+2	are recalled
+2	compared
+2	exist
+2	denote
+2	describe
+2	defined
+2	called
+2	already present
+2	to get
+2	might be incorporated
+2	has been shown to ensure
+2	affording
+2	is run
+2	use
+2	casting
+2	need to distinguish
+2	have been proposed
+2	proposed
+2	can post
+2	does
+2	avoids
+2	is then run
+2	verifies
+2	can communicate
+2	cast
+2	pk
+2	ensures
+2	secure distributed
+2	to be
+2	vk1
+2	is defined
+2	knowing
+2	provably secure
+2	learns
+2	invalidating
+2	set
+2	reveals
+2	contain
+2	regarding
+2	transform are
+2	playing
+2	take
+2	say
+2	can be traced
+2	encrypting
+2	simulate
+2	have implemented
+2	needed
+2	done
+2	starts
+2	shows
+2	denoted
+2	performs
+2	replacing
+2	can tell
+2	noticing
+2	chosen
+2	including
+2	to avoid
+2	acts
+2	provide
+2	are defined
+2	performed
+2	challenge
+2	so is
+2	are obtained
+2	m0
+2	secure
+2	makes
+2	resulting
+2	re)submit
+2	sending
+2	to compute
+2	slj
+2	can
+2	pass
+2	is uniformly distributed
+2	to obtain
+2	turns
+2	solves
+2	belonging
+2	enjoying
+2	follow
+1	augmented
+1	resembles
+1	should be
+1	coupling
+1	are initialized
+1	shall notice
+1	can compute
+1	convincing
+1	then counts
+1	will be
+1	might allow
+1	setting
+1	let idj be
+1	detain
+1	administered
+1	defines
+1	proves
+1	to ensure
+1	can be efficiently built
+1	would therefore be
+1	will be included
+1	computing
+1	associated
+1	storing
+1	often require
+1	cryptosystems
+1	simplifying
+1	was shown
+1	embedded
+1	made
+1	can be safely used
+1	might deviate
+1	allows to prove
+1	assumes
+1	analyze
+1	start
+1	transform
+1	suffice
+1	called fully distributed
+1	is left
+1	to non-interactively decrypt
+1	can be adapted
+1	is built using
+1	let be
+1	to corrupted
+1	has voted
+1	can explicitly compute
+1	might be
+1	asserting
+1	nc be
+1	has been extensively studied
+1	processing
+1	retains
+1	most accomplished
+1	run
+1	biased
+1	will likely not match
+1	measuring
+1	refer
+1	is published
+1	assuming
+1	is announced
+1	allows to non-interactively prove
+1	has been given
+1	describing
+1	provided
+1	happens
+1	is as follows
+1	then runs
+1	weeding consists
+1	fixing
+1	does not consider
+1	have been obtained
+1	can be found
+1	then applies
+1	let pk be
+1	not to prove
+1	become
+1	to t.
+1	continue
+1	duplicates is
+1	also avoids
+1	performing
+1	to post
+1	were given
+1	sk1
+1	was already proposed
+1	weeding is avoided
+1	replace
+1	know
+1	thus have
+1	finding
+1	res0
+1	has been shown to be
+1	build
+1	remaining
+1	defined as follows
+1	lets
+1	are accepted
+1	to helios
+1	may not be
+1	can be discarded
+1	letting
+1	is tallying
+1	captures
+1	cj
+1	are typically replicated to handle
+1	ciphertext secure
+1	is known to be
+1	gives fully distributed semantically secure
+1	are computed
+1	will be given
+1	to redistribute
+1	then responds
+1	has been used
+1	then sets
+1	to do
+1	perform
+1	suffice to compute
+1	has been declared
+1	can proceed to tallying
+1	interacts
+1	claimed
+1	bb0
+1	to form
+1	are published
+1	aik
+1	can conclude
+1	will
+1	ait
+1	has been previously described
+1	harms
+1	applied
+1	present
+1	is contained
+1	will be fixed
+1	ensuring
+1	only happens
+1	generating
+1	electing
+1	erases
+1	describes
+1	can provably avoid
+1	will modify
+1	asks
+1	publishing
+1	described
+1	considers
+1	to increase
+1	can be relaxed to hold
+1	is known
+1	to establish
+1	ch
+1	to copy
+1	receives
+1	have seen
+1	are not made
+1	does not seem to be
+1	providing
+1	received
+1	adapting
+1	aim
+1	picking
+1	implementing
+1	cijj
+1	can be written
+1	extend
+1	can not learn
+1	to coercion-resistance
+1	invokes
+1	assume wlog
+1	registering
+1	s are
+1	may/may not include
+1	chose
+1	fail
+1	are needed
+1	depends
+1	achieves
+1	is done
+1	uses
+1	com1
+1	computed
+1	can be adaptively corrupted
+1	nr produced
+1	calling
+1	is set
+1	can be converted
+1	is required to protect
+1	can be proven semantically secure
+1	are replaced
+1	only gets to see
+1	can trust
+1	simtally are jointly run
+1	would need
+1	help defining
+1	3.2 let
+1	means
+1	do
+1	is supposed to have
+1	may write
+1	proposed weeding has
+1	securing
+1	will be using
+1	fully distributed setting
+1	to chaum-perdersen
+1	to accept
+1	cheat
+1	show
+1	to perform
+1	attacking
+1	to make
+1	cannot distinguish
+1	weeding avoided
+1	is to learn
+1	does not appear
+1	plays
+1	retaining
+1	well-formedness used
+1	extending
+1	to place
+1	sets
+1	expect to see
+1	fails to satisfy
+1	is to show
+1	can be done
+1	note
+1	cannot infer
+1	is not needed to be known to be
+1	initialized
+1	result
+1	computationally secure distributed
+1	require
+1	lying
+1	to distribute
+1	completes
+1	is forbidden
+1	broadcast
+1	participating
+1	will choose
+1	is set to be
+1	will refer
+1	is used
+1	detailed fully distributed
+1	guaranteeing
+1	to cheat
+1	to republish
+1	simply requires
+1	have to be adapted
+1	is allowed
+1	can be applied
+1	r.
+1	wlog let
+1	remaining algorithms
+1	have been populated
+1	already proposed to avoid
+1	might need to include
+1	generate
+1	beginning
+1	maintains
+1	applied to voting
+1	c.1 let
+1	is created
+1	ri
+1	receiving
+1	contained
+1	shown
+1	obtains
+1	may simply vote
+1	logg
+1	already appears
+1	will later enable
+1	is distributed
+1	needs to give
+1	to see
+1	can not be guaranteed to be uniformly distributed
+1	has not been disqualified is
+1	will be simulated
+1	registrars
+1	to generate
+1	g2res
+1	is based
+1	rejecting to add
+1	defining
+1	choose
+1	allowing to mount
+1	replies
+1	can be run
+1	argues
+1	typically involve
+1	produces
+1	may therefore independently accept
+1	will use
+1	need to build
+1	keeps
+1	are considered
+1	algorithms
+1	propose to use
+1	stress
+1	need to choose
+1	ch taken
+1	derives
+1	can only be guaranteed
+1	intended
+1	to be included
+1	to cast
+1	want to make
+1	is to build
+1	consist
+1	write
+1	has been detailed
+1	is disqualified
+1	will control
+1	indicates
+1	can be
+1	validates
+1	preserving
+1	give
+1	are described
+1	uskid associated to upkid
+1	given challenge
+1	to checking
+1	following
+1	is typically realized
+1	shall require
+1	was given
+1	was previously queried
+1	is rejected
+1	can not explicitly compute
+1	producing
+1	hold
+1	known
+1	jointly computed
+1	cooperate
+1	are satisified
+1	contains
+1	cannot appear
+1	must satisfy
+1	equally avoids
+1	apply
+1	easily generalises
+1	is granted
+1	is easily seen
+1	again takes
+1	can also be used to securely store
+1	allows
+1	transform remains
+1	as tl
+1	to decrypt
+1	previously done
+1	equals
+1	to be corrupted
+1	only ri needs to be remembered
+1	must collude to learn
+1	randomly chooses
+1	needs to make
+1	is chosen
+1	cryptosystem obtained
+1	implemented
+1	replicated
+1	go
+1	show next is based
+1	employing
+1	noted
+1	then completes
+1	having to rely
+1	is to give
+1	to n2c
+1	is needed anyway to avoid
+1	returning accept
+1	be seen
+1	to show
+1	asks to see
+1	is shown
+1	to run
+1	contain duplicated
+1	seems to indicate
+1	cooperate to compute
+1	tj
+1	behave
+1	coincide
+1	send
+1	revisited
+1	compose
+1	have proposed
+1	duplicated
+1	evaluating
+1	is computed
+1	focus
+1	do not give
+1	can possibly be
+1	xj obtained
+1	consider

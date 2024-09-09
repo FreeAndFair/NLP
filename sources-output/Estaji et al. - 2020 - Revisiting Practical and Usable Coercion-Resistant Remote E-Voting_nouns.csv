@@ -1,0 +1,819 @@
+92	pin
+26	smart card
+23	enc
+22	pins
+21	jcj
+10	crd
+10	polynomial evaluation
+9	ctcrd
+9	ctvote
+9	springer
+8	benaloh
+7	i =
+7	id
+7	international conference
+7	nv12
+7	paillier
+6	cp
+5	bulletin board
+5	data
+5	duplicate removal
+5	financial cryptography
+5	gt
+5	repair
+4	= e
+4	ballot box
+4	cast ballot
+4	full ballot
+4	h i
+4	long credential
+4	luxembourg
+4	m. volkamer
+4	neumann
+4	registration phase
+4	smart cards
+4	valid ballot
+4	voters computer
+4	voters credential
+3	= hgi
+3	ak }
+3	ballot boxes
+3	bb
+3	bgn
+3	ca
+3	cast
+3	civitas
+3	coercion-resistant
+3	compute
+3	ct
+3	cti
+3	enct
+3	errorlista
+3	force abstention
+3	g p1 hr1
+3	g pk hrk
+3	hence
+3	informatik
+3	mpcmin
+3	n = pq
+3	ordinos
+3	participation privacy
+3	pets
+3	proceedings
+3	python
+3	s. neumann
+3	smart card reader
+3	towards
+3	wrong credential
+2	+ crd
+2	= g
+2	= g vote hrvote
+2	= i k e
+2	= i=0 pi xi
+2	= { a1 =
+2	algorithm runs
+2	assume
+2	c. feier
+2	ca1
+2	cai
+2	cak
+2	cast ballots
+2	cast votes
+2	casting
+2	catalano
+2	composite order groups
+2	computer
+2	cpi =
+2	crd + t
+2	crdi + ai
+2	distinct digits
+2	efficient strategy
+2	election administrator
+2	election identifier
+2	encrypt
+2	especially
+2	fiat-shamir
+2	fnr
+2	g i
+2	g pi
+2	generate
+2	groth-sahai
+2	h k
+2	ieee computer
+2	information leak
+2	introduction
+2	jakobsson
+2	jcj/ civitas
+2	juels
+2	leak information
+2	linear tally complexity
+2	linear time
+2	list
+2	local adversary
+2	message m
+2	national research fund
+2	norway
+2	own vote
+2	p. ya ryan
+2	p0 + crd z1
+2	perfect privacy
+2	pet
+2	pick
+2	pk
+2	pk =
+2	plaintext values
+2	polynomial value
+2	power p
+2	problems
+2	provide
+2	public key
+2	r. koenig
+2	rballot
+2	registration authority
+2	secret key
+2	selene
+2	setup phase
+2	sk =
+2	step
+2	tabulation tellers
+2	tally phase
+2	tally process
+2	true vote
+2	usability
+2	valid credential
+2	valid vote counts
+2	valid votes
+2	verification environment
+2	vid
+2	vote choice
+2	vote encryption
+2	x =
+2	x ai
+2	zero-knowledge proof
+2	zero-knowledge proofs
+2	zkp
+2	zkps
+2	zn
+2	{ vote } pk
+2	} pk
+1	10k /k
+1	2-digits numbers
+1	2-dnf formulas
+1	2013informatik angepasst
+1	2r distinct digits p1
+1	6= 1gt
+1	< q
+1	= cp0 j=1 cpj
+1	= g crd
+1	= g crd hr
+1	= g crd hrcrd
+1	= g m hr
+1	= g pi hri
+1	= i=0 cpi xi
+1	= i=0 pi x
+1	[ 16,15,5 ]
+1	[ 18,2,6,20 ]
+1	[ k ]
+1	[ p1 p2 ]
+1	[ p1 p2 ] = { p1 p2
+1	] vote
+1	a. atashpendar
+1	a. barki
+1	a. c. myers
+1	a. cox
+1	a. pagourtzis
+1	a. rial
+1	a. ryan1
+1	a. silva neto
+1	a. slomson
+1	a. vogt
+1	a. zacharakis
+1	abstention attack
+1	abstract
+1	accommodate general
+1	according
+1	acknowledgments
+1	acm
+1	actual participation
+1	adi shamir
+1	adversary e.g
+1	allenby
+1	alternative method
+1	amit sahai
+1	analysis
+1	applications
+1	arch.
+1	ares
+1	ari juels
+1	arxiv preprint arxiv:1901.02560
+1	assume pk
+1	attack probability
+1	august
+1	automata
+1	availability
+1	b. serique meiguins
+1	b. zhang
+1	ballot
+1	ballot =
+1	ballot cast
+1	ballot integrity
+1	ballot validity
+1	ballotv =
+1	based
+1	basic building blocks
+1	basis size
+1	bcs
+1	bgn cryptosystemworks
+1	bgn e-voting protocol
+1	bgn instantiation
+1	bilinear group
+1	bilinear groups
+1	bilinear map
+1	biometric data
+1	bit length
+1	brazil
+1	brazilian symposium
+1	brief overview
+1	brute
+1	brute force attack
+1	california
+1	call
+1	candidate m
+1	candidate vote
+1	card removal
+1	case k =
+1	case p1 6= p2
+1	case p1 = p2
+1	cast vote
+1	central authority runs
+1	certain number
+1	certain policies
+1	certain time
+1	certain typos
+1	challenge
+1	challenge problem
+1	challenge procedure
+1	challenge security
+1	cham
+1	checksum check
+1	checksum checks
+1	ciphertexts ct1 =
+1	clearly
+1	coercer uses
+1	coercion threats
+1	coercion-free setup phase
+1	coercion-resistant election systems
+1	coercion-resistant remote e-voting
+1	colloquium
+1	combinatorics
+1	commutable map
+1	computation shows
+1	computational complexity
+1	compute cp0
+1	computing systems
+1	conclusions
+1	construct dierent protocols
+1	construct protocols
+1	correct form
+1	correct smart card reader
+1	correcting
+1	corresponding vote
+1	corrupt smart cards
+1	count
+1	coverings
+1	cp0 = g p0 f1crd hr =
+1	cp0 k
+1	cpi = cp
+1	cpi = cpi
+1	cpi = g
+1	cpk }
+1	crd hr0
+1	credential
+1	cryptographic credentials
+1	cryptographic key
+1	cryptographic length key
+1	ct2 =
+1	cti =
+1	ctpin
+1	ctt =
+1	current basis
+1	cyclic group
+1	czech
+1	d. boneh
+1	d. peleg
+1	d. rausch
+1	d. ull
+1	d. wikstrom
+1	dario catalano
+1	ddh
+1	decision assumption
+1	decisional composite residuosity assumption
+1	decrypt
+1	decrypting
+1	decryption
+1	decryption [
+1	deduplication phase
+1	definition
+1	denote
+1	depending
+1	digital key
+1	discrete log
+1	discrete mathematics
+1	display fake hash values
+1	display messages
+1	distributed
+1	duplicate ballots
+1	duplicates ballot
+1	e-voting
+1	e. goh
+1	e. plodereder
+1	e. schneider
+1	eccc
+1	edition
+1	efficiency analysis
+1	efficiency perspective
+1	efficient
+1	efficient coercion resistance
+1	efficient multi-party computation protocol
+1	efficient protocols
+1	efficient scheme
+1	ehsan estaji1
+1	election authorities
+1	election identifiers
+1	election period
+1	election policy
+1	electoral register
+1	electronic
+1	electronic colloquium
+1	electronic elections
+1	electronic voting
+1	electronic voting e-vote-id
+1	encryption choice
+1	encryption scheme
+1	ensure stored-as-cast verifiability
+1	entry interface
+1	error
+1	error correction
+1	error list
+1	evaluating
+1	exact ballot copies
+1	extending
+1	extra ballots
+1	f. fomin
+1	factors
+1	fake
+1	fake credential
+1	fake credentials
+1	fake random credential
+1	fess
+1	fi = g zi
+1	final pin
+1	fnr core
+1	force attack
+1	form h {
+1	formal definition
+1	francis
+1	frequency analyses
+1	frequent errors
+1	full credential
+1	full credentials
+1	futher
+1	fuzzy extraction
+1	g b
+1	g g
+1	g i h i
+1	g k h k
+1	g m rn mod n2
+1	g p0
+1	g p0 f1crd hr0
+1	g p0 hr0
+1	g polya
+1	g.
+1	general interest
+1	general problem
+1	generate cpi
+1	generates
+1	gesellschaft
+1	gi
+1	good strategy
+1	greater-than tests
+1	groth-sahai niwi-proof
+1	h = g 0q
+1	h {
+1	h. lipmaa
+1	h.candello
+1	hardware-independent protocols
+1	hash enc
+1	hashes needs
+1	high chance
+1	homomorphic encryption
+1	homomorphic encryption scheme
+1	homomorphic property
+1	honest ballots
+1	hri } i=1
+1	human errors
+1	human-based
+1	human-computer interaction
+1	i cpi = g pi rin
+1	i i=0
+1	i i=1
+1	i. j
+1	i2 [ k ]
+1	i2 [ k ] w = vote
+1	i=0 e
+1	i=0 i=0 pi i e
+1	i=0 k
+1	i=0 r
+1	i=1 cpi = g
+1	iacr cryptol
+1	icalp
+1	identity
+1	ieee symposium
+1	ihc
+1	important election
+1	important future direction
+1	important trust assumptions
+1	independent ballot
+1	index i
+1	individual verifiability
+1	individual voters polynomial
+1	information leakage
+1	input value
+1	instantiation relies
+1	interesting question
+1	interestingly
+1	invalid ballots
+1	invalid proof ballot
+1	invalidate cast votes
+1	j. liedtke
+1	j. mueller
+1	j. traore
+1	j.s traore
+1	jahrestagung
+1	jcj/civitas
+1	jens groth
+1	joint
+1	joint project
+1	joint proof
+1	k compute
+1	k compute cpi = cpi rin
+1	k { a1 =
+1	k-dimensional chessboard
+1	k. gjsteen
+1	k. nissim
+1	key storage
+1	key-generation
+1	key-generation algorithm
+1	keywords
+1	kgen
+1	komplexitat
+1	kristian gjsteen2
+1	l. grunske
+1	languages
+1	latvia
+1	leak-free tally
+1	leaky
+1	leaky duplicate removal attack
+1	lecture notes
+1	linear tally efficiency
+1	linear tally time
+1	lni
+1	local coercer
+1	long credentials
+1	long key
+1	long version
+1	m. mota
+1	m. pereira mota
+1	m. r. clarkson
+1	m. schlapfer
+1	m. z. kwiatkowska
+1	m.leite
+1	main advantage
+1	main challenge
+1	main point
+1	main threats
+1	main usability
+1	major problem
+1	malicious voters
+1	malicous authorities
+1	malicous card
+1	markus jakobsson
+1	maximum size
+1	may
+1	mensch
+1	mi = min { m1
+1	minimal ti
+1	minimum number
+1	modern smart cards
+1	mt }
+1	multi-party computation
+1	multiple votes
+1	n. sampaio neto
+1	najmeh soroush1
+1	negligible chance
+1	network
+1	network time
+1	new approach
+1	new duplicate removal methods
+1	new scheme
+1	nicko van someren
+1	niwi-proof
+1	noisy biometric data
+1	non-interactive proof systems
+1	non-negligible probability
+1	non-zero evaluation
+1	non-zero polynomial evaluation
+1	nonnegative integers
+1	norwegian
+1	notorious usability problem
+1	number entry
+1	o i
+1	o i i i =
+1	o. kulyk
+1	o. spycher
+1	oakland
+1	obfuscate
+1	obvious modifications
+1	obvious solution
+1	online registration phases
+1	open problem
+1	optimal element
+1	optionally
+1	order n
+1	ordinary means
+1	organisation
+1	original construction
+1	outlook
+1	output zero
+1	own vote choice
+1	p-232
+1	p.
+1	p. cairns
+1	p. grontas
+1	p.b rnne
+1	p1 p2 p3
+1	p1 p2 pk
+1	p2 p1
+1	p2 }
+1	p3 p4
+1	pages 40:140:10
+1	paillier instantiation
+1	paillier plaintext equivalence test
+1	paillier-based
+1	papers [
+1	particularly
+1	pei-yih ting
+1	perrorlist
+1	peter
+1	peter b. rnne1
+1	peter b. roenne
+1	peter y
+1	peter ya ryan
+1	philip
+1	physical evidence
+1	pi i ri n
+1	pi ri0 n rn = g
+1	pin length s+w lower bound s+w upper bound
+1	pin-set
+1	pins.4
+1	pkbgn =
+1	pkelection
+1	plaintext equivalence test [
+1	plaintext equivalence tests
+1	plausible deniability
+1	playing
+1	pn
+1	polyid
+1	polyid = i=1
+1	polynomial
+1	polynomial coefficients
+1	polynomial polya
+1	positive test result
+1	possible repairs
+1	practical credential
+1	practical jcj/civitas implementation
+1	practical point
+1	prague
+1	precise research question
+1	precise results
+1	precompute hashes
+1	preliminary analysis
+1	present attacks
+1	prevents leak
+1	prime numbers
+1	primes p
+1	privacy
+1	private eligibility verifiability
+1	problems [
+1	problems neumann
+1	programming
+1	proper member
+1	protocol
+1	protocol description
+1	protocol ensures
+1	protocol relies
+1	protocols hardware-flexible i.e
+1	prototype implementation
+1	public ciphertext cp0
+1	public verifiable [
+1	public-key cryptosystem
+1	publish information
+1	publish pkelection
+1	publish vid
+1	pute polya = i=1
+1	q ballots
+1	qk
+1	qk pk
+1	qkthe
+1	quadratic complexity problem
+1	quantum-safe scheme
+1	r 2-digits numbers p1 p2
+1	r e
+1	r k
+1	r. araujo
+1	r. e. koenig
+1	r. freivalds
+1	r. haenni
+1	r. kusters
+1	r. prates
+1	r.and haenni
+1	r.araujo
+1	r.b.j.t
+1	random group elements f1
+1	random hri
+1	random number
+1	random number r.
+1	random number ri
+1	random selection
+1	randomness r
+1	re-randomize
+1	reader commits
+1	real credential e.g
+1	real election identifier
+1	real full credential
+1	real vote
+1	real voters
+1	real world
+1	reduces usability
+1	references
+1	registrar
+1	registration tellers
+1	related
+1	reliability
+1	remote
+1	remote registration tellers
+1	research council
+1	revisiting practical
+1	ri } i2 [ k ]
+1	riga
+1	risklimiting
+1	rnne
+1	roenne
+1	rook-polynomials
+1	s+w
+1	s. brunet
+1	s. chong
+1	s. wiseman
+1	sec
+1	secret f1
+1	secret keys
+1	secret point
+1	secure
+1	security analysis
+1	security parameter
+1	security viewpoint
+1	select eligible valid votes
+1	select valid ballots
+1	seminal coercion-resistant
+1	seminal paper
+1	separate authority
+1	set
+1	set ca
+1	set-up
+1	seventh
+1	short
+1	short time
+1	side-channel attacks
+1	sigma
+1	similar constructions
+1	skbgn = p
+1	skelection
+1	small number
+1	small problem
+1	smart
+1	smart card approach
+1	smart card commits
+1	smart card readers
+1	smart card releases
+1	snt
+1	socio-tehcnical research questions
+1	software solution
+1	sort ciphertexts
+1	space analysis
+1	space limitations
+1	standard duplicate removal
+1	stark
+1	store cp
+1	store crd
+1	strong security property
+1	strong trust assumptions
+1	subgroup
+1	subliminal channel
+1	sublinear online complexity
+1	sufficient check
+1	surcvs
+1	susceptible coercion-attacks
+1	system [
+1	system accepts
+1	t. toft
+1	tally
+1	tally complexity
+1	tally method
+1	tally phase credentials
+1	tally protocol
+1	tally system
+1	tally tellers
+1	tally time
+1	tallying phase
+1	target space
+1	taylor
+1	tcc
+1	theoretical bounds
+1	theoretical value
+1	thomas haines2
+1	ti =
+1	ti = polyid
+1	tolerance property
+1	toward
+1	towards trustworthy elections
+1	transposition errors
+1	trial ballot
+1	trial credential
+1	trondheim
+1	true credential
+1	trust assumption
+1	umwelt
+1	unique election identifier
+1	unique integers zi
+1	upper bound
+1	upper bounds
+1	upper estimate
+1	upper triangular matrices
+1	usa
+1	usability analysis
+1	usability deficits
+1	usability problem
+1	user device
+1	usual errors
+1	v. iovino
+1	v. teague
+1	valid assumption
+1	valid cast vote
+1	valid fake
+1	valid pin
+1	valid polynomial evaluations
+1	validity check
+1	verifiability guarantees
+1	verifiability problem
+1	verifiable parallel mixnet
+1	verification checks
+1	verification mechanism
+1	verifier proof
+1	vote
+1	vote ciphertexts
+1	vote setting
+1	vote update policy
+1	voter
+1	voter check
+1	voter checks
+1	voter chooses
+1	voter hold
+1	voter identifier
+1	voter side
+1	voter v
+1	voters cast
+1	voters credentials
+1	voters device
+1	voters smart card
+1	votes needs
+1	voting phase
+1	w = vote
+1	weeding
+1	whereas
+1	wiseman
+1	wojciech jamroga
+1	wrong digit
+1	wrong digit errors
+1	wrong digit number errors
+1	wrong identifier
+1	x crd ai
+1	xiao-wei huang
+1	zero-knowledge proofs need
+1	zn2
+1	{ cp1
+1	{ firstname.lastname } @ ntnu.no
+1	{ firstname.lastname } @ uni.lu
+1	{ ri
+1	{ ri } i2 [ k ]
+1	| [ p1 p2 ] | =
+1	| [ p1 p2 p3 ] |

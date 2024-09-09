@@ -1,0 +1,496 @@
+29	enc
+29	epc
+25	algebraic manipulation
+17	ni=1
+15	n n
+15	znq
+14	zq
+12	al
+10	c r
+9	ei i
+8	eui i
+8	gq
+8	reencg
+7	c =
+7	c hr
+7	el =
+7	mu
+7	permutation matrix
+7	rcom
+6	c c
+6	m1
+6	nj=1
+6	pch
+6	reenc
+6	ual
+6	ui
+5	basic extractor
+5	c u
+5	elgamal
+5	mi
+5	n n n
+5	r j
+5	s s
+5	wikstroms
+4	algorithm
+4	ci / hi
+4	cl =
+4	cui i
+4	g2q
+4	i=1 i=1 i=1
+4	ith position
+4	j =
+4	matrix m
+4	r =
+4	tautology
+4	u =
+4	ul
+3	binary relations
+3	ch
+3	ei i =
+3	encg
+3	i {
+3	i=1 ei
+3	i=1 i=1
+3	i=1 ui
+3	ith column
+3	j 6=
+3	j i
+3	ni=1 u
+3	pedersen
+3	proofs
+3	restricted shuffles
+3	rj
+3	springer
+3	verification
+3	verification definition
+3	zwq
+2	+ c r
+2	= ci
+2	= ci i
+2	= e i ui
+2	abuse notation
+2	algebraic manipulation i=1
+2	algebraic manipulation j=1
+2	c = hcr
+2	c hs1
+2	c j
+2	c j j
+2	c t4
+2	cartesian product
+2	challenge c
+2	cn /h1 i=1 i
+2	commitment parameters
+2	cryptology
+2	description
+2	douglas wikstrom
+2	ei =
+2	encryptions e =
+2	h1 =
+2	i i=1
+2	i t4 =
+2	il
+2	input
+2	international conference
+2	ith run
+2	j j
+2	length m
+2	mul
+2	mx
+2	n u epc
+2	n1
+2	ni=1 ui
+2	option
+2	permutation matrix m
+2	r i=1
+2	r r
+2	r zq
+2	ri
+2	rn +i=1 ri j=i+1 u j
+2	rn +n1 i=1 ri j=i+1 u j
+2	rr
+2	ru
+2	s ei i
+2	s1 s1
+2	s4 s4
+2	set {
+2	step
+2	u al
+2	u znn
+2	w w
+2	znm
+2	znn
+1	 cc1
+1	+ c r + c r s = s = + c u s4 =
+1	+ c r s3 =
+1	+i=1 ri j=i+1 u j h1
+1	2i=1 ui c2 = hr2 +i=1 ri j=i+1 u j h1
+1	= c j
+1	= c j j
+1	= c. shu f
+1	= cc cc j=1
+1	= cc i=1 i=1 s s
+1	= ci = c1i i =
+1	= ci c c c c
+1	= cj c c j=1
+1	= cj hs1 /
+1	= cj j
+1	= cn
+1	= cn c c
+1	= e
+1	= h ci1
+1	= hc
+1	= hrl
+1	ab
+1	africa
+1	africacrypt
+1	ai
+1	ai bi mod q.
+1	algebraic manipulation h1
+1	algebraic manipulation h1 i=1 ui
+1	algebraic manipulation i
+1	algebraic manipulation i=1 i=1
+1	algebraic manipulation j=1 cl =
+1	algebraic manipulation s2 s2
+1	algebraic manipulations
+1	algebraic manipulations s s si si
+1	als pseudo-code algorithms
+1	an
+1	analogous entities
+1	ann
+1	arxiv:1901.08371v1 [ cs.cr ]
+1	assumption u 6=
+1	australasian
+1	base statements
+1	basic extractor computes r =
+1	basic extractors
+1	binary relation
+1	bjorn terelius
+1	bk
+1	c  cc1 = cj
+1	c 6= c
+1	c = h
+1	c = hci=1 ri
+1	c = hcr hi
+1	c h1 +cr
+1	c h2 +cr t2 =
+1	c h3 +cr hi i i=1
+1	c hs1 /
+1	c hs2
+1	c hs2 h2 =
+1	c hs2 s2 s2
+1	c hs3 hi i
+1	c hs3 hi i i=1
+1	c i +cui h i ci1 = ci h i +cri ci1
+1	c i=1
+1	c j j =
+1	c s1 t
+1	c si si h i ci1 = ci h ci1 i
+1	c t1
+1	c t3 s hs3
+1	c0 r2 u2 c2 = h c1
+1	c1 u1 u2 c2 = hr2 +r1 u2 h1
+1	c2 u1 u2 c2 = hr2
+1	cartesian products
+1	cc = cn
+1	cc1 = cj j cc si s i cc
+1	cc1 si si si s i s i hsi ci1 s  c 
+1	certain sub-statements
+1	challenge vector
+1	chooses q
+1	chooses r
+1	chooses u
+1	ci = hri
+1	ci = hri ci1
+1	ci i
+1	ciphertext vectors e1
+1	cl = ci i
+1	cl = i=1
+1	clearly
+1	cn /h
+1	cn /h1
+1	cn /h1 h2 =
+1	cn =
+1	cn hc
+1	cn t2 cc = cn ccn t2
+1	collective output
+1	commitment c
+1	commitment scheme
+1	commitment-consistent proof
+1	common input
+1	common use
+1	computer
+1	computes u =
+1	correctness
+1	cri cu i
+1	cryptographic shuffle
+1	ct3 u
+1	cu cci = hcri ci1i ui c
+1	cu i
+1	cyclic group
+1	daniel j. bernstein
+1	data
+1	defines t1
+1	definition h3 hi i =
+1	definition i
+1	definition r
+1	definition u
+1	different c
+1	different m
+1	different transcripts
+1	different u
+1	different ways
+1	different witnesses
+1	diffie-hellman
+1	discrete log
+1	discrete logarithm assumption
+1	e i=1 j=1
+1	e1 gr
+1	e2 pkr
+1	ei = q
+1	ei c c i=1 i=1
+1	ei ui i=1 i=1
+1	el = eu i
+1	el = j=1 i=1
+1	element ith row
+1	epc n epc
+1	epch
+1	equal k=1
+1	equal xm
+1	equals zero
+1	eric dubuis
+1	eui i j=1 j=1 i=1 ci =
+1	exists j {
+1	extended extractor
+1	extended shuffle
+1	extracting
+1	financial cryptography
+1	formal
+1	generalised
+1	gn
+1	group element m
+1	group elements
+1	group generator g
+1	group multiplication
+1	group operation
+1	gwq
+1	h i=1 hi s si i ti = cc i h ci1
+1	h j j
+1	h1 i=1
+1	h1 i=1 i
+1	haenni
+1	hands u
+1	hci=1 ri = hci=1 ri
+1	hi i s3 h s i
+1	hi s3 s
+1	hi=1 ri hi / hi
+1	hm i
+1	honest ci
+1	honest run
+1	honest way
+1	honest-verifier zero-knowledge simulator chooses c1
+1	hr hm
+1	hr1 h1
+1	hri ci1 cu cu hcri ci1i = hcri ci1i
+1	i i
+1	i s s4 cc ei e i ui
+1	i t3 =
+1	i ui c0 = h1
+1	i=1 ci
+1	i=1 ci / i=1 hi
+1	i=1 el = e
+1	i=1 hi i c i ti = h i1
+1	i=1 i=1 t1 =
+1	i=1 i=1 u 6=
+1	i=1 j=1
+1	i=1 s t3 =
+1	i=1 ui /h1 h = hcr
+1	i=1 ui h1
+1	il n ui
+1	information
+1	integers modulo q
+1	interactive zk-proof
+1	introduction
+1	ith element
+1	ith row
+1	j 6= ui
+1	j = ei i
+1	j ei
+1	j element
+1	j i i=1 i=1 i=1
+1	j j=1 i=1
+1	j j=1 j
+1	j x j
+1	j=i+1 r =
+1	jan
+1	jth column
+1	l =
+1	l [
+1	l cl = ci j=1
+1	l el = ei j=1
+1	l i=1
+1	l j=1 i=1
+1	lecture notes
+1	linear independence
+1	lth column
+1	m 6= m
+1	m.
+1	m. encg
+1	main statement
+1	main statements
+1	main thing
+1	matrix commitment c
+1	matrix multiplication definition
+1	mil
+1	ml
+1	multiplicative notation
+1	n enc
+1	n n ui
+1	n pc
+1	n pch
+1	n tautology
+1	n u
+1	n1 n n n
+1	negligible probability
+1	nj=1 mi
+1	nn
+1	non-zero polynomial
+1	notation gq
+1	open c =
+1	optimised variant
+1	original proof
+1	output packet
+1	pairwise addition
+1	particular instance
+1	permutation
+1	philipp locher
+1	pk el = ei j=1 i
+1	pkr m
+1	plaintexts mi
+1	previous work
+1	prime order q
+1	privacy
+1	proposition
+1	pseudo-code
+1	public key pk
+1	q challenge vector
+1	q q
+1	q q q m jth column
+1	q2 q
+1	r = r1 + + rn
+1	r = rn + i=1 r = hr
+1	r j=1
+1	r j=1 
+1	r rreenc
+1	r rreencg
+1	r zw
+1	r zwn
+1	random point
+1	randomness hr
+1	randomness r
+1	randomness ra
+1	real transcript
+1	real transcript ci = gri ci1
+1	references
+1	reto koenig
+1	reuse symbols
+1	ri i hsi ci1
+1	ri j=i+1 uj i=1 c = hr h
+1	ri j=i+1 uj r +i=1 c = h
+1	ri uj
+1	rl
+1	rm
+1	rolf haenni
+1	row contains
+1	row vector
+1	rreenc
+1	rreencg
+1	s = s1
+1	s s s3 s3 u cj j
+1	s si i ti = cc i h ci1
+1	s t4 =
+1	s ui c
+1	s ui c s3
+1	s1 =
+1	s1 s1 cc
+1	s2 =
+1	s2 s2
+1	s3 s3
+1	satisfying shu f
+1	schwartzzippel
+1	security assumptions
+1	security statement
+1	set statements
+1	shu f
+1	shuffle
+1	shuffle algorithm
+1	shuffles vectors
+1	si i=1 i=1
+1	similarly
+1	simple algebraic transformations
+1	soundness
+1	soundness properties
+1	specifically
+1	square matrices
+1	standard unit vector
+1	statement
+1	statistical distance
+1	statistical honest verifier shu f
+1	strictly
+1	support parallel shuffles
+1	t1 = h1 t2 = h2 t3 = h3
+1	t3 +cui h3 hi i =
+1	t4 i=1 i=1 i=1
+1	tanja lange
+1	terelius
+1	theorem
+1	thomas haines polyas gmbh
+1	u 6=
+1	u c = hr c1
+1	u c j =
+1	u c1 = hr1 h1
+1	u ei i =
+1	u h cc h1 i=1 i = cn
+1	u hi = cj j i=1 j=1
+1	u i=1 i c s2 t2 =
+1	u n u
+1	ui c s
+1	ui i i ei cc =
+1	ui i=1 c = hr
+1	ul+1
+1	upper case letters
+1	vector x
+1	vectors x
+1	verifiable mixnet
+1	verifiable mixnet [
+1	verifiable reencryption mix-nets
+1	verifiable shuffle
+1	verification definition cc = ci h cc ci1
+1	verification definition i=1 si s
+1	verification definition j=1
+1	verification definition j=1 h cc hi = c j i=1
+1	verifier accepts
+1	w 6= w
+1	w = w
+1	w commitment parameters h
+1	w e1
+1	wikstrom
+1	wikstroms mixnet
+1	witnesses w
+1	x + y
+1	x =
+1	x j m j
+1	x y
+1	xi 6=
+1	xi =
+1	y =
+1	zero-knowledge
+1	zero-knowledge 4-message proof
+1	zmw
+1	zn
+1	zn p
+1	znw
+1	zq il
+1	zqmn
+1	zqnn
+1	}  cci ti cci ti  cc1 = ci

@@ -1,0 +1,622 @@
+114	is
+37	are
+29	see
+17	coerced
+15	provides
+9	follows
+8	be
+7	is called
+7	note
+7	say
+6	requires
+6	assume
+6	to achieve
+6	voted
+6	consider
+5	to measure
+5	achieves
+5	including
+5	can
+5	explained
+5	resulting
+4	should be
+4	run
+4	does
+4	misbehaved
+4	misbehaving
+4	to be
+4	runs
+4	based
+4	to illustrate
+4	can be
+4	shown
+4	provide
+4	would
+4	appears
+4	tallying
+3	implies
+3	bounded
+3	carries
+3	might be
+3	demonstrated
+3	assuming
+3	do not provide
+3	captures
+3	proposed
+3	uses
+3	judging
+3	are used
+3	running
+3	means
+3	considered
+3	given
+3	performs
+3	can be held
+3	alone is
+3	improving
+3	select
+3	allows
+3	recall
+3	presented
+3	to check
+2	together do
+2	denote
+2	to verify
+2	proved
+2	can be singled
+2	are formulated
+2	assumes
+2	start
+2	submit
+2	decrypts
+2	accepts
+2	attacks
+2	being detected
+2	formally analyzing
+2	will be
+2	would be
+2	works
+2	can be considered to be
+2	guarantees
+2	belongs
+2	do not realize
+2	encrypts
+2	used
+2	make
+2	perform
+2	capture
+2	cast
+2	will
+2	covers
+2	corresponds
+2	according
+2	to obtain
+2	briefly discuss
+2	might contain
+2	to understand
+2	shues
+2	produces
+2	explain
+2	attacking
+2	is accepted
+2	is bounded
+2	can lead
+2	has been formally proven
+2	have been
+2	to manipulate
+2	to find
+2	are e-voting
+2	is not met
+2	can check
+2	publish
+2	should contain
+2	misbehave
+2	drop
+2	is based
+2	does not provide
+2	mentioned
+2	to avoid
+2	to analyze
+2	imagine
+2	may
+2	to cast
+2	reject
+2	accept
+2	discussed
+2	give
+2	does not outperform
+2	following
+2	has been demonstrated
+2	can be modeled
+2	is listed
+2	marks
+2	are counted
+2	contains
+2	to use
+2	secure
+2	followed
+2	published
+2	has been
+2	were manipulated
+2	desired
+2	does not correspond
+2	consisting
+2	to define
+2	appear
+2	turns
+2	perceived
+2	is shown
+2	depend
+2	existing
+2	newly proposed
+1	to denote
+1	might break
+1	does not only require
+1	can also be applied
+1	interacts should be bounded
+1	was counted
+1	already provided
+1	to improve
+1	were presented
+1	allowing
+1	are printed
+1	were concerned
+1	have been manipulated is bounded
+1	does not rely
+1	should provide
+1	should give
+1	fixing
+1	encrypt
+1	knows
+1	check
+1	nevertheless accepted
+1	has made
+1	are securely generated
+1	logically implies
+1	can therefore be applied
+1	are attacked
+1	can be carried
+1	simply lie
+1	to follow
+1	might add
+1	detailed
+1	strengthens
+1	has to prove
+1	should always check
+1	to hold
+1	submitting
+1	signed
+1	is not met is bounded
+1	are split up
+1	can be captured
+1	actually guaranteeing
+1	expected
+1	would reject
+1	indeed does not outperform
+1	may vote
+1	certainly does not provide
+1	was
+1	analyze
+1	may cast
+1	is always run
+1	exactly reflects
+1	was introduced
+1	is connected
+1	trivially be broken
+1	can run
+1	do not have to prove
+1	is not achieved
+1	should really strive
+1	specifies
+1	is divided
+1	introduced
+1	can now estimate
+1	do not imply
+1	runs.3
+1	constrains
+1	then discuss
+1	is not detected.6
+1	is instructed to cast
+1	have to be taken
+1	be achieved
+1	can still check
+1	are based
+1	can easily be overlooked
+1	considers
+1	are supposed to be stated
+1	demonstrates
+1	describing
+1	provided
+1	can leave
+1	thinks
+1	proofs
+1	can be measured
+1	also allow
+1	might be replaced
+1	manipulated
+1	to create
+1	to detect
+1	continue
+1	performing
+1	to implement is
+1	eectively subtracting
+1	using
+1	also instantiated
+1	are publicly multiplied
+1	may happen
+1	complains
+1	might just be
+1	correctly determining
+1	take
+1	remaining
+1	have to provide
+1	not only fails
+1	have pointed out
+1	aiming
+1	constrains are
+1	adding
+1	presented here are
+1	to be checked is
+1	named
+1	have been proposed
+1	is sometimes called
+1	ideally to blame
+1	depending
+1	w.r.t.
+1	wants to get
+1	to carry
+1	changing
+1	first recapitulate
+1	are not captured
+1	to precisely tell
+1	was cheated
+1	been used to analyze
+1	is broken
+1	highlighted
+1	might lose
+1	might not always be
+1	actually wants to vote
+1	verified
+1	can easily go
+1	was proposed
+1	can be excluded
+1	to ensure
+1	have been refined
+1	developing
+1	has
+1	indeed suggest
+1	c1
+1	have been accepted to be tallied
+1	collects
+1	intensively been studied
+1	concerning
+1	blaming
+1	publishes
+1	wants
+1	is detected
+1	do not check
+1	can actually learn
+1	dropping
+1	also emphasize
+1	correctly says
+1	ensures
+1	may run
+1	to increase
+1	explicitly specifying
+1	is now replaced
+1	have been formulated
+1	together are
+1	conclude
+1	then have been used to analyze
+1	had to be
+1	comes
+1	attributes
+1	often fail to do
+1	have seen
+1	to tell
+1	memorizes
+1	flipped
+1	are processed
+1	taking
+1	are published
+1	could completely spoil
+1	should be accepted
+1	could easily detect
+1	can still be considered to provide
+1	is defined
+1	come
+1	is executed
+1	concentrate
+1	implementing
+1	certainly does
+1	would contain
+1	to help thinking
+1	creating
+1	now not only accepts
+1	more come
+1	is expressed
+1	might not always perform
+1	has not been solved
+1	potentially opens
+1	to formally capture
+1	exists
+1	were used
+1	would have to cast
+1	yield
+1	to decrease
+1	that means
+1	cannot
+1	to protect
+1	is only known
+1	could cast
+1	do
+1	also ensures
+1	postulated
+1	can eectively vote
+1	implemented
+1	should
+1	distributed
+1	informally analyzing
+1	to know
+1	may render
+1	to imply
+1	show
+1	to perform
+1	needed to follow
+1	to make
+1	simply do not understand
+1	untrusted
+1	do not appear
+1	always take
+1	only informally introduce
+1	perform distributed
+1	printed
+1	connected
+1	also called
+1	might have deliberately been tampered
+1	shaping
+1	have later been
+1	often assumed
+1	does not get to see
+1	is not bound to follow
+1	build
+1	can be done
+1	is replaced
+1	successfully deceive
+1	are not sensitized enough to verify
+1	together again do not detect
+1	built
+1	is centered
+1	need
+1	manipulating
+1	have
+1	may control
+1	cast-as-intended
+1	providing
+1	were
+1	should be blamed
+1	can still be tallied
+1	require
+1	can be re-run
+1	encrypting
+1	empirically be tested
+1	ciphertext
+1	are connected
+1	further emphasized
+1	also have been applied to analyze
+1	provides is
+1	to remove
+1	to take
+1	carrying out
+1	to rigorously analyze
+1	being detected is
+1	to provide
+1	are added
+1	has stored
+1	may check
+1	to change
+1	are called
+1	nested
+1	vogt introduced
+1	also takes
+1	features
+1	is allowed
+1	fill out
+1	can be applied
+1	to design
+1	creates
+1	did not follow
+1	is determined
+1	rejects
+1	created
+1	securely deploying
+1	is often not taken
+1	beginning
+1	should not be
+1	might have spoiled
+1	approaches
+1	have demonstrated
+1	would complain
+1	is supposed to submit
+1	cannot cover
+1	shows
+1	correct
+1	indeed discloses
+1	have to be assumed to be
+1	open
+1	collaborates
+1	typically does not analyze
+1	to publicly verify
+1	would expect
+1	not only allows
+1	typically obtains
+1	have been applied to perform
+1	obtains
+1	also determines
+1	is distributed
+1	alone might miss
+1	feeds
+1	are still used
+1	can verify
+1	establishing
+1	have been studied
+1	is to accept
+1	to see
+1	therefore also intend to provide
+1	strive
+1	are analyzed
+1	duplicates are removed
+1	is obviously guaranteed
+1	break
+1	introduce
+1	to do
+1	is commonly believed
+1	to overcome
+1	typically is
+1	decide to abstain
+1	alter
+1	might
+1	to coerce
+1	might cast
+1	commonly believed
+1	have become
+1	can be blamed
+1	chosen
+1	write
+1	is incorporated
+1	indeed provides
+1	is often believed
+1	to distinguish
+1	can also be captured
+1	has reached
+1	pointed
+1	might use
+1	does not imply
+1	is finally invited to use
+1	can lower
+1	worsens
+1	keeps
+1	allow
+1	may carry
+1	also showed
+1	as follows
+1	then might have to face
+1	is met
+1	turing
+1	is given
+1	then allowed
+1	then there exists
+1	tried to achieve
+1	has been carried
+1	now demonstrate
+1	can easily be computed
+1	can therefore not replace
+1	holds
+1	to keep
+1	vote according
+1	occur
+1	counting
+1	formally proved
+1	conceptually also applies
+1	protects
+1	formally proven
+1	indicates
+1	actually caused
+1	cannot determine
+1	arguably provide
+1	can participate
+1	can guide
+1	point
+1	dropped
+1	to vote
+1	abort
+1	voted is not revealed
+1	believes
+1	challenge
+1	was replaced
+1	never done
+1	hold
+1	can resolve
+1	known
+1	to connect
+1	to drop
+1	is nevertheless broken
+1	tolerated
+1	was shown
+1	are looking
+1	could create
+1	m1
+1	to guarantee
+1	one run is determined
+1	remains
+1	takes
+1	use
+1	better assess
+1	apply
+1	also captures
+1	often finds
+1	can be instantiated
+1	brought
+1	marked
+1	does not expect
+1	even worse
+1	is guaranteed
+1	can also easily be captured
+1	involves
+1	writes
+1	is supposed to fill
+1	outputting accept
+1	involved
+1	thus held
+1	are supposed to provide
+1	sending
+1	pseudonyms attached
+1	to capture
+1	may contain
+1	let
+1	crucially depends
+1	to select
+1	so far has gained
+1	is also challenging to express
+1	learned
+1	expresses
+1	goes
+1	to clash
+1	plays
+1	can use to check
+1	to be accepted
+1	to fail
+1	can be identified
+1	additionally requires
+1	does not satisfies
+1	says
+1	tallying is
+1	having to rely
+1	also has helped to reveal
+1	neither invalidates
+1	t1
+1	also refer to such
+1	has taken
+1	emphasized
+1	putting
+1	should reject
+1	to run
+1	keeping
+1	to formally analyze
+1	are proposed
+1	summarizes
+1	has also been
+1	should really be designed
+1	to defend
+1	should achieve
+1	fail to provide
+1	are closely related
+1	ultimately should aim
+1	follow
+1	consists
+1	have studied
+1	illustrated
+1	is achieved
+1	pointing
+1	later explained
+1	aided

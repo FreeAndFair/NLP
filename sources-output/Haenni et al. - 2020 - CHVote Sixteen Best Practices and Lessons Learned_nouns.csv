@@ -1,0 +1,701 @@
+31	chvote
+19	item
+15	specification document
+12	geneva
+12	java
+10	figure
+8	cryptographic protocol
+7	pseudo-code algorithms
+6	applied
+5	bern
+5	central role
+5	ep1
+5	lncs
+5	r. haenni
+5	switzerland
+4	cryptographic parameters
+4	cryptology
+4	fig
+4	p. locher
+4	possible degree
+3	archive
+3	communal issues
+3	e. dubuis
+3	early stage
+3	election event
+3	electoral systems
+3	fc
+3	genballot
+3	important aspect
+3	international workshops
+3	internet
+3	mathematical library
+3	mathematical symbols
+3	modeling
+3	nist
+3	overall complexity
+3	package structure
+3	page
+3	pki
+3	protocol algorithms
+3	protocol design
+3	r. e. koenig
+3	relevant part
+3	software developers
+3	sp1
+3	sp2
+3	state diagram
+3	state pattern
+3	top-level algorithms
+3	version
+2	< args >
+2	addison-wesley
+2	ae
+2	applying
+2	april
+2	b. warinschi
+2	ballot generation
+2	bericht
+2	biel
+2	biginteger
+2	bytearray
+2	code quality
+2	communication abilities
+2	communication diagrams
+2	core protocol
+2	corresponding code
+2	cryptographic building blocks
+2	cryptographic core
+2	current version
+2	d. bernhard
+2	election outcome
+2	eligibility matrix
+2	exemplary
+2	expensive computations
+2	experience report
+2	fiatshamir
+2	formal notations
+2	general idea
+2	general model
+2	hash values
+2	human voters
+2	iacr cryptology
+2	ideal interface
+2	input parameters
+2	integer
+2	k. hani
+2	main goal
+2	map1
+2	maximal transparency
+2	mep1
+2	minimal costs
+2	mpv1
+2	new requirements
+2	o. pereira
+2	overall code readability
+2	pair
+2	performance
+2	proper parameterization
+2	protocol [
+2	protocol parties
+2	protocol run
+2	protocol specification
+2	protocols security properties
+2	providing
+2	security properties
+2	set
+2	similar projects
+2	sixteen dierent topics
+2	source code
+2	string
+2	style guidelines
+2	such cases
+2	swiss context
+2	systematic way
+2	technical details
+2	triple
+2	vector
+2	vote
+2	whole document
+2	y. denzer
+1	1-out-of-np party election
+1	> >
+1	[ ok ]
+1	a. fiat
+1	a. shamir
+1	abbreviations
+1	able fix
+1	abstract
+1	abstract protocol description
+1	abstract protocol model
+1	abstract setting
+1	abstraction layer
+1	accurate adversary model
+1	accurate model
+1	actual choice
+1	actual implementation
+1	actual security
+1	additional complication
+1	additional immutable mathematical objects
+1	additional input
+1	additional layer
+1	admissible choices
+1	advances
+1	adversary model
+1	algorithm exception
+1	algorithm implementation
+1	algorithm module establishes
+1	algorithmic details
+1	algorithms deals
+1	algorithms describe
+1	alpha hat ij
+1	alphabet
+1	application
+1	asiacrypt12
+1	atomic entities
+1	august
+1	austria
+1	authority fall
+1	available information
+1	ax
+1	bachelor thesis
+1	bad design decisions
+1	basic data types
+1	beijing
+1	big picture
+1	binary representation
+1	bk
+1	black-box system
+1	blocks
+1	bold k
+1	bregenz
+1	built-in type safety
+1	bundeskanzlei
+1	bundesrates
+1	byte arrays
+1	c. casanova
+1	camel case
+1	candidate list
+1	cantonal issues
+1	cast-as-intended
+1	certain cryptographic aspects
+1	certain degree
+1	certain minimal quality benchmark
+1	certain problems
+1	certain pseudo-code style guides
+1	certain type triggers
+1	certain way
+1	ch-2501 biel
+1	chancellery
+1	checks complement
+1	china
+1	chronological order
+1	clear focus
+1	code
+1	code accessible
+1	code development
+1	code look
+1	code maintenance
+1	code readability
+1	coherent electoral model
+1	collaboration contract
+1	common conventions
+1	common development environment
+1	communication diagram
+1	communication model
+1	communication overhead
+1	communication parties
+1	comparable projects
+1	complete set
+1	complete test run
+1	complete verification
+1	complex cryptographic protocol
+1	complex election use case
+1	complex frameworks
+1	complex installation
+1	complex mathematical objects
+1	complex thirdparty libraries
+1	comprehensive description
+1	computational task
+1	computations involves
+1	computer scientists
+1	concise form
+1	conclusion
+1	conclusive outcome
+1	concrete high-performance
+1	concrete setting
+1	confidential communication channel
+1	consistent result
+1	constant challenge
+1	core classes
+1	core tasks
+1	corresponding
+1	corresponding aspects
+1	corresponding class
+1	corresponding communication channels need
+1	corresponding protocol algorithms
+1	corresponding software
+1	corrupt content
+1	councils
+1	critical errors
+1	crypto86
+1	cryptographic
+1	cryptographic applications
+1	cryptographic building blocks defines
+1	cryptographic experts
+1	cryptographic protocol corresponds
+1	cryptographic techniques
+1	cryptographically relevant code providing
+1	cumulative k-out-of-nc candidate election
+1	current implementation
+1	current set
+1	current situation
+1	data-driven tests
+1	december
+1	decryption process [
+1	defining
+1	delicate task
+1	democratic decisions
+1	design decisions
+1	design patterns [
+1	deterministic algorithm
+1	dezember
+1	diagram defines
+1	diagram shows
+1	diagrams up-to-date
+1	die schweizerische bundeskanzlei
+1	dierences stem
+1	dierent abilities
+1	dierent challenge
+1	dierent combinations
+1	dierent communes
+1	dierent electoral systems
+1	dierent group
+1	dierent implementation projects
+1	dierent people
+1	dierent persons
+1	dierent protocol versions
+1	dierent purposes
+1	dierent security levels [
+1	difficult security
+1	digital signatures
+1	direct links
+1	disambiguation improves
+1	document [
+1	document versions
+1	documents overall readability
+1	e-vote-id16
+1	e.
+1	e. barker
+1	early days
+1	early version
+1	eective java
+1	efficient computations
+1	efficient environment
+1	election administrator
+1	election day
+1	election laws
+1	election result
+1	election use cases
+1	elections
+1	electoral system
+1	electorate
+1	electronic elections
+1	electronic voting
+1	enterprise software components
+1	entire project
+1	eric dubuis
+1	error state
+1	error-prone gap
+1	eulers
+1	example ij
+1	example maxvoterindex
+1	examples
+1	exemplary java
+1	explicit values
+1	external auditors
+1	extra care
+1	eyes principle
+1	false assumptions
+1	familiarize reviewers
+1	federal elections
+1	federal issues
+1	figures
+1	final section discusses
+1	final stable version
+1	final stage
+1	financial reasons.1
+1	formal security definitions
+1	frigate
+1	full extent
+1	full set
+1	functional tests
+1	fundamental dierences
+1	fundamental public election parameter
+1	fundamental role
+1	fundamental system design output
+1	gang
+1	genballot.run
+1	general aspects
+1	general context
+1	general election event model
+1	general electoral model
+1	general goal
+1	general model [
+1	general problem
+1	general program flow
+1	general purpose
+1	generic mathematical library
+1	gmp
+1	goals
+1	good reason [
+1	gq
+1	gq zp
+1	great emphasis
+1	greek variable names
+1	group parameters
+1	helios
+1	high quality
+1	ideal approach
+1	identify aspects
+1	ie
+1	ie ie
+1	immutable classes
+1	immutable objects
+1	important abstraction layer
+1	important bottom layer
+1	important cornerstones
+1	important cryptographic aspects
+1	important feedback
+1	important input
+1	important points
+1	important role
+1	important topic
+1	improves type-safety
+1	improving
+1	independent elections
+1	independent k-out-of-n elections
+1	index notation
+1	indispensable component
+1	information
+1	initial work
+1	injection mechanisms
+1	international conference
+1	introduction developing
+1	invalid parametersor invalid combinations
+1	irrelevant components
+1	irrelevant part
+1	j. bloch
+1	j. vlissides
+1	january
+1	joint
+1	juli
+1	june
+1	k dierent candidates
+1	keeping
+1	key component
+1	key element
+1	key length recommendations
+1	key management
+1	key management overhead
+1	kitts
+1	kota kinabalu
+1	large amount
+1	large numbers
+1	large portion
+1	left-hand side
+1	length `
+1	lessons learned rolf haenni
+1	level
+1	levels
+1	long-term secrecy
+1	m. turuani
+1	main output
+1	main role
+1	main sections describe
+1	major challenge
+1	malaysia
+1	malta
+1	manner [
+1	mathematical
+1	mathematical groups
+1	mathematical notations
+1	mathematical objects
+1	matrix
+1	max1
+1	maximal problem size
+1	meaningful result
+1	membership test
+1	membership tests x
+1	mep1 map1 tp1 tp2 sp1
+1	message type
+1	message types
+1	method parameters
+1	modular exponentiations
+1	modular multiplication
+1	months time
+1	mpx1 sp2 fig
+1	multiple developers
+1	multiple election authorities
+1	multiple election events
+1	multiple inputs
+1	multiple purposes
+1	multiple rounds
+1	multiple servers
+1	mutable data structures
+1	n }
+1	n. gailly
+1	naming conventions
+1	natural way
+1	necessary flexibility
+1	nevis
+1	new perspective
+1	nmax =
+1	non-interactive zero-knowledge protocols [
+1	non-proprietary license.3
+1	non-swiss citizens
+1	non-zero indices i
+1	normal protocol run
+1	november
+1	numerous cryptographic protocols
+1	object-oriented software
+1	oine environment
+1	one-to-one correspondence
+1	only aects usability
+1	original project setting
+1	overall clarity
+1	overall problem size
+1	overall protocol performance
+1	overall security
+1	own set
+1	p. gaudry
+1	package
+1	paper overview
+1	parameter pk
+1	parameter validity checks
+1	part
+1	particular care
+1	particular security level
+1	parties
+1	parties concludes
+1	parties implementations
+1	party class
+1	party classes
+1	partys behavior
+1	past election events
+1	patterns elements
+1	perfect alignment
+1	performance optimizations
+1	performance section
+1	permanent challenge
+1	persistence services
+1	philipp locher bern
+1	philipp.locher } @ bfh.ch
+1	pilot elections
+1	pitfalls
+1	positive eect
+1	possible audience
+1	possible cases
+1	possible code consistency
+1	possible frauds
+1	possible real-world setting
+1	possible result
+1	possible situations
+1	potential performance bottlenecks
+1	practical
+1	practices
+1	press statement
+1	printer
+1	privacy problems
+1	project
+1	project context
+1	project management item
+1	project owners
+1	projects package structure
+1	properties
+1	protocol
+1	protocol description
+1	protocol diagrams
+1	protocol structure
+1	protocols security requirements [
+1	provided
+1	pseudo-code
+1	pseudo-code algorithm
+1	pseudo-code algorithms defines
+1	pseudo-code perspective
+1	pseudocode algorithms
+1	public election parameters
+1	public examination
+1	public examination process
+1	public material
+1	public-key infrastructure
+1	publication
+1	pure usability perspective
+1	python
+1	quadratic residue modulo
+1	quadraticresidue
+1	quality criterion
+1	quality level
+1	r. helm
+1	r. johnson
+1	real machines
+1	real system
+1	real-world deployment
+1	reasonable amount
+1	recommendation
+1	references
+1	regular code
+1	regular intervals
+1	relevant code
+1	relevant documents
+1	relevant elements
+1	reliable practical systems
+1	respective minimal standards
+1	respective terms
+1	reto e. koenig
+1	retrospective view
+1	rev
+1	right-hand side
+1	rigorous proofs
+1	rudimentary way
+1	s. j. lewis
+1	safe prime p = 2q +
+1	santa barbara
+1	schweizerischer bundesrat
+1	scientific researchers
+1	second-generation system
+1	section 2.3.2 ]
+1	section 6.3.1
+1	security experts
+1	security model
+1	separate chapter
+1	separate section
+1	separate sections.5
+1	separate types
+1	separate utility class
+1	serious flaw
+1	set.strings
+1	sharing
+1	signature problems
+1	silema
+1	similar amount
+1	similar level
+1	similar problems
+1	similar state diagrams
+1	simple matter
+1	simple model
+1	sister project
+1	sixteen
+1	sixteen topics
+1	size n
+1	size n.
+1	small elections
+1	software component
+1	software design
+1	software development
+1	software development process
+1	software frameworks
+1	software-development issues
+1	solid basis
+1	solid foundations
+1	source code.2
+1	specific properties
+1	specific use case
+1	specification
+1	specification document [
+1	specification documents
+1	specification item
+1	spock
+1	stand
+1	state classes
+1	state machine formalism
+1	stateless nature
+1	static code analysis
+1	static method run
+1	static utility classes
+1	stimmabgabe
+1	strict usage
+1	structural clarity
+1	sub-phase [
+1	sub-phase diagrams
+1	subsequent project continuation
+1	subsequent word
+1	such deterministic procedures demonstrates
+1	such dierence
+1	such technical details
+1	such values k
+1	sufficient eort
+1	suitable interfaces
+1	suitable model
+1	swiss federal council
+1	swiss national council
+1	system specification version
+1	systematic manner
+1	systematic validity checks
+1	systems democracies
+1	systems master plan
+1	tagged
+1	task class
+1	task exception
+1	te
+1	te1
+1	technical
+1	technical solutions
+1	test environment
+1	theory
+1	theses classes
+1	third-party auditors
+1	third-party institution
+1	tomasz truderung
+1	top-level security parameters [
+1	topics project
+1	tp1
+1	tp3
+1	translation process error-prone
+1	transparency
+1	tremendous amount
+1	tuple
+1	typical problem
+1	typically
+1	u. maurer
+1	ultimate way
+1	uml
+1	unique combination
+1	unspecified alphabets
+1	untransparent systems
+1	upper limits kmax =
+1	usa
+1	usability
+1	v. cortier
+1	v. teague
+1	valuable side-products [
+1	variable names
+1	various common tasks
+1	various performance improvements
+1	various prototypes [
+1	veles
+1	verifiability
+1	verifiable mix-net
+1	verifiable re-encryption mix-nets
+1	verification codes
+1	verification process
+1	verification softwaresometimes
+1	verifier
+1	verifier project
+1	verordnung
+1	vice versa
+1	visualizing genevas
+1	voters [
+1	voting17
+1	voting19
+1	voting20
+1	well-established set
+1	whole paper contains
+1	whole system
+1	whole system architecture
+1	whole system design
+1	working
+1	world use
+1	write-in candidates
+1	xx
+1	{ rolf.haenni

@@ -1,0 +1,817 @@
+30	pi
+27	return codes
+27	vi
+26	id
+24	ci
+20	otkn
+17	fi
+11	bulletin board
+11	pij
+10	cci
+10	cvi
+10	elgamal
+10	verification code sheets
+9	lncs
+9	zq
+8	election preparation
+8	finalization code
+8	gq
+8	rij
+8	switzerland
+7	\ {
+7	code sheet
+7	high probability
+7	hr
+7	neuchatel
+7	vote secrecy
+6	code sheet i
+6	encpk
+6	verification code sheet
+5	confirmation code
+5	ggp15
+5	hlv10
+5	incorrect return codes
+5	international conference
+5	prime order q
+5	query
+5	ri
+5	submitting
+5	theory
+5	} `
+4	bk113a
+4	compared
+4	h. lipmaa
+4	hf
+4	international workshop
+4	j =
+4	multiple ballots
+4	n +
+4	n }
+4	public parameters
+4	zp0
+3	= pi
+3	austria
+3	bk
+3	bk113c
+3	collision-resistant hash function
+3	confirmation codes
+3	corresponding return codes
+3	covert adversaries
+3	ct05
+3	ddh
+3	die schweizerische bundeskanzlei
+3	e-voting
+3	efficient
+3	election administration
+3	eligible voter
+3	encryption scheme
+3	figure
+3	g.
+3	gb12
+3	generator g
+3	gj11
+3	identity
+3	j. puiggal
+3	k kri
+3	k-out-of-n oblivious
+3	log n +
+3	m. volkamer
+3	malicious authorities
+3	malicious receiver
+3	multiple authorities
+3	ot
+3	platform problem
+3	pn
+3	pot
+3	private key
+3	public verifiers
+3	random points
+3	ri,1
+3	s. guasch
+3	sender privacy
+3	server side
+3	success case
+3	threshold number
+3	valid verification code sheet
+3	verification code sheet implies eligibility
+3	voter i
+3	} f
+3	} nj=1
+2	2r {
+2	= tk=1
+2	[ x ]
+2	a. kiayias
+2	additional input
+2	additional public input z
+2	al10
+2	archive
+2	b. preneel
+2	ballot b =
+2	bk113b
+2	bol03
+2	bregenz
+2	bulletin
+2	c =
+2	c = { yes
+2	c. k. chu
+2	cn }
+2	code generator
+2	code sheets
+2	commitment scheme
+2	commitment t =
+2	confirmation phase
+2	correct ballot
+2	covert adversary model
+2	cryptographic keys
+2	cryptographic techniques
+2	cryptology
+2	ct08
+2	decommit
+2	decsk
+2	degree k
+2	deterministic values
+2	dierent platform
+2	diffie-hellman
+2	election preparation phase
+2	election result
+2	electronic voting
+2	eligible voters
+2	estonia
+2	evote12
+2	expensive zero-knowledge proofs
+2	fi0
+2	fig
+2	fik
+2	finalization codes
+2	geneva
+2	gennizkp
+2	gennizkpencpk
+2	gj10
+2	gq zp
+2	iacr cryptology
+2	incorrect return code
+2	ind-cpa
+2	independent generators g
+2	informatics
+2	internet
+2	k +
+2	k candidates
+2	k. gjsteen
+2	key cryptography
+2	keygen
+2	lecture notes
+2	length k
+2	lip11
+2	malware
+2	mau09
+2	n + k +
+2	new mechanism
+2	new method
+2	norway
+2	norwegian
+2	norwegian internet
+2	output length `
+2	overall performance
+2	p-205
+2	ped91
+2	pedersen
+2	pg11
+2	pg12
+2	pi id
+2	pij0
+2	pijk
+2	pk
+2	plaintext m
+2	plaintext votes
+2	polynomial pi
+2	possible causes
+2	possible solution
+2	private channel
+2	public bulletin board
+2	qk
+2	quadratic residues modulo
+2	r. grimm
+2	random oracle model
+2	random s 2r
+2	random values
+2	randomization r
+2	randomization s
+2	randomizations i
+2	receiver
+2	receiver privacy
+2	s =
+2	safe prime p = 2q +
+2	security properties
+2	separate channel
+2	sequence
+2	server-side pre-computations
+2	similarly
+2	size o
+2	stimmabgabe
+2	such attempts
+2	sv12
+2	tallinn
+2	upon
+2	usa
+2	usability point
+2	valid ballot
+2	verification code sheet i
+2	verification mechanism
+2	verification methods
+2	vote confirmation
+2	voteid11
+2	voter enters
+2	voters intention
+2	voters selections
+2	w. g. tzeng
+2	zero-knowledge proofs
+2	zkq
+2	} c
+2	} r
+2	} v
+1	+ 6n versus
+1	1-out-of-n proxy oblivious
+1	1-out-of-n votes
+1	2k exponentiations
+1	2n +
+1	5n +
+1	= ai,0
+1	= j=0 aij xj
+1	= j=1 aj d2 d1 =
+1	= j=1 psj
+1	= m
+1	= ms
+1	= t y c
+1	= {
+1	= { p1
+1	] 6n
+1	] election
+1	` =
+1	` bits
+1	a. boldyreva
+1	a0i,0 =
+1	a0ij =
+1	abstaining
+1	abstract
+1	accumulating
+1	acknowledgments
+1	actual return codes
+1	actual selections
+1	additional cryptographic keys
+1	additional information
+1	additional random value
+1	additional voter authentication mechanisms
+1	adversary model
+1	africa
+1	africacrypt09
+1	air01
+1	albany
+1	alternative vote
+1	analysis
+1	anforderungen
+1	anonymous reviewers
+1	appendix
+1	application
+1	applications
+1	applied
+1	approach oers
+1	appropriate cryptographic protocol
+1	appropriate solution
+1	assumptions
+1	athens
+1	authorities
+1	authorities id
+1	authorities publish cryptographic proofs
+1	authorities voter
+1	authority generates
+1	authority k
+1	b sk
+1	b. pfitzmann
+1	ballot consistency
+1	ballot correspond
+1	bericht
+1	bern
+1	bit lengths v
+1	bj d rj
+1	blank votes
+1	blank }
+1	blind signatures
+1	brigthon
+1	broadcast channel
+1	bulletin board contains
+1	bundeskanzlei
+1	bundesrates
+1	c = g r hm
+1	c.
+1	c. bull
+1	candidate cj
+1	candidate list
+1	candidates dierent
+1	candidates s =
+1	cast-as-intended
+1	cast-as-intended verification
+1	cci commit
+1	cdh
+1	certain tasks
+1	ch-2501 biel
+1	challenge c =
+1	challenging obstacles
+1	chancellery
+1	checks decommit
+1	chosen-target computational
+1	ci id
+1	ci,1
+1	ciphertext e =
+1	cj b0j = bj j =
+1	clearly
+1	cmax ]
+1	code
+1	code sheet identifier
+1	collision-resistant hash functions
+1	commit
+1	commitment c
+1	commitment d
+1	commitment ms
+1	commitments c =
+1	commitments cvi commit
+1	common construction
+1	common group
+1	common practice
+1	communication costs
+1	comparison
+1	complete chain
+1	computations
+1	compute aj =
+1	compute ci = mi ki compute d = g s b =
+1	compute msj = csj kj
+1	computer
+1	computes e =
+1	computes m =
+1	computes pk = g sk
+1	concatenation
+1	conceptual advantages
+1	conclusion
+1	contemporary hash functions
+1	correct confirmation code
+1	correct outcome
+1	correct value
+1	correctness
+1	corresponding
+1	corresponding checks
+1	corresponding indices i
+1	corresponding points
+1	corresponding queries
+1	corrupt authorities
+1	cryptographic area
+1	cryptographic computations
+1	cryptographic operations
+1	cryptographic preliminaries
+1	cryptographic primitives
+1	cryptographic protocol design
+1	cryptographic protocols
+1	cryptographic setting
+1	cryptographic voting protocol
+1	ct-cdh
+1	cyclic group
+1	d = pk d0 = d s b0j = asj
+1	d. galindo
+1	d. gritzalis
+1	d. w. davies
+1	d. wikstrom
+1	d1 range
+1	d2 =
+1	defective system
+1	detailed protocol description
+1	details
+1	detect attacks
+1	deterministic algorithm
+1	deterministic algorithms
+1	deterministic decryption algorithm m
+1	dierent communication channels
+1	dierent protocol
+1	dierent types
+1	diffiehellman
+1	digital certificates
+1	digital goods
+1	discussion
+1	dl
+1	dlog p0 e
+1	dlog p0 e.
+1	e-vote integrity
+1	eective counter-measure
+1	efficient k-out-of-n oblivious
+1	efficient solution
+1	election data
+1	election options
+1	election outcome
+1	election period
+1	election preparation.4
+1	electronic election system
+1	electronic elections based
+1	electronic governance
+1	elegant way
+1	element x
+1	elgamal encryption
+1	encode s
+1	encryption algorithm e
+1	encryption randomizations
+1	erganzende dokumentation
+1	eric dubuis bern
+1	eric.dubuis } @ bfh.ch
+1	esorics10
+1	eurocrypt01
+1	eurocrypt91
+1	european conference
+1	evalg2013 [
+1	exhaustive search
+1	existing
+1	expensive online computations
+1	extended pedersen commitments
+1	external party
+1	f.
+1	fi fi fig
+1	fi pn
+1	fiat-shamir
+1	final election result
+1	final tally
+1	finalization code implies
+1	fixed-exponent exponentiations
+1	formal
+1	formal description
+1	forwards ms
+1	full control
+1	full message
+1	full protection
+1	furthermore
+1	future system
+1	g g
+1	g g.
+1	g r
+1	g rj
+1	g zq
+1	gammarth
+1	gap-diffie-hellman-group signature scheme
+1	general adversarial goal
+1	general ways
+1	generating
+1	great significance
+1	greece
+1	guaranteeing
+1	guessing
+1	h. generating
+1	hard problems
+1	hash function
+1	hash values
+1	helpful discussions
+1	honest authority
+1	i 2r
+1	i =
+1	i = i
+1	i b
+1	i. s. gebhardt stenerud
+1	icegov12
+1	ideal protocol
+1	ideal protocols
+1	identical operations
+1	identical plaintexts
+1	important building blocks
+1	important consequences
+1	important technical details
+1	incorrect codes
+1	incorrect point
+1	incorrect values
+1	independent processes
+1	indistinguishable transcripts
+1	infrastructure assumptions
+1	innsbruck
+1	integers modulo p0
+1	integrity attacks
+1	interpolate p0i
+1	introduction
+1	invalid value b
+1	invalid zero-knowledge proof
+1	invisible ink
+1	j n
+1	j-th point
+1	j=1 aj
+1	j=1 aj = k
+1	k <
+1	k >
+1	k blank candidates
+1	k compute bj = asj
+1	k compute kj =
+1	k dierent candidates
+1	k fixed-base exponentiations
+1	k kci
+1	k kvi
+1	k messages
+1	k n
+1	k online exponentiations
+1	k points
+1	k primes
+1	k selections sj
+1	k versus k +
+1	k votes
+1	key generation algorithm
+1	key pair
+1	key pairs
+1	key replaces
+1	laenen
+1	lagranges
+1	large number
+1	legal context
+1	length n
+1	length parameters v
+1	les diablerets
+1	list
+1	list c
+1	list c = { c1
+1	list m =
+1	log n
+1	m =
+1	m pk r
+1	m. j. kripp
+1	m. kripp
+1	m. schlapfer
+1	m. theoharidou
+1	main technical dierence
+1	malicious voter computers
+1	message length ` =
+1	messages mi
+1	miami
+1	minor security concern
+1	mobile phones
+1	ms =
+1	multiple
+1	multiple entries
+1	multiple finalization codes
+1	multiple reasons
+1	multiple values
+1	n candidates
+1	n compute ki =
+1	n distinct random integers xij 2r
+1	n j=0 aij x
+1	n k
+1	n points
+1	n return codes
+1	n shares
+1	natural link
+1	natural way
+1	necessary details
+1	neuchatels
+1	new technique
+1	next-generation systems
+1	nizkp
+1	non-adaptive queries
+1	non-interactive preimage proof
+1	non-interactive preimage proof results
+1	non-interactive range proofs
+1	non-interactive zero-knowledge proof
+1	non-interactive zero-knowledge proofs non-interactive
+1	non-interactive zeroknowledge proof
+1	o. reingold
+1	oblivious transfer
+1	oblivious transfer rolf haenni
+1	oine generation
+1	one-way group homomorphism
+1	online exponentiations
+1	online generation
+1	ot12
+1	ot1n
+1	out-ofband channel
+1	own ballot
+1	own verification code sheet
+1	p1
+1	paper
+1	paper ballot
+1	paper contains
+1	paper introduces
+1	paper overview
+1	particular choice
+1	particular context
+1	particular group
+1	particular protocol
+1	particular situation
+1	particular voter
+1	perfect zero-knowledge
+1	performance
+1	performance comparison
+1	philipp locher
+1	physical means
+1	physical presence
+1	pi < pi+1
+1	pi,1
+1	pk r
+1	pk rj =
+1	pkc03
+1	pkc05
+1	platform 2k +
+1	platform computes
+1	platform matches
+1	platform performs pre-computations
+1	platform problem [
+1	platform tries
+1	pn }
+1	points {
+1	polynomial p
+1	possible [
+1	possible case
+1	possible selections
+1	possible values
+1	postal service
+1	potential covert adversaries
+1	preimage proof
+1	preimage proof results
+1	preparation
+1	preparation vote casting authorities
+1	priced
+1	prime number p0 q
+1	prime numbers pi
+1	prime order
+1	prime p0
+1	principal contributions
+1	principal goal
+1	principal parties
+1	privacy attacks
+1	private key sk
+1	private keys
+1	process revealsin
+1	projects evalg2011
+1	proof =
+1	proof generation
+1	proofs
+1	protocol [
+1	protocol description
+1	protocol oers
+1	protocol prevents
+1	protocol specification
+1	prover proves knowledge
+1	public channel
+1	public key pk
+1	public value y
+1	publish commitments
+1	q query
+1	q1
+1	q2
+1	r 2r
+1	r =
+1	r = j=1 rj
+1	r.
+1	r. e. koenig
+1	r. haenni
+1	r0 = d logr|a| e characters
+1	random oracle
+1	random polynomial
+1	random polynomial p
+1	random polynomial pi
+1	random rj 2r
+1	random value w 2r
+1	random values r 2r
+1	randomization r 2r
+1	randomization s.
+1	real candidate
+1	real candidates
+1	real-world setting
+1	realistic adversaries
+1	receiver learns
+1	receiver obtains ms open
+1	receiver sends
+1	receivers selections
+1	references air01
+1	registration phase
+1	regular postal
+1	related
+1	relevant approaches
+1	respective algorithms
+1	response s =
+1	response s = w + c x
+1	reto e. koenig
+1	s 2r
+1	s messages mi
+1	s prevents
+1	s. heiberg
+1	s. vaudenay
+1	scenario corresponds
+1	secret inputs
+1	secret preimage x =
+1	security proofs
+1	selections s1
+1	semi-honest sender.3
+1	sender
+1	separate project
+1	server responds
+1	server-side key shares
+1	server-side parties
+1	servers conduct
+1	set c = { c1
+1	set {
+1	setting
+1	severin hauser
+1	shamirs
+1	sheet i contains
+1	similar approach
+1	similar attack
+1	similar way
+1	simple case
+1	simple code-verification
+1	simple connection
+1	sj =
+1	sk 2r
+1	small [
+1	small number
+1	so-called reference values need
+1	sophisticated solutions
+1	stephan fischli
+1	submit votes
+1	subsequent comparison
+1	subsequent description
+1	success case canqbe
+1	such algorithms satisfies
+1	such attacks
+1	such checks
+1	such codes
+1	such general cases
+1	such general constructions
+1	such polynomials
+1	such protocol
+1	such usability problems
+1	sufficient solution
+1	support general k-out-of-n
+1	swiss context
+1	t. p. pedersen
+1	tallying
+1	taxonomy
+1	technical point
+1	technical recommendations
+1	technische
+1	thomas hofer
+1	threshold cryptosystem
+1	threshold signatures
+1	ties z
+1	time [
+1	trust anchor
+1	trust assumptions
+1	trustworthy platform
+1	tunisia
+1	two-round otkn
+1	two-round protocol
+1	u. maurer
+1	u.k.
+1	uncommon trust assumptions
+1	unifying
+1	unique code sheet identifier
+1	universal computer
+1	universal verifiability
+1	valid code sheet
+1	valid non-interactive zeroknowledge proofs
+1	valid proof
+1	valid set
+1	valid verification code sheet i
+1	valid vote
+1	valid votes generates
+1	value a= k
+1	value b = g r
+1	value d
+1	vector b
+1	vector c
+1	veles
+1	verifiable mannera list
+1	verification
+1	verifying
+1	verifynizkp
+1	verifynizkpencpk
+1	verordnung
+1	vi,1
+1	vote
+1	vote buying
+1	vote casting
+1	vote correctness
+1	vote dierent
+1	voteid15
+1	voter authentication
+1	voter authentication problem
+1	voter confirms
+1	voters selections s
+1	voters selections s =
+1	voting
+1	voting platform voter
+1	w. aiello
+1	waiting
+1	way contains values aj =
+1	whereas response
+1	whereas sender privacy
+1	whole electorate
+1	wrong response
+1	y =
+1	y. aumann
+1	y. desmedt
+1	y. ishai
+1	y. lindell
+1	yij s j =
+1	zp
+1	zp0 zp0
+1	zq g.
+1	zum dritten
+1	{ rolf.haenni
+1	} j=1 j = k
+1	} n j=1 {

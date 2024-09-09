@@ -1,0 +1,528 @@
+79	is
+46	cast-as-intended
+14	are
+14	note
+10	has
+10	cast
+9	follows
+9	see
+8	sends
+8	using
+8	computes
+7	provide
+7	chooses
+7	contains
+6	requires
+6	run
+6	does
+6	based
+6	given
+6	presented
+5	assume
+5	provides
+5	works
+5	does not learn
+5	have
+5	allows
+5	returned
+4	proposed
+4	enters
+4	can check
+4	used
+4	is given
+4	holds
+4	prove
+4	takes
+4	can use
+3	describe
+3	can be re-written
+3	underlying
+3	have been proposed
+3	relies
+3	uses
+3	must be trusted
+3	described
+3	to be
+3	learns
+3	show
+3	require
+3	is used
+3	vote
+3	can be used to augment
+3	offers
+3	including
+3	following
+3	can
+3	to prove
+3	tallying
+3	let
+3	displays
+3	to achieve
+3	existing
+3	is provided
+2	to extend
+2	observe
+2	is included
+2	includes
+2	compared
+2	called
+2	made
+2	was
+2	introduced
+2	should not make
+2	belongs
+2	discuss
+2	extended
+2	make
+2	is completed
+2	employ
+2	guarantees
+2	to verify
+2	jointly playing
+2	are used
+2	analyzed
+2	conclude
+2	implicitly assume
+2	receives
+2	providing
+2	c
+2	extend
+2	exists
+2	means
+2	explain
+2	enables
+2	proving
+2	to provide
+2	re-randomized
+2	typically using
+2	used to encrypt
+2	does not increase
+2	have c
+2	obtains
+2	propose
+2	to do
+2	satisfies
+2	verify
+2	accepts
+2	give
+2	gathers
+2	castas-intended
+2	becomes
+2	to audit
+2	use
+2	followed
+2	to prove/verify
+2	revealing
+2	establishes
+2	has cast
+2	is authenticated
+2	are executed
+2	consists
+2	consider
+2	can be seen
+1	starting
+1	not to du
+1	suffers
+1	incurred
+1	to improve
+1	can derive
+1	generated
+1	being extended
+1	is then checked
+1	to guarantee cast-as-intended
+1	can have
+1	view can be simulated
+1	possibly corrupted
+1	hence does not need to know
+1	compares
+1	should provide
+1	also providing
+1	may be better suited
+1	encrypt
+1	to be deployed
+1	check
+1	to obtain
+1	computing
+1	tend to not verify
+1	embed
+1	can therefore be used to extend
+1	signed
+1	to implement
+1	deployed
+1	is executing
+1	has been cast
+1	will be detected
+1	does not have
+1	successfully carried
+1	is licensed
+1	to authenticate
+1	should be kept
+1	analyze
+1	is audited
+1	is polynomially bounded
+1	transform
+1	rely
+1	to ensure cast-as-intended
+1	decrypts
+1	has already been used
+1	has been sent
+1	submits
+1	is well established
+1	is typically achieved
+1	carries
+1	should support
+1	to independently verify
+1	c submitted
+1	is called castas-intended
+1	attacks
+1	fully cover
+1	carried
+1	re-written
+1	r
+1	is run
+1	want to avoid is relying
+1	can be simulated
+1	demonstrated
+1	is published
+1	to produce
+1	avoid
+1	additionally specify
+1	also works
+1	not corrupted
+1	are also postulated
+1	would be
+1	to compare
+1	possibly anonymised
+1	slightly extended cast-as-intended
+1	specifies
+1	not to prove
+1	become
+1	achieves cast-as-intended
+1	also avoids
+1	renc defined
+1	accepted
+1	checking
+1	depends
+1	instead to prepare/encode
+1	adopts
+1	build
+1	are as follows
+1	complements
+1	add
+1	seems
+1	essentially determine
+1	misbehaved
+1	is provided using
+1	could be used
+1	is used to collect
+1	simulated
+1	is intended to be
+1	is then displayed
+1	using blinded
+1	is not permitted
+1	has actually been counted
+1	tracking
+1	is not known to provide
+1	encrypts
+1	has been used
+1	also needs to be connected
+1	restricted setting
+1	resulting
+1	to deploy
+1	split
+1	to generate
+1	also assume
+1	confirmed
+1	trusted
+1	does not require
+1	is actually cast is
+1	do not aim to protect
+1	also to protect
+1	c
+1	present
+1	could undesirably serve
+1	also builds
+1	can be encoded
+1	entered
+1	expected
+1	combined
+1	recognised
+1	to trust
+1	c be defined
+1	ps
+1	to publicly confirm
+1	then starts
+1	can easily simulate
+1	is not corrupted
+1	may allow
+1	is not directly covered
+1	is known
+1	appeared
+1	do fall
+1	to du
+1	accurately reflects
+1	exceeds
+1	can cast
+1	taking
+1	are published
+1	does not seem to be
+1	is also becoming
+1	chooses to audit
+1	improve
+1	relying
+1	is still guaranteed
+1	additionally sends
+1	is executed
+1	conveniently displays
+1	ww
+1	is addressed
+1	simply brute-force
+1	knowing
+1	is generated
+1	score
+1	does not address
+1	interacting
+1	is computationally bounded
+1	tries to manipulate
+1	could run
+1	achieves
+1	is done
+1	does not need to check
+1	being augmented
+1	also consider
+1	to extract
+1	guessing
+1	view
+1	can understand
+1	can be combined
+1	is publicly known
+1	need to show
+1	selling cast-as-intended
+1	has been driven
+1	to protect
+1	does not leave
+1	simultaneously satisfies
+1	knows pk.3
+1	do
+1	achieve
+1	does not produce
+1	can be perfectly simulated
+1	vext run
+1	are not used to check
+1	is required
+1	need to have
+1	computes blinded
+1	also includes
+1	also included
+1	can choose
+1	to perform
+1	to convince
+1	to instantiate
+1	cover
+1	to participate
+1	may work
+1	may however learn
+1	w
+1	is carried
+1	compare
+1	to strengthen
+1	deploy
+1	is called
+1	was generated
+1	take
+1	is uniquely assigned
+1	depending
+1	often is
+1	can therefore conclude
+1	can be generated
+1	already mentioned
+1	to log
+1	need to assume
+1	sees
+1	is accepted
+1	cast is recorded
+1	accessed
+1	can be derived
+1	will explain
+1	determined
+1	submitted
+1	updating
+1	seems to take
+1	appropriated
+1	rejected
+1	completed
+1	significantly limits
+1	do require
+1	simulates
+1	to prepare
+1	scans
+1	to correctly cast
+1	listed
+1	indicate
+1	behaves
+1	is essentially based
+1	is missing is
+1	carry
+1	fetches
+1	actually contains
+1	render
+1	utilizes
+1	result given
+1	are used not only to provide
+1	thus not required
+1	must be
+1	can be executed
+1	starts
+1	first describe
+1	can be embedded
+1	were made
+1	can be instantiated
+1	retrieved
+1	fails otherwise.5 note
+1	to challenge
+1	sk associated to pk
+1	possibly selecting
+1	shown
+1	blinded
+1	do not assume
+1	now describe
+1	are included
+1	trade-offs
+1	will need to obtain
+1	therefore be easily handled
+1	should not significantly increase
+1	to see
+1	strive
+1	to inspect
+1	not just compare
+1	introduce
+1	is not only widely accepted
+1	outlined
+1	return
+1	may include
+1	should not be limited
+1	can use to trivially prove
+1	listing
+1	constitutes
+1	choose
+1	does not provide
+1	chosen
+1	let verify be
+1	features
+1	are supported
+1	to distinguish
+1	produced
+1	installed
+1	to strengthen cast-as-intended
+1	displayed
+1	produces
+1	should not additionally provide
+1	allow
+1	are also employed
+1	providing tallied-as-recorded
+1	is not included
+1	used to re-randomize
+1	web-based
+1	to mitigate
+1	is employed
+1	need to choose
+1	have optimised
+1	sometimes called
+1	improving
+1	was displayed
+1	as follows
+1	is expected
+1	is played
+1	can be implemented provided
+1	may
+1	intended
+1	then there exists
+1	thus impedes
+1	do not have
+1	needs
+1	collude
+1	can demonstrate
+1	employs
+1	protects
+1	prioritise
+1	indicated
+1	corrupted
+1	know/learn
+1	will be audited
+1	does not need to have
+1	to vote
+1	challenge
+1	recall
+1	permits
+1	now show
+1	do not have to make
+1	is correctly signed
+1	encrypted using
+1	has been successfully implemented
+1	having executed
+1	exist to prevent
+1	is presented
+1	knows
+1	introducing
+1	are counted
+1	achieving
+1	had to overcome was caused
+1	believing
+1	can even carry
+1	audit
+1	s contains
+1	remains
+1	being restricted
+1	refers
+1	cannot be used
+1	to v
+1	to communicate
+1	can be caused
+1	requiring
+1	secure
+1	can be displayed
+1	involves
+1	is cast
+1	makes
+1	have therefore been informed
+1	to decrypt
+1	can construct
+1	desired
+1	to select
+1	understanding
+1	gathered
+1	cannot be easily excluded
+1	to easily extract
+1	already learns
+1	appear
+1	were developed
+1	prove chooses
+1	let prove be
+1	sign
+1	does not know
+1	concluded
+1	noted
+1	should also be
+1	existing cast-as-intended
+1	then prompts
+1	to be augmented
+1	to sell
+1	dec require
+1	balancing
+1	replaces
+1	were generated
+1	incurs
+1	having cast
+1	indicating
+1	voted
+1	therefore needs to be trusted
+1	containing
+1	has been encrypted
+1	can be used
+1	can therefore perfectly simulate
+1	does not correspond
+1	preserves
+1	to put
+1	follow
+1	are given
+1	focus

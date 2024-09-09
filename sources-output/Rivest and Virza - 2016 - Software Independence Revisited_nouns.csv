@@ -1,0 +1,435 @@
+29	software independence
+16	election outcome
+11	audit trail
+10	public ledger
+9	election results
+7	analysis
+7	deployment
+7	real-world electronic voting
+7	software independence revisited
+5	dre
+5	paper audit trail
+5	rivest
+5	threeballot
+5	zero-knowledge proofs
+4	cast vote
+4	cast votes
+4	ebm
+4	optical scan
+4	software misbehavior
+4	software-independent approaches
+4	system software
+4	voters choices
+4	vvpr
+4	zero-knowledge proof
+3	complex software
+3	correct election outcome
+3	detection mechanisms
+3	election officials
+3	helios
+3	optical scanner
+3	paper ballots
+3	post-election audits
+3	scantegrity
+3	software
+3	software complexity
+3	stark
+3	such misbehavior
+3	voter privacy
+3	voting systems
+3	vvpat
+3	wagner
+2	artificial intelligence laboratory massachusetts
+2	available online
+2	cambridge
+2	cast vote records
+2	certification
+2	certification process
+2	computation
+2	conclusions
+2	contemporaneous paper record
+2	corresponding ciphertexts
+2	definition
+2	design software
+2	difficulty
+2	discussion
+2	does
+2	early days
+2	elaborations
+2	election outcomes
+2	election procedures
+2	enable voters
+2	end-to-end
+2	errors
+2	evaluating complex software
+2	examples
+2	formal proof
+2	furthermore
+2	implications
+2	introduction
+2	ledger
+2	ma
+2	malicious software
+2	mit
+2	need
+2	optical scan records
+2	paper ballot
+2	post-election audit
+2	problem
+2	program verification
+2	program verification techniques
+2	rationale
+2	refinements
+2	related issues
+2	remotegrity
+2	setup phase
+2	software-independent approach
+2	such zero-knowledge proofs
+2	suggestions
+2	system design
+2	system designs
+2	systems software
+2	tangible proof
+2	test
+2	testing
+2	voting
+2	wack
+2	z =
+1	] block chain exemplifies
+1	acceptable election outcome
+1	accordingly
+1	accurate elections
+1	achilles
+1	active research area
+1	actual number
+1	additional logic
+1	alert voters
+1	already-known faults
+1	approaches
+1	approaches constitute
+1	assurance level
+1	assurance protocol [
+1	audio ballot
+1	audit ensures
+1	audit trails
+1	backup mechanism
+1	ballot assurance
+1	ballot audit
+1	basic definition
+1	baudron
+1	beautiful line
+1	benalohs
+1	bit heavy-weight
+1	bitcoin
+1	brighter characters
+1	broad framework
+1	candidates name
+1	cast ballots
+1	certain candidate
+1	certain way
+1	checkoway
+1	clash attack
+1	clearly
+1	clever peer-to-peer mechanism
+1	coerce-me
+1	common maxim
+1	common name
+1	common wisdom
+1	compiliance audits
+1	complex accessibility
+1	complex encryption schemes
+1	complex protocol
+1	complex system
+1	complex theoretical machinery
+1	complexity increases
+1	compliance audit
+1	compliance checks
+1	consider
+1	contents
+1	continuing
+1	correct election outcome isnt
+1	correctness properties
+1	corresponding plaintexts
+1	corresponding proof
+1	corresponding zero-knowledge proof
+1	corrupting
+1	credit-card data
+1	critical questions
+1	cryptographic
+1	cryptographic methods
+1	cryptographic perspective
+1	cryptographic puzzles
+1	cryptographic techniques
+1	current proposals
+1	decryption key
+1	democracy
+1	dependent altogether
+1	desirable characteristic
+1	detection
+1	device software
+1	different ballot layouts
+1	different ways
+1	difficult-to-test software
+1	digital signatures
+1	dres
+1	eal
+1	efficient constructions sport linear verification time
+1	efficient general-purpose zero-knowledge proof systems
+1	efficient practical prototypes [
+1	efficient zeroknowledge proofs
+1	election audit trails
+1	election audits
+1	election authority
+1	election data
+1	election information
+1	election outcome errors
+1	elections framework
+1	elections theme
+1	electronic
+1	electronic audit trail
+1	electronic ballot
+1	electronic cast ballot records
+1	electronic communications
+1	electronic methods
+1	electronic pollbook
+1	electronic pollbook software
+1	electronic pollbook systems
+1	electronic pollbooks
+1	electronic records
+1	electronic results
+1	employ cryptography
+1	enable elections
+1	encryption methods
+1	errors [
+1	estonia
+1	estonian
+1	evidence = auditability +
+1	evidence-based elections
+1	evidence-based elections recently
+1	evil agent
+1	exceptional difficulty
+1	exists w
+1	extreme position
+1	filled-in optical scan ballot
+1	final election result
+1	final example
+1	final outcome
+1	final tally
+1	finding
+1	fragile processes
+1	general categories
+1	good idea
+1	hardware executes
+1	high probability
+1	high-quality voter
+1	homomorphic aggregation
+1	homomorphic method
+1	homomorphic properties [
+1	ideal environment
+1	identical receipts
+1	illegal triples
+1	immediate applicability
+1	incorrect election results
+1	incorrect output
+1	independent reduces
+1	infinite variety
+1	information system
+1	input validity
+1	input x
+1	input/output relationships
+1	interesting clash attack
+1	interesting definition
+1	issues fall
+1	key question
+1	ksters
+1	large benefits
+1	large complex system
+1	large system
+1	load fraudulent software
+1	madars @ mit.edu
+1	madars virza computer
+1	major category
+1	making
+1	malicious code
+1	malicious piece
+1	meaningful audit
+1	mix-net operation
+1	mix-net scrambles
+1	mix-net servers
+1	necessary component
+1	necessary relationship
+1	new ballots
+1	new definition
+1	new ones
+1	non-interactive proof systems
+1	non-software components
+1	numerous security vulnerabilities
+1	numerous unintentional bugs
+1	official procedures
+1	official tally
+1	optical scan system
+1	optical scanners
+1	original definition
+1	original paper
+1	original papers [
+1	original source code
+1	output z
+1	own construction
+1	paper ballot audit trail
+1	paper/electronic hybrid methods
+1	particular program
+1	pedagogic purposes
+1	people trust
+1	per-application database
+1	perfect detectors
+1	possible correction
+1	possible refinements
+1	post-election audit procedure
+1	post-election auditor
+1	powerful cryptographic tools
+1	practical proposal
+1	program verifi-
+1	prominent example
+1	proof reveals
+1	proofs
+1	proofs vacuous
+1	provided
+1	prt
+1	ps
+1	public audit trail
+1	public bulletin board
+1	public disclosure
+1	public key
+1	public review
+1	public vote validation
+1	pure use
+1	random number generator
+1	real-estate transactions
+1	reasonable fiscal constraints
+1	reasonable probability
+1	reasonable proposal
+1	receipt-based
+1	recent approach
+1	recent developments
+1	recent theoretical work
+1	recent years
+1	recently
+1	recovery mechanism
+1	recovery mechanisms
+1	regular elections
+1	relevant misbehavior
+1	remote voters
+1	removable memory card
+1	rivest @ mit.edu
+1	s.
+1	scratch
+1	scratch-off cards
+1	secret ballots
+1	secret input
+1	secret input w
+1	section 1.2.1
+1	section 1.3.2
+1	security mechanisms
+1	serious conflict
+1	side note
+1	significant probability
+1	silent theft
+1	simple recovery mechanism
+1	skilled effort
+1	small amounts
+1	software ...
+1	software bug
+1	software bugs
+1	software changes
+1	software code reviews
+1	software dependentit
+1	software dependentthe software
+1	software development control processes
+1	software development process
+1	software diminishes
+1	software errors
+1	software faults
+1	software independence addresses
+1	software independence captures
+1	software independence revisited ronald l. rivest computer
+1	software independentthat
+1	software independentthe
+1	software manipulation
+1	software system
+1	software-independent approaches currently
+1	software-independent system
+1	sound principles
+1	source code
+1	specification s
+1	springall
+1	star-vote
+1	strong cryptographic assumptions
+1	strong software independence
+1	stv
+1	subtle point
+1	subtle ways
+1	such assurance
+1	such audits
+1	such designs
+1	such detectable misbehavior
+1	such evidence
+1	such methods
+1	such post-
+1	such proof
+1	such systems
+1	such zero-knowledge proof methods
+1	such zeroknowledge proofs
+1	sufficient quality
+1	sufficient redundancy
+1	system [
+1	system accuracy
+1	system approaches
+1	system certifications
+1	system complexity
+1	system proposals
+1	system requirements lead
+1	system vendors
+1	systems
+1	systems [
+1	systems assures voters
+1	systems constitute
+1	systems generate
+1	touchscreen display
+1	touchscreen interface
+1	touchscreen user interface
+1	transaction data
+1	transaction ledger
+1	transaction service provider
+1	transactional data
+1	transferable vote
+1	trust requirements
+1	trustworthy outcomes
+1	u.s.
+1	unanswerable concern
+1	undetectable changes
+1	unexpected results
+1	unpredictable times
+1	verifiable computation
+1	verifiable computation system
+1	verifiable elections
+1	verifiable mixnets
+1	verifiable paper ballot
+1	verify
+1	vote
+1	vote validation
+1	voter [
+1	voter coercion
+1	voter education
+1	voter-verifiable paper record
+1	voters choice
+1	voters collude
+1	voters head
+1	voters intent
+1	voters intentions
+1	voters selections
+1	voting systems cryptographic
+1	weak software independence
+1	wherein voters
+1	whether
+1	zero-knowledge
+1	zero-knowledge proof system
