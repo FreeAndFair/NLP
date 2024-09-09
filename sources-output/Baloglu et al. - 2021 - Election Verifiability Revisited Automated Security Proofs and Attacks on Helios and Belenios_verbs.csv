@@ -1,0 +1,755 @@
+138	is
+49	are
+36	have
+28	corrupted
+18	show
+17	@
+15	verified
+15	note
+15	consider
+13	used
+12	casts
+11	represents
+11	verify
+10	using
+10	cast
+10	let
+9	to ensure
+9	present
+9	publishes
+9	to represent
+8	applying
+8	stuffing
+8	find
+8	contains
+8	allows
+7	should be
+7	assume
+7	associated
+7	specifies
+7	casting
+7	corresponds
+7	use
+6	are corrupted
+6	ensure
+6	authenticate
+6	verifies
+6	relying
+6	is recorded
+6	can
+6	obtained
+6	shows
+6	referring
+5	requires
+5	required
+5	generates
+5	registered
+5	be
+5	has
+5	relies
+5	say
+5	ensuring
+5	expected
+5	given
+5	is allowed
+5	can be
+5	accepts
+5	presented
+4	to control
+4	to verify
+4	called
+4	currently deployed
+4	recorded
+4	deduce
+4	to obtain
+4	being
+4	define
+4	corrupts
+4	is replaced
+4	is used
+4	says
+4	defining
+4	capture
+4	following
+4	abstaining
+4	expect
+4	making
+4	to choose
+4	can be audited
+4	existing
+3	rewriting
+3	constructed
+3	are delivered
+3	submits
+3	relating
+3	continuing
+3	is published
+3	showing
+3	adding
+3	obtain
+3	is tallied
+3	denote
+3	instantiated
+3	generating
+3	considering
+3	comes
+3	according
+3	can be combined
+3	achieve
+3	based
+3	will be tallied
+3	to make
+3	tallied
+3	can be performed
+3	need
+3	encoding
+3	was cast
+3	occurs
+3	verifying
+3	discuss
+3	introduce
+3	propose
+3	including
+3	allow
+3	can conclude
+3	may
+3	to cast
+3	to construct
+3	performed
+3	knows
+3	makes
+3	does not correspond
+3	also have
+3	illustrating
+3	to prevent
+3	is corrupted
+3	represent
+3	can be seen
+2	implies
+2	should ensure
+2	successfully verified
+2	obtains
+2	demonstrate
+2	record
+2	to be counted
+2	assumes
+2	can be explained
+2	removing
+2	does not terminate
+2	let be
+2	to apply
+2	described
+2	can be subverted
+2	phase generate
+2	provides
+2	may have
+2	would be
+2	can define
+2	can then deduce
+2	captures
+2	fixing
+2	to be
+2	assigns
+2	make
+2	to figure
+2	can perform
+2	ensures
+2	may allow
+2	argue
+2	seeing
+2	receives
+2	extend
+2	see
+2	to be elected
+2	communicates
+2	covering
+2	do
+2	is selected
+2	controls
+2	distributed
+2	are missed
+2	vary according
+2	added
+2	finding
+2	sees
+2	require
+2	specify
+2	is defined
+2	encode
+2	generate
+2	is communicated
+2	can check
+2	adapt
+2	is counted
+2	publish
+2	need to ensure
+2	correctly reflects
+2	related
+2	can verify
+2	is based
+2	also find
+2	derive
+2	is generated
+2	satisfies
+2	perform
+2	are presented
+2	means
+2	are cast
+2	discussed
+2	to vote
+2	recall
+2	are processed
+2	is presented
+2	selects
+2	taken
+2	distributing
+2	is also violated
+2	requiring
+2	followed
+2	resulting
+2	tallying
+2	desired
+2	construct
+2	to be tallied
+2	is received
+2	stuffing is
+2	were cast
+2	send
+2	can be obtained
+2	can be used
+2	is represented
+1	having
+1	to appear
+1	can help to express
+1	forgoes
+1	implied
+1	are leaked
+1	should mention
+1	can add
+1	are labelled
+1	is ensured
+1	is also analysed
+1	can be assumed
+1	are always applied
+1	allowing
+1	bounded
+1	to consider
+1	generated
+1	includes
+1	shown
+1	is fully corrupted
+1	are shown to imply
+1	can have
+1	presenting
+1	do not allow
+1	otherwise specified
+1	can be checked
+1	to come up
+1	are informally introduced
+1	being specified
+1	could be
+1	work
+1	did not perform
+1	decrypting
+1	defined
+1	promises
+1	are universally quantified
+1	later proposed
+1	etc.
+1	have been released
+1	may be specified to be
+1	therefore will be accounted
+1	prevents
+1	consist
+1	posted
+1	prover
+1	is not known
+1	automated
+1	can still verify
+1	analyse
+1	proving
+1	complete
+1	to authenticate
+1	is built
+1	ensured
+1	was
+1	do not verify
+1	to spot
+1	should imply
+1	to test
+1	may also be considered
+1	should be preferred
+1	accounts
+1	can write
+1	included
+1	may be considered to provide
+1	are also used
+1	expected to provide
+1	also mentions
+1	to create
+1	are covered
+1	introduced
+1	do not consider
+1	also called
+1	|
+1	should intuitively hold
+1	then will display
+1	only achieve
+1	to perform
+1	attacks
+1	also needs to create
+1	may be cast
+1	assemble
+1	run
+1	refer
+1	sketched
+1	assuming
+1	need to express
+1	does
+1	contributing
+1	authenticates
+1	can be ensured relying
+1	proceeding
+1	will be
+1	may restrict
+1	would not suffer
+1	are not constrained
+1	to be verified
+1	does not consider
+1	sends
+1	are typically defined
+1	to showing
+1	disallows
+1	performing
+1	follows
+1	should note
+1	is displayed
+1	is present
+1	are instructed
+1	accepted
+1	have successfully verified
+1	working
+1	corresponds to individual
+1	allow machine-assisted
+1	have not been verified
+1	match
+1	re)discover are
+1	extends
+1	can be detected
+1	do not provide
+1	does not take
+1	is registered
+1	may submit
+1	does not apply
+1	letting
+1	has to be
+1	protecting
+1	prepares
+1	underlying
+1	can be proved
+1	can make
+1	assembling
+1	does not have to control
+1	unified
+1	do not satisfy
+1	stating
+1	allows to be cast
+1	have discovered
+1	do not apply
+1	know
+1	will be defined based
+1	depending
+1	may also include
+1	prescribed
+1	validate
+1	are excluded
+1	to ease
+1	would go
+1	do not use
+1	conceived
+1	should be removed
+1	only need to switch
+1	is exploited
+1	to terminate
+1	are still justified
+1	can decide to have
+1	also use
+1	thus does not apply
+1	are deployed
+1	does pose
+1	will affect
+1	may consider
+1	are used to record
+1	should satisfy
+1	may require
+1	was proposed
+1	endowed
+1	to be shown
+1	changed
+1	leaves
+1	is set to be
+1	exist
+1	applies
+1	is not expected
+1	aim
+1	to is only known
+1	regularly used
+1	applied
+1	may not be counted
+1	also assumes
+1	modelling
+1	correspond to registered
+1	is violated
+1	claimed to represent
+1	treat
+1	perform automated
+1	is directly provided
+1	to formalise
+1	to assume
+1	mounting
+1	publishing
+1	tolerates
+1	has already used
+1	has successfully performed
+1	considers
+1	trust
+1	allows to derive
+1	leaked
+1	exploit
+1	distinguish
+1	is decrypted
+1	conclude
+1	is submitted
+1	is disallowed
+1	comment
+1	allow to specify
+1	cannot be expressed
+1	can submit
+1	can cast
+1	have applied
+1	have seen
+1	agree
+1	are published
+1	have to fix
+1	received
+1	adapting
+1	are instructed to verify
+1	come
+1	reconciling
+1	is executed
+1	are posted
+1	disallow
+1	cannot vote
+1	annulling
+1	may be ensured
+1	opening
+1	applying instantiated
+1	ends
+1	can be augmented
+1	to argue
+1	add up
+1	managing
+1	also apply
+1	does not accept
+1	also suffer
+1	are applied
+1	to record
+1	computed
+1	must have
+1	are usually subsumed
+1	to hold
+1	remove
+1	regarding
+1	reveal
+1	called respectively premises
+1	to simplify
+1	will be used
+1	allowing to cover
+1	is considered
+1	cannot handle
+1	symbolically analyzing
+1	is considered to be
+1	are enabled
+1	announce
+1	are represented
+1	is accompanied
+1	should
+1	apriori
+1	to rigorously evaluate
+1	posting
+1	then find
+1	should have
+1	to analyse
+1	to accept
+1	to clash
+1	is not supposed to use
+1	can inspect
+1	think
+1	is included
+1	voting
+1	can only be observed
+1	giving
+1	counted
+1	cover
+1	adopt
+1	considered
+1	is justified
+1	can assume
+1	only corrupting
+1	should occur
+1	does not cover
+1	revote
+1	involving
+1	extending
+1	falls
+1	allows automated
+1	are tallied
+1	clash
+1	play
+1	is assumed corrupted
+1	can be ensured
+1	take
+1	to attest
+1	unwillingly compromised
+1	can only mention
+1	built
+1	are asked to verify
+1	to publicly link tallied
+1	recover
+1	complementing
+1	enforces
+1	can also be adapted to proverif
+1	may control
+1	does not mean
+1	may verify
+1	step performed
+1	interacts
+1	forward could be
+1	determined
+1	is bounded
+1	modelled
+1	computes
+1	analyse was preferred
+1	would be permanently prevented
+1	determines
+1	representing
+1	should be applied
+1	cannot cast
+1	has verified
+1	was not tallied
+1	can only be updated
+1	there exists
+1	took
+1	to rely
+1	convinces
+1	to illustrate
+1	are associated
+1	should remain
+1	also to corrupted
+1	is proved
+1	is uniquely determined given
+1	inadvertently corrupted
+1	gives
+1	also limiting
+1	will show
+1	attack
+1	needed
+1	to provide
+1	ordering
+1	guaranteeing
+1	are also challenges concerning
+1	may be corrupted
+1	is correctly recorded
+1	actually check
+1	instruct
+1	does apply
+1	linking
+1	protect participating
+1	assign
+1	will be interpreted
+1	omits
+1	was supported
+1	uses
+1	is also stored
+1	creates
+1	omit
+1	starts
+1	have been counted
+1	can be removed
+1	to mount
+1	does not naturally apply
+1	to derive
+1	denoted
+1	performs
+1	have introduced
+1	is given
+1	should correspond
+1	to specify
+1	can be enforced
+1	realising
+1	to link
+1	can be partitioned
+1	do not require
+1	extended
+1	can only ensure
+1	can prove
+1	validating represents
+1	is performed
+1	have been taken
+1	successfully verify
+1	also covering
+1	aim to formalise
+1	can be exploited
+1	end-to-end
+1	does also have
+1	is also needed to handle
+1	have been verified
+1	allow to determine
+1	to be tallied is published
+1	needs to consider
+1	matches
+1	to generate
+1	to overcome
+1	constitutes
+1	choose
+1	thereby assuming
+1	should be satisfied
+1	does not provide
+1	can also audit
+1	cannot be removed
+1	is dropped
+1	can be cast
+1	nets
+1	computer-aided
+1	are supported
+1	to distinguish
+1	can also do
+1	produced
+1	aims to ensure
+1	circumscribes
+1	are ensured
+1	additionally allowing to cast
+1	yet still does not provide
+1	specifying
+1	is stored
+1	cannot
+1	can deduce
+1	can be added
+1	to using
+1	is applied
+1	corrupting
+1	need to choose
+1	designed
+1	should be taken
+1	intended
+1	typically takes
+1	to evaluate
+1	therefore corrupted
+1	can read
+1	delineating
+1	allow to compute
+1	to avoid
+1	currently recommended
+1	is obtained
+1	exclude
+1	have to assume
+1	will be counted
+1	allowed
+1	will describe
+1	casts using
+1	dedicated
+1	detached
+1	may still use
+1	accepts coming
+1	are existentially quantified
+1	offers
+1	do not know
+1	is associated
+1	can be prevented
+1	is formalised
+1	allows to use
+1	may decrypt
+1	may authenticate
+1	are correctly recorded
+1	does not directly provide
+1	is extended
+1	introducing
+1	entails
+1	call
+1	prove
+1	would
+1	takes
+1	cannot be used
+1	override to include
+1	can use
+1	would require
+1	apply
+1	to use
+1	explained
+1	do not protect
+1	cannot detect
+1	to prove
+1	are justified
+1	can be used to reduce
+1	published
+1	hard to use
+1	can entail
+1	has been
+1	involved
+1	is received was not produced
+1	to capture
+1	represented
+1	to select
+1	choose to abstain
+1	to add
+1	focuses
+1	can be analysed
+1	satisfy
+1	are performed
+1	amounting
+1	is challenging
+1	has cast
+1	is reflected
+1	should be cast
+1	to cover
+1	can achieve
+1	to define
+1	plays
+1	is chosen
+1	are assumed to vote
+1	may be added
+1	to fix
+1	is only required
+1	discover
+1	does not know
+1	facilitating
+1	authenticating
+1	to achieve
+1	has emerged
+1	indeed satisfies
+1	is proposed
+1	also does not help
+1	are recognised
+1	may still be
+1	trying to cast
+1	putting
+1	are checked to ensure
+1	defining are
+1	may be decrypted
+1	is linked
+1	connecting
+1	voted
+1	have verified
+1	communicate
+1	are not leaked
+1	may contain
+1	is formally defined
+1	are trusted
+1	consists
+1	to check
+1	has ended
+1	can be declared
+1	is computed
+1	are encoded
+1	has to be defined
+1	aided

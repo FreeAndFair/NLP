@@ -1,0 +1,1110 @@
+31	example
+19	degree k
+19	el gamal
+16	protocol
+15	electoral systems
+15	p rg
+14	s 1s
+11	gq
+11	p g
+11	plaintext space
+11	s.
+10	definition
+10	rg
+9	decs
+9	g gq
+9	naor-yung
+9	set s
+9	theorem
+8	cardinality s |s|
+8	choose
+8	decssk
+8	p zq
+8	y pm
+7	a1
+7	ballot types
+7	bob
+7	carol
+7	cite
+7	css
+7	enc2pk
+7	plurality
+7	score
+6	a0
+6	approval
+6	bi
+6	copeland
+6	daniel
+6	encs
+6	gens
+6	pairwise
+6	rank
+6	sk
+6	y q
+6	zq
+5	` s
+5	basic cryptosystem
+5	combination
+5	cryptosystem [
+5	enc
+5	integer range
+5	p points
+5	plaintext m
+5	public key pk
+5	schnorrs
+5	strips
+4	a1 q
+4	a10 q
+4	bucklin
+4	ciphertext pu
+4	cumulative
+4	encspk
+4	iks
+4	joint input
+4	np
+4	points
+4	proceedings
+4	product group
+4	randomness r
+4	range proof
+4	single
+4	systems
+4	two-round
+4	y py
+3	ai
+3	b1 b2 bk
+3	basis b
+3	below
+3	cca2
+3	computer
+3	computing
+3	cryptosystem
+3	decryption
+3	degree p
+3	discrete logarithm
+3	distribute
+3	dyck
+3	e1 q p0
+3	eveu
+3	function rankrss
+3	he0 ye1
+3	highest
+3	hx q
+3	i h
+3	italian attack
+3	key
+3	lecture notes
+3	limited
+3	majority exists
+3	max k
+3	multi-winner elections
+3	naor-yung cryptosystem
+3	non-trivial representation
+3	p gq
+3	p n
+3	p z2q
+3	pedersen
+3	permutation
+3	pre-image
+3	private input m1
+3	product groups
+3	pstripssk p
+3	public key
+3	random oracle model
+3	rankings
+3	recall
+3	s talice
+3	schnorr
+3	security parameter 1n
+3	set s talice
+3	suppose
+3	transferable vote
+3	valid ballot
+3	y t
+3	zero knowledge proof
+2	-bit binary representation
+2	] voters
+2	a0 q
+2	a11 q
+2	advances
+2	algorithm strip
+2	application
+2	b0
+2	ballot type
+2	binary tree
+2	bit strings
+2	bk u
+2	borda
+2	bordacount
+2	bq
+2	c1 c2 ck
+2	carsten schrmann
+2	cartesian
+2	cartesian products
+2	ci bi ` i
+2	ciphertext c
+2	ck q
+2	comb
+2	combinations
+2	combinatorial number system
+2	committed value
+2	common input ph
+2	common input x yx
+2	concrete
+2	cq unrankrss
+2	cryptosystem pgen
+2	dec
+2	dec2
+2	decimal numbers
+2	decision diffie-hellman
+2	decq
+2	decryption algorithm outputs ux v.
+2	define
+2	distribution
+2	douglas wikstrm
+2	efficient
+2	element
+2	element h
+2	enc2
+2	encryption
+2	encryption algorithm outputs pu
+2	factorial numbers
+2	fiat-shamir
+2	form ph
+2	franku
+2	functions s
+2	g pg
+2	g q
+2	gen2
+2	generalization
+2	generation algorithm
+2	h ph0
+2	hi h2
+2	homomorphism h
+2	important role
+2	integer range r0
+2	integer x
+2	introduction
+2	k k
+2	key generation algorithm samples x
+2	list pr
+2	max
+2	methods [
+2	michael gallagher
+2	multinadic number system
+2	multiset tb1
+2	natural way
+2	non-negative integer x
+2	non-uniform tuple
+2	np-relation
+2	number systems
+2	ordered pairs
+2	outputs ppk
+2	p g3
+2	p xu
+2	p.
+2	plaintext
+2	plaintext space s
+2	positive integers
+2	possible output ppk
+2	preferential
+2	prime order q
+2	range proofs
+2	range proofs [
+2	ranking
+2	rankr k s
+2	ri ri `
+2	rlog2 ss
+2	robert krimmer
+2	rpq
+2	s f
+2	s q
+2	s s ` s
+2	s w.r
+2	s |s|
+2	s0
+2	secret key sk
+2	set
+2	set ground
+2	si
+2	simplify notation
+2	skq ppg
+2	sn1
+2	special sound proof
+2	special zero knowledge
+2	springer
+2	spxq rankr
+2	ss k k
+2	subprotocols output
+2	sytku
+2	sytku comb
+2	twin el gamal cryptosystem
+2	unrankrsspyn1 qq
+2	v.
+2	voter chooses
+2	voting
+2	vq pg r
+2	x i1 i
+2	xk q
+2	y gx
+2	y pm1
+2	y pm10
+2	z rankrsspmq
+2	zero knowledge proofs
+1	//electowiki.org/wiki/pairwise_preference #
+1	1/0.5/0 points
+1	1x pxq
+1	29. wikipedia
+1	3u 2s
+1	] refers
+1	] system
+1	] system points
+1	] system uses
+1	] uses
+1	^ ty { 2i u mod
+1	` ` `
+1	` ` rankr
+1	` b
+1	` b.
+1	` bq
+1	` c
+1	` c cpx
+1	` h
+1	` rankr
+1	` rankrs f spxq rankris
+1	` rankrs spx0
+1	` s list
+1	` s ranks
+1	` t0
+1	` unrankr
+1	a h
+1	a. fiat
+1	a. shamir
+1	a0 p g
+1	a1 ipr0,1s ai
+1	a1 ipr0,1s mi
+1	a10 ` a11 q
+1	aaron williams
+1	abstract
+1	abstract ballot types
+1	abstract form
+1	abuse notation
+1	acm
+1	acm symposium
+1	additional algorithm
+1	additional ballot types
+1	additional properties
+1	additional rankings
+1	additional restrictions
+1	additional values
+1	aggregate preferences
+1	algorithm outputs pu
+1	alice
+1	aliceu
+1	alternative voting
+1	am
+1	amalfi
+1	ambigous ballots
+1	american political science
+1	andr blais
+1	anonymous channel
+1	appendix d.1
+1	approach restricts
+1	aq
+1	aq hm y
+1	arbitrary number
+1	atomic choices
+1	august
+1	aus
+1	australasian theory
+1	australian computer
+1	austria
+1	auxiliary security parameter
+1	b 1s
+1	b phm y
+1	b q
+1	b u
+1	b. pairwise
+1	b1
+1	b2
+1	ballot structure
+1	ballot type [
+1	ballot type defines
+1	ballot type plaintext
+1	ballot type s
+1	ballot types throughout
+1	ballot voters
+1	ballots
+1	bases g
+1	basis g
+1	basis h
+1	bi i
+1	bi q
+1	bi1
+1	bijection rankrss
+1	binary -bit representation
+1	binary basis
+1	binary representation
+1	binary strings
+1	binary trees
+1	binaryalphabet t
+1	biometrika
+1	bitstring homomorphism
+1	bitwise commitment
+1	bitwise commitments
+1	bk
+1	bk q unrankr
+1	bk s
+1	bn
+1	bn q representation
+1	bormann
+1	bregenz
+1	bush-gore
+1	c h
+1	c hs ipr0,1s
+1	c yx
+1	c.
+1	c. rackoff
+1	c. schnorr
+1	canonical list px1
+1	cardinal [
+1	cardinalities si |si |
+1	cardinality `
+1	cardinality k
+1	cardinality s
+1	cardinality s.
+1	cast invalid votes
+1	cast votes
+1	categorization
+1	cats
+1	cca2-secure
+1	certain number
+1	certain quantity
+1	challenge c
+1	challenge space
+1	characteristic function
+1	chooses a1
+1	chooses b
+1	chooses voter
+1	ciphertext attack
+1	ciphertext g
+1	ciphertext triple
+1	ciphertexts
+1	cited
+1	ck q unrankr
+1	classification [
+1	classify electoral systems
+1	claude hillinger
+1	coin zero knowledge proofs
+1	combinatorial number
+1	combinatorial number systems
+1	combinatorics literature
+1	commitment [
+1	common ballot types
+1	common cryptosystems
+1	common electoral systems
+1	common examples
+1	common form
+1	common input h
+1	common input pm1
+1	common input s
+1	common number systems
+1	common serialization formats
+1	comparing
+1	computable bijection
+1	compute ci cpri `
+1	compute xi tri `
+1	computes b
+1	computes d cx `
+1	concrete cryptosystem
+1	concrete instantiation
+1	concrete predicate rbs
+1	concrete rankings
+1	concrete variant
+1	condorcet
+1	constructions rks
+1	conversion algorithms
+1	copyright
+1	corollary
+1	corresponding integer
+1	corresponding subset
+1	cq h
+1	cq pm2
+1	crc
+1	cryptographic analysis
+1	cryptography
+1	cryptology crypto
+1	cryptology eurocrypt
+1	cryptosystem pgen2
+1	cryptosystem pgenrbs
+1	cryptosystem pgens
+1	cryptosystems
+1	cs
+1	d selected
+1	d.
+1	d.1 schnorrs
+1	d.2
+1	d.3
+1	danielu
+1	david @ sequentech.io
+1	david ruescas
+1	dec.
+1	dec2sk
+1	decimal number system
+1	decision
+1	decpkb
+1	decpkb stripspk
+1	decrbs
+1	decryption algorithm outputs
+1	decryption function
+1	decspk
+1	definition ensures
+1	definition h rankrss f
+1	definitions
+1	degenerate cases
+1	degenerate form
+1	degree
+1	degree di
+1	degree k correspond
+1	degree k w.r.
+1	degree k.
+1	democratic electoral systems
+1	denote
+1	depth i
+1	depth r
+1	derivea combinadic
+1	derived sets
+1	description
+1	description cardinal/plurality choose
+1	dhondt
+1	diffiehellman
+1	discrete logarithm assumption
+1	discrete logarithm loghi yi
+1	discrete logarithm problem
+1	discrete logarithm x
+1	discrete logarithms
+1	disjoint unions
+1	distribute max
+1	dog @ kth.se
+1	donoghue
+1	douglas
+1	dummy symbol
+1	duvergers hypothesis
+1	dyck words
+1	e-vote-id
+1	e0 m10 ` m11 s
+1	e1 a1 r x
+1	e1 a10 ` a11 x
+1	e1 c pam ` bq
+1	efficient access
+1	efficient computation
+1	efficient protocols
+1	el gamal cryptosystem
+1	election outcomes
+1	election scheme
+1	election schemes
+1	electoral laws
+1	electoral studies
+1	electronic voting
+1	element f pxq xps
+1	elicit voter preferences
+1	elsevier
+1	encode auxiliary information
+1	encode m
+1	encode votes douglas wikstrm
+1	encrbs
+1	encrypt m
+1	encrypt plaintexts
+1	encrypt z
+1	encryption algorithm
+1	encryption algorithm outputs pc
+1	encryption function
+1	equality
+1	eurocrypt
+1	exam2 ples
+1	example electoral systems
+1	explicit algorithms
+1	explicit construction
+1	explicit constructions
+1	explicit description
+1	explicit formulas
+1	explicit table
+1	exponent
+1	exponents
+1	extract commonality
+1	f q
+1	f u
+1	factoradic integer
+1	factorial number system
+1	faithful generalization
+1	fewest votes
+1	final rank
+1	finite sequence px0
+1	finite sequence x1
+1	first-past-the-post
+1	fishburn
+1	fixed-length bitstrings
+1	fixed-radix representation
+1	fixed-radix representations
+1	form pg
+1	fourteenth symposium
+1	fractional coefficient
+1	frank
+1	frank ruskey
+1	fsrpr
+1	fsrprpq
+1	fsrvr
+1	fsrvrpq
+1	full plaintext space
+1	function
+1	function f
+1	function unrankrss
+1	function values
+1	functions f s
+1	functions suppose
+1	furthermore
+1	g. encryption
+1	g1
+1	gabriele gratton
+1	gen
+1	general definition
+1	general methodology
+1	general purpose system
+1	generalized el gamal cryptosystem
+1	generating
+1	generation algorithm gen.
+1	group elements u
+1	group homomorphism
+1	h f unrankrss
+1	h g m
+1	h ph
+1	h q
+1	h yr q
+1	h yz
+1	h1 q
+1	h1 q i
+1	hands d
+1	harvard
+1	helpful election workers
+1	heuristic [
+1	higest score
+1	histoire
+1	hm y
+1	hm y c q
+1	homomorphism recall
+1	honest verifier zero knowledge
+1	honest verifier zero-knowledge proof
+1	honest voters
+1	huffman
+1	hx phx1
+1	i k
+1	i n
+1	i x
+1	i yi
+1	i.
+1	i0 pbi `
+1	ib
+1	ib1 ib
+1	ibi
+1	identity ipr0,1s
+1	idi
+1	ieee transactions
+1	implies implies
+1	incomplete block designs
+1	incomplete information
+1	ind-cpa/ind-cca2
+1	independent interest
+1	index components
+1	individual voters
+1	information theory
+1	initiatives [
+1	integer c `
+1	integer multiplication
+1	integer rank
+1	integer ranks
+1	integer sequence
+1	integer y amounts
+1	integer z
+1	integers ` ci k
+1	integers b pb1
+1	integers b1
+1	interactive proof systems
+1	international conference
+1	introduce notation
+1	inverse function unrankrss
+1	ipr0,1s i ai
+1	ipr0,1s ipr0,1s
+1	iq max c
+1	is0
+1	isi
+1	isn1
+1	italy
+1	iterative way
+1	ivan visconti
+1	jc
+1	jean-jacques quisquater
+1	joint
+1	joint decryption
+1	joint input h
+1	jordi barrat
+1	jurij toplak
+1	k ` s s
+1	k elements
+1	k points
+1	k r
+1	k r s.
+1	karen ec levy
+1	key generation algorithm outputs ppk
+1	knowledge
+1	knowledge [
+1	knowledge complexity
+1	knowledge extractor
+1	kristen
+1	ks rks
+1	kth
+1	labels [
+1	large endian representations
+1	large fraction
+1	large number
+1	large risk
+1	laurent bouton
+1	legal f.
+1	legal requirement
+1	legal requirements
+1	lewis jerome johnson
+1	lex localis
+1	lexicographical order
+1	list
+1	list px1
+1	louis c. guillou
+1	louis massicotte
+1	luce
+1	m. naor
+1	m. yung
+1	m1 ipr0,1s mi 2i
+1	m10 ` m11 s
+1	m2 m
+1	m2 m1
+1	m2 pu
+1	main part
+1	majority
+1	majority option
+1	majority option exists
+1	malicious
+1	malicious voters
+1	map elements
+1	map m g m
+1	mark ballots
+1	mathematical process
+1	matt golder
+1	matthew j salganik
+1	max degree
+1	max degree k
+1	max p points
+1	may
+1	median number
+1	median system uses voter ratings
+1	melanie volkamer
+1	memoire
+1	message m
+1	message m satisfies pmq
+1	method uses
+1	methodology
+1	mi ai hi y h y ipr0,1s hm y
+1	michel balinski
+1	milton e terry
+1	mixed-radix representation
+1	mr. hares
+1	multi-winner variant
+1	multinadic number
+1	multiple encodings
+1	municipal review
+1	n1 n1 radix
+1	nadja braun binder
+1	national academy
+1	natural canonical representation
+1	natural generalization
+1	natural number
+1	nc log q
+1	need range proofs
+1	networks
+1	nicolaus tideman
+1	nils
+1	nomination
+1	non-interactive proof
+1	non-interactive zero-knowledge proof
+1	non-negatitive integer
+1	non-negative integer n1 x
+1	non-negative integers
+1	non-trivial representation e e hi
+1	noninteractive proof
+1	nontrivial representation he0 ye1
+1	norbert kersting
+1	np-relation r
+1	numerical value
+1	october
+1	olivier pereira
+1	optimize protocols
+1	option b occurs
+1	ordinal [
+1	ordinal ballot types rank
+1	ordinal category
+1	ordinal rank
+1	ordinal voting borda
+1	original protocol
+1	otherwise
+1	outputs x
+1	overseers
+1	p combination
+1	p g2q
+1	p ibi
+1	p x
+1	p1n q.
+1	pair ppkb
+1	pairwise comparisons
+1	pairwise comparisons [
+1	pairwise preference
+1	pairwise preferences
+1	pairwise victories
+1	pairwise victory
+1	pairwise wins/ties/losses
+1	parallel execution
+1	party list proportional representation [
+1	paul mitchell
+1	pedersen commitments
+1	perm
+1	permutations
+1	perspectives
+1	peter
+1	phm y
+1	pk pg
+1	pka q
+1	plaintext integer ranks
+1	plaintext space contains
+1	plaintext space r0
+1	plaintext spaces
+1	plaintext-randomness pair pm
+1	plos
+1	plurality-at-large
+1	point total
+1	political consequences
+1	polynomial time
+1	positional basis
+1	positional number
+1	positional number systems
+1	positive integer s.
+1	possible plaintext
+1	possible valid ballots
+1	power s n
+1	pr
+1	practical cryptosystems
+1	practical solutions
+1	practical variant
+1	practical zero-knowledge protocol
+1	preference definitions
+1	preferential vote
+1	prefix shifts
+1	presidential election
+1	privacy
+1	private input i ipr0,1s r ipr0,1s ai
+1	private input m
+1	private input m10
+1	private input pm
+1	private input w
+1	private input x.
+1	private inputs pm0
+1	private inputs pm1
+1	program verification
+1	proofs
+1	proofs [
+1	proportionality
+1	protocol [
+1	protocol amounts
+1	provided
+1	pstrippk p
+1	public key cryptosystem
+1	public key pk pg
+1	public-coin zero knowledge proof pp
+1	public-coin zero-knowledge proof
+1	public-key
+1	pxq denotes
+1	pxq g x
+1	pxq pg x
+1	q penc2 pm
+1	q r2s
+1	qm y b hm y
+1	quantifiable social data collection
+1	r a1
+1	r1 i0
+1	r2 1s
+1	r2g g
+1	r2g g3
+1	r4g g3
+1	radix b
+1	radix pb1
+1	radix representation
+1	radix systems
+1	rae
+1	rafail ostrovsky
+1	raiffa
+1	ralph allan bradley
+1	random oracle
+1	range r0
+1	rank combinations
+1	rank options
+1	rank permutations
+1	rank proposals
+1	rank unions
+1	rankrf spf q
+1	rankris s
+1	rankrs n spx0
+1	rankrsn1 spxn1 qq
+1	rankrsspiq i
+1	rankrsspxn1 q
+1	rankrsspxn1 qq
+1	rate options
+1	real-world applications
+1	real-world ballot types
+1	reasonablesocial welfare function
+1	recursive composition
+1	reduces software complexity
+1	references
+1	refinement
+1	refinements
+1	remark
+1	repetition recall
+1	replay attacks
+1	respect algebraic relations
+1	review
+1	rg g
+1	rg g1
+1	rg x
+1	rg zq
+1	rich literature
+1	richard h pildes
+1	rida laraki
+1	rk `
+1	rks s
+1	rn x
+1	roberto de prisco
+1	round voters
+1	royal institute
+1	royale
+1	rq pg r
+1	rq unrankrss
+1	run-off [
+1	runoff elections
+1	ruskey
+1	s `
+1	s ` ks
+1	s ` rankrt spxq
+1	s elements
+1	s f u
+1	s i0
+1	s k rks ` psqr2s
+1	s m10
+1	s pairs
+1	s r0
+1	s rankrs
+1	s rankrsspf
+1	s repetition
+1	s t0
+1	s trankrsspxq | x
+1	s unrankr2 spxq 1xpx 2rankrsspxq
+1	s w.r. k
+1	s w.r. p
+1	s. goldwasser
+1	s. micali
+1	s1
+1	saint-lague
+1	satisfies ipr0,1s
+1	satisfies pmq
+1	scn
+1	scoring
+1	secret input x
+1	secret key
+1	secret key sk px
+1	security microprocessor
+1	security parameter
+1	security parameter n
+1	security parameters
+1	security reduction
+1	selected sets
+1	september
+1	sequent tech
+1	serialization format
+1	session identifier
+1	set 2p
+1	set 2s
+1	set p
+1	set r0
+1	set s f
+1	set ta
+1	set tf pxq | px
+1	set tx1
+1	setting ` `
+1	setting e0 m m2
+1	setting e0 m1 m2
+1	siam
+1	siamak shahandashti
+1	signature problems
+1	signature scheme
+1	similar partisan entities
+1	simplified
+1	size k
+1	small set
+1	smart cards
+1	snowden attack
+1	social sciences
+1	sof subset
+1	space optimal
+1	special cases
+1	special sound `
+1	spf q rankris
+1	spf unrankrssq
+1	springer verlag
+1	spzq h
+1	spzq rankrss
+1	spzq tunrankrsspb1 q
+1	spzq tunrankrsspc1 q
+1	spzq unrankris
+1	spzq unrankrt spz sq
+1	sr
+1	sr distribute
+1	ss
+1	ss perm
+1	sset
+1	standard generator g1
+1	statement x
+1	statistical techniques [
+1	steven j brams
+1	stoc
+1	straight-line knowledge extraction
+1	stripping
+1	stripspk
+1	strong reasons
+1	studies
+1	submit invalid
+1	subset
+1	subset t0
+1	subsets
+1	such methods
+1	such need
+1	such tlog qu n
+1	suitable `
+1	sum criteria
+1	sur les elections au scrutin
+1	sven heiberg
+1	system [
+1	systematic way
+1	systems fall
+1	systems used
+1	t choose
+1	t function
+1	t score
+1	t t
+1	t |f |
+1	taher el gamal
+1	term score
+1	tf pxq | f
+1	theorem shows
+1	theoretical economics
+1	theory
+1	title
+1	tku w.r. k
+1	tku w.r. p order elements
+1	top rank
+1	total points
+1	total score
+1	total votes
+1	trankrsspxq | x
+1	transferable vote [
+1	tree dyck
+1	tree rks
+1	trees
+1	tuple pb
+1	tx
+1	tx x tx1 h
+1	typical application
+1	typical variant
+1	typically
+1	u. chi
+1	uniform tuple
+1	uniform tuples
+1	union iprks i
+1	unique canonical
+1	unique element y
+1	unique element-function pair
+1	unique indices
+1	unique preimage m
+1	unique representation
+1	unrankr2s spyq unrankrsspiq
+1	unrankrs f spzq unrankrf spz2 qpunrankrsspz1 qq
+1	unrankrs n spzq punrankrsspy0 q
+1	unrankrs spzq punrankrsspy0 q
+1	unrankrsn1 spyn1 qq
+1	unrankrsspbk qu
+1	unrankrsspck qu
+1	unrankrsspzq m
+1	unrankrsspzq punrankrs0 spy0 q
+1	user identifier
+1	va11 yx
+1	valid ballots
+1	valid way
+1	valid ways
+1	value z
+1	verificatum
+1	verificatum ab
+1	verificatum mix-net
+1	vote
+1	voter
+1	voter distributes
+1	voter distributes k points
+1	voter intent
+1	voter ranks
+1	voter scores
+1	voters mark
+1	vq
+1	vq pgr
+1	w1 { z v
+1	whole plaintext space
+1	wide range
+1	wiki
+1	wikstrm
+1	william robert ware
+1	williams
+1	world [ 5,24,3,13 ]
+1	write-in votes
+1	x f pyq
+1	x hx
+1	x i0 xi
+1	x jpt0,1u ipr0,1s aj
+1	x2 q
+1	xj q
+1	xj q ji0 vpxi q
+1	xk u
+1	xn1 q
+1	xn1 q rankris s rankrsspx0 q
+1	xn1 q rankrisn s prankrsspx0 q
+1	xn1 q rankrisprankrs0 spx0 q
+1	y b
+1	y c
+1	y pm0
+1	y pm10 ` m11 s
+1	y pm11
+1	y pxq
+1	y q.
+1	y q. i
+1	y r g m q.
+1	y r hm q
+1	y r mq
+1	yn1 q unrankris spzq
+1	yn1 q unrankrisn spzq
+1	yn1 q unrankrispzq
+1	z rankris
+1	z s unrankrs
+1	z2 q unrankris
+1	zero knowledge proofs [
+1	zero knowledge range proofs [
+1	| i x
+1	|tx | |f |

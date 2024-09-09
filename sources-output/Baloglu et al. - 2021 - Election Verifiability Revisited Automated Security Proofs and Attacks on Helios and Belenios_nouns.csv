@@ -1,0 +1,1001 @@
+95	] [
+55	helios
+48	belenios
+39	online
+24	tamarin
+21	computer
+16	bulletin board
+16	public credentials
+15	public credential
+14	election verifiability
+14	springer
+13	figure
+13	lecture notes
+13	proceedings
+13	usa
+12	example
+11	clash attack
+10	definition
+10	ieee computer
+10	privacy
+9	adversary
+9	ballot cast
+9	bb
+9	end-to-end verifiability
+8	attack scenario
+8	clash attacks
+8	election authorities
+8	execution trace
+7	acm
+7	individual verifiability
+7	security properties
+7	symposium
+7	zero-knowledge proof
+6	@ =
+6	] [ ] voter verifies
+6	advances
+6	corruption scenario
+6	cryptology
+6	public key
+6	symbolic model
+6	symbolic models
+6	trace formulas
+6	v. cortier
+6	verification procedures
+6	voting
+5	] [ ]
+5	adversarial
+5	d. a.
+5	dynamic corruption
+5	election auditors
+5	eligible candidates
+5	eligible voters
+5	fig
+5	honest voters
+5	ieee
+5	international conference
+5	o. pereira
+5	protocol specification
+5	proverif
+5	secret key
+5	symbolic verifiability
+5	verification
+5	verification procedure
+4	april
+4	august
+4	ballot structure
+4	ballots cast
+4	ca
+4	communication network
+4	consider
+4	final outcome
+4	final result
+4	foundations symposium
+4	ieee symposium
+4	iv
+4	july
+4	may
+4	protocol
+4	revote policy
+4	right order
+4	rule models
+4	security proofs
+4	security protocols
+4	september
+4	setup
+4	usenix
+3	= |
+3	] [ =
+3	] [ ] [
+3	action facts
+3	analysis shows
+3	assume
+3	authenticate voters
+3	automated
+3	b. adida
+3	b. blanchet
+3	c. cremers
+3	california
+3	cast ballots
+3	communications
+3	continuing example
+3	corrupt platform
+3	corrupt registration
+3	corrupt server
+3	corrupt trustee
+3	corrupt voter
+3	corruption abilities
+3	corruption models
+3	corruption rules
+3	current deployment
+3	eds.
+3	eurocrypt
+3	formal verification
+3	foundations
+3	france
+3	homomorphic encryption
+3	honest parties
+3	ii
+3	iii
+3	individual verification procedure
+3	individual verification procedures
+3	new security proofs
+3	november
+3	private identity
+3	protocol state
+3	public audits
+3	r. ksters
+3	randomness rule
+3	s. kremer
+3	secret key [
+3	setup phase
+3	stuff ballots [
+3	symbolic analysis
+3	t. truderung
+3	tally
+3	tally phase
+3	theorem
+3	verifiability property
+3	voter identity
+3	voter verifies
+2	1. registers
+2	4. blocks
+2	5. accepts
+2	= corresponds
+2	= {
+2	= { |
+2	] authenticate voter
+2	] register voter
+2	] setup
+2	a.
+2	a. halderman
+2	a. juels
+2	a. ryan
+2	a. vogt
+2	additional
+2	additional votes
+2	adversarial credentials
+2	annual
+2	application
+2	appropriate verification procedures
+2	assumptions
+2	b. helios
+2	b. schmidt
+2	ballot
+2	c. a. neff
+2	c. j. f. cremers
+2	cast votes
+2	ccs
+2	clash
+2	consistency property
+2	corrupted
+2	corruption scenarios
+2	cortier
+2	credentials [
+2	crypto
+2	cryptographic primitives
+2	cryptographic techniques
+2	d. galindo
+2	d. s. wallach
+2	deployment options
+2	distinct voters
+2	e-voting
+2	ed.
+2	eds
+2	electronic
+2	electronic voting
+2	eligible voter
+2	ensure ballot validity
+2	ensure ballots
+2	esorics
+2	euros
+2	evt06
+2	examples
+2	existing
+2	fact symbols
+2	formal framework
+2	formal models
+2	formally
+2	fresh data
+2	function symbols
+2	g. barthe
+2	general class
+2	generate election
+2	homomorphic tally
+2	honest execution
+2	honest server
+2	honest voter
+2	identity
+2	ii-a
+2	important differences
+2	intruder deduction rules
+2	intuitively
+2	italy
+2	jcj/civitas
+2	june
+2	k. bhargavan
+2	k. sako
+2	key pair
+2	l. schmid
+2	large class
+2	lemma
+2	m. jakobsson
+2	m. ryan
+2	new attacks
+2	notable results
+2	october
+2	p. rogaway
+2	p. y
+2	paris
+2	previous
+2	prominent internet
+2	protocol components
+2	protocol inputs
+2	protocol procedures
+2	protocol rules
+2	proverif/tamarin
+2	public bulletin board
+2	public counterpart
+2	public information
+2	public keys [
+2	publish ballot =
+2	r. l. rivest
+2	receipt-free
+2	respective public credential
+2	revote
+2	s. glondu
+2	s. meier
+2	san francisco
+2	san jose
+2	santa barbara
+2	security definition
+2	selene
+2	simple protocol
+2	sok
+2	sound verification conditions
+2	special party
+2	specifically
+2	specification =
+2	submits ballot
+2	successful verification
+2	symbol models
+2	symbolic
+2	symbolic framework
+2	symbolically
+2	technology workshop
+2	theory
+2	times occurs
+2	trace formula
+2	trust assumptions
+2	uk
+2	usenix/accurate electronic voting
+2	v. teague
+2	valid votes
+2	various scenarios
+2	verifiability analysis
+2	verifiable elections
+2	verify
+2	voteid
+2	voters [
+2	voting phase
+2	wpes
+2	|3 | < |
+1	//belenios.org/ [
+1	//dl.acm.org/ citation.cfm
+1	//doi.acm.org/10.1145/1102199.1102213 [
+1	//doi.acm.org/10.1145/2517840.2517852 [
+1	//doi.acm.org/10.1145/2660267.2660315 [
+1	//doi.acm.org/10.1145/501983.502000 [
+1	//doi.org/10.1007/ 3-540-46416-6_47 [
+1	//doi.org/10.1007/ 978-3-642-22792-9_5 [
+1	//doi.org/10.1007/11555827_8 [
+1	//doi.org/10.1007/11818175_22 [
+1	//doi.org/10.1007/3-540-49264-x_32 [
+1	//doi.org/10.1007/978-3-030-19052-1_14 [
+1	//doi.org/10.1007/978-3-319-22270-7_3 [
+1	//doi.org/10.1007/978-3-319-68687-5_14 [
+1	//doi.org/10.1007/978-3-642-15497-3_24 [
+1	//doi.org/10.1007/978-3-642-32747-6_1 [
+1	//doi.org/10.1007/978-3-642-39799-8_48 [
+1	//doi.org/10.1007/978-3-642-40203-6_27 [
+1	//doi.org/10.1007/978-3-662-46666-7_16 [
+1	//doi.org/10.1007/978-3-662-46803-6_16 [
+1	//doi.org/10.1007/978-3-662-53357-4_12 [
+1	//doi.org/10.1109/csf.2019.00032 [
+1	//doi.org/10.1109/csf49147.2020.00009 [
+1	//doi.org/10.1109/csfw.2006.8 [
+1	//doi.org/10.1109/eurosp.2017.27 [
+1	//doi.org/10.1109/eurosp.2017.38 [
+1	//doi.org/10.1109/msec.2019.2915398 [
+1	//doi.org/10.1109/sp.2008.32 [
+1	//doi.org/10.1109/sp.2012.32 [
+1	//doi.org/10.1109/sp.2016.52 [
+1	//doi.org/10.1145/1866307.1866366 [
+1	//eprint.iacr.org/2020/109 [
+1	//github.com/ sbaloglu/tamarin-codes
+1	//heliosvoting.org/ [
+1	//www.usenix.org/conference/evt-06/ ballot-casting-assurance [
+1	//www.usenix.org/events/ sec08/tech/full_papers/adida/adida.pdf [
+1	1007/s00145-007-0203-0 [
+1	2. blocks
+1	2. corrupts
+1	2. specifies
+1	3. accepts
+1	3. casts
+1	4. accepts
+1	5. casts
+1	6. accepts
+1	6. corrupts registration
+1	7. casts
+1	8. accepts
+1	@ = ensure ballots
+1	@ = ensures
+1	[ ] [ ] [ ]
+1	] =
+1	] considers
+1	] generate password
+1	] leaves
+1	] logs
+1	a. c. myers
+1	a. essex
+1	a. filipiak
+1	a. kiayias
+1	abstaining
+1	abstract calculus [
+1	abstract process algebra
+1	abstractelection
+1	accountability
+1	achilles heel
+1	acknowledgement
+1	acm siglog
+1	acm sigsac
+1	action fact
+1	action fact @
+1	active area
+1	actual voter instruction
+1	additional constraints
+1	additional private credentials
+1	additional restrictions
+1	additional test
+1	additional trust assumptions
+1	administrator rules
+1	adversarial ballot
+1	adversarial corruption rules
+1	adversarial knowledge
+1	adversarial models
+1	adversarial power
+1	adversarial votes
+1	adversary component
+1	adversary obtains protocol outputs
+1	alexandria
+1	aliases [
+1	analyse verifiability
+1	analysis
+1	annotations suggestive
+1	annual cryptology
+1	appendix
+1	appendix a. corollary
+1	applications
+1	appropriate audit
+1	appropriate level
+1	appropriate procedures
+1	arch.
+1	asymmetric encryption
+1	athens
+1	attack models strategy
+1	attacker knowledge
+1	austria
+1	authentication protocol
+1	available online [
+1	az
+1	b. dowling
+1	b. grgoire
+1	b. parno
+1	b. smyth
+1	b. warinschi
+1	b. zhang
+1	ballot =
+1	ballot [
+1	ballot opening
+1	ballot privacy
+1	ballots [
+1	ballots encode
+1	barbados
+1	basic assumption
+1	basic assumptions
+1	basic protocol
+1	basic verification step
+1	basic version
+1	bc
+1	belenios sevdenur baloglu
+1	beleniosvs
+1	berlin
+1	bern
+1	bitcoin
+1	boston
+1	bregenz
+1	bulgaria
+1	bulletin
+1	c. belenios
+1	c. c. drgan
+1	c. culnane
+1	c. dwork
+1	c. multiset-based
+1	c. schrmann
+1	c. wiedling
+1	canada
+1	candidates apriori
+1	case accountability
+1	case studies
+1	case voters
+1	cast ballot
+1	cast ballots encode
+1	catherine a. meadows
+1	certain actions
+1	certain assumptions
+1	certain conditions
+1	certain names
+1	certain procedures
+1	certain range
+1	check signatures
+1	chicago
+1	christ
+1	circumscribes adversarial
+1	civitas
+1	classic clash attack
+1	classic clash attacks
+1	coercion-resistance
+1	coercion-resistant
+1	comment
+1	common elements
+1	common protocol structure
+1	common structure
+1	communicate credentials
+1	comparison
+1	complete characterisation
+1	complete notion
+1	computational analysis
+1	computational approach
+1	computational model
+1	computational soundness
+1	computer aided verification
+1	computer-aided cryptography
+1	computeraided
+1	computes =
+1	concise way
+1	conclude =
+1	conclude |3 | < |
+1	conclusion {
+1	concrete attacks
+1	consistency checks
+1	consistent connection
+1	contains preliminaries
+1	conversely
+1	corollary
+1	corresponding adversarial rules
+1	corresponding ballot
+1	corresponding notion
+1	corresponding plaintext
+1	corresponding protocol parties
+1	corresponding public credential
+1	corresponding public verification key
+1	corresponding verification key
+1	corresponding verification procedure
+1	corresponding vote
+1	corresponding voters
+1	corrupt various parts
+1	corrupt voters
+1	crucial factor
+1	crucial property
+1	cryptographic
+1	cryptographic properties
+1	cryptography
+1	cryptology eurocrypt
+1	csf
+1	csf12
+1	csfw-19
+1	ct
+1	current formal models
+1	d. catalano
+1	d. chaum
+1	d. springall
+1	d. stebila
+1	d. wikstrm
+1	data
+1	de marneffe
+1	decrypt messages
+1	deduce =
+1	deduce |3 | < |
+1	definition captures
+1	different formal definitions
+1	different parts
+1	different points
+1	different scenarios
+1	different versions
+1	difficult 1. creates
+1	diffie-hellman
+1	digital signatures
+1	direct ballot
+1	dishonest registrar
+1	disjoint union
+1	dispute
+1	dispute resolution mechanisms
+1	distinct corruption scenarios
+1	distinct symbolic verifiability definitions
+1	distributed elgamal
+1	e-vote-id
+1	e. cuvelier
+1	e. oswald
+1	easycrypt
+1	effective verifiability
+1	efficient
+1	egham
+1	electing
+1	election key
+1	election keys
+1	election verifiability [
+1	electronic elections
+1	elenios helios
+1	eligible voter obtains
+1	eligible voters [
+1	empty ballot
+1	empty ballots
+1	encryption algorithm
+1	end goal
+1	end-to-end
+1	end-to-end election verifiability
+1	end-to-end verifiability benefits
+1	end-to-end verifiability guarantees
+1	end-to-end verifiability property
+1	end-toend verifiability
+1	endto-end verifiability
+1	ensure consistency
+1	equalities
+1	equality constraints
+1	equational properties
+1	equational reasoning
+1	equational theory contains
+1	equations
+1	essays dedicated
+1	estonian internet
+1	exclude credentials
+1	exploration space
+1	expressions =
+1	expressive computational model
+1	extending
+1	external party
+1	extract votes
+1	f. dupressoir
+1	f. eigner
+1	fact symbol
+1	facts
+1	fc
+1	february
+1	final tally
+1	final tally contains
+1	financial cryptography
+1	finding
+1	firstorder logic formula
+1	fixing
+1	fnr
+1	following equations
+1	form =
+1	form [ ] [
+1	formal
+1	formal definition
+1	formal encryption
+1	formal models for election verifiability
+1	formal notion
+1	formal security analysis
+1	formulas
+1	fresh randomness
+1	fresh secret key
+1	freshness information
+1	full ballot
+1	full theory
+1	functions symbols
+1	future work
+1	g. ahn
+1	general models
+1	general notion
+1	general structure
+1	general symbolic definition
+1	generates passwords
+1	generic facts
+1	generic framework
+1	generic notion
+1	germany
+1	global check
+1	global properties
+1	global property
+1	greece
+1	h. hursti
+1	hash function
+1	haven
+1	helios table
+1	hoboken
+1	homomorphic encryption [
+1	honest registrar
+1	iacr cryptol
+1	id=3157835 [
+1	ieee secur
+1	iff iff
+1	illinois
+1	immediate problem
+1	implication relies
+1	implies end-to-end verifiability
+1	important factor
+1	index termselectronic
+1	individual trace formula
+1	injective correspondence
+1	injective correspondence assertions
+1	input ciphertexts
+1	inter
+1	interesting version
+1	international workshops
+1	internet
+1	introduction towards
+1	intruder deduction rule
+1	invalid votes
+1	ivote system
+1	j. benaloh
+1	j. cryptology
+1	j. d. c. benaloh
+1	j. dreier
+1	j. kilian
+1	j. kitcat
+1	j. lallemand
+1	j. mller
+1	j.-j
+1	joint
+1	jun pang snt
+1	jun.pang } @ uni.lu
+1	k. cohn-gordon
+1	k. gjsteen
+1	k. liao
+1	kingdom
+1	kremer
+1	l. garratt
+1	l. hirschi
+1	linear facts
+1	live online election
+1	local variables
+1	logical connectives
+1	london
+1	luxembourg
+1	luxembourg dcs
+1	luxembourg email
+1	m. abadi
+1	m. barbosa
+1	m. fischlin
+1	m. hirt
+1	m. izabachne
+1	m. macalpine
+1	m. maffei
+1	m. naor
+1	m. r. clarkson
+1	m. volkamer
+1	m. yung
+1	ma
+1	machinechecked
+1	main challenge
+1	main component
+1	main differences
+1	main open question
+1	main problem
+1	making
+1	milan
+1	mix nets robust
+1	mixnets [
+1	model protocol procedures
+1	modeling
+1	modular framework
+1	mount clash attacks
+1	multiple ballots
+1	multiple occurrences
+1	multiple scenarios
+1	multiple votes
+1	multiset rules
+1	n. b. binder
+1	n. kersting
+1	n. kobeissi
+1	n. li
+1	national research fund
+1	negative examples
+1	negative results
+1	network deduction rule
+1	network deduction rules specify
+1	new problems
+1	new protocols
+1	new scenarios
+1	new symbols
+1	new version
+1	nj
+1	non-empty ballots
+1	norway
+1	norwegian
+1	norwegian internet
+1	notable additions
+1	notable case
+1	notable differences
+1	notable impact
+1	notation
+1	notation [
+1	oakland
+1	omits connectives
+1	org/conference/evt-06/simple-verifiable-elections [
+1	oxford
+1	p. b. rnne
+1	p. gaudry
+1	paper
+1	paradigmatic corruption scenarios
+1	part ii
+1	partial compromise
+1	particular adversaries
+1	particular aspect
+1	particular case
+1	particular class
+1	particular interest
+1	particular voter
+1	password [
+1	pedersen
+1	perfect cryptography assumption
+1	persistent facts
+1	ph.d.
+1	phase contains
+1	pi calculus
+1	platform actions
+1	positive examples
+1	positive result
+1	positive results
+1	positive side
+1	possible cases
+1	potential alternative design
+1	ppendix
+1	practical attacks
+1	practical solution
+1	practical voter-verifiable election scheme
+1	preliminaries
+1	present adversarial corruption rules
+1	present certain rules
+1	present rules
+1	previous attack
+1	previous example
+1	previous work
+1	principles
+1	priv.
+1	privacy [
+1	privacy properties
+1	private credentials
+1	private function symbol
+1	private key
+1	private symbol
+1	procedures instruct voters
+1	proceeding
+1	proofs
+1	property soundness
+1	protecting
+1	protocol assumes
+1	protocol component
+1	protocol component {
+1	protocol models
+1	protocol parties
+1	protocol prover
+1	protocol specifications
+1	protocol verification tools
+1	protocols
+1	protocols shows
+1	proving
+1	public /
+1	public availability
+1	public credential [
+1	public credential casts
+1	public credential casts ballots
+1	public data
+1	public encryption key
+1	public sequence
+1	public verification checks
+1	putting
+1	quisquater
+1	r eferences
+1	r. e. koenig
+1	r. haenni
+1	r. krimmer
+1	r. sasse
+1	rational numbers
+1	real name
+1	real-world attacks
+1	real-world use
+1	realistic assumptions
+1	realistic corruption scenarios
+1	recall
+1	recent survey
+1	reconciling
+1	record ballots
+1	record events
+1	records information
+1	registrar assigns
+1	registrar communicates
+1	registration time
+1	relevant parameters
+1	relying
+1	remarkably
+1	reminiscent
+1	research [
+1	research council
+1	respective constraints
+1	respective events
+1	restrictions
+1	restrictions {
+1	revised selected papers
+1	revote policies
+1	revoting
+1	right balance
+1	rule = [ ] [
+1	rule ensures
+1	rule outputs encryptions
+1	rule specifies
+1	russia
+1	s. a. schneider
+1	s. chong
+1	s. delaune
+1	s. heraud
+1	s. j. lewis
+1	s. radomirovic
+1	s. z. bguelin
+1	saint petersburg
+1	saint-malo
+1	satisfaction relation
+1	scenario-specific trust assumptions
+1	scottsdale
+1	secrecy
+1	secret credentials [
+1	secret keys
+1	security analysis
+1	security failures
+1	security foundations [
+1	security property
+1	sergiu bursuc
+1	server beforehand
+1	server enforces
+1	server generates
+1	server trustees
+1	setup time
+1	signature pair =
+1	significant class
+1	similar assumptions
+1	similar attacks
+1	simple
+1	simple consistency property
+1	simplify presentation
+1	sjouke mauw
+1	slight generalisation
+1	so-called bulletin board
+1	so-called symbolic model
+1	sofia
+1	sound model
+1	soundness result
+1	special classes
+1	special fact symbols
+1	special role
+1	specification corrupted
+1	specification details
+1	specification satisfies symbolic election verifiability
+1	specification voter
+1	standard class
+1	standard model
+1	standard network
+1	standard properties
+1	star-vote
+1	storage device
+1	strong ballot
+1	strong verifiability
+1	strong version
+1	submit ballots
+1	substantial attacks
+1	successful verification implies
+1	such abilities
+1	such systems
+1	such vote
+1	surcvs
+1	switzerland
+1	symbolic definition
+1	symbolic formulas
+1	symbolic frameworks
+1	symbolic model abstracts
+1	symbolic models disallow
+1	symbolic representation
+1	symbolic verifiability requirements
+1	system [
+1	systematic way
+1	systems [
+1	t. finkenauer
+1	t. moran
+1	t. p. pedersen
+1	t. peters
+1	t. zacharias
+1	table ii
+1	technology workshop / workshop
+1	term equality =
+1	threshold cryptosystem
+1	timepoint equality =
+1	timepoint relation
+1	timepoint variables
+1	tool support
+1	toward
+1	trace atom
+1	trace atoms
+1	trace satisfies
+1	traces
+1	transparent verifiability
+1	trends
+1	trivial attacks
+1	trust assumption
+1	trustee actions
+1	trustee generates
+1	trustworthy elections
+1	type-based
+1	typically
+1	undetectable electoral fraud
+1	unique identities
+1	universal quantification
+1	university president
+1	unless
+1	usenix.org/publications/library/proceedings/sec02/jakobsson.html [
+1	usual quantification
+1	v erification of h elios and
+1	v. conclusion and future work
+1	v. iovino
+1	va
+1	valid range
+1	valid signature
+1	validate ballots
+1	vancouver
+1	variable assignments
+1	various adversaries
+1	various corruption abilities
+1	various corruption scenarios
+1	various verification procedures
+1	venice
+1	verifiability
+1	verifiability aims
+1	verifiability definition
+1	verifiability guarantees
+1	verifiability mechanism
+1	verifiability revisited
+1	verifiable online
+1	verifiable online elections
+1	verifiable secret shuffle
+1	verifiable secret-ballot elections
+1	verification flaws
+1	verification results
+1	verification steps
+1	voter authenticates
+1	voter authentication [
+1	voter casts
+1	voter choice
+1	voter convinces
+1	voter credentials
+1	voter identities
+1	voter information
+1	voter interacts
+1	voter obtains
+1	voter password
+1	voter uses
+1	voters choice
+1	voters clash
+1	voters subject
+1	wahc
+1	wales
+1	way revote ballots
+1	weak ballot
+1	web-based
+1	well-known ballot
+1	yale
+1	z. durumeric
+1	zero-knowledge proof equations
+1	zeroknowledge proof shows
+1	{ sevdenur.baloglu
+1	| |
+1	| | |
+1	|3 | = |3 |

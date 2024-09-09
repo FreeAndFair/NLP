@@ -56,11 +56,12 @@ find "$1" -follow -type f | while IFS= read -r file; do
   # We don't care about the file extension, we're just going to assume we
   # can process it
   noext=${base%.*}
-  # Don't process a README
-  if [ "${noext}" = "README" ]; then 
+  # Don't process a README or a BibTeX file
+  if [ "${noext}" = "README" ] || [ "${file##*.}" = "bib" ] || [ "${noext}" = "" ]; then 
+    echo "Skipping '${file}'."
     continue
   fi
-  echo "Processing '${noext}'..."
+  echo "Processing '${file}'..."
   nounsfile="$2/${noext}_nouns.csv"
   verbsfile="$2/${noext}_verbs.csv"
   if [ -f "${nounsfile}" ]; then 

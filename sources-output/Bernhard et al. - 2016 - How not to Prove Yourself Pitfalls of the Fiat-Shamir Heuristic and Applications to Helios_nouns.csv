@@ -1,0 +1,1119 @@
+56	helios
+28	fiat-shamir
+27	public key
+20	a0
+17	computer science.
+17	elgamal
+17	lecture notes
+16	a1
+15	verify
+13	nm-cpa
+12	b0
+12	b1
+12	m.
+12	schnorr
+11	advances
+11	gb
+11	ind-cpa
+11	springer
+10	b.
+10	ballot privacy
+10	c =
+10	chaum-pedersen
+10	encryption scheme
+10	gr
+10	prove
+10	simulate
+10	zq
+9	a.
+9	d.
+8	a3
+8	theorem
+7	a2
+7	b =
+7	cryptology
+7	j.
+7	proceedings
+7	r.
+7	random oracle model
+7	setup
+7	sigma protocol
+7	simulator s
+7	springer-verlag
+7	vote
+7	y1
+7	yi
+6	bellare
+6	compute
+6	definition
+6	ga
+6	honest trustees
+6	ind-cca
+6	overall proof
+6	random oracle
+6	y2
+5	bernhard
+5	bulletin board
+5	ddh
+5	dt
+5	enc+pok
+5	eurocrypt
+5	g0
+5	groth
+5	iacr
+5	lr
+5	naor-yung
+5	o.
+5	p.
+5	pok
+5	random oracle queries
+5	s.
+5	setup phase
+5	ti
+5	weak proofs
+4	= logr
+4	application
+4	challenge ciphertext
+4	challenge query
+4	consider
+4	dec
+4	di
+4	enc
+4	g1
+4	ga1
+4	gc
+4	gx
+4	ieee computer
+4	non-interactive zero-knowledge proofs
+4	pereira
+4	pick
+4	private key
+4	proof system
+4	rogaway
+4	sahai
+4	smyth
+4	special soundness
+4	t.
+4	tally
+4	tdh0
+4	v.
+4	validate
+3	+ cx
+3	annual symposium
+3	applications
+3	ballot secrecy
+3	challenge c
+3	computer
+3	cortier
+3	decryption procedure
+3	decryption share
+3	dishonest trustees
+3	election outcome
+3	encrypt
+3	eventually
+3	fiatshamir
+3	g.
+3	gennaro
+3	gf
+3	gxi
+3	i-th ciphertext
+3	individual proofs
+3	initial run
+3	main run
+3	malicious prover
+3	nizk
+3	non-malleable encryption
+3	pedersen
+3	pointcheval
+3	public key pk
+3	public keys
+3	s/g
+3	secret key
+3	secret keys
+3	security parameter
+3	special honest verifier zero knowledge
+3	suppose
+3	transformation [
+3	valid proofs
+3	verification procedure
+3	visible board
+3	wfs proofs
+3	yt
+3	yung
+3	z2q
+3	z4q
+3	zero-knowledge
+2	acm
+2	adaptive proof
+2	adida
+2	adversarys ballots
+2	adversarys ciphertexts
+2	adversarys guess
+2	appendix
+2	approval elections
+2	archive
+2	asiacrypt
+2	ballot
+2	ballot s
+2	bit {
+2	black-box access
+2	bulens
+2	bulletin board b
+2	bv y
+2	c.
+2	c0 + c1 =
+2	challenge c =
+2	challenger checks
+2	challenger returns
+2	challenger runs
+2	challenger uses
+2	chase
+2	chaum
+2	ci =
+2	compute c =
+2	cramer
+2	create
+2	current version
+2	decryption queries
+2	decryption query
+2	decryption shares
+2	deterministic algorithm
+2	discrete logarithm
+2	discrete logarithm problem
+2	e.
+2	efficient
+2	efficient construction
+2	election parameters
+2	electronic voting
+2	encrypt+pok
+2	encryption process
+2	ep
+2	equation c =
+2	f =
+2	f1 /
+2	f1 = a1 + c1 r.
+2	false statement
+2	fiat-shamir transformation
+2	focs
+2	foundations
+2	furthermore
+2	ga2
+2	game runs
+2	gf0
+2	gf1
+2	gf2
+2	gm gxr
+2	gr+u
+2	group elements
+2	gv y
+2	h.
+2	hash function
+2	homomorphic sum
+2	honest voters
+2	i.
+2	iacr cryptology
+2	implicit sum-ciphertext
+2	international conference
+2	j.j.
+2	k }
+2	key cryptography
+2	keygen
+2	l board
+2	louvain
+2	m candidates
+2	malicious ciphertext
+2	malicious proof
+2	n trustees
+2	network
+2	nizk-pok
+2	non-interactive proofs
+2	original application
+2	otherwise
+2	overall proofs
+2	parallel decryption query
+2	pfitzmann
+2	pitfalls
+2	polynomial-time adversaries
+2	practical
+2	princeton
+2	public information
+2	public key cryptosystem
+2	quisquater
+2	r gu
+2	r0
+2	random u
+2	random value r
+2	randomness r
+2	real elections
+2	response f
+2	result rl
+2	s =
+2	satisfies ballot privacy
+2	scheme [
+2	schoenmakers
+2	security proof
+2	sfs transformation
+2	shoup
+2	sigma protocols
+2	signature schemes
+2	simulator chooses c
+2	single-pass protocol
+2	single-pass scheme
+2	single-pass schemes
+2	society press
+2	sound extractability
+2	sse
+2	strong counterpart
+2	strong proofs
+2	such proof systems
+2	tallying
+2	theory
+2	transformation yields
+2	trustworthy elections
+2	uc louvain
+2	undergraduate
+2	usenix
+2	valid proof
+2	valid triple
+2	vote v
+2	voting
+2	warinschi
+2	weak variant
+2	workshop/workshop
+2	y.
+2	zero-knowledge property
+2	zp
+1	-protocols results
+1	.b =
+1	//documentation.heliosvoting.org/ verification-specs
+1	//usg.princeton.edu/officers/elections-center/ helios-headquarters.html
+1	//www.iacr.org/ elections/2010
+1	= 1in
+1	= ] 1/2|
+1	= c0 + c1
+1	= f cx
+1	= r
+1	= rs +
+1	= s
+1	= s / 1in
+1	= x
+1	= x + arb c
+1	= {
+1	] attributes
+1	] ciphertexts
+1	] signature scheme
+1	a. compute
+1	a0 rc0 g
+1	a1 /
+1	a1 ac
+1	a1 m key
+1	a1 r
+1	a1 x1 a2 x2 = a3
+1	a1 x1 a2 x2 a3
+1	aberrant result
+1	abstract
+1	acknowledgement
+1	actual c
+1	actual ciphertext
+1	actual election
+1	actual tally t
+1	adapting
+1	adaptive chosenciphertext security
+1	adaptive prover
+1	adaptive security
+1	adaptive soundness
+1	adding
+1	additional elements
+1	additionally
+1	adjusts c0
+1	administrators proof
+1	adversary distinguishes
+1	adversary submits messages m0
+1	adversarys randomness
+1	adversarys votes
+1	ai rci
+1	ak
+1	algorithm run
+1	algorithms abort
+1	analogue definition
+1	analysis
+1	annual
+1	applied cryptography
+1	arbitrary m.
+1	associate
+1	attack possibilities
+1	attack relies
+1	attacking
+1	australia
+1	authentic ballots
+1	av gav
+1	av gfv
+1	b c
+1	b0 +cm
+1	ballot b
+1	ballot besides
+1	ballot privacy attack
+1	ballot privacy game
+1	ballot s.
+1	ballot verifies
+1	ballots
+1	ballots [
+1	ballots bl
+1	basic soundness properties
+1	benaloh
+1	bi
+1	bit v {
+1	bk
+1	blind signatures
+1	blum
+1	board runs
+1	bogdan warinschi1
+1	boyd
+1	bristol
+1	bulletin board accepts
+1	bulletin boards l
+1	c 6= c0
+1	c 6= c0 + c1
+1	c =h
+1	c.2
+1	c.p.
+1	c/
+1	c/ax1
+1	c/d
+1	c0 = c c1
+1	c1 = b11m
+1	c1 = c c0
+1	ca
+1	camenisch
+1	captures adversaries
+1	case v
+1	cca
+1	ccs
+1	challenge c = 1m
+1	challenge oracle
+1	challenge space
+1	challenger chooses
+1	challenger runs bl
+1	challenger sends
+1	chaum-pedersen proofs
+1	chaumpedersen
+1	chosenciphertext
+1	ci = c
+1	ciphertext attack
+1	ciphertext attacks
+1	ciphertext contains
+1	ciphertext space
+1	ciphertext verifies
+1	ciphertext/proof pair
+1	ciphertexts
+1	ciphertexts encode
+1	ciphertexts encrypt
+1	clash
+1	clear contradiction
+1	clear evidence
+1	clearly
+1	coma1 x
+1	common reference string model [
+1	common way
+1	communications
+1	compact proofs
+1	complete
+1	complete loss
+1	complex interaction
+1	computable relation
+1	computational costs
+1	compute a1
+1	compute commitments
+1	compute r = b+c
+1	compute s = rx + m
+1	compute x = logg
+1	computes f = a+cx
+1	computing
+1	conceptual contributions
+1	conclusion
+1	concrete instantiation
+1	constant size group signatures
+1	continue
+1	correct decryption shares
+1	correct format
+1	correct share
+1	correct tally r.
+1	corresponding boards
+1	corresponding private key
+1	corresponding votes
+1	corrupt ones
+1	corrupt trustees
+1	corrupt voters
+1	crucial assumption
+1	crypto98
+1	cryptographic hash function
+1	cryptographic indistinguishability game
+1	cryptography
+1	cryptologic
+1	cryptology asiacrypt
+1	cryptology crypto86
+1	cryptology crypto92
+1	cryptology crypto93
+1	cryptology crypto97
+1	cryptology crypto99
+1	cryptology ii
+1	cryptosystems secure
+1	csf
+1	csxbw } @ bristol.ac.uk
+1	current board state b
+1	current execution
+1	current form
+1	current level
+1	current state
+1	current technique involves setting c0 =
+1	cyclic group
+1	d/x2
+1	damgard
+1	dangerous attack
+1	dangerous effect
+1	de santis
+1	decisive impact
+1	decrypt
+1	decryption f
+1	decryption factor
+1	decryption oracle
+1	decryption time
+1	definition draws inspiration
+1	desai
+1	desirable properties
+1	different commitments
+1	different election keys
+1	different forms
+1	different keys
+1	different security guarantees
+1	digital signatures
+1	direct rsa-implementation
+1	discrete logarithm challenge
+1	discrete logarithm equality
+1	discrete logarithm x = logg
+1	discrete logarithms
+1	dishonest administrators
+1	dishonest ones
+1	disjunctive
+1	disjunctive chaum-pedersen proofs
+1	disjunctive proof
+1	disjunctive proofs
+1	draw
+1	e-ciphertext
+1	e-ciphertexts
+1	efficient adversary
+1	efficient multiauthority election scheme
+1	efficient protocols
+1	el gamal
+1	electing
+1	election administrators
+1	election id
+1	election outcome m.
+1	election rules stipulate
+1	election specification
+1	election specification contains
+1	election type i.e
+1	elections work
+1	elgamal encryption
+1	elgamal+sse-pok
+1	empty string
+1	emulation [
+1	enable rigorous security proofs [
+1	encrypt m
+1	encrypt n votes
+1	encrypt-then-prove construction
+1	encryption [
+1	encryption c
+1	encryption relation
+1	encrypts m
+1	ensure ballot privacy
+1	entity
+1	equal messages
+1	equivalence
+1	escapes cryptographic
+1	esorics
+1	european research council
+1	evaluating
+1	evoting systems
+1	exact form
+1	excellence
+1	execution protocol
+1	exhibits weaknesses
+1	exponent x
+1	extending
+1	extra degree
+1	extract
+1	extract t
+1	extract witnesses
+1	extractable proof
+1	extraction
+1	extractor access
+1	extractor returns
+1	extracts x = logg
+1	f + cu
+1	f = b+cs r
+1	f f
+1	f.r.s.-fnrs
+1	f0 /s c0
+1	f0 x = b0 + c0 s f0 = a0 + rc0 f1 x = b1 + c1
+1	f00 = f0 + c0 u
+1	f1 =
+1	f1 = a1 + c r1
+1	f1 a1
+1	f1 x1 f2 .x2 a3
+1	f10 = f1 + c1 u
+1	f2 /a3
+1	f2 =
+1	f2 = a2 + c r2
+1	f2 a2
+1	fake statements
+1	false statements
+1	fiat
+1	fiat-shamir heuristic
+1	fiat-shamir/blum transformation
+1	final ballot
+1	final result
+1	folklore result
+1	form create-proof
+1	forward
+1	forwards random oracle queries
+1	fouque
+1	fp7/2007-2013
+1	franklin
+1	fresh bit
+1	fresh queries
+1	full active attack
+1	full version
+1	future elections
+1	fv /
+1	fv av + cv .r
+1	g rc0
+1	g. suppose
+1	g3
+1	ga0
+1	ga3
+1	gab
+1	gain access
+1	gb0
+1	gb1
+1	generalizations [
+1	generic transformation
+1	gf1 x
+1	gfi
+1	giry
+1	gm x
+1	gn
+1	gold coast
+1	gr1
+1	gr2
+1	gritzalis
+1	grl
+1	group description
+1	group signature schemes
+1	grr
+1	gs
+1	gsm
+1	gx1
+1	gx2
+1	gy
+1	hash input
+1	hash input yields
+1	hash values
+1	helios ballot format briefly
+1	helios ballot privacy c.1 theorem
+1	helios david bernhard1
+1	helios specification
+1	helpful comments
+1	heuristic [
+1	home/2010/isec/ag/int-011 bccentre
+1	honest adminstrators
+1	honest behavior
+1	honest encryptor chooses
+1	honest ones
+1	honest parties
+1	honest trustee
+1	honest trustees tally
+1	honest votes
+1	honest votes compute
+1	hybrid argument
+1	i =
+1	i ci =
+1	i=0 c
+1	ict-2
+1	identification protocol
+1	identification protocols
+1	identification schemes [
+1	identify weaknesses
+1	ieee symposium
+1	ieee transactions
+1	imai
+1	immediate corollary
+1	ind
+1	independent questions
+1	indistinguishability
+1	indistinguishability game
+1	individual decryption
+1	individual proof
+1	individual strong proofs
+1	individual votes [
+1	informally
+1	information
+1	information theory
+1	initial
+1	input/output pairs
+1	insecurity
+1	interactive execution
+1	interactive sigma protocol
+1	interestingly
+1	international association
+1	international workshop
+1	introduction zero-knowledge
+1	intuitively
+1	invalid ballot
+1	invisible board
+1	jakobsson
+1	javascript
+1	json
+1	k m.
+1	k non-zero entries
+1	key distribution
+1	key generation procedure
+1	keygen pick
+1	keygen run keygen
+1	keys
+1	knowledge [
+1	knowledge extractor
+1	knowledge id
+1	knowledge posts
+1	kohlweiss
+1	kusters
+1	large groups
+1	left ballots
+1	left board
+1	left message
+1	left result rl
+1	linear work
+1	lncs vol
+1	lysyanskaya
+1	m x
+1	m < n dishonest trustees
+1	m = n
+1	m approvals
+1	m f cx
+1	m.k.
+1	main categories
+1	main execution
+1	major changes
+1	malicious authorities
+1	malicious parties
+1	malicious provers
+1	malicious trustee
+1	malleable encryption schemes
+1	malleable proof systems
+1	markulf kohlweiss
+1	marneffe
+1	meiklejohn
+1	mere copies
+1	message m
+1	messages m0
+1	minor tweak
+1	mod q
+1	model authentication
+1	multi-autority
+1	n = 1/c
+1	n candidates
+1	naor
+1	natural assumptions
+1	natural convergence point
+1	natural suggestion
+1	networks
+1	new ciphertext
+1	new instance
+1	new invocation
+1	new notion
+1	new plaintext
+1	new practical attacks
+1	nizk proofs
+1	nizks
+1	non-interactive proof system
+1	non-malleable encryption scheme.5
+1	non-malleable encryption schemes
+1	non-malleable non-interactive zero knowledge
+1	non-negligible probability
+1	non3 malleability
+1	nonce av
+1	nonetheless
+1	noninteractive proof
+1	normal circumstances
+1	normal disjunctive
+1	notice
+1	np
+1	number
+1	number k
+1	numerous applications
+1	obtain
+1	okamoto
+1	olivier pereira
+1	olivier pereira2
+1	olivier.pereira @ uclouvain.be
+1	oracle list
+1	oracle queries
+1	oracle query/response pairs
+1	order q
+1	original game
+1	original proof system
+1	ostrovsky
+1	output
+1	overall
+1	p-proof
+1	p-proofs
+1	p. obtain
+1	p.a.
+1	pair algorithms
+1	pair c =
+1	paper fall
+1	papers e.g
+1	parallel decryption query variation
+1	partial challenge cv c cv
+1	particular elections
+1	passes validation
+1	persiano
+1	phd
+1	pkc
+1	pki
+1	plausible circumstances
+1	point onwards
+1	polynomial time.3
+1	popular approaches
+1	positive results
+1	positive side
+1	possibility shows
+1	possible security breaches
+1	pr
+1	practical attack
+1	practical language
+1	practical way
+1	precise security guarantees
+1	president election
+1	previous analysis [
+1	previous attacks
+1	previous ballot
+1	previous game
+1	previous games
+1	previous results
+1	previous section show
+1	previous work
+1	previous works
+1	prime q
+1	prisco
+1	privacy
+1	private ballot submission
+1	private data
+1	private key x
+1	private key x =
+1	probabilistic algorithm run
+1	probability 1/q
+1	proof =
+1	proof commitment
+1	proof commitments
+1	proof computation process
+1	proof representation
+1	proof system wfsh
+1	proofs
+1	proofs [
+1	proofs related
+1	provable ballot privacy
+1	prove yourself
+1	prover
+1	prover compute
+1	prover finishes
+1	prover outputs
+1	prover returns
+1	prover sends
+1	provers execution
+1	proves knowledge
+1	public a0
+1	public election parameters
+1	public key encryption scheme
+1	public output
+1	public parameters
+1	public-key encryption scheme
+1	public-key encryption schemes
+1	query invoke
+1	query/response pairs
+1	r g
+1	r p
+1	r r0
+1	r.d.
+1	r1 m
+1	r2 m
+1	ra
+1	random a1
+1	random c
+1	random challenge
+1	random element
+1	random encryption
+1	random oracle model [
+1	random oracles
+1	random proof
+1	random r
+1	random string
+1	random value
+1	random values a1
+1	random values r1
+1	random vote
+1	random x
+1	random-oracle model
+1	range {
+1	rb
+1	rc1
+1	readable bulletin board
+1	real decryptor
+1	real ones
+1	real-world use
+1	realistic new attack
+1	realworld elections
+1	reasonable number
+1	recent work
+1	references
+1	regular ballot
+1	regular one.4
+1	regular ones
+1	relation logg
+1	relevant theorems
+1	replay
+1	rerandomisation technique
+1	rerandomisation techniques
+1	respective domains
+1	response f =
+1	response f whereupon
+1	responses f0 = a0 + c0 r pute
+1	result corresponds
+1	result function
+1	result returns
+1	ri
+1	right ones
+1	right plaintexts
+1	right votes
+1	rr
+1	run
+1	run prove
+1	running
+1	rx
+1	s = rx + m f1 = a1 + rc1 c0 + c1 =
+1	s answers
+1	s c
+1	s c0
+1	s draws
+1	s forges
+1	s launches
+1	s trustee
+1	s-queries
+1	s/gv
+1	s/r
+1	s/t
+1	s/vg
+1	salomonsen
+1	santa-barbara
+1	schemes [
+1	schnorr proofs
+1	scn
+1	secondly
+1	secret bit
+1	secret key xi
+1	secret keys x1
+1	secret keys xt
+1	secret ones
+1	secret output xi
+1	secret outputs
+1	secret-ballot elections
+1	secretballot elections
+1	secure electronic voting
+1	securing
+1	security arguments
+1	security game
+1	security impact
+1	security notion
+1	security proofs
+1	select
+1	separation results
+1	serious source
+1	server-side encryption
+1	service attack
+1	service attacks
+1	setting commitments
+1	setting s
+1	sfs transform
+1	sfs versions
+1	shacham
+1	shamir
+1	show attacks
+1	si
+1	sigma protocols non-interactive
+1	signature generation
+1	signature scheme
+1	signing/verification key pair
+1	simpler solution
+1	simplified
+1	simulation calls
+1	simulation oracle
+1	simulation query
+1	simulation sound
+1	simulation sound extractability
+1	simulation soundess approach
+1	simulation-sound
+1	simulation-sound extractability
+1	simulationsound extractability
+1	simulator
+1	simulator acts
+1	simulator proceeds
+1	simulator responds
+1	simulator returns
+1	single-choice etc
+1	single-pass
+1	smart cards
+1	solution logg
+1	sound extractable proofs
+1	soundness properties
+1	space reasons
+1	special honest verifier zero-knowledge
+1	special symbol
+1	special type
+1	specific candidate
+1	specification [
+1	springerverlag
+1	sr
+1	sr q
+1	sse-pok
+1	stadler
+1	standard model
+1	standard notions
+1	standard types
+1	statement/proof pairs
+1	static corruption
+1	stern
+1	stoc
+1	string s
+1	strong counterparts
+1	strong fiat-shamir
+1	strong form
+1	strong variant
+1	strong version
+1	student government
+1	student government [
+1	submit
+1	submits b
+1	submits s
+1	successful computation
+1	such proofs
+1	such trustee
+1	sufficient conditions
+1	suitable superset thereof
+1	superpolynomial time
+1	symposium
+1	t t dt
+1	t |v|
+1	t.p
+1	tdh2
+1	teague
+1	the q q r
+1	theorem confirms
+1	thorough investigation
+1	three-move protocol
+1	threshold cryptosystem
+1	threshold cryptosystems
+1	transformation yields proof systems
+1	truderung
+1	true statement
+1	trustee refuses
+1	trustees compute
+1	tsiounis
+1	tuple f =
+1	ucl
+1	unclear [
+1	undesirable effects
+1	unforeseen consequences
+1	unions seventh framework programme
+1	unique values a0
+1	universal composability framework
+1	universal verifiability properties
+1	universite
+1	universite catholique
+1	university president
+1	unsound/unextractable proofs
+1	url
+1	usa
+1	usability
+1	v v v v v v
+1	v {
+1	valid ones
+1	valid result
+1	valid vote
+1	valid votes
+1	value r
+1	values output
+1	values r0
+1	vandewalle
+1	variants thereof
+1	various attacks
+1	various components
+1	various standard protocols
+1	vector c =
+1	verifiability
+1	verifiability analyses
+1	verifiability applies
+1	verification
+1	verification equations
+1	verification key
+1	verifier answers
+1	verifier applies
+1	verifier recompute c1 = c c0
+1	verifier uses
+1	versions
+1	visconti
+1	vogt
+1	voter authentication mechanism.7
+1	voter builds
+1	voter creates
+1	voter encrypts
+1	voter identity id
+1	voter proves
+1	voter simulates
+1	voters encode
+1	voters identity id
+1	voters need
+1	voters proofs
+1	voters submit
+1	votes cast
+1	votes rests
+1	wallet
+1	weak fiat-shamir transformation
+1	weak naor-yung transformation
+1	weak variant hashes
+1	web-based
+1	well-known instantiation
+1	wfs transform
+1	wfs transformation
+1	wikstrom
+1	witnesses w
+1	work shows
+1	wrong result
+1	x =
+1	x = logg
+1	x = m
+1	x r+u
+1	y lr
+1	yale
+1	yield security
+1	zero-knowledge proof system
+1	zero-knowledge proofs
+1	zero-knowledge protocols
+1	zero-knowledge simulator
+1	zeroknowledge proofs
+1	zheng
+1	zk
+1	{ csxdb
+1	|pr [
+1	} m
+1	} {
+1	} |w

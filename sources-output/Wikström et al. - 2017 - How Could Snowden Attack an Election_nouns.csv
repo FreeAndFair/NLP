@@ -1,0 +1,379 @@
+17	sensitive information
+8	invalid votes
+7	dr
+6	election authority
+6	election result
+5	invalid i-vote
+5	write-in votes
+4	large number
+4	secret key k
+3	australian
+3	ballot papers
+3	consider
+3	election output
+3	election workers
+3	enc
+3	example
+3	furthermore
+3	internet
+3	medical journals
+3	nec
+3	sensitive data
+3	similarly
+3	strategic value
+3	write-in vote
+2	april
+2	attack
+2	auxiliary information
+2	ballot paper
+2	blank ballot
+2	candidate name
+2	child pornography
+2	ciphertext c =
+2	different parts
+2	different types
+2	encode information
+2	final result
+2	human mistake
+2	information
+2	invalid ivote
+2	multiple elections
+2	output
+2	person votes
+2	personal identification
+2	possible votes
+2	secret key
+2	stv
+2	suppose
+2	sweden
+2	type ii
+2	usa
+2	zero votes
+1	a.1 australia dr
+1	a.2 estonia
+1	a.3 sweden dr
+1	a.4 switzerland
+1	abstract
+1	access
+1	actual secret key k
+1	additional factor
+1	additional part
+1	adversary forms
+1	aes
+1	aggregate form
+1	aggregate level
+1	algorithmic methods
+1	arbitrary information
+1	arbitrary key
+1	arms industry
+1	assume
+1	attack abuses
+1	attack differs
+1	attack proceeds
+1	attack relies
+1	available candidates
+1	average case
+1	ballot secrecy
+1	ballots
+1	basic intents
+1	below
+1	blank ballots
+1	broader sense
+1	bundled races countries
+1	candidates
+1	careful study
+1	careful tradeoff
+1	carsten @ demtech.dk
+1	carsten schrmann6
+1	case
+1	cast votes
+1	catalonia
+1	certain degree
+1	ciphertext c
+1	classic systems
+1	coercion attack
+1	complete information m
+1	complete view
+1	computer security
+1	constitute defamation
+1	copenhagen
+1	corrupt state
+1	counter attacks
+1	county councils
+1	covert way
+1	critical weakness
+1	cryptographic methods
+1	cultural differences
+1	current laws
+1	dec
+1	deep authentication
+1	deliberate manipulation
+1	demands answers
+1	democratic cultures
+1	democratic point
+1	democratic system
+1	democratic systems shows
+1	depending
+1	different candidates
+1	different colors
+1	different options
+1	different parties
+1	different possible votes
+1	different way
+1	disclosing
+1	disrupt elections
+1	distinct ballots
+1	districts plausible deniability
+1	dog @ kth.se university
+1	donald duck
+1	douglas wikstrm1
+1	easy way
+1	edward snowden
+1	election authority tally
+1	election laws
+1	election management body
+1	election officials
+1	election owners
+1	election results
+1	election schemes
+1	elections
+1	electoral authorities
+1	electoral process
+1	electronic channel
+1	electronic-ballot box
+1	encode bits
+1	encoding data
+1	estonia
+1	estonian
+1	excellence
+1	executive summary
+1	extortion
+1	fair number
+1	favorite candidate
+1	final tally
+1	fine granularity
+1	firstly
+1	fixed set
+1	foreign countries
+1	foreign country
+1	foreign state
+1	form
+1	fortunately
+1	fringe opinions
+1	fringe parties
+1	fundamental importance
+1	future work
+1	general observations
+1	general population
+1	general public
+1	geographic distribution
+1	good reason
+1	government agencies
+1	great care
+1	helger lipmaa5
+1	helger.lipmaa @ gmail.com
+1	hence
+1	high level
+1	honest voters
+1	huge revenues
+1	imagine
+1	immediate spawns
+1	important channel
+1	important factors
+1	important future work
+1	important parameters
+1	individual vote
+1	individual votes [
+1	infidelity websites
+1	information capacity
+1	information channel
+1	information influences
+1	information theoretical sense
+1	insert arbitrary paper content
+1	insider attack
+1	insurance policies
+1	internet voting
+1	introduction existing
+1	invalid candidate number
+1	invalid e-vote
+1	invalid e-votes
+1	it
+1	italian attack
+1	jordi barrat2
+1	jordi.barrat @ urv.cat
+1	k =
+1	kalleankapartiet
+1	key k =
+1	kth
+1	large catalogue
+1	large part
+1	legal
+1	legal aspects
+1	legal frameworks
+1	legitimate channels
+1	legitimate users
+1	log files
+1	log files dr
+1	logs
+1	long term
+1	malicious intent
+1	march
+1	melbourne
+1	message m
+1	mild assumption
+1	military secrets
+1	mitigating
+1	modest
+1	modest changes
+1	modest goal
+1	multi-seat election
+1	multiparty computation
+1	multiple candidates
+1	multiple colors
+1	n voters
+1	name p
+1	narrow channel
+1	national election authority
+1	national electoral committee
+1	national level
+1	national security
+1	national way
+1	natural directions
+1	natural representations
+1	natural theoretical questions
+1	necessary condition
+1	new candidates
+1	new type
+1	non-exhaustive list
+1	normal audit
+1	normal functionality
+1	norway
+1	novel attack
+1	numerous ways
+1	obvious real world example
+1	paper uses
+1	parliamentary elections
+1	particular elections
+1	party name
+1	party votes
+1	person vote
+1	physical artifacts
+1	plausible denial
+1	political activist
+1	political aspects
+1	political pressure
+1	political purposes
+1	political situation
+1	poor understanding
+1	possible attack
+1	possible permutations
+1	post-it
+1	privacy properties
+1	prominent features
+1	public key
+1	publish information
+1	random party name p
+1	ranked elections
+1	recall
+1	recent presidential election
+1	record information
+1	references
+1	relevant authorities
+1	rigorous analysis
+1	robert krimmer4
+1	robert.krimmer @ ttu.ee
+1	royal institute
+1	russia
+1	seat race
+1	secret information
+1	secrets
+1	security clearance
+1	security weaknesses
+1	select people
+1	selected countries
+1	sensitive data m
+1	sensitive information m
+1	sensitive information m =
+1	sensitive user data
+1	separate stack
+1	serious implications
+1	server side
+1	setting invalid votes
+1	setup procedures
+1	short
+1	side effect
+1	similar approach
+1	similar information
+1	simple scenario
+1	simply
+1	single
+1	single-seat elections
+1	sinister agenda
+1	situation
+1	small number
+1	small parties
+1	small regions
+1	small states
+1	smartmatic-cybernetica centre
+1	snowden
+1	snowden attack
+1	snowdens
+1	social media
+1	sophisticated technique
+1	specific elections
+1	statistical noise
+1	statistics
+1	stock market
+1	stock market reacts
+1	store information
+1	submit votes
+1	submits p
+1	such ballots
+1	such component
+1	such information
+1	such research
+1	such systems
+1	such thresholds
+1	such tradeoffs
+1	such weaknesses
+1	suitable cryptosystem
+1	supporting evidence dr
+1	sven @ ivotingcentre.ee
+1	sven heiberg3
+1	system outputs
+1	system reveals
+1	system setup
+1	systems rule
+1	t illegal information
+1	tabulation phase
+1	tallinn
+1	tartu
+1	threat model
+1	throughout
+1	time window
+1	type
+1	types
+1	unknown type
+1	valid criticism
+1	valid vote
+1	vanessa teague7
+1	variable-basis
+1	variations
+1	various explanations
+1	victim stops
+1	viteague @ unimelb.edu.au
+1	vote
+1	vote invalid
+1	voters cast
+1	voters screen
+1	votes
+1	votes cast
+1	votes increases
+1	way governments
+1	white property
+1	who
+1	wide audience
+1	wikileaks
+1	worth billions
+1	write-in votes dr
+1	wrong parties

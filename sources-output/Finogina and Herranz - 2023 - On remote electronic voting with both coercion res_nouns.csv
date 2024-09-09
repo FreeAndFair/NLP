@@ -1,0 +1,916 @@
+41	cr
+37	cai
+14	e.
+12	ballot box
+11	applications
+11	elgamal
+11	information
+11	proceedings
+10	otherwise
+10	t. finogina
+9	j. herranz
+8	coercion resistance
+8	or
+7	advances
+7	public key
+6	computes =
+6	encryption scheme
+6	public parameters
+6	security parameter
+5	cast-as-intended
+5	commitment scheme
+5	crypto
+5	international conference
+5	jcj
+5	ppt
+4	appendix
+4	berlin
+4	binary relation
+4	cortier v
+4	cryptology
+4	data security
+4	definition
+4	diffiehellman
+4	electronic elections
+4	encryption randomness
+4	generic construction
+4	heidelberg
+4	ieee
+4	lyubashevsky v
+4	neffs
+4	public key encryption scheme
+4	such settings
+4	valid transcript
+4	voter accepts
+3	4. checks
+3	cai+cr
+3	cast ballot
+3	challenge space
+3	coercion
+3	coercion-resistance
+3	computer science
+3	delivery channels
+3	election authority
+3	electronic
+3	element =
+3	encryption protocol
+3	eprint archive
+3	financial
+3	honest voters
+3	interactive protocol
+3	kulyk
+3	perfect sense
+3	public input
+3	similarly
+3	solution
+3	springer
+3	towards
+3	url
+3	usa
+3	zero-knowledge proofs
+2	1. chooses
+2	3. sends
+2	= =
+2	= {
+2	active coercers
+2	annual
+2	approach [
+2	august
+2	barcelona
+2	benaloh
+2	ca
+2	catalunya
+2	ciphertext =
+2	civitas
+2	coercer forces
+2	computing machinery
+2	damgrd
+2	delaune
+2	discrete logarithm
+2	dummy/special plaintext
+2	e-commerce
+2	e-government
+2	e-voting
+2	e..
+2	efficient algorithm
+2	elements =
+2	evaluation protocol
+2	final results
+2	final value
+2	formal
+2	formal definition
+2	g3
+2	gaudry p
+2	generic constructions
+2	generic protocol
+2	ideal world
+2	ifip
+2	ii
+2	incomplete [
+2	ind-cpa
+2	informally
+2	initial input
+2	input =
+2	interactive system
+2	introduction
+2	joint distribution
+2	joint distributions
+2	juels
+2	kiayias
+2	kremer
+2	lecture
+2	lemma
+2	local approach
+2	local setting
+2	negligible probability
+2	nguyen nk
+2	non-interactive proof
+2	non-interactive zero-knowledge proof
+2	non-negligible probability
+2	one-way function
+2	or-proofs
+2	previous definitions
+2	previous works
+2	prime order
+2	private input
+2	property ensures
+2	public input =
+2	qr-code
+2	qr-codes
+2	random challenge
+2	real life
+2	receipt-freeness [
+2	rnne pb
+2	ryan pya
+2	santa barbara
+2	satisfactory solutions
+2	secret key
+2	september
+2	size exponential
+2	special soundness
+2	springer berlin heidelberg
+2	springer-verlag
+2	standard model
+2	theorem
+2	trustworthy elections
+2	typical elections
+2	uc-based
+2	unsatisfactory solution
+2	verifiable decryption
+2	verifiable elections
+2	verifiable homomorphic tally
+2	verifiable shuffle
+2	verifiable way
+2	virtual event
+2	volkamer m.
+2	voter chooses
+2	voters intent
+2	voting
+2	zacharias t
+2	zero-knowledge proof system
+2	zero-knowledge property
+2	zero-knowledge systems
+2	| =
+1	-coercion resistance
+1	-protocol implies soundness
+1	-receipt freeness
+1	1st ed..
+1	3. uses challenge
+1	32nd computer security foundations symposium
+1	= states
+1	= { | ..
+1	] =
+1	] prohibits
+1	] property
+1	] show
+1	] struggle
+1	abstention attacks
+1	abstract
+1	acemyan cz
+1	achieving
+1	acknowledgments
+1	acm
+1	active coercer
+1	active coercion
+1	active role
+1	adida b. helios
+1	alternative definition
+1	alwen j
+1	amalfi
+1	annual international cryptology conference
+1	anonymous credentials
+1	araujo r
+1	arch
+1	asiacrypt
+1	atashpendar
+1	au mh
+1	austria
+1	author
+1	authorities and/or
+1	available online
+1	ballot
+1	ballot assurance
+1	ballot box content
+1	ballot cast
+1	ballot contains
+1	ballot material
+1	ballot privacy
+1	ballots schemes
+1	baseline
+1	basic cryptographic/mathematical operations
+1	basic form
+1	baum
+1	ben rajeb n
+1	benaloh j
+1	benaloh j. receipt-free
+1	benhamouda
+1	bernhard d
+1	blanco d.
+1	blockchain
+1	braun binder n
+1	bulletin board
+1	burmester
+1	byrne md
+1	cambridge
+1	canetti r
+1	case studies
+1	cast
+1	cast invalid votes
+1	cast vote contains
+1	cast-or-challenge verification
+1	castor-challenge approach
+1	catalano d
+1	cc by-nc-nd
+1	ccs
+1	chaidos p
+1	challenging open problem
+1	chaum
+1	chaum d. secret-ballot
+1	chaums
+1	chi
+1	choices distribution
+1	chong
+1	chrissikopoulos v. receipt-freeness
+1	ciencia
+1	ciphertext encrypts
+1	ciphertext space
+1	clark j
+1	clarkson mr
+1	classical cryptographic
+1	classical setting
+1	client-side encryption
+1	code schemes
+1	codecfin
+1	coerce voters
+1	coercer demands
+1	coercer distinguishes
+1	coercer force
+1	coercer/vote seller
+1	coercers
+1	coercers limitations
+1	coercers preference
+1	coercion settings
+1	coercion-resistance [
+1	coercion-resistance technique
+1	coercion-resistant
+1	commitment =
+1	commitment scheme =
+1	commitment scheme [
+1	commitment schemes
+1	commitment spaces
+1	common approaches
+1	common input
+1	common interactive
+1	comparative analysis
+1	comparison
+1	complete summary
+1	completeness
+1	composable incoercibility
+1	composable receipt-free
+1	computational indistinguishability
+1	computer
+1	computer security
+1	computer security foundations symposium
+1	computer security foundations workshop
+1	computes = + mod
+1	conclusion
+1	conditions [
+1	conference proceedings
+1	consider
+1	constant values { }
+1	contains encryption
+1	contents
+1	contradictory properties
+1	contrary
+1	corr
+1	correct execution
+1	correct intent
+1	corresponding
+1	corrupt voters
+1	crucial property
+1	cryptology conference
+1	csf
+1	csfw06
+1	currently
+1	cyclic group
+1	daejeon
+1	data
+1	december
+1	decidable binary relation
+1	decisional diffiehellman
+1	declaration
+1	decryption algorithm
+1	defi
+1	define
+1	definition assumes
+1	definition leaks
+1	definition therein
+1	definitions [
+1	demand voters
+1	demands voters
+1	depending
+1	dept
+1	description
+1	designated
+1	desirable properties
+1	desirable property
+1	detailed
+1	device accepts
+1	device cheats
+1	device interact
+1	device reject
+1	device reveals
+1	different definitions flavors
+1	different kinds
+1	different possibility
+1	different techniques
+1	different time slots
+1	different ways
+1	different worlds
+1	diffie hellman
+1	diffiehellman assumption
+1	dingledine r
+1	direct consequence
+1	distinguisher algorithm
+1	dolev-yao
+1	dreier j
+1	dubuis e. cast-as-intended
+1	dwork
+1	e e
+1	e-business
+1	e-mail
+1	e-society
+1	e-vote-id
+1	e-voters [
+1	e2e
+1	ebusiness
+1	efficient
+1	efficient algorithms
+1	efficient commitments
+1	efficient instantiations
+1	efficient specific instantiations
+1	efficient zero-knowledge proof system
+1	election administrators
+1	election authorities
+1	election phases
+1	election system
+1	electronic vote
+1	element = + mod
+1	elgamal pke
+1	else
+1	elsevier ltd
+1	enable verification
+1	encryption randomness knowledge
+1	encryption schemes
+1	errors
+1	esgin mf
+1	esorics
+1	estonia
+1	eurocrypt
+1	europe
+1	european symposium
+1	evt/wote
+1	evt07
+1	exact election configuration
+1	exact proofs
+1	experiment aborts
+1	extreme threats
+1	fake credentials
+1	fake paper material [
+1	family coercion
+1	fc
+1	filipiak
+1	final decryption
+1	final result
+1	financial cryptography
+1	financial interests
+1	finite spaces
+1	finogina t
+1	focs
+1	following
+1	forced-abstention attacks
+1	formal approach
+1	formal definitions
+1	formalize security definitions
+1	foundations
+1	fraser
+1	free-form votes
+1	fuchsbauer g
+1	full zero-knowledge
+1	full zero-knowledge interactive system
+1	full zeroknowledge interactive protocol
+1	furthermore
+1	future work
+1	galindo d. beleniosrf
+1	gardner rw
+1	garera
+1	generalitat
+1	generic solutions
+1	generic version
+1	gennaro r. incoercible
+1	gjsteen k
+1	global adversarial setting
+1	global adversaries
+1	global adversaries [
+1	global approach
+1	global election
+1	goldreich
+1	golle p
+1	grossklags j
+1	group mandates existence
+1	group relies
+1	guasch
+1	haenni r
+1	haines t
+1	hard relation
+1	hard-to-distinguish language
+1	hard-to-distinguish property
+1	hardto-distinguish language
+1	hardware tokens
+1	hash function
+1	hash functions
+1	hazay
+1	helios
+1	helios/belenios
+1	hengartner u. selections
+1	herranz j
+1	high certainty intent verification
+1	high risks
+1	high variety
+1	homomorphic
+1	homomorphic encryption
+1	homomorphic properties
+1	homomorphic property
+1	homomorphic tally
+1	homomorphic tally step
+1	honest voter
+1	honest-verifier zero-knowledge
+1	honest-verifier zero-knowledge property
+1	honest-verifier zeroknowledge
+1	human factors
+1	i3e
+1	iacr
+1	iacr cryptol
+1	idea woks
+1	ideal lattices
+1	ieee computer
+1	ieee secur privacy
+1	impagliazzo r. designated
+1	implies privacy
+1	implies receipt-freeness
+1	impose instructions
+1	incoercibility
+1	incoercibility [
+1	incoercible multi-party computation setting [ 12,27,28 ]
+1	incompatible [
+1	indistinguishable way
+1	individual risks
+1	information security
+1	inherits honest-verifier zero-knowledge
+1	initial protocol
+1	innovacin
+1	input message
+1	intentional credentials
+1	interactive
+1	interactive -protocol
+1	interactive approach
+1	interactive protocols
+1	interactive zeroknowledge proofs
+1	internal secret values
+1	international workshops
+1	internet
+1	internet-based
+1	iovino v. selene
+1	italian attacks
+1	italy
+1	j acm
+1	j. herranz soundness
+1	jakobsson
+1	jakobsson m. coercion-resistant
+1	javier herranz
+1	javier.herranz @ upc.edu
+1	jordi girona
+1	journal homepage
+1	july
+1	kersting n
+1	khazaei
+1	kluwer
+1	koenig re
+1	korea
+1	kortum p
+1	krenn
+1	krimmer r
+1	krips k
+1	ksters r
+1	lallemand j. beleniosvs
+1	language = {
+1	language = { | ..
+1	large elections
+1	large scale elections
+1	large-scale elections
+1	larraia e.
+1	lattice assumptions
+1	lindell y
+1	linear complexity
+1	linear time
+1	local definitions
+1	local property
+1	luckily
+1	magkos e
+1	main difference
+1	malicious behaviors
+1	malicious players
+1	march
+1	marcos
+1	marky k
+1	matemtiques
+1	mathematical descriptions
+1	mathematical/cryptographic operations
+1	mathematics
+1	may
+1	meaningful coercion-resistance property
+1	message voter
+1	micinn
+1	mini survey
+1	ministerio
+1	mller-quade j
+1	mobile phone
+1	model reactive protocols
+1	moran t
+1	morillo p.
+1	multi-party computation
+1	multicoercion case
+1	multiparty computation
+1	multiple ballots
+1	myers ac
+1	namely
+1	naor m. receipt-free
+1	natural idea
+1	necessary preliminaries
+1	neff ca
+1	negligible function
+1	negligible function | |
+1	network security
+1	new directions
+1	new formal security definitions
+1	new question
+1	new techniques
+1	non-interactive
+1	non-interactive zero-knowledge proofs
+1	non-negligible possibility
+1	non-negligible success probabilities
+1	noninteractive receipt-free
+1	notion [
+1	nowadays
+1	np-relation
+1	numbers [
+1	numerous methods
+1	ny
+1	observational power
+1	obviously
+1	october
+1	oechsner
+1	off-line way
+1	okamoto
+1	okamoto t. receipt-free
+1	omit recorded-as-cast verification
+1	on-line way
+1	one-time commitments
+1	ones generated/sent
+1	open access article
+1	open lines
+1	or-proof
+1	orproof
+1	ostrovsky r
+1	over-the-shoulder coercion-resistance
+1	paper contains
+1	paper material
+1	paper materials
+1	part
+1	part ii
+1	partial checks
+1	participation privacy
+1	particular element
+1	particular example
+1	particular instance
+1	particular way
+1	parties
+1	passive coercer
+1	passive coercion
+1	pedersen
+1	pedersen tp
+1	peikert
+1	peikert c.
+1	pereira
+1	perfect
+1	personal computer
+1	personal relationships
+1	phase [
+1	photo copy
+1	physical devices
+1	physical means
+1	pietrzak k. efficient
+1	pkc
+1	plaintext leakage
+1	plaintext space
+1	poll station
+1	polynomial time
+1	polynomial time distinguisher
+1	polynomial-time coercer
+1	polynomial-time simulator algorithm =
+1	popular solution [
+1	possible attacks
+1	possible ballots
+1	possible monetary incentive
+1	possible ways
+1	post-election communication
+1	post-quantum cryptographic settings
+1	post-quantum security
+1	powerful special kind
+1	pr
+1	practical
+1	practical aspects
+1	practice [
+1	preliminaries
+1	preliminary version [
+1	preneel
+1	preprint
+1	prevents vote
+1	previous attempts
+1	previous section
+1	previous work
+1	private output bits
+1	probabilistic check
+1	probabilistic checks
+1	probabilistic encryption scheme
+1	probability distribution
+1	problem [
+1	project di
+1	project pid2019-109379rb-i00
+1	promising cryptographic techniques
+1	proof system
+1	proof systems
+1	proper randomness
+1	property receipt freeness
+1	proposition
+1	protocol results
+1	provable security
+1	provers
+1	prt voter
+1	public channel
+1	public key cryptography
+1	public key encryption
+1	public key encryption scheme contains elements
+1	public place
+1	public-key
+1	public-key encryption scheme
+1	quaglia ea
+1	quantitative approach
+1	quantitative definitions
+1	quantum computer
+1	quantum computers
+1	quantum-safe commitment scheme
+1	quantum-safe scheme
+1	rabin t
+1	random beacon
+1	random choice
+1	random element
+1	random number
+1	random oracle
+1	random oracle model
+1	random oracles
+1	random value
+1	random values
+1	randomness source
+1	randomness space
+1	re-randomization server
+1	reactive protocols
+1	real adversary
+1	real coercer
+1	real execution
+1	real world
+1	recall
+1	receipt
+1	receipt freeness
+1	recent definitions [
+1	recently
+1	references
+1	regev
+1	registration phase
+1	related
+1	relevant security properties
+1	reliable delivery channels
+1	remember
+1	renaud k
+1	resistant end-to-end
+1	return code
+1	return codes
+1	return codes [
+1	revised
+1	ring learning
+1	riou
+1	rlwe
+1	rnne p
+1	robbana r
+1	roughly
+1	rubin ad
+1	ryan
+1	ryan m. coercion-resistance
+1	ryan p
+1	s.l.u.
+1	sako k
+1	satisfies s.t
+1	satisfying =
+1	scheme assumes
+1	scheme runs
+1	schemes
+1	schrmann
+1	sciencedirect
+1	scn
+1	scytl
+1	secrecy
+1	secret information
+1	secret keys
+1	secret value
+1	secret-ballot elections
+1	security analysis
+1	security parameters
+1	security proofs
+1	security protocols workshop
+1	security symposium
+1	seiler g. practical
+1	seiler g. shorter
+1	semantic security
+1	semantic security sense
+1	setting =
+1	setup algorithm
+1	sigma
+1	simple alternative
+1	simulating
+1	simulator aborts
+1	smyth
+1	smyth b. athena
+1	smyth b. cast-as-intended
+1	smyth b. surveying
+1	space =
+1	spain
+1	spain article info keywords
+1	special honest-verifier zero-knowledge
+1	special honest-verifier zero-knowledge property
+1	special printer
+1	special soundness property
+1	specific
+1	specific distribution
+1	specific papers
+1	specific values
+1	specific voter
+1	specific way
+1	specific write-ins
+1	standard soundness
+1	statistical/quantitative approach
+1	stoc
+1	store encryption randomness
+1	strong receipt-freeness [
+1	strong types
+1	studies [
+1	subsequent works [
+1	such demands
+1	such relation
+1	such solutions
+1	such systems
+1	suitable -protocol
+1	suitable public-key encryption scheme
+1	switzerland
+1	syntax
+1	tally results
+1	tamara finogina
+1	tamara.finogina @ scytl.com
+1	techniques
+1	technologies
+1	technology workshop
+1	technology workshop/workshop
+1	test ballot
+1	time [
+1	toward
+1	traditional receipt-freeness
+1	transferable proofs
+1	transparent verifiability
+1	traor j
+1	trechsel ah
+1	truderung t
+1	true
+1	true intent
+1	tuinstra
+1	tuinstra d
+1	turuani m.
+1	two-party protocols
+1	typical scenario
+1	uc-definition
+1	unfair advantage
+1	unique vote code
+1	universal composition
+1	universal verifiability
+1	universally
+1	universitat politcnica
+1	university press
+1	unruh d
+1	unsatisfactory solutions
+1	untappable channel
+1	untappable channels
+1	usability
+1	usenix
+1	usenix/accurate
+1	uses challenge
+1	valid encryption
+1	valid non-interactive zero-knowledge proofs
+1	valid proof
+1	valid transcripts
+1	valid vote
+1	variants thereof [
+1	various derivatives
+1	vassil k. internet
+1	vd
+1	verifiable election protocol
+1	verification mechanisms
+1	verification protocols
+1	verification strategies
+1	verifier contains
+1	verifier proofs
+1	vienna
+1	visual cryptography
+1	vogt
+1	volkamer
+1	vote buyer
+1	vote content
+1	vote verification
+1	vote-verification material
+1	voter abstains
+1	voter casts
+1	voter feedback
+1	voter generate
+1	voter interacts
+1	voter misbehaves
+1	voter sends
+1	voter-verifiable elections
+1	voters choice
+1	voters head
+1	wallach ds
+1	weak [ 5,6,17 ]
+1	weakest form
+1	web-based
+1	well-known input
+1	well-known technique [
+1	well-known techniques
+1	whole purpose
+1	whyte w. efficient
+1	wikstrm d. return
+1	willemson j
+1	work [
+1	wtsc
+1	xu q
+1	yang q
+1	yang r
+1	year [
+1	yes/no notion
+1	york
+1	yousfi s. towards
+1	yu z
+1	z g
+1	zero-knowledge
+1	zero-knowledge interactive systems
+1	zero-knowledge proofs [
+1	zeroknowledge arguments
+1	zhang b. demos-2
+1	zhang b. end-to-end
+1	zhang z
+1	zhou h
+1	zikas v. incoercible
+1	zk
+1	zrich
+1	| ]
+1	| ] |
+1	| |
+1	| | experiment
+1	|pr [
+1	|pr [ = ]
+1	|| event

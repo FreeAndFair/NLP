@@ -1,0 +1,564 @@
+49	helios
+17	app
+17	qr
+15	figure
+14	m.
+10	hash value
+10	public web bulletin board
+9	bvs
+8	fig
+7	apps
+7	olembo
+7	proceedings
+6	j.
+6	verification process
+6	volkamer
+5	hence
+5	m.m.
+5	p.
+5	s.
+5	selker
+4	b.
+4	bps
+4	d.
+4	electronic voting
+4	internet
+4	paste approach
+4	usenix
+4	web page
+3	according
+3	ballot preparation system
+3	cast verification
+3	ctrl
+3	f.
+3	germany
+3	herrnson
+3	information
+3	o.
+3	plain text
+3	reflection
+3	stored
+3	t.
+3	trustworthy elections
+3	verifiability steps
+3	verification steps
+3	voter
+3	voting
+3	vv-pats
+3	web client
+3	zeus
+2	a.
+2	academic contexts
+2	accessed
+2	acm
+2	adida
+2	alleviate
+2	alleviation option
+2	application
+2	bartsch
+2	benaloh challenge
+2	berkeley
+2	budurushi
+2	bulletin board
+2	ca
+2	cased
+2	cast
+2	cast verifiability
+2	cast verification process
+2	cohen
+2	continue
+2	copy
+2	cortier
+2	cryptographic verifiability
+2	electronic voting technology/workshop
+2	empty ballot
+2	focus
+2	future elections
+2	g.
+2	have
+2	helios verification
+2	human perspective
+2	id
+2	integrity assurance
+2	intended verification
+2	internet-based
+2	january
+2	k.
+2	karayumak
+2	kauer
+2	methodology
+2	nominate
+2	p.s.
+2	pandolfo
+2	paste
+2	pereira
+2	pret
+2	previous versions
+2	quesenbery
+2	r.
+2	search
+2	sha256
+2	shall
+2	smartphone owners
+2	springer
+2	technology workshop
+2	testing voting systems
+2	trust model
+2	trustworthy institutes
+2	tsoukalas
+2	tu darmstadt
+2	university president
+2	usa
+2	usability
+2	usability studies
+2	usable security
+2	usec
+2	user
+2	user study
+2	various contexts
+2	verifiability
+2	verification model
+2	verification procedure
+2	verification step
+2	vote
+2	vote integrity
+2	vote secrecy
+2	w.
+2	web browser search
+1	% penetration rate
+1	+ c
+1	+ f
+1	/ verification processes
+1	//de.statista.com/statistik/daten/studie/168038/umfrage/ anzahl-der-downloads-mobiler-apps-in-deutschland-seit-2009/
+1	//www.capc.umd.edu/rpts/promise_ and_pitfalls_of_electronic_voting.pdf
+1	a.k
+1	a.t.
+1	abstract
+1	academic libraries
+1	academic research
+1	accommodate voters
+1	acknowledgments
+1	actual votes
+1	adept generation ages
+1	adequate security
+1	adequate security levels
+1	al.s study design
+1	alleviation approaches
+1	amelioration approach removes
+1	amelioration proposals
+1	analysis
+1	android
+1	anzahl
+1	app8
+1	arduous nature
+1	ashford
+1	assumption ensures
+1	audit voting
+1	auditing
+1	average age
+1	b.b.
+1	bad web client
+1	base64
+1	bederson
+1	benaloh
+1	board election
+1	bulens
+1	c keys
+1	c.
+1	cambridge
+1	canadi
+1	carback
+1	cast step
+1	casting
+1	certain knowledge
+1	characters.3 voters
+1	chaum
+1	checking
+1	chisnell
+1	clark
+1	clipboard content
+1	comments
+1	communication technologies
+1	computer
+1	computing
+1	conclusion
+1	conrad
+1	consumer communication
+1	consumer communication [
+1	context information
+1	correct hash value
+1	corresponding instructions
+1	corresponding interface
+1	corresponding logos
+1	corresponding vote
+1	corresponding web page
+1	correspondingly
+1	countries verifiability
+1	creative
+1	cryptologic
+1	ctrl-v
+1	cugini
+1	culnane
+1	cumbersome alternatives
+1	cumbersome nature
+1	current point
+1	d.g
+1	day voters
+1	de marneffe
+1	december
+1	delegating verification
+1	delegation
+1	delegation approach
+1	deliberate action
+1	design approach
+1	detect malicious behaviour
+1	detect manipulations
+1	deutsche forschungsgemeinschaft
+1	deutschland
+1	dfg
+1	different mental models
+1	different messages
+1	different perspective
+1	different situations
+1	different smartphones
+1	digitales deutschland
+1	digitales_deutschland
+1	directors
+1	dishonest voters/tools
+1	displays instructions
+1	distributed elgamal
+1	dou
+1	downloads
+1	driven
+1	e-voting
+1	e.
+1	economic terms
+1	effective security
+1	effort misers
+1	effortful manner
+1	either
+1	electing
+1	election authorities
+1	election board
+1	election commission
+1	election invitation letter
+1	election material
+1	election phase
+1	election process
+1	election technology
+1	elections handbook
+1	electronic
+1	electronic voting machines
+1	electronic voting systems
+1	encrypted vote
+1	end-to-end verifiability
+1	engineering australia
+1	ensure inclusivity
+1	ensure integrity
+1	enter
+1	ergonomics
+1	essex
+1	evote2010
+1	evt/wote
+1	evt/wote11
+1	evt/wote13
+1	evt06
+1	expend effort
+1	extra
+1	extra devices
+1	extra effort
+1	f keys
+1	final tally
+1	final vote
+1	financial limitations
+1	findings
+1	firstname.lastname @ cased.de
+1	firstname.lastname @ glasgow.ac.uk
+1	francia
+1	fuchs
+1	galindo
+1	genuine vote
+1	german science foundation
+1	germany9
+1	giry
+1	glasgow email
+1	glondu
+1	h.
+1	handbook
+1	hanmer
+1	hash algorithm
+1	hash size length
+1	hash values
+1	hawkins
+1	heather
+1	helios voting
+1	hengartner
+1	highlight
+1	hopken
+1	hot topic
+1	human-centred
+1	human-system interaction part
+1	iacr
+1	icon i
+1	identify
+1	identify trusted verifying institutes
+1	implicit assumption
+1	improved
+1	improved helios voting
+1	initial
+1	insecure technology
+1	instruct voters
+1	instructs voters
+1	integrity violations
+1	interactive systems
+1	interface
+1	intermediate outcomes
+1	international association
+1	international committee
+1	international journal
+1	international workshop
+1	internetwahlen
+1	introducing precautionary behavior
+1	introduction internet
+1	ipwea
+1	iso
+1	izabachene
+1	j.j.
+1	jahren
+1	jets
+1	juristisch-informatische modellierung
+1	just-in-time verification instructions
+1	karen renaud2
+1	key
+1	key generation
+1	key length [
+1	killam
+1	l.
+1	lab user study
+1	lenstra
+1	lenstras
+1	li
+1	libraries
+1	libraries [
+1	linux
+1	llewellyn
+1	louridas
+1	louvain
+1	m candidate
+1	m. maina olembo1
+1	m.j.
+1	mac os x
+1	male participants
+1	manual
+1	manual comparison
+1	manual process
+1	manual steps
+1	manual verification process
+1	master thesis
+1	mayberry
+1	media lab
+1	melanie volkamer1
+1	mental
+1	mental models
+1	message [
+1	message will motivate
+1	micromata
+1	microsoft windows
+1	millionen
+1	mit
+1	mobile
+1	mobile users
+1	modiwa2
+1	multiple parties
+1	necessary steps
+1	network connection
+1	new options
+1	new web page
+1	niemi
+1	nominated
+1	nomination option
+1	november
+1	online travel distribution
+1	open-source variant
+1	options
+1	organizations
+1	original hash value
+1	own smartphones
+1	own votes
+1	own web service
+1	p.l.
+1	p.r
+1	papadimitriou
+1	paper audit trails
+1	participants [
+1	paste actions
+1	paste technique
+1	pedersen
+1	personal benefit
+1	pgp
+1	pgpfone
+1	pitfalls
+1	poll site election setting
+1	positive
+1	present users
+1	previous amelioration option
+1	previous mechanism
+1	previous sections
+1	princeton
+1	princeton undergraduate
+1	privacy
+1	privacy phone owners manual
+1	process
+1	process [
+1	process cumbersome
+1	prominent reasons
+1	promise
+1	prompts voters
+1	proposal
+1	pseudonym [
+1	public institutions
+1	qr codes
+1	quisquater
+1	r.g.
+1	r.r.
+1	readable value
+1	real world elections
+1	real-world use
+1	recently
+1	redish
+1	references
+1	related
+1	relevant modifications
+1	remember
+1	remote electronic voting
+1	renaud
+1	representative sample
+1	requirements engineering
+1	research suggests
+1	researchers
+1	revised
+1	revote
+1	rosenzweig
+1	running mixnet-based elections
+1	s.b
+1	scan
+1	scanned
+1	scantegrity
+1	scantegrity mock
+1	schneider
+1	secondary channel
+1	sections
+1	security model assumes
+1	security researchers
+1	separate window
+1	server detects
+1	shen
+1	sherman
+1	shorter hash value
+1	significant impact
+1	significant number
+1	similar conclusions
+1	simple
+1	simple elections
+1	simple way
+1	sinha
+1	small user study
+1	smartphone app
+1	smartphones
+1	so-called audit codes
+1	source
+1	srinivasan
+1	standards
+1	stast
+1	stefan
+1	stephan neumann1
+1	store votes [
+1	student government
+1	such repetition
+1	symposium
+1	system [
+1	system malfunction
+1	systems
+1	takoma
+1	technical
+1	technical improvements
+1	technical perspective
+1	temporal diversion
+1	test votes
+1	thirty-five
+1	thirty-seven
+1	throughout
+1	times participants
+1	tourism
+1	traugott
+1	travel information [
+1	trustworthy ballot verifier system
+1	trustworthy web services
+1	tsanakas
+1	twenty-eight
+1	u.
+1	undergraduate student election [
+1	universite
+1	university press
+1	urls
+1	usability analysis
+1	usability field test
+1	usenix/accurate electronic voting
+1	user studies
+1	user testing
+1	v.
+1	various aspects
+1	various institutes
+1	verifiability institute
+1	verifiability process
+1	verifiable decryption [
+1	verifiable elections
+1	verifiable homomorphic
+1	verifiable mix net
+1	verifiable paper audit trails
+1	verification measures
+1	verification mechanisms
+1	verification opportunity
+1	verification options
+1	verification part
+1	verification process voters need
+1	verification smartphone
+1	verification solution
+1	verification tools
+1	verification web pages
+1	verify your vote
+1	verifying
+1	views
+1	visual comparison
+1	volk
+1	vora
+1	vote casting/verification process
+1	vote encryption
+1	voter attention
+1	voter interaction
+1	voters behalf
+1	voters cast
+1	voters check
+1	voters device
+1	voters name [
+1	voters need
+1	voters return
+1	voters submit
+1	voters uncover fraud
+1	votes
+1	votes [
+1	votes cast
+1	web browser
+1	web clients
+1	web services
+1	web-based open-audit voting
+1	weber
+1	woide
+1	word list [
+1	workshop/workshop
+1	wpes
+1	x.
+1	xia
+1	year =
+1	z.
+1	zimmermann

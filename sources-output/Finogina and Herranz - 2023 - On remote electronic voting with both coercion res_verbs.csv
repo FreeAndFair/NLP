@@ -1,0 +1,714 @@
+126	is
+24	are
+15	sends
+10	assume
+10	has
+10	computes
+8	described
+8	exists
+8	consider
+7	requires
+7	computing
+7	accepts
+7	works
+7	using
+7	chooses
+7	resulting
+7	to achieve
+6	is sent
+6	means
+6	based
+6	contains
+6	makes
+5	does
+5	proposed
+5	cast-as-intended
+5	runs
+5	chosen
+5	holds
+5	to use
+5	let
+5	existing
+4	defined
+4	associated
+4	implies
+4	follows
+4	being
+4	know
+4	cast
+4	providing
+4	gives
+4	can force
+4	given
+4	must be
+4	can use
+4	allows
+4	to compute
+3	generated
+3	setting
+3	to produce
+3	assumes
+3	let be
+3	otherwise chooses
+3	be
+3	will be
+3	choosing
+3	would be
+3	casting
+3	belongs
+3	to run
+3	see
+3	denote
+3	receives
+3	analyzed
+3	enjoys
+3	achieves
+3	regarding
+3	show
+3	there exists
+3	note
+3	have
+3	omit
+3	expect
+3	defining
+3	to distinguish
+3	including
+3	also assume
+3	also known
+3	to cast
+3	following
+3	recall
+3	permits
+3	takes
+3	use
+3	followed
+3	coerced
+3	force
+3	enjoy
+3	sent
+3	enjoying
+3	send
+2	can distinguish
+2	casts
+2	describing
+2	includes
+2	happens
+2	to verify
+2	to follow
+2	consist
+2	can consider
+2	rely
+2	introduced
+2	can be simulated
+2	being detected
+2	assuming
+2	provides
+2	focused
+2	to happen
+2	can be found
+2	cheats
+2	have considered
+2	are done
+2	discuss
+2	possibly executed
+2	relies
+2	to simulate
+2	used
+2	to generate
+2	make
+2	is to use
+2	binding
+2	was proposed
+2	will
+2	can simulate
+2	was found to be
+2	secret
+2	ensures
+2	learning
+2	to be
+2	received
+2	contain
+2	=(
+2	obtain
+2	exchanged
+2	want to ensure
+2	is to distinguish
+2	can choose
+2	accepting
+2	forces
+2	say
+2	sees
+2	convinces
+2	utilized
+2	does not abort
+2	can observe
+2	otherwise uses
+2	generate
+2	cannot prove
+2	|
+2	to do
+2	will accept
+2	satisfies
+2	produces
+2	allow
+2	to deceive
+2	provide
+2	encrypts
+2	intended
+2	to avoid
+2	allowed
+2	can be
+2	discussed
+2	challenging
+2	can
+2	include
+2	known
+2	achieving
+2	call
+2	will be sent
+2	published
+2	is hiding
+2	plays
+2	does not know
+2	can prove
+2	notes
+2	voted
+2	consists
+2	leads
+2	focus
+1	compromised
+1	should be
+1	is to impose
+1	must contain
+1	is severely restricted
+1	cannot control
+1	e
+1	not sending
+1	to successfully run
+1	are printed
+1	describe
+1	arxiv:1901.02560
+1	provided
+1	generates
+1	can disobey
+1	forcing
+1	formalize
+1	tries to cheat
+1	preventing
+1	cannot be delegated
+1	is just assumed to be
+1	knows
+1	check
+1	is supposed to compute
+1	surveying
+1	cannot consider
+1	exist
+1	guessed
+1	to ensure
+1	to obtain
+1	covers
+1	would run
+1	have formally proved
+1	will need
+1	detailed
+1	called
+1	pre-delivered
+1	there exist
+1	conceptually more
+1	allow to send
+1	allows to measure
+1	has been committed
+1	prevents
+1	actually knows
+1	to bring
+1	would be to consider
+1	are sent
+1	will have
+1	is obeying
+1	then is chosen
+1	designated
+1	does not have
+1	are not modeled
+1	does not consider
+1	offer
+1	is supposed to be
+1	is trusted
+1	was
+1	decides to stop
+1	is binding
+1	also remark
+1	deal
+1	have shown
+1	workshop/workshop
+1	was not expected to receive
+1	decrypts
+1	raises
+1	cannot observe
+1	can write
+1	bound
+1	obtaining
+1	can be chosen
+1	do not consider
+1	is included
+1	to prevent
+1	to instantiate
+1	to measuring
+1	prefer to prove
+1	might be
+1	was run
+1	cast-or-challenge
+1	proceed
+1	permitted
+1	does not verify
+1	can extract
+1	was designed
+1	run
+1	can be relaxed requiring
+1	immediately leads
+1	must communicate
+1	can attempt to link
+1	are used
+1	will thus forget
+1	has gone
+1	else define
+1	matching
+1	is as follows
+1	must assume
+1	then runs
+1	has to obey
+1	has limited
+1	instantiating
+1	have =(
+1	then is
+1	could generate
+1	to comply
+1	was used
+1	ciphertexts let
+1	specifies
+1	to detect
+1	facing
+1	performing
+1	has been supported
+1	advanced
+1	accepted
+1	can easily solve
+1	pre-printed
+1	was allowing
+1	corresponds
+1	finally decides to casts
+1	would open
+1	is wildly used
+1	semantically secure
+1	aborts
+1	have been considered
+1	also compare
+1	to deviate
+1	must compute
+1	is directly implied
+1	is trusted to modify
+1	is said to be
+1	contradicting
+1	secure
+1	is used to encrypt
+1	starting
+1	no longer can receive
+1	implicitly assumes
+1	captures
+1	to prove
+1	finally is
+1	simulated
+1	is now known
+1	increases
+1	modeled
+1	is described
+1	is forced to choose
+1	tracking
+1	built
+1	wants to get
+1	uses
+1	to disclose
+1	also contains
+1	then accepts
+1	is believed to be
+1	can later oblige
+1	does is to run
+1	tend to perform
+1	emphasize
+1	previously exchanged
+1	are supposed to be
+1	is challenging given
+1	wishes to vote
+1	can only generate
+1	cannot see
+1	interacts
+1	tally-as-recorded
+1	must mean
+1	thus preventing
+1	understand cast-or-challenge
+1	selected
+1	remembering
+1	has been
+1	colluding
+1	will not be cheated
+1	then uses
+1	recently proposed
+1	freeness given
+1	altered
+1	to denote
+1	ensuring
+1	cannot be
+1	corresponding
+1	enable
+1	generating
+1	chooses to audit
+1	define
+1	was published
+1	must be done
+1	could not simulate
+1	distinguishing
+1	cannot communicate
+1	puts
+1	considering
+1	then concentrate
+1	can be thought
+1	was based
+1	can do
+1	is taken
+1	therein is quantified
+1	appeared
+1	to act
+1	cannot offer
+1	require pre-printed
+1	might wish to sell
+1	can coerce
+1	to guess
+1	taking
+1	reported
+1	is typically divided
+1	encrypts using
+1	cannot perform
+1	missing
+1	question roughly translates to are
+1	letting
+1	has found
+1	approach
+1	to misbehave
+1	is equipped
+1	managing
+1	are known
+1	learns
+1	considered
+1	qr-codes
+1	is to add
+1	fail
+1	can fake
+1	to measure
+1	is done
+1	was completed
+1	becomes even more challenging
+1	reveals
+1	distinguishes
+1	could be achieved
+1	will be avoided
+1	will also work
+1	cannot audit
+1	instantiate
+1	provided simulated
+1	competing
+1	aimed to adopt
+1	stop
+1	may affect
+1	allow to generate
+1	do
+1	achieve
+1	has been guessed
+1	finally sends
+1	equipped
+1	controls
+1	could require
+1	is executing
+1	formally prove
+1	are no known
+1	fails to provide
+1	fail to achieve
+1	to exploit
+1	to convince
+1	to make
+1	does know
+1	correctly reflect
+1	does not gain
+1	would be to allow
+1	cannot distinguish
+1	give
+1	should match
+1	does not cover
+1	is trivially achieved
+1	could be used to break
+1	falls
+1	can come up
+1	satisfy
+1	measures
+1	to deduce
+1	are considered
+1	not to participate
+1	destroy
+1	is to show
+1	kersting
+1	take
+1	are to be computed
+1	then have shown
+1	may depend
+1	answering
+1	could have appeared to influence
+1	would not use
+1	depending
+1	form
+1	pke given
+1	prohibits
+1	can be published
+1	is dishonest/coerced
+1	seek
+1	was altered
+1	cannot sell
+1	will not consider
+1	is not allowed to impose
+1	is accepted
+1	declare
+1	can firmly agree
+1	includes outputting
+1	finally chooses
+1	depends
+1	require
+1	to make believe
+1	will follow
+1	remember
+1	specify
+1	believe
+1	is explicitly prohibited
+1	thus turning
+1	to reveal
+1	pre-generated
+1	lists
+1	proving
+1	is not done
+1	is not providing
+1	use to build
+1	selling
+1	would not accept
+1	is used
+1	to get
+1	would not be
+1	behaves
+1	interact
+1	not coerced
+1	must always have
+1	can help to construct
+1	says
+1	proposing
+1	is encrypted
+1	must send
+1	could be instantiated
+1	cannot evaluate
+1	can require
+1	should be addressed
+1	is not secure
+1	www.elsevier.com/locate/jisa
+1	keep
+1	running
+1	must not be simulated
+1	considered setting
+1	must convince
+1	might be dictated
+1	must provide
+1	delegated
+1	can be instantiated
+1	admits
+1	may eventually force
+1	aborting
+1	does not inspect
+1	can divide
+1	would complain
+1	can produce
+1	can be modified to get
+1	could be
+1	to challenge
+1	receiving
+1	get
+1	is to protect
+1	restricted
+1	shown
+1	also formally prove
+1	sketched
+1	entering
+1	extended
+1	to demand
+1	challenges
+1	to concentrate
+1	mandates
+1	to succeed
+1	indeed followed
+1	eventually prove
+1	previously received
+1	denote taking
+1	found
+1	remove trusted
+1	can impose
+1	to see
+1	woks
+1	to inspect
+1	expects to receive
+1	employed
+1	does not send
+1	obeyed
+1	propose
+1	explicitly selected
+1	is based
+1	quantified
+1	happened
+1	to coerce
+1	solving
+1	e defined
+1	to interact
+1	may interact
+1	to solve
+1	suffer
+1	differs
+1	committed
+1	would no more enjoy
+1	intentionally omit
+1	want to stress
+1	will use
+1	can only be implemented
+1	realizes
+1	cannot
+1	cannot cheat
+1	stress
+1	do not depend
+1	coming
+1	as follows
+1	produce
+1	tries
+1	is identically distributed
+1	demanding
+1	includes giving
+1	may
+1	is given
+1	could be addressed
+1	exemplify
+1	already noted
+1	first provide
+1	reject
+1	do not worry
+1	means knows
+1	can recover
+1	to keep
+1	to receipt-freeness was proposed
+1	is to physically go
+1	allows excluding
+1	to find
+1	want
+1	abort
+1	can print
+1	have mentioned
+1	cannot exist
+1	may seem
+1	stated
+1	claim
+1	to reconstruct
+1	to vote
+1	seems to be
+1	will lead to rejecting
+1	keeping
+1	capturing
+1	producing
+1	hold
+1	separates
+1	have focused
+1	a,b
+1	brings
+1	started
+1	posting
+1	directly get
+1	introducing
+1	selects
+1	hiding
+1	must happen
+1	to guarantee
+1	will abort
+1	locally run
+1	prove
+1	working
+1	cheating
+1	corrupted
+1	actually contains
+1	aimed
+1	analyzing
+1	addressed
+1	heavily relies
+1	might try to intentionally sell
+1	addresses
+1	inherits
+1	not should be
+1	can safely assume
+1	cannot predict
+1	is extracting
+1	study
+1	sending
+1	simulating
+1	to capture
+1	tallying
+1	hence there is
+1	has been computed
+1	desired
+1	delivering
+1	can see
+1	focuses
+1	revealing
+1	is to formally analyze
+1	is not allowed to observe
+1	goes
+1	means to ensure
+1	should repeat
+1	giving
+1	are allowed
+1	to choose
+1	is chosen
+1	will focus
+1	follow
+1	dealing
+1	are going to define cast-as-intended
+1	will never be convinced
+1	enforce
+1	is recalled
+1	avoiding
+1	then proposes
+1	can be prevented
+1	defeats
+1	did
+1	cannot open
+1	expect to receive
+1	later simulate
+1	mixing
+1	e associated
+1	putting
+1	will make
+1	are assuming
+1	have been used
+1	worse
+1	is limited
+1	was provided
+1	then |
+1	to be sent
+1	perhaps is
+1	being criticized
+1	was claimed to be
+1	can be obtained
+1	known competing
+1	also works
+1	are executed
+1	must also work
+1	executing
+1	exclude tally-as-recorded
+1	seem to be
+1	to have
+1	has appeared

@@ -1,0 +1,722 @@
+86	epk
+45	mpc
+43	ordinos
+34	condorcet
+17	irv
+14	figure
+14	hare-niemeyer
+14	pmpc
+13	schulze
+12	theorem
+10	borda
+8	i [ nc ]
+7	choice space
+7	election result
+7	enc
+7	fig
+7	i [ n ]
+7	keysharegen
+7	paillier
+6	bb
+6	r. kusters
+6	result function
+6	result functions
+5	bi =
+5	c =
+5	copeland
+5	i [ ncand ]
+5	nizkp
+5	nizkps
+4	b =
+4	building blocks
+4	comparison matrix
+4	encrypted
+4	getmaxidx
+4	getminidx
+4	kusters
+4	main challenge
+4	mi
+4	mij
+4	ni
+4	often
+4	pathmatrixi
+4	pathmatrixj
+4	plain ballot
+4	plain condorcet
+4	practical instantiations
+4	theorems
+4	total number
+3	= fgt
+3	a. vogt
+3	candidate ci
+3	csingle
+3	d. rausch
+3	eprint report
+3	floor
+3	full tally
+3	g = fgt
+3	instant-runoff
+3	instant-runoff voting
+3	j =
+3	k candidates
+3	maine
+3	nizkp enc
+3	remainder seats
+3	simple result functions
+3	specifically
+3	springer
+3	stuttgart
+3	voting
+3	xr
+2	= feq
+2	= fmul
+2	= {
+2	[ ncand ]
+2	accountability
+2	additional seat
+2	additionally
+2	ai
+2	authentication server
+2	ballot format
+2	basic building blocks
+2	basic operations
+2	benchmarks
+2	bit b =
+2	c.
+2	cand ]
+2	candidate exists
+2	certain threshold
+2	comparison protocols
+2	condorcet evaluation
+2	e = feq
+2	electoral districts
+2	electronic voting
+2	elgamal
+2	external observers
+2	final result
+2	getbest
+2	getmax
+2	getmin
+2	hence
+2	importantly
+2	input
+2	instantiations
+2	intermediate results
+2	internal parties
+2	internet
+2	italian attacks
+2	j [ ncand ]
+2	j [ ncand ] \ { i }
+2	j. liedtke
+2	k. ramchen
+2	linear growth
+2	local network
+2	majority judgement
+2	maximum
+2	mj
+2	multi-party computation
+2	ncand ncand
+2	nizkps enc
+2	nsw
+2	observe
+2	overall result
+2	pathmatrix
+2	proportional representation
+2	public accountability
+2	rj =
+2	runtime o
+2	s = s +
+2	schulze method
+2	secret key shares
+2	single/multi-vote elections
+2	small numbers
+2	smith
+2	stv
+2	t-out-of-nt threshold public-key encryption scheme
+2	t. truderung
+2	tally-hiding
+2	universally
+2	v. teague
+2	vector
+2	verifiability
+2	voter j
+2	winner exists
+1	+ b
+1	-matrix m
+1	// cf
+1	//legislature.maine.gov/lawlibrary/ ranked-choice-voting-in-maine/9509
+1	18min 0s
+1	327min 30s
+1	6min 0s
+1	< jb
+1	= 0n
+1	= b
+1	= bqi c.
+1	= fadd
+1	= g
+1	= g e
+1	= j [ n ]
+1	= j [ nv ] vi
+1	= m {
+1	= rj rj+1
+1	= vinnv s
+1	@ 2.70ghz
+1	[ 1,2,3,4,5,6,7 ]
+1	[ 9,10,11,12,13,14 ]
+1	[ n ]
+1	[ n cand ] [ ncand ]
+1	] run
+1	] tackles
+1	a. hevia
+1	a. juels
+1	a. ryan
+1	a. szepieniec
+1	absolute majority
+1	abstract
+1	accountability [
+1	accountable implementation
+1	acns
+1	actual plaintext space
+1	additional information
+1	additional seats
+1	additive homomorphic property
+1	aggregation approach
+1	ai aj
+1	ai s.
+1	algorithm
+1	algorithm compares
+1	algorithm performs
+1	alternative vote
+1	analogously
+1	applications
+1	arbitrary functions
+1	arrow ci cj
+1	assignable rank
+1	assume
+1	asymptotic complexity
+1	attractive features
+1	australia
+1	b = feq
+1	b >
+1	b {
+1	b. nielsen
+1	b. preneel
+1	ballot assigns
+1	basic components
+1	basic components guarantees privacy
+1	bct =
+1	benchmarks focus
+1	bi = fdec
+1	bi {
+1	blocks
+1	borda borda
+1	building block
+1	bulletin board
+1	c = fdec
+1	c. culnane
+1	c. furthermore
+1	c. ordinos
+1	canard
+1	candidate ci s comparison versus cj
+1	candidate/choice i
+1	candidates ci
+1	candidates runtime
+1	case
+1	cborda
+1	ccondorcet
+1	ccs
+1	certain information besides
+1	certain kinds
+1	certain standard assumptions
+1	certain variants
+1	cf =
+1	cf = d cf +
+1	ci s comparison versus cj
+1	citeseer
+1	coercion-resistance
+1	coercion-resistant electronic elections
+1	combined
+1	comparison matrices
+1	comparison matrix m
+1	complex election types
+1	complex functions
+1	complex ones
+1	composable security
+1	compute ciphertexts
+1	compute fres
+1	conclusion
+1	concrete performance
+1	condorcet-schulze
+1	contest
+1	core contribution
+1	corr
+1	correct division result
+1	corresponding candidate
+1	corresponding secret key shares
+1	cortier
+1	cpu
+1	cryptographic elections
+1	cryptographic protocols
+1	cryptology
+1	csf
+1	csfw-19
+1	current
+1	current prefix
+1	d =
+1	d = d +
+1	d. catalano
+1	d. pattinson
+1	d. pointcheval
+1	daniel rausch2
+1	decryption [
+1	decryption yields
+1	default method
+1	definition
+1	deutsche forschungsgemeinschaft
+1	dfg
+1	different approach
+1	different input
+1	different parties
+1	different result functions
+1	different ways
+1	direct corollary
+1	e-vote-id
+1	e-voting tally-hiding mpc accountability privacy implementations benchmarks
+1	e.
+1	e.g.
+1	efficient way
+1	election result functions
+1	election results
+1	election round
+1	electoral commission
+1	electoral systems
+1	electronic
+1	eligible voters
+1	elimination rounds
+1	encryption scheme
+1	encryption scheme [
+1	equality protocols
+1	equality tests
+1	esorics
+1	esprimo q957
+1	euros
+1	eurovision
+1	evaluation method
+1	exact number
+1	exact vote distributions
+1	explore implementations
+1	expressive model
+1	extending
+1	extensive benchmarks
+1	f. hertel
+1	fabian hertel1
+1	famous application
+1	fc
+1	figure shows
+1	final decryption
+1	finite choice space c
+1	floordivision
+1	focs
+1	footnote
+1	framework [
+1	full details
+1	furthermore
+1	future work
+1	g + e
+1	g g g g g 0g 0g 0g 0g s = s + g
+1	g i i j j i i j j
+1	gb ram
+1	generalization
+1	generic security results
+1	german federal elections
+1	germany
+1	getworst
+1	goal
+1	greater-than test [
+1	greater-than tests
+1	h. lipmaa
+1	hare-niemeyer method
+1	hareniemeyer
+1	helios
+1	helper bit
+1	highest/lowest number
+1	homomorphic t-out-of-nt threshold4
+1	homomorphic tallying
+1	homomorphic threshold publickey encryption scheme
+1	i +
+1	i =
+1	i = b ab c.
+1	i [ n
+1	i [ n //
+1	i [ n cand ]
+1	i [ nc ] =
+1	i [ ncand
+1	i b
+1	i candidates
+1	i return i return
+1	i. damgard
+1	i.e.
+1	icalp
+1	ideal quota
+1	ieee
+1	ieee computer
+1	iff i-th candidate
+1	iitm model
+1	implementation [
+1	implementations
+1	implementing stv
+1	important building blocks
+1	improving privacy
+1	ind-cpa-secure
+1	ind-cpasecure
+1	index i
+1	india
+1	indicator bits
+1	indicator vector
+1	individual ballots
+1	individual votes
+1	inexhaustible interactive turing machines
+1	information besides
+1	insights
+1	instant-runoff-voting
+1	int
+1	integrated quantum
+1	interesting future work
+1	intermediate election rounds
+1	intermediate values
+1	introduction
+1	intuitively
+1	iqst
+1	irv ballot counting
+1	italian
+1	italy
+1	j 6= i
+1	j < i
+1	j = g
+1	j [ i +
+1	j [ i ]
+1	j [ n +
+1	j [ n ]
+1	j [ n+1 ]
+1	j [ nc ] s.t
+1	j [ ncand ] //
+1	j b
+1	j pk j
+1	j {
+1	j }
+1	j. benaloh
+1	j. d. cohen
+1	j. groth
+1	j. heather
+1	j. inf
+1	j. kittelberger
+1	j. muller
+1	j. traore
+1	jonas kittelberger3
+1	jonas.kittelberger @ gmail.com
+1	julian liedtke2
+1	k =
+1	k = i+1 candidates
+1	k =i+1
+1	k [ ncand ]
+1	k [ ncand ] \ { i
+1	k bi
+1	k values
+1	k-tuple ri
+1	key share
+1	keywords
+1	ktv
+1	ku
+1	l. naish
+1	large numbers
+1	large plaintext space
+1	leak information
+1	length nc = n2cand
+1	linear runtime
+1	lncs
+1	luxembourg.
+1	m =
+1	m = g
+1	m result
+1	m. a. kiwi
+1	m. jakobsson
+1	m. jurik
+1	m. schulze
+1	m. tiwari
+1	m. tuengerthal
+1	main factor
+1	main goal
+1	malicious trustees
+1	maximum m
+1	maximum resp
+1	maximum value ai
+1	method defines
+1	mi =
+1	mik
+1	minimax
+1	minimum
+1	minimum disclosure counting
+1	minmax
+1	minmax condorcet
+1	mji
+1	mjk
+1	multi-round elections
+1	multi-round votings
+1	multiple ai
+1	multiple candidates
+1	multiple parties
+1	multiple variants
+1	multiple versions
+1	multiple votes
+1	multiplication [
+1	n cand
+1	n cand ncand
+1	n result
+1	n. huber
+1	national elections
+1	natural way
+1	nauru
+1	nc = ncand
+1	nc ns
+1	nc parties
+1	ncand =
+1	ncand ]
+1	ncand candidates
+1	necessary requirements
+1	necessary security requirements
+1	new instantiations
+1	nicolas huber2
+1	nizkp keysharegen
+1	nj
+1	nnc
+1	non-interactive zero-knowledge arguments
+1	noticeable way
+1	nr [ nc ] seats
+1	nr parties ci
+1	ns nv
+1	ns seats
+1	nt trustees
+1	number
+1	number n k
+1	number subject
+1	o i 6= j =
+1	o. pereira
+1	obtains ciphertexts
+1	ordinos code repository
+1	ordinos framework
+1	otherwise
+1	outputs fres
+1	p schulze
+1	p. b. rnne
+1	p. b. stark
+1	p. gaudry
+1	p. y
+1	pailliers public-key
+1	pairwise comparisons
+1	pairwise runoff election
+1	pairwise runoff elections comparisons
+1	paradigm
+1	parameters
+1	particular exhibits runtime
+1	party ci
+1	party i
+1	path p
+1	path value
+1	path value matrix
+1	pathmatrixij
+1	pathmatrixij pathmatrixji
+1	pj
+1	plain ballot contains
+1	plain value b
+1	plaintext inputs
+1	plaintext space size
+1	points pi
+1	possible ballot format
+1	possible maximum m =
+1	possible values
+1	possible ways
+1	practical applications
+1	practical elections
+1	practical number
+1	practical performance
+1	practical strategy-resistant privacy-preserving elections
+1	preferential elections
+1	present benchmarks
+1	presidential elections
+1	pret
+1	previous methods
+1	previous ones
+1	privacy
+1	privacy definition
+1	privacy/tally hiding
+1	proportional allocation
+1	proportional elections
+1	proves validity
+1	public key
+1	public key encryption scheme
+1	public key pk
+1	public verifiability
+1	q. santos
+1	q. yang
+1	quadratic growth
+1	r [ ncand ]
+1	r. buckland
+1	r. canetti
+1	r. wen
+1	ralf kusters2
+1	range [
+1	ranked
+1	real world
+1	real world elections
+1	real-world applications
+1	realistic scenario
+1	reasonable numbers
+1	reasonable runtimes
+1	recent work
+1	references
+1	relationship
+1	remainder values
+1	remainders di
+1	remainders di = qi s0i
+1	respective inputs
+1	result function fres
+1	result states accountability
+1	return fdec
+1	return s
+1	ri =
+1	ri+1 =
+1	risk-limiting tallies
+1	round i
+1	rp j
+1	runoff election
+1	runoff voting
+1	s = s + g0
+1	s. canard
+1	s0g = 0n cand cand cand ncand
+1	s0g i
+1	s0g i + si
+1	schulze evaluation
+1	schulze evaluation input
+1	schulze vote counting scheme
+1	seat distribution
+1	seats needs
+1	sec.
+1	secret shares
+1	sections
+1	secure equality
+1	security proof
+1	security properties
+1	set {
+1	setup phase
+1	sg = 0n
+1	sge2015/la-home.htm
+1	sgi denotes
+1	shuffle-sum
+1	si = fdec
+1	significant difference
+1	similarly
+1	simple
+1	simple ones
+1	simulation-based
+1	single-seat elections
+1	single-vote ballots
+1	single-vote election
+1	single-vote elections
+1	sketch
+1	small amount
+1	small linear overhead
+1	space constraints
+1	specific instantiations
+1	specific issues
+1	st151599 @ stud.uni-stuttgart.de university
+1	standard algorithm
+1	standard case
+1	state election
+1	state election [
+1	state legislature
+1	state parliaments
+1	states privacy
+1	strict comparison matrix
+1	strong form
+1	strong privacy guarantees
+1	strong security property
+1	structure
+1	sublinear communication complexity
+1	sublinear communication cost
+1	sublinear comparison protocols
+1	sublinear online complexity
+1	sublinear time
+1	subsequent sections
+1	successful decryption
+1	such ballots
+1	such values
+1	suggests practicality
+1	suitable instantiations
+1	system computes
+1	systems aim
+1	t nt
+1	t u
+1	t. haines
+1	t. moran
+1	t. toft
+1	tally-hiding e-voting
+1	tally-hiding hare-niemeyer evaluation
+1	tally-hiding hare-niemeyer evaluation input
+1	tally-hiding irv evaluation
+1	tally-hiding irv evaluation input
+1	tally-hiding ordinos
+1	tcs
+1	techniques
+1	theoretical point
+1	threshold variant
+1	tie breaker mechanism
+1	tifs
+1	top k candidates
+1	total ns
+1	total votes nv result
+1	trustee tries
+1	typically
+1	uc
+1	uk
+1	ukraine
+1	universal composability
+1	unnecessary information altogether
+1	update/add
+1	useful property
+1	v j
+1	v j =
+1	v. cortier
+1	valid votes
+1	value n
+1	value rj
+1	values
+1	various election methods
+1	vcs = vcs + b vj s
+1	verification phase
+1	versus ci
+1	versus cj
+1	versus cj minus
+1	vi votes
+1	vinnv s
+1	vjs =
+1	vote election
+1	vote privacy
+1	voteid
+1	voter
+1	voters nv
+1	votes
+1	vstte
+1	w = j [ ncand ] \ { i }
+1	w. jamroga
+1	wales
+1	weak condorcet
+1	welsh parliaments
+1	work anyways
+1	xc
+1	xj = i }
+1	zealand
+1	{ firstname.lastname } @ sec.uni-stuttgart.de
+1	| i
+1	} i [ nc ]
+1	} nc | i bi =
+1	} ncand ncand i

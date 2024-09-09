@@ -1,0 +1,803 @@
+156	is
+53	are
+23	using
+18	called
+16	given
+14	underlying
+14	~
+12	was
+11	transform
+11	compute
+11	produced
+10	pick
+8	accepts
+8	see
+8	used
+8	encoding
+8	machine-checking
+8	send
+7	sends
+7	ai
+7	define
+7	contains
+6	encode
+6	to produce
+6	verifying
+6	s
+6	verified
+6	to be
+6	proving
+6	is used
+6	occurs
+6	allows
+6	follow
+6	existing
+5	defined
+5	encoded
+5	has
+5	machine-checked
+5	uses
+5	proves
+5	c
+5	found
+5	discuss
+5	produces
+5	give
+5	show
+5	accept
+5	use
+5	to check
+4	am
+4	to verify
+4	zero-knowledge
+4	works
+4	being
+4	binding
+4	ensuring
+4	are used
+4	based
+4	were
+4	contained
+4	challenges
+4	produce
+4	to machine-check
+4	knows
+4	published
+4	consists
+3	a1
+3	simmap
+3	compared
+3	check
+3	proved
+3	deployed
+3	encodes
+3	accepting
+3	does
+3	provided
+3	can be found
+3	summarise
+3	follows
+3	meets
+3	to do
+3	claimed
+3	cast
+3	finds
+3	taking
+3	extend
+3	exists
+3	required to construct
+3	is constructed
+3	encrypted
+3	to make
+3	intended
+3	tampering
+3	forking
+3	satisfies
+3	including
+3	mj=1
+3	known
+3	will denote
+3	remains
+3	to prove
+3	involves
+3	engage
+3	focused
+3	handling
+2	requires
+2	should be
+2	included
+2	denote
+2	expected
+2	allow
+2	builds
+2	have shown
+2	fixing
+2	provides
+2	thereby breaking
+2	will be
+2	formally verified
+2	would be
+2	combing
+2	had
+2	adding
+2	captures
+2	claims
+2	sets
+2	picks
+2	running
+2	is broken
+2	checking
+2	suggests
+2	most used
+2	now follows
+2	transform is used
+2	transform is
+2	suppose
+2	aim
+2	p0
+2	c0
+2	c1
+2	to allow
+2	krenn
+2	associated
+2	machine-checks
+2	is to provide
+2	comes
+2	passing
+2	have replaced
+2	receives
+2	have seen
+2	rewinding
+2	w1
+2	set
+2	used to produce
+2	made
+2	means
+2	have been found
+2	do
+2	will provide
+2	ca
+2	extracted
+2	remained
+2	providing
+2	computes
+2	modulo
+2	believe
+2	took
+2	convinces
+2	to remove
+2	to provide
+2	to encode
+2	to combine
+2	have been
+2	to extract
+2	must be
+2	x
+2	ani+1
+2	commits
+2	shows
+2	expect
+2	extended
+2	introduce
+2	stress
+2	replacing
+2	is given
+2	to construct
+2	provide
+2	claim
+2	following
+2	can
+2	tested
+2	call
+2	to guarantee
+2	prove
+2	takes
+2	to use
+2	have machine-checked
+2	changed
+2	publishes
+2	avoiding
+2	is denoted
+2	posts
+2	did
+2	have included
+2	have already mentioned
+2	consider
+2	also machine-checked
+1	correctly captures
+1	also builds
+1	to end
+1	required
+1	assume
+1	have adapted
+1	to working
+1	building
+1	still fairly verbose
+1	to constructively show
+1	bn1
+1	allowing
+1	is included
+1	has pivoted to support
+1	map recall
+1	have been presented
+1	generates
+1	can be easily generalised
+1	transform may offer
+1	could imagine
+1	always accepts
+1	having elaborated
+1	to produce accepting
+1	hard coded
+1	was already required to be
+1	constructed
+1	instead write
+1	are facilitated
+1	cbx
+1	also produces
+1	still uses
+1	does not complain
+1	formalise
+1	to ensure
+1	will go
+1	to obtain
+1	must be added
+1	computing
+1	can guarantee
+1	to follow
+1	have alluded
+1	is leaked
+1	placed
+1	achieving
+1	should be caught
+1	applying
+1	to build
+1	exposes
+1	hear
+1	offer
+1	will be later used
+1	can break
+1	arise
+1	may be compromised
+1	is built
+1	need to briefly recap
+1	being opened
+1	do not preclude
+1	have largely tried to keep
+1	used to re-encrypt
+1	suffice
+1	support
+1	is left
+1	hence formally verified
+1	is to make
+1	was introduced
+1	has not been formally verified
+1	still being
+1	to be produced
+1	is used to show
+1	secure
+1	had to formalise
+1	m.
+1	raised
+1	to be proved
+1	was constructed
+1	range
+1	decides to accept
+1	a0
+1	are soon made
+1	is sampled is
+1	would normally be
+1	fed
+1	to add
+1	can be avoided
+1	first encoded
+1	also tried feeding
+1	run
+1	be
+1	can refer
+1	would become
+1	has proved
+1	fails to find
+1	wiksigma
+1	avoid
+1	demonstrates
+1	begin to gain
+1	algorithms contain
+1	is sponsored
+1	is now called
+1	would need to intend
+1	can be generated automatically using
+1	then encodes
+1	did not affect
+1	then computes
+1	is also required to prove
+1	does not undermine
+1	not to prove
+1	had actually followed
+1	can be extracted
+1	often boils
+1	found there focus
+1	ignore
+1	as is
+1	reduces
+1	will be evaluated
+1	so doing
+1	can fake
+1	can get
+1	are generated correctly is
+1	li=1
+1	know
+1	should produce
+1	have changed
+1	showing
+1	need to be set
+1	identifying link
+1	is not guaranteed to overlap
+1	cui
+1	will later allow
+1	\/
+1	cb
+1	extends
+1	need to encrypt
+1	are accepted
+1	do not provide
+1	conclude
+1	accepted
+1	follow is
+1	is allowed to have
+1	captured
+1	required to verify
+1	do have
+1	needs to provide
+1	are locked
+1	can be broken
+1	have been proposed
+1	alluded
+1	do not directly refer
+1	may send
+1	a(m1)n+1
+1	does not detract
+1	remain
+1	is used to produce
+1	https://www.usenix.org/conference/usenixsecurity23/presentation/haines
+1	is implemented
+1	suffices to have
+1	relies
+1	can be rendered
+1	machine-check
+1	were forced to narrow
+1	also depends
+1	to facilitate
+1	was expecting
+1	has been used
+1	p1((p0
+1	have formally verified
+1	would like
+1	being accepted
+1	parsed
+1	make
+1	was proved
+1	has provided to coq
+1	is sent
+1	must show
+1	has subsequently been used
+1	turns
+1	committed to before
+1	helped
+1	can be used to check
+1	tend to follow
+1	have tried to contact
+1	are not structured
+1	evaluates
+1	well known
+1	have to be guaranteed using
+1	required to check
+1	to work
+1	derived automatically using
+1	are normally used
+1	overloading
+1	can simulate
+1	offered
+1	instantiated
+1	contribute
+1	collected
+1	cannot cause
+1	has been done
+1	to soon become
+1	responds
+1	will formally define
+1	formally verifying
+1	described
+1	could be rectified
+1	will summarise
+1	is required to read
+1	to sidestep
+1	insist
+1	tend to exploit
+1	to establish
+1	seems
+1	to terelius
+1	became
+1	according
+1	have provided
+1	all leads
+1	having now introduced
+1	improved
+1	received
+1	adapting
+1	can be combined
+1	to formalise
+1	have adjusted
+1	can be safely skipped
+1	implementing
+1	could contain
+1	updated
+1	pen-and-paper
+1	knowing
+1	bought
+1	are not publicly known
+1	zkp
+1	to look
+1	not be confused
+1	to satisfy
+1	acts
+1	includes
+1	depends
+1	achieves
+1	is done
+1	here is
+1	clarified
+1	achieved
+1	constructing
+1	also receives
+1	is to produce
+1	only discovered
+1	distinguishes
+1	fixed
+1	contain
+1	only showed
+1	to implement
+1	remove
+1	were trying
+1	zero-knowledge proofs play
+1	would like to thank
+1	is guaranteed to be
+1	draws
+1	reveal
+1	briefly discuss
+1	are replaced
+1	referencing
+1	listed above highlight
+1	is not required to accept
+1	generalise
+1	will be used
+1	to explain
+1	do not wish
+1	can make
+1	have therefor tested
+1	also encoded
+1	to be detailed
+1	is used to provide
+1	having to look
+1	distributed
+1	was formalising
+1	was overloaded
+1	proposed
+1	to invert
+1	can safely believe
+1	i5
+1	now refer
+1	has now been largely abandoned
+1	constructively encode
+1	to analyse
+1	bring
+1	is not given
+1	supported
+1	can then inspect
+1	to answer
+1	will introduce
+1	has been completed
+1	may well ask
+1	attacking
+1	to convince
+1	correctly implemented
+1	counted
+1	formalising
+1	branching
+1	then extract
+1	is used to efficiently prove
+1	should occur
+1	retaining
+1	really means to prove
+1	extending
+1	falls
+1	wish to highlight
+1	shall explain
+1	has already been
+1	altered
+1	are largely omitted
+1	play
+1	switching
+1	take
+1	note
+1	transform is found
+1	now show is
+1	built
+1	prior to instantiating
+1	previously denoted
+1	to be encrypted
+1	refer to are
+1	is used to prove
+1	are preserved
+1	have
+1	say
+1	has progressed
+1	invalidated
+1	used to verify
+1	are constructed
+1	parameterised
+1	to zeroknowledge
+1	extracting
+1	re-encrypts
+1	matter
+1	enabled
+1	require
+1	to depend
+1	encrypting
+1	showed
+1	have just shown not to be
+1	to formally verify
+1	to close
+1	underlie
+1	so far have not received
+1	there exists
+1	to illustrate
+1	to learn
+1	machinechecking
+1	have significantly extended
+1	to get
+1	are added
+1	further require
+1	may accept
+1	explicitly mentioning
+1	m1
+1	guaranteeing
+1	discussed
+1	checked
+1	can review
+1	to clean up
+1	will discuss
+1	will
+1	omitted
+1	to manipulate
+1	interact
+1	to design
+1	correctly counting
+1	to completing complicated
+1	is expanded
+1	keep
+1	is determined
+1	omit
+1	could
+1	created
+1	to count
+1	were included
+1	initially tried to encode
+1	certified
+1	to terelius-wikstrm
+1	detecting
+1	would suggest parallelising
+1	needed to make
+1	required to build
+1	having taken
+1	must be proven
+1	can be opened
+1	is raised
+1	did not define
+1	definitions assume
+1	to challenge
+1	underpins
+1	can assert
+1	looking
+1	publish
+1	mattered
+1	proofs verified
+1	make is
+1	can be summarised
+1	shown
+1	extract
+1	is littered
+1	doing
+1	can be constructed
+1	certifying
+1	signing
+1	letting
+1	transmitted
+1	are only found
+1	was not present
+1	can explain
+1	fails
+1	constructing machine-aided
+1	have found
+1	has switched
+1	have also extracted
+1	transform causes
+1	mention
+1	would give
+1	then provided
+1	to generate
+1	have also checked
+1	is passed
+1	setting
+1	has not been detected
+1	relate
+1	will accept
+1	may fail
+1	were introduced
+1	highlights
+1	were widely believed
+1	to interact
+1	deployed zeroknowledge proofs using
+1	would have been to define
+1	computer-aided
+1	to refer
+1	use strongly related
+1	mixing
+1	developed
+1	breaking
+1	are used to provide
+1	will use
+1	operate
+1	suggest
+1	will define
+1	to simplify
+1	to avoid
+1	also showed
+1	are encrypted
+1	prefers
+1	then follow
+1	were passing
+1	fits
+1	can base
+1	utilise
+1	then allowed
+1	is instantiated is
+1	collectively prove
+1	is to build
+1	is now trusted
+1	to finish
+1	also provides to coq
+1	are sketched
+1	verifying existing deployed
+1	attempted to show
+1	do not have
+1	comck denoted
+1	has been tested
+1	is obtained
+1	then shuffles
+1	allowed
+1	want
+1	are determined
+1	indicates
+1	to mathematically analyse
+1	belonging
+1	send handled
+1	are intended
+1	reject based
+1	simmaphelp s
+1	point
+1	making
+1	machine-aided proving
+1	is highly specialised
+1	to fail to meet
+1	challenge
+1	recall
+1	previously referred
+1	may not always succeed
+1	producing
+1	hold
+1	is provably secure
+1	occurred
+1	do not affect
+1	sharing
+1	are obtained
+1	can be combined to give
+1	was pulled
+1	taken
+1	appears to no longer be
+1	pertain to zeroknowledge
+1	can find
+1	to resolve
+1	would
+1	to be broken
+1	seems to have gone
+1	must satisfy
+1	to catch
+1	then sends
+1	now manages
+1	could automatically use
+1	followed
+1	is guaranteed
+1	will now go
+1	do not need to be transmitted
+1	implement
+1	has been developed
+1	simply says
+1	resulting
+1	then used
+1	has been
+1	receive
+1	would involve
+1	is widely used
+1	therefore take
+1	appears
+1	observing
+1	first prove
+1	will not need to extracted
+1	are summarised
+1	to matter
+1	use to machine-check
+1	is required
+1	proves may be
+1	stripping
+1	shared
+1	suspect
+1	to easycrypt
+1	to zero-knowledge
+1	to define
+1	does indeed produce
+1	stands
+1	are adjusted
+1	was defined
+1	have designed
+1	can use
+1	~ compute
+1	would need to machine-check
+1	says
+1	to skim
+1	being used
+1	otherwise rejects
+1	to derive
+1	were generally accepted
+1	leave
+1	largely avoid including
+1	exists only to demonstrate
+1	presented
+1	simmapinv
+1	will work
+1	discovered
+1	can now implement
+1	rejects
+1	to show
+1	can be verified
+1	must cohere
+1	need to prove
+1	must machine-check to instantiate
+1	just assumed
+1	had encoded
+1	should accept
+1	returned
+1	rejected
+1	accurately correspond
+1	also requires
+1	applied
+1	most deployed
+1	to fake
+1	voted
+1	have already shown
+1	summarised
+1	can be mixed
+1	verifpalthere are
+1	encourage
+1	are received
+1	is allowed to fail
+1	summarises
+1	c0i
+1	can efficiently compute
+1	was compute
+1	supplement
+1	passes previously published
+1	to give
+1	focus
+1	are encoded
+1	to have
+1	is closed

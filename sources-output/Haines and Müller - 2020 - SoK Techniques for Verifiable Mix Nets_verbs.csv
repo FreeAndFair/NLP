@@ -1,0 +1,725 @@
+106	is
+41	are
+33	mixing
+23	tracing
+21	publishes
+20	misbehaving
+19	using
+14	see
+14	use
+13	describe
+13	follows
+13	described
+12	resulting
+11	generates
+11	do
+10	have
+10	provide
+10	remains
+9	provides
+9	underlying
+9	manipulating
+9	performs
+8	to extend
+8	bounded
+8	be
+8	s
+8	distributed
+8	following
+8	let
+7	assume
+7	assuming
+7	stops
+7	has
+7	encrypts
+7	is held
+7	note
+7	given
+7	can verify
+7	including
+7	summarize
+7	send
+7	consists
+6	denote
+6	nets
+6	to guarantee
+5	starting
+5	was formally proven
+5	does
+5	fails
+5	employed
+5	proving
+5	shuffles
+5	takes
+5	equals
+5	can be identified
+4	requires
+4	uses
+4	used
+4	can publicly be decrypted
+4	observe
+4	reveals
+4	runs
+4	based
+4	extending
+4	needs to be trusted
+4	is called
+4	is bounded
+4	to run
+4	denotes
+4	to generate
+4	choose
+4	ciphertexts submitted
+4	is identified
+4	is extended
+4	taken
+4	allows
+4	are required
+4	refer
+4	manipulated
+3	proves
+3	to ensure
+3	is run
+3	ensures
+3	provided
+3	is as follows
+3	ad1
+3	is broken
+3	does not provide
+3	is to be extended
+3	is added
+3	being detected
+3	also called
+3	depending
+3	can then compute
+3	require
+3	identified
+3	verifying
+3	to see
+3	offers
+3	produces
+3	pk1
+3	can be
+3	accept
+3	can
+3	recall
+3	hold
+3	knows
+3	contains
+3	prove
+3	makes
+3	published
+3	shared
+3	iteratively encrypts
+3	presented
+3	can be verified
+3	manipulates
+3	consider
+2	required
+2	was stated
+2	encrypt
+2	compared
+2	associated
+2	was
+2	chooses
+2	introduced
+2	are integrated
+2	includes
+2	run
+2	cni
+2	are removed
+2	are generated
+2	sk1
+2	additionally assume
+2	misbehaved
+2	have been proposed
+2	being
+2	initially chosen
+2	permutes
+2	can be instantiated using
+2	is verified
+2	mixing was executed
+2	make
+2	binding
+2	was proposed
+2	elaborate
+2	present
+2	to verify
+2	generating
+2	create
+2	privacy-preserving
+2	corresponds
+2	according
+2	picking
+2	recommend to extend
+2	originally proposed
+2	can manipulate
+2	used to create
+2	exists
+2	duplicates are continuously removed
+2	executes
+2	ciphertexts
+2	controls
+2	is required
+2	also includes
+2	show
+2	decrypting
+2	are manipulated
+2	cannot distinguish
+2	refers to proving
+2	converges
+2	say
+2	skexpl associated
+2	have published
+2	was manipulated
+2	re-encrypts
+2	accessed
+2	opens
+2	submitted
+2	being detected is bounded
+2	may not always be
+2	differ
+2	additionally use
+2	open
+2	does not hold
+2	is to let
+2	relate
+2	guessing
+2	generate
+2	beginning
+2	issue
+2	used to generate
+2	introduce
+2	to deter
+2	also elaborate
+2	skexpl
+2	has to open
+2	to shed
+2	reject
+2	holds
+2	is publicly verified
+2	is obtained
+2	not being caught
+2	making
+2	can be modeled
+2	can look
+2	call
+2	has to do
+2	analyzing
+2	secure
+2	followed
+2	studied
+2	to decrypt
+2	also include
+2	nesting
+2	to analyze
+2	pkexpl
+2	are executed
+2	existing
+1	to appear
+1	demonstrates
+1	formally define
+1	will be detected
+1	also reflects
+1	use to analyze
+1	then study
+1	have been employed
+1	meaning
+1	not limited
+1	would break
+1	fails to produce
+1	also involve
+1	briefly
+1	snhon be
+1	are never corrupted
+1	holding
+1	falsely claims
+1	are assumed to be
+1	essentially means
+1	have already been analyzed
+1	was published,6
+1	have been implemented
+1	nevertheless accepted
+1	surveying
+1	to obtain
+1	bring is
+1	do not require
+1	can be carried
+1	links
+1	were carried
+1	called
+1	to hold
+1	are audited
+1	is not detected
+1	should guarantee
+1	also holds
+1	consist
+1	made
+1	is not satistied
+1	can now precisely elaborate
+1	suffers
+1	blaming
+1	is now verifiably traced
+1	checking claimed
+1	e-voting
+1	have elected to exclude
+1	files
+1	assumes
+1	required to be
+1	m1
+1	are corrupted
+1	is always run
+1	start
+1	submit
+1	use follows
+1	are formally analyzed
+1	cannot be corrupted
+1	also allows
+1	now analyze
+1	could adaptively swap
+1	raises
+1	precisely describe
+1	is not achieved
+1	submits
+1	politically binding
+1	let be
+1	correctly re-encrypted
+1	will therefore assume
+1	may begin to change
+1	messaging
+1	have also been employed
+1	ensure
+1	can be decrypted
+1	accepts
+1	attacks
+1	i=1
+1	are also parameterized
+1	zero-knowledge
+1	can also let
+1	is published
+1	can also be verified
+1	injects
+1	establish
+1	describing
+1	have already pointed out
+1	were formally analyzed
+1	were designed to guarantee
+1	is also worth noting
+1	are pairwise connected
+1	not corrupted
+1	sends
+1	would be
+1	had not been published
+1	to easily describe
+1	can be defined
+1	works
+1	can be ordered
+1	can be extracted
+1	was performed
+1	serves
+1	net be
+1	identifying
+1	gets to know
+1	remain secret
+1	increases
+1	is known
+1	may retrospectively be broken
+1	has been published
+1	does not exist
+1	breaks
+1	checking
+1	complains
+1	clashing
+1	remaining
+1	can be considered to be
+1	has not been corrupted
+1	combine
+1	belongs
+1	can be detected
+1	adding
+1	protecting
+1	distinguishing
+1	reviewed
+1	was originally proposed
+1	resolves
+1	proposed
+1	svote
+1	can be regarded
+1	have discovered
+1	have described
+1	can be analyzed
+1	do not contain duplicates
+1	modeled
+1	cca2 secure
+1	has suggested using
+1	will assume
+1	could link
+1	ri1
+1	should only be employed
+1	has been used
+1	to be opened is chosen
+1	then commit
+1	to study
+1	can only be detected
+1	gets
+1	distilled
+1	was broken
+1	public/private
+1	is assumed
+1	are then combined
+1	perform
+1	originally employed
+1	trusted
+1	claimed
+1	re-encrypting
+1	relying
+1	is uniquely determined
+1	would serve only to obscure
+1	only describe
+1	stuffing
+1	weakens
+1	can efficiently create
+1	is supposed to run
+1	can perform
+1	are to be decrypted
+1	can even be identified
+1	is denoted
+1	guarantees
+1	should be accepted
+1	succeeds is bounded
+1	are introduced are
+1	cannot be
+1	can only be corrupted
+1	mnhon be
+1	wants
+1	isolating
+1	nevertheless accepts
+1	is detected
+1	judging
+1	combined
+1	replicate
+1	describes
+1	successfully should be blamed
+1	first introduce
+1	add
+1	individually blames
+1	easily extends
+1	are used
+1	khazaei
+1	nets employ
+1	can significantly increase
+1	locally stored
+1	formally analyzed
+1	pairing-based
+1	to be
+1	was formally analyzed
+1	receives
+1	does not guarantee
+1	iteratively using
+1	resulting nested
+1	are not limited
+1	injects replicated
+1	are published
+1	sacrificing
+1	do not prove
+1	thank
+1	is defined
+1	is dedicated
+1	would contain
+1	missing
+1	creating
+1	eventually publish
+1	could simply replace
+1	knowing
+1	still encrypted
+1	routing
+1	opening
+1	replication).8
+1	is challenging to implement
+1	secretly shuffled
+1	tries to manipulate
+1	used to instantiate
+1	must be taken
+1	here is
+1	refuses to participate
+1	is always polynomially bounded
+1	can then decrypt
+1	are injected
+1	chosen according
+1	reveal
+1	report
+1	can be reduced
+1	also provide
+1	typically relies
+1	to protect
+1	replaces
+1	ni=1 posted
+1	means
+1	can only be achieved
+1	handle
+1	first precisely describe
+1	is typically shared
+1	is randomly decided
+1	writes
+1	strictly required
+1	shuffling
+1	to transparently compare
+1	pkk
+1	should have
+1	have systematically studied
+1	encrypted
+1	can undetectably manipulate
+1	are required to protect
+1	public-key
+1	to define
+1	to make
+1	are verified
+1	focussing
+1	ka
+1	to generating
+1	does not appear
+1	can be singled
+1	do not cover
+1	is carried
+1	merely protect
+1	rkns chosen
+1	measures
+1	serve
+1	k.
+1	will then obtain
+1	answering
+1	once corrupted
+1	would deem
+1	can be classified
+1	linked
+1	should hold
+1	pass
+1	need to assume
+1	can be thought
+1	are made
+1	is accepted
+1	can be traced
+1	were
+1	always ensures
+1	depends
+1	opening/proving
+1	analyze
+1	to submit
+1	are connected
+1	sents
+1	is to hide
+1	is manipulated
+1	should be implemented
+1	to take
+1	emerged
+1	was already submitted
+1	does not publish
+1	always includes checking
+1	neither affects
+1	is encrypted
+1	nested
+1	be held
+1	appear to be
+1	are stuffed
+1	has also been used
+1	place
+1	is determined
+1	omit
+1	could
+1	starts
+1	does not change
+1	used to encrypt
+1	retrieves
+1	fits
+1	typically depends
+1	to resolve
+1	publicly reveal
+1	is not met
+1	no right to remain
+1	commits
+1	always has to find
+1	to verifiably generate
+1	should not be used
+1	to formally analyze
+1	additionally require
+1	are revealed
+1	tracing was employed
+1	to specify
+1	should be guaranteed
+1	aim to achieve
+1	to shuffle
+1	ns posted
+1	initially empty
+1	measure
+1	systematically study
+1	to publicly reveal
+1	extended
+1	can be constructed
+1	activate
+1	were combined
+1	can change
+1	identifies
+1	would have been detected
+1	to publicly identify
+1	mixing is
+1	refresh
+1	iteratively encrypting
+1	is required to ensure
+1	randomized
+1	execute
+1	very naturally converts
+1	implicitly assume
+1	are tracing
+1	is to instantiate
+1	has to provide
+1	were opened
+1	refines
+1	regarding
+1	may adaptively tamper
+1	is supposed to reveal
+1	is split
+1	are held
+1	have become
+1	shuffled
+1	chosen
+1	acknowledge
+1	rely
+1	are summarized
+1	is blamed
+1	mentioned
+1	looks
+1	produced
+1	ntw ciphertexts
+1	move
+1	to evaluate
+1	should keep
+1	allow
+1	non-anonymously sends
+1	merely requires
+1	pverify crucially depends
+1	wins
+1	has not been published
+1	sometimes called
+1	improving
+1	as follows
+1	is still encrypted
+1	is met
+1	recently demonstrated
+1	is explained
+1	deviated
+1	underlying distributed
+1	had not been identified
+1	can read
+1	write
+1	verify
+1	are conceptually required
+1	adaptively secure
+1	formally proved
+1	protects
+1	mk manipulated
+1	should be published
+1	introduces
+1	give
+1	tracing also provides
+1	compare
+1	drops
+1	would typically simply reveal
+1	mixing has finished
+1	remain
+1	has received
+1	are concatenated
+1	is rejected
+1	parameterize
+1	to win
+1	was also formally analyzed
+1	known
+1	controlling
+1	have focused
+1	would remain
+1	to transform
+1	mnms decrypted to c0
+1	are premixed using
+1	preserved
+1	doubling
+1	recommend
+1	abstaining
+1	are distilled
+1	would
+1	select
+1	can use
+1	apply
+1	backward tracing
+1	also captures
+1	can easily be extended to also capture
+1	has already been applied
+1	contains duplicates
+1	requiring
+1	named
+1	net/shared
+1	targeting
+1	to be coupled
+1	study
+1	do not suffer
+1	sending
+1	have been proposed to make
+1	to compute
+1	were manipulated
+1	reported
+1	hence holding
+1	is only concerned
+1	briefly recall
+1	legitimately complains
+1	consisting
+1	pkout
+1	increasing
+1	goes
+1	to also apply
+1	plays
+1	there exist
+1	implemented
+1	can study
+1	later used
+1	submitting blaming
+1	are publicly decrypted
+1	to fix
+1	does not know
+1	employing
+1	prevent
+1	immediately aborts
+1	have extracted
+1	should also be
+1	t1
+1	is easily fixed
+1	used is always revealed
+1	bypasses
+1	attack described
+1	also needs to be simulated
+1	is allowed to manipulate
+1	to solve
+1	ni appears
+1	were generated
+1	do not have to assume
+1	continues
+1	should accept
+1	combining tracing
+1	include
+1	have not been mentioned
+1	asking
+1	contained
+1	could undetectably replace
+1	can be used
+1	is pre-mixed
+1	does not correspond
+1	detects
+1	preserves
+1	to effectively solve
+1	ets secure
+1	follow
+1	to check
+1	publish
+1	are given
+1	is achieved
+1	then elaborate
+1	s replicated
+1	has to extend
+1	represent

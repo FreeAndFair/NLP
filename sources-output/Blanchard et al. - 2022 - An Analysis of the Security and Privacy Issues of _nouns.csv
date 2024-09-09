@@ -1,0 +1,791 @@
+38	neovote
+13	ballot box
+11	france
+10	fig
+10	pp
+9	analysis
+9	e. blanchard
+8	neovote e-voting
+8	primaire populaire
+6	anssi
+6	cnil
+6	lets
+6	lncs
+6	pe
+6	r.
+6	springer
+5	a.
+5	e.
+5	m.
+5	p.
+5	security objective n
+5	source code
+5	t.
+4	asmcrypto.js library
+4	j.
+4	neovotes
+4	verication process
+4	voters privacy
+3	bordeaux
+3	cham
+3	code re-use
+3	cour
+3	creative commons
+3	ensure
+3	extra hashes
+3	heidelberg
+3	national elections
+3	ocial results
+3	paris
+3	primary elections
+3	public institutions
+3	verication system
+2	aes
+2	b/a
+2	ballot boxes
+2	belenios
+2	blanchard
+2	certain attacks
+2	christiane taubira
+2	cnrs
+2	coercive power
+2	computer
+2	constant proportion
+2	d.
+2	dcision
+2	december
+2	decoy hashes
+2	dubuis
+2	e-vote-id
+2	f.
+2	fake ballot box
+2	fc
+2	february
+2	following cnil
+2	french
+2	full receipt
+2	information system
+2	internal elections
+2	javascript
+2	jean-luc mlenchon
+2	kiayias
+2	limoges
+2	lr
+2	marseille
+2	multiple attacks
+2	primaire
+2	proceedings
+2	public key
+2	regulatory constraints
+2	rev
+2	rsaes-pkcs
+2	rst issue
+2	rst step
+2	russia
+2	s.
+2	sci
+2	script n
+2	technical
+2	technol
+2	universit
+2	v.
+2	variable names
+2	votes cast
+2	wrong results
+1	# 1v1.5
+1	+ o
+1	.har les
+1	2022. https
+1	2c + o
+1	5me chambre
+1	a eblog
+1	a.t.
+1	academic work
+1	access
+1	access badges
+1	accomplices ] consent
+1	according
+1	accountability
+1	acm
+1	actual wrongdoing
+1	address dependencies
+1	administrative court
+1	administrative dappel
+1	agence nationale
+1	albion
+1	ali
+1	allow
+1	alternative explanations
+1	analyse
+1	anonymous broadcast
+1	antoine gallais2
+1	appropriate credit
+1	arbitrary hashes
+1	arbitrary number
+1	arbitrary strings
+1	arrows
+1	article focuses
+1	asmcrypto
+1	asmcrypto.js library6
+1	assimilate n
+1	attacking
+1	australian
+1	australian studies
+1	author
+1	authority gures
+1	availability
+1	available codetwo
+1	available online
+1	avoiding
+1	b.h
+1	b.l
+1	balinski
+1	ballot
+1	ballot box matches
+1	ballot seles
+1	ballot seles [
+1	ballot stung
+1	ballots hashes
+1	barrett
+1	barros
+1	based
+1	bernhard
+1	big buttons
+1	birth place
+1	black-box componentsor
+1	bleichenbacher
+1	boamp
+1	bordeaux universitys
+1	br
+1	buggy database query
+1	c k
+1	c n couples
+1	c.
+1	c.e.
+1	c.j
+1	cahiers droit sci
+1	cambridge analytica
+1	cambridge analyticas
+1	candidate x
+1	candidates identier
+1	candidates name
+1	cant link
+1	case [ 6,22,27 ]
+1	case study
+1	cast doubt
+1	casts doubt
+1	central issue
+1	central question
+1	central role
+1	centre internet
+1	ceo
+1	certain function names
+1	certain hashes
+1	certain number
+1	certain people
+1	certain standard tools
+1	certain time
+1	certain use-cases
+1	chambre
+1	check digital signatureswould
+1	christiane taubiras
+1	christine
+1	chvote
+1	clash attack
+1	clicking
+1	client-side information
+1	cloud resources
+1	cloud security
+1	code comparison
+1	code fragments
+1	code modication
+1	code structure
+1	code transparency
+1	coercion [
+1	coercion attacks
+1	colleagues [
+1	color
+1	combined
+1	commentaire
+1	commission nationale
+1	common cryptographic
+1	communications
+1	competitive public marketshalf
+1	compilation time
+1	computational security measures
+1	computer science department
+1	conclusion
+1	condence
+1	condentiality reasons
+1	constant fraction
+1	constant hash
+1	copy
+1	copyright holder
+1	corporate elections
+1	corresponding les
+1	corresponding video
+1	cortier
+1	covid-19
+1	creative commons attribution
+1	credit card information
+1	credit cards [
+1	credit line
+1	crtexponents
+1	crucial fact
+1	cryptographic algorithms
+1	cryptographic competence
+1	cryptographic mechanisms
+1	cryptographic primitives
+1	cryptographic source les
+1	cryptologia
+1	cs
+1	curious detail
+1	current conditions
+1	cybersecurity
+1	cybersecurity electronic
+1	d.a
+1	dans les entrailles
+1	data
+1	data privacy
+1	database errors
+1	ddos
+1	deanonymising
+1	debian5 os
+1	democratic institutions
+1	democratic practices
+1	democratic practices means
+1	des liberts
+1	design aws
+1	didnt correspond
+1	dierent claims
+1	dierent election rounds
+1	dierent vote/candidate
+1	dimanche
+1	direct access
+1	direct coercive power
+1	discussion
+1	dishonest adversary
+1	distinct hashes
+1	distinct problems
+1	djohar sidhoum-rahal5
+1	dlibration
+1	dodis
+1	droit des primaires
+1	duplicate drops
+1	duplicate tends
+1	e-voting
+1	e1/2 [
+1	ecient
+1	econ
+1	eds
+1	eelv
+1	elect
+1	election ocer
+1	electoral fraud
+1	electronic governance
+1	electronic votes
+1	electronic votingwhich
+1	elephant
+1	emmanuel leblond4
+1	end-to-end aspect
+1	end-to-end verication creates
+1	enguehard
+1	enka blanchard1,2,3
+1	enka.blanchard @ cnrs.fr https
+1	equational reasoning
+1	erroneous tallies
+1	erroneous tally
+1	esmtps
+1	estonia
+1	estonian
+1	exact probability
+1	expectation e
+1	experiment [
+1	extended
+1	external libraries
+1	external observations
+1	extra hasheswhich
+1	extra receipts
+1	extra_hashes.csv list
+1	facebook
+1	facilitate recognition
+1	fake receipt
+1	fake receipts
+1	false results
+1	financial cryptography
+1	for-prot companies
+1	foundations
+1	fraction c checks
+1	fragment pair
+1	france abstract
+1	france france
+1	france inter
+1	fraud campaigns
+1	french certication
+1	french courts
+1	french engineering school
+1	french government website
+1	french institutions
+1	french presidential election
+1	french security
+1	french supreme courts
+1	frequent errors
+1	frye
+1	full cryptographic toolset
+1	full name
+1	full receipt11
+1	full tally
+1	function ignores
+1	function names
+1	gaudry
+1	general recommendations
+1	geometric models
+1	gergouil
+1	gibbard-satterthwaite
+1	github
+1	glondu
+1	government certication
+1	governmental organisations
+1	graton
+1	grelard
+1	groth
+1	guide
+1	guidelines dene
+1	gure online
+1	guttman
+1	haenni
+1	haines
+1	hanna
+1	hao
+1	harvey
+1	helios
+1	high security
+1	honest voter
+1	horn
+1	horwitz
+1	html les
+1	humaines
+1	human resources departments
+1	identical form
+1	identity theft
+1	immediate target
+1	impact
+1	important pre-condition
+1	inconsistent claims
+1	independent actors
+1	industrielles
+1	informatics
+1	informatique fondamentale
+1	initial discovery
+1	initial extra ballots
+1	initial placeholders
+1	initial write-up
+1	inner workings
+1	instaurons
+1	institut
+1	interior
+1	internal development
+1	internal representation
+1	international conference
+1	introduction voting
+1	ip
+1	isaak
+1	j. polit
+1	j.d
+1	j.d.
+1	january
+1	jean-luc mlenchons
+1	jorf
+1	journal du
+1	juels
+1	jugement majoritaire
+1	juliette walter6
+1	juridiques
+1	k =
+1	kerckos
+1	keywords
+1	kinzer
+1	kn voters
+1	koenig
+1	krimmer
+1	ksters
+1	laboratoire
+1	landwehr
+1	laraki
+1	law [
+1	lections politiques
+1	legal
+1	legal decisions
+1	legal information https
+1	legal obligations
+1	legal rules
+1	legal system
+1	legal value
+1	legality
+1	legifrance
+1	lentreprise championne des scrutins virtuels
+1	les rpublicains
+1	lets suppose
+1	lett
+1	levade
+1	liberty
+1	license
+1	locher
+1	long time
+1	m.j.
+1	machines
+1	main attack
+1	main branch7
+1	main cases
+1	main client base
+1	main examples
+1	main possibilities
+1	main primary elections
+1	main regulations
+1	majority judgement
+1	majority judgement [
+1	malicious intent
+1	malkin
+1	man-in-the-middle attacks
+1	margolius
+1	market leader
+1	market oers
+1	math
+1	maximal privacy
+1	maximum voter privacy
+1	may
+1	mcanique
+1	mccorry
+1	mckenna
+1	measures
+1	menzies centre
+1	meseguer
+1	methods [
+1	ministry
+1	mit
+1	multiple
+1	multiple browsers
+1	multiple congurations
+1	multiple elements
+1	multiple examples
+1	multiple fronts
+1	multiple les
+1	multiple phones
+1	multiple theorems
+1	murray
+1	mutations institutionelles
+1	n 19ma03754 du
+1	n 20-17.073 du
+1	n =
+1	n >
+1	n ballots
+1	n hashes
+1	name format
+1	national aspect
+1	national assembly
+1	national commission
+1	national security recommendations
+1	natural interpretation
+1	neovote online voting
+1	neovote.fr domain name
+1	neutral external copy
+1	new attacks
+1	new audit
+1	new issues
+1	new password
+1	new protocols
+1	new release
+1	new standards
+1	new systemsexcept
+1	new votes
+1	new world
+1	node support
+1	non-negligible number
+1	non-standard code
+1	not-yet-standard evaluative
+1	november
+1	numerama
+1	o.
+1	o.j.
+1	obfuscation process
+1	observational study
+1	observatoire
+1	observe sequences
+1	obsolescent cryptographic primitives8
+1	obsolescent primitives
+1	ocial bulletin
+1	ocial results page
+1	ocial tally
+1	ocial website
+1	old code
+1	ones ballot
+1	ones superiors
+1	online
+1	online [
+1	online system
+1	online tally
+1	online version
+1	open-source [
+1	organise votes
+1	organisers recommendations
+1	original author
+1	own claims
+1	own protocols
+1	own readme
+1	own script
+1	p.j
+1	package manager
+1	page state download
+1	paper ballots
+1	partial adoption
+1	partial information
+1	partial receipt
+1	particular interest
+1	party material
+1	password recovery [
+1	pavlovic
+1	peculiar element
+1	period ends
+1	personal identication
+1	ph.d.
+1	phrase-veried
+1	pictures worth
+1	pkc
+1	political response
+1	portant adoption dune recommandation
+1	potential usefulness
+1	pouvoirs
+1	practice homologation
+1	prcision des bureaux
+1	present online
+1	presidential election
+1	press conference
+1	previous experiments
+1	previous sections
+1	previous votes
+1	primaire cologiste
+1	primaire populaire est-il scuris
+1	privacy [
+1	privacy analysis
+1	privacy case
+1	privacy issues
+1	privacy measure
+1	privacy protection
+1	privacy regulations
+1	privacy requirements
+1	private companies
+1	private information
+1	private organisations
+1	procedure preserves
+1	promotion cases
+1	properties
+1	property n
+1	protocols
+1	public interface
+1	public purview
+1	public trust
+1	r. krimmer
+1	r.e.
+1	r.w
+1	random ballot boxes
+1	random string
+1	rassort protocol
+1	real ballot
+1	real ballots14
+1	real total
+1	real vote
+1	realworld electronic voting
+1	reasonable option
+1	receipt correspond
+1	receipt hashes
+1	receipt/login/password combinations
+1	receipts corresponds
+1	receipts hashes
+1	receiptthe decryption keys
+1	recent exceptions [
+1	recent observations
+1	recent primaries [
+1	recherche
+1	recourse methods
+1	references
+1	registration procedures
+1	regular maintenance
+1	regulatory system
+1	relevant institutions
+1	remote boardroom
+1	remote electronic voting
+1	remote voters identity
+1	remote work
+1	reny
+1	respect cryptographic bestor
+1	response [
+1	result [
+1	reuter
+1	risk level
+1	risk levels
+1	robucci
+1	roenne
+1	rpublicains
+1	rsa
+1	rsa-3072
+1	rsaes-pkcs lets
+1	rst amendment
+1	rst case
+1	rst example
+1	rst round
+1	rst security
+1	rst sequence
+1	rst voterswho cant
+1	russian election
+1	s.f.
+1	s.t.
+1	saint-mdard-en-jalles
+1	scille sas
+1	script les
+1	scurit
+1	scurit des systmes
+1	secnumcloud
+1	secret ballot
+1	sect
+1	security contexts
+1	security objectivessuch
+1	security primitives
+1	security protocols
+1	security tests
+1	selection guide
+1	selker
+1	september
+1	service providers
+1	sha-512
+1	shahandashti
+1	share part
+1	sherman
+1	side-channel attacks
+1	similarly
+1	simple 2-factor authentication system
+1	simple attack
+1	simple structure
+1	simple ways
+1	single-hash receipts
+1	slection dalgorithmes cryptographiques
+1	small settings
+1	small-scale vote
+1	smaller-scale votes
+1	smart contract
+1	social media
+1	socit
+1	sou
+1	source code examinations
+1	sovereign expression
+1	spcialiste du vote lectronique
+1	specic ballot
+1	specify amounts
+1	spycher
+1	standard academic language
+1	standard citizens
+1	standard security practices
+1	standard tools
+1	statistically
+1	statutory regulation
+1	strict connes
+1	stringent guarantees
+1	strong constraints
+1	stud
+1	student/personnel number
+1	substantial modication
+1	such endeavour
+1	such failings
+1	such family
+1	such settings
+1	supranational levelson
+1	system incompatible
+1	systematic auditingwhich
+1	systmes
+1	szakonyi
+1	tally
+1	taylor
+1	technical ones
+1	technical paper
+1	technical systems
+1	technical vocabulary
+1	technology ecosystem
+1	temporary publication
+1	text les
+1	theoretical version
+1	theory
+1	thibault
+1	third-party tools
+1	top-secret information [
+1	total separation
+1	transfer protocol
+1	transparency
+1	transparencyfor example
+1	transparent [
+1	truderung
+1	true desires [
+1	tude quantitative
+1	tut
+1	typescript
+1	un-englishness
+1	unaccountable system [
+1	unforgeable proofs
+1	union meetings
+1	unique opportunity
+1	unite live
+1	universit sorbonne paris cit
+1	university law
+1	university vote
+1	uphf
+1	usability
+1	user
+1	utf8 passwords
+1	valenciennes
+1	valparaiso
+1	vasseur
+1	ve primaries
+1	ve specic ones
+1	veriable low-tech
+1	verication algorithm
+1	verication procedure
+1	verication procedures
+1	verication step
+1	verication website
+1	verification process
+1	vinkel
+1	violation lawsuits
+1	visible impact
+1	vogt
+1	volkamer
+1	vote [
+1	vote buying
+1	vote buyingshould
+1	vote chez les
+1	vote lectronique
+1	vote par correspondance lectronique
+1	vote results
+1	vote veriability
+1	vote verication system
+1	vote verification
+1	voter ]
+1	voter intimidation
+1	voter pressure
+1	voters anonymity
+1	voters ballots
+1	voters check
+1	voters hashesbut
+1	voters identity
+1	votes
+1	wayback machine
+1	weakest candidate
+1	well
+1	whereas others
+1	white paper
+1	whole processing duration
+1	whole verication mechanism
+1	windows
+1	wishes [
+1	wrong tally
+1	y 
+1	y 
+1	y.
+1	yung

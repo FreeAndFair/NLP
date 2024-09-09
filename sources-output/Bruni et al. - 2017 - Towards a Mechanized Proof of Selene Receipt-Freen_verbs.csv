@@ -1,0 +1,447 @@
+48	is
+19	are
+12	using
+7	rewrite
+7	let
+6	distributed
+6	have
+5	assume
+5	describe
+5	has
+5	given
+5	voted
+4	generates
+4	rewriting
+4	computing
+4	fixed
+4	labelled
+4	use
+3	to ensure
+3	refer
+3	can be found
+3	checking
+3	uses
+3	used
+3	containing
+3	cast
+3	described
+3	receives
+3	knowing
+3	computes
+3	is required
+3	show
+3	were
+3	to reveal
+3	to find
+3	supports
+3	receiving
+3	produced
+3	knows
+3	swap
+3	to compute
+3	revealing
+3	mixing
+2	having
+2	a1
+2	includes
+2	constructs
+2	denote
+2	are posted
+2	posted
+2	behave
+2	will be
+2	follows
+2	decrypted
+2	add
+2	makes
+2	i
+2	assigns
+2	read
+2	performing distributed
+2	present
+2	define
+2	pk
+2	claims to be
+2	to produce
+2	shuing
+2	conclude
+2	are published
+2	modeling
+2	including
+2	pk ri
+2	mixing is replaced
+2	proposed
+2	do not need
+2	built
+2	can fake
+2	opens
+2	see
+2	behaved
+2	have been
+2	running
+2	omit
+2	maintains
+2	shows
+2	denotes
+2	choose
+2	produces
+2	produce
+2	mirrors
+2	have made
+2	give
+2	remains
+2	to prove
+2	allows
+2	publishes
+2	can construct
+2	contributes
+2	can prove
+2	evi
+2	does
+2	preserves
+2	represent
+1	requires
+1	are decrypted
+1	then show
+1	required
+1	lead
+1	implies
+1	should convince
+1	then check
+1	sendvote
+1	can perform randomized
+1	dier
+1	mechanizing
+1	was never studied
+1	presenting
+1	then creates
+1	does not reveal
+1	fixing
+1	check
+1	to form
+1	formalise
+1	covers
+1	to recover
+1	defined
+1	must observe
+1	is needed
+1	requires combining
+1	is kept
+1	is added
+1	compute
+1	automated
+1	to retrieve
+1	removes
+1	assumes
+1	was
+1	are carried
+1	just presented
+1	suffice
+1	given said
+1	rely
+1	does not directly prove
+1	decrypts
+1	assess
+1	are created to interact
+1	enacts
+1	contains
+1	introduced
+1	ensure
+1	would show up
+1	discussed
+1	is producing
+1	mechanized
+1	to open
+1	is being coerced
+1	cannot trust
+1	zero-knowledge
+1	ensures
+1	be
+1	is published
+1	then have
+1	provides
+1	are used
+1	then simplify
+1	mirroring holds
+1	be used
+1	confirm
+1	can cause
+1	will not dive
+1	mirroring is
+1	is as follows
+1	specified
+1	sends
+1	are used to ensure
+1	works
+1	exploiting
+1	occurring
+1	poses
+1	can publicly check
+1	only succeeds
+1	corresponds
+1	can decrypt
+1	needs to check
+1	take
+1	match
+1	guarantees
+1	do not produce
+1	will point
+1	then checking
+1	point
+1	can reproduce
+1	underlying
+1	instead works
+1	being
+1	can now cast
+1	can be consumed
+1	claims
+1	just briefly covered
+1	also discovered
+1	is tallied
+1	changing
+1	ni read
+1	are consumed
+1	would like
+1	is consumed
+1	gets
+1	will now explain
+1	copying
+1	split
+1	is exchanged
+1	wants to reveal
+1	to do
+1	is sent
+1	being coerced
+1	converts
+1	is to use
+1	binding
+1	must be given
+1	chooses to fake
+1	applied
+1	to denote
+1	ensuring
+1	modelling
+1	also allow to commit
+1	secret
+1	are taken
+1	can also be revealed
+1	combines
+1	to increase
+1	are created
+1	was to design
+1	is described
+1	to be
+1	according
+1	have gone
+1	picking
+1	would not apply
+1	to relax
+1	creating
+1	learns
+1	can compare
+1	achieves
+1	operates
+1	will be linked
+1	is solved
+1	constructing
+1	modulo
+1	reveals
+1	rather proves
+1	then there exist
+1	can act
+1	can now form
+1	remove
+1	can then be checked using
+1	cannot link
+1	then stored
+1	can trust
+1	to simplify
+1	must remain
+1	express
+1	get
+1	do
+1	based
+1	are checked
+1	is represented
+1	saying
+1	to perform
+1	attacking
+1	was also made
+1	to make
+1	to become
+1	is removed
+1	is to construct
+1	cannot distinguish
+1	does not appear
+1	cipher
+1	has not considered
+1	committing
+1	synchronising
+1	are assigned
+1	rather present
+1	issuing
+1	to hide
+1	explicitly modeling
+1	n2 however adding
+1	cannot infer
+1	linked
+1	say
+1	is lying
+1	providing
+1	can be derived
+1	encrypting
+1	begins
+1	believe
+1	applies open(commit(m
+1	are put
+1	greatly reducing
+1	therefore not published
+1	proving
+1	to explore
+1	outputting
+1	now looks
+1	gives
+1	is also explained
+1	newly generated
+1	behaves
+1	will act
+1	exists
+1	vote
+1	simplified
+1	does not pose
+1	randomized
+1	have undergone
+1	omits
+1	creates
+1	could
+1	starts
+1	is restricted
+1	retrieves
+1	wanted
+1	publicly creates
+1	put
+1	must not reveal
+1	can be convinced
+1	can then combine
+1	do not match
+1	overcame
+1	can compute
+1	does not commit
+1	et
+1	called mirroring
+1	posted earlier is
+1	extended
+1	is performed
+1	are annotated
+1	made herein are
+1	are prefixed
+1	verifying
+1	represents
+1	believed to be
+1	was already described
+1	can prove mirroring
+1	introduce
+1	propose
+1	specified using
+1	violating
+1	are currently being worked
+1	defining
+1	also decrypt
+1	constitutes
+1	does not provide
+1	accidentally picks
+1	fix
+1	chosen
+1	to mechanize
+1	advancing automated
+1	executes
+1	is formed to obtain
+1	keeps
+1	allow
+1	cannot
+1	reduces to solving
+1	are needed to ensure
+1	was signed
+1	is given
+1	intended
+1	then there exists
+1	actually voted
+1	should not reveal
+1	therefore issuing
+1	must be assured
+1	to construct
+1	also develop
+1	colluding
+1	shuffled
+1	dont get assigned
+1	will know
+1	keep
+1	satisfy mirroring
+1	should hold
+1	has been tallied
+1	only need to pick
+1	reserved
+1	to removing
+1	automatically proves
+1	making
+1	was funded
+1	are assumed to have
+1	would not be
+1	known
+1	carrying
+1	is presented
+1	can be checked
+1	can no longer find
+1	are shued using
+1	could not terminate
+1	prove
+1	working
+1	can use
+1	apply
+1	then strengthen
+1	is now confirmed to yield
+1	should not be
+1	to match
+1	requiring
+1	to r2
+1	will open
+1	resulting
+1	involved
+1	coerced
+1	to discover
+1	sending
+1	appears
+1	assume to trust
+1	shued
+1	desired
+1	modify
+1	are performed
+1	to define
+1	giving
+1	still does not make
+1	is initialised
+1	to fix
+1	to determine
+1	set up
+1	is lost
+1	is therefore assigned
+1	are finally posted
+1	to explicitly modelling
+1	presented
+1	can check
+1	partially compromised
+1	are formed
+1	splitting
+1	have been analysed
+1	only creates
+1	to prevent
+1	are also posted
+1	is posted
+1	to prove mirroring
+1	to check
+1	has ended
+1	focus
+1	saves
+1	do not collude
+1	not compromised
+1	is organized

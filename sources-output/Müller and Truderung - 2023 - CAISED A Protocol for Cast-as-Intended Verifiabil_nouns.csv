@@ -1,0 +1,730 @@
+33	vs
+26	enc
+25	rerand
+21	audit device
+18	vd
+15	sect
+14	ad
+13	internet
+13	j.
+12	verify
+10	basic ballot submission protocol
+10	cast-as-intended verifiability
+10	prove
+10	vext
+9	ballot audit process
+9	caised
+9	lncs
+9	protocol
+9	r.
+9	springer
+8	c =
+8	device
+8	individual verifiability
+8	j. muller
+8	m.
+8	t.
+7	qr
+7	randomness r
+7	t. truderung
+7	voting
+7	zkp
+6	ballot submission
+6	computes ciphertext c
+6	dec
+6	design goals
+6	s.
+5	ballot privacy
+5	cast-as-intended
+5	cryptographic deniability
+5	dec
+5	dg1
+5	dg2
+5	dg6
+5	furthermore
+5	heidelberg
+5	helios
+5	interactive zero-knowledge proof
+5	public bulletin board
+5	truderung
+5	v =
+5	voters choice
+4	cham
+4	chooses randomness r
+4	d.
+4	dg3
+4	dg4
+4	dg5
+4	e.
+4	elgamal
+4	estonia
+4	estonian
+4	full individual verifiability
+4	joint input
+4	o.
+4	p.
+4	qr-code
+4	r + x
+4	return codes
+4	selene
+4	sends c
+4	special decryption
+4	v.
+4	volkamer
+4	voter v
+4	vs.
+3	a.
+3	ballot cast process
+3	ballot contains
+3	ballot submission protocol
+3	bs3
+3	bs4
+3	ciphertext c
+3	creative commons
+3	cryptographic primitives
+3	e-vote-id
+3	europe
+3	factor x
+3	fc
+3	full version
+3	haenni
+3	ieee
+3	ieee csf
+3	keygen
+3	koenig
+3	krimmer
+3	kusters
+3	lindell
+3	modular exponentiations
+3	muller
+3	pereira
+3	public-key encryption scheme
+3	r.e.
+3	ryan
+3	secret input x
+3	security guarantees
+3	security properties
+3	servers perspective
+3	sim
+3	step
+3	unrealistic assumptions
+3	verification program
+3	voters vote
+3	zero-knowledge
+3	zkp rerand
+2	additional device
+2	assume
+2	audit his/her ballot
+2	ba2
+2	ballot cast confirmation
+2	ballot cast confirmation s
+2	basic protocol
+2	basic submission protocol
+2	bs2
+2	c.
+2	ciphertext c =
+2	client application
+2	code sheet
+2	code sheets
+2	complex ballots
+2	complex cryptographic machinery
+2	computational cost
+2	cortier
+2	cpu
+2	device [
+2	different choice
+2	dubuis
+2	electronic voting
+2	end-to-end verifiability
+2	enters plaintext vote v
+2	exact method
+2	extra cost
+2	galindo
+2	guasch
+2	hazay
+2	importantly
+2	ind-cpa-secure
+2	individual verifiability method
+2	interactive protocol
+2	large class
+2	luxembourg
+2	mobile phone
+2	n.
+2	numerous
+2	observe
+2	original ciphertext c
+2	otherwise
+2	p.y.a.
+2	practical aspects
+2	practical implementations
+2	probability pc
+2	probability ps
+2	protocol transcript
+2	public key pk
+2	qr-codes
+2	real elections
+2	recommendation
+2	renc
+2	rnne
+2	rrerand
+2	secret key sk
+2	simple ballots
+2	submission protocol
+2	theorem
+2	trust assumption
+2	trust assumptions
+2	universal verifiability
+2	usability issues
+2	usenix
+2	user experience
+2	v = v
+2	v s.
+2	valid signature
+2	verifiability
+2	voter checks
+2	voter uses
+2	voters knowledge
+2	voters vote v
+2	votes cast
+2	weak trust assumptions
+2	wide range
+2	willemson
+2	x + r
+2	y.
+2	zero-knowledge property
+2	zk
+2	zq
+1	  knowledge
+1	//u.cs.biu.ac.il/ lindell/errata-zk-sigma.pdf
+1	2023. https
+1	= uu = gx
+1	= v
+1	= ww = hx [
+1	= {
+1	[ verify
+1	] = pc
+1	] conclude
+1	] method
+1	] suffers
+1	access
+1	accessed
+1	actual threat
+1	actual voters choice
+1	additional costs
+1	additional interaction
+1	additional modular exponentiations
+1	additional participant
+1	additional program
+1	additional trust assumption
+1	additional trust assumptions
+1	adequate safeguards
+1	adida
+1	adversary tries
+1	altogether
+1	analogously
+1	android
+1	application displays
+1	approach relies
+1	approach score
+1	appropriate credit
+1	arbitrary election choice
+1	archive
+1	audit device checks
+1	audit device displays
+1	audit device fetches
+1	audit devices
+1	audit process
+1	aug
+1	austria
+1	author
+1	average voter
+1	b.
+1	ba1
+1	ba3
+1	ba4
+1	ba5
+1	ballot audit
+1	ballot audit process relies
+1	ballot box
+1	ballot c
+1	ballot confirmation
+1	ballot length
+1	ballot preparation
+1	ballot types
+1	basic ballot submission
+1	basic ballot submission phase
+1	basic ballot submission process
+1	basic process
+1	behalf contains
+1	beleniosvs
+1	benaloh
+1	benaloh challenge
+1	berlin
+1	bernhard
+1	big scale elections
+1	bonneau
+1	braun binder
+1	brelle
+1	brenner
+1	brickell
+1	brief overview
+1	bs1
+1	bsi
+1	caised1
+1	cambridge
+1	cast ballot
+1	cast ballot c
+1	cast ballots
+1	cast process
+1	cast-and-audit
+1	cast-and-audit methods
+1	cast-or-audit
+1	cast-or-audit approach
+1	cast-or-audit approach ineffective
+1	certain types
+1	chancellery ordinance
+1	chaum
+1	chen
+1	choice c =
+1	chooses r
+1	chooses x
+1	chvote
+1	ciphertext c encrypts vote v.
+1	clark
+1	clarkson
+1	clash
+1	clash attacks [
+1	clear text
+1	coin constitutes
+1	commitment consistent encryption [
+1	common cryptographic primitives
+1	common device
+1	communication capacity
+1	communication channel
+1	complete protocol
+1	completeness
+1	complex ballot types
+1	complex ones
+1	computes c
+1	computes r x + r
+1	confirmation code
+1	copyright holder
+1	correctness level
+1	corresponding verification codes
+1	costly additional infrastructure
+1	crampton
+1	creative commons attribution
+1	credit line
+1	crypto
+1	cryptographic denialability
+1	cryptographic security analysis
+1	custom hardware
+1	custom hardware tokens
+1	cuvelier
+1	decent randomness
+1	decryption
+1	deliberate manipulation
+1	delivery facilities
+1	depending
+1	design choices
+1	device johannes muller1
+1	different balances
+1	different candidates
+1	different election settings
+1	different resolution
+1	different types
+1	different vendors
+1	different voters audit
+1	different ways
+1	digital ballot
+1	direct evidence
+1	discrete logarithms
+1	dishonest prover
+1	document specifies
+1	doing
+1	du-vote
+1	e-voting systems
+1	e.f
+1	eds
+1	effective guarantees
+1	efficient secure two-party protocols
+1	efficient zero-knowledge
+1	ehin
+1	election act
+1	election outcome
+1	election result
+1	election scenarios
+1	election system
+1	election types
+1	election verifiability
+1	elections [
+1	electronic elections
+1	elgamal-based
+1	eligible voters
+1	employ interactive zero-knowledge proofs
+1	encryption coin
+1	encryption random coins
+1	end-to-end
+1	endto-end verifiability
+1	enters r
+1	esch-sur-alzette
+1	esorics
+1	essential part
+1	evote
+1	evoting
+1	evt
+1	exact secret votes
+1	example
+1	example [
+1	example protocol
+1	exists v = v
+1	exists x
+1	extended
+1	f.
+1	facilitate vote buying/coercion
+1	fact establishes
+1	fact gr
+1	favorite choice
+1	favorite choice v
+1	filipiak
+1	final output
+1	final result
+1	final step
+1	final system
+1	final tally
+1	form c =
+1	form c =
+1	form h = gsk
+1	functional design goals
+1	fundamental property
+1	g.s.
+1	general case
+1	general limitations
+1	generator g.
+1	generic protocol
+1	germany
+1	germany abstract
+1	gov
+1	grewal
+1	grossklags
+1	group element
+1	guarantees receipt-freeness
+1	guessing
+1	haines
+1	hardware tokens
+1	heiberg
+1	hence
+1	hengartner
+1	high availability
+1	high level
+1	homomorphic aggregation
+1	homomorphic w.r.t
+1	honest audit device
+1	honest-verifier zero knowledge
+1	human-chosen secrets
+1	iacr cryptology
+1	ieee computer
+1	ieee euros
+1	ieee stast
+1	ieee symposium
+1	impedes vote buying
+1	important factor
+1	indistinguishable transcript
+1	individual verification purposes
+1	individual voter
+1	individual voters
+1	inf
+1	instantiations
+1	interactive proof
+1	interactive zero-knowledge protocol
+1	international conference
+1	introduction internet
+1	intuitive user experience
+1	iovino
+1	isc
+1	ivxv
+1	jajodia
+1	johannes.mueller @ uni.lu
+1	joint input pk
+1	k.
+1	karayumak
+1	kauer
+1	kersting
+1	key requirement
+1	kremer
+1	kulyk
+1	l.
+1	lallemand
+1	level security properties
+1	lewis
+1	license
+1	literature satisfies
+1	lochau/bregenz
+1	locher
+1	low
+1	low-end general purpose devices
+1	m hr
+1	m. volkamer
+1	m.d.
+1	m.m.
+1	m.r
+1	main challenge
+1	main disadvantage
+1	main idea
+1	mayes
+1	meiklejohn
+1	message space
+1	minimal trust assumptions
+1	mobile application
+1	modular approach
+1	modular method
+1	modularity
+1	morillo
+1	mueller
+1	natural instantiation
+1	neuchatels
+1	new balance
+1	new option
+1	non-governmental organisations
+1	non-interactive zero-knowledge proofs
+1	non-political elections
+1	october
+1	olembo
+1	oorschot
+1	open audit
+1	order q
+1	original author
+1	overall
+1	own balance
+1	own issues
+1	p.b
+1	p.b.
+1	p.c
+1	paper
+1	paper [
+1	particular candidate
+1	particular design goals
+1	particular election scheme
+1	particular protocols
+1	party material
+1	pedersen
+1	peters
+1	pets
+1	ph.d.
+1	physical location
+1	pke
+1	pki
+1	plaintext content
+1	plaintext m
+1	plaintext message
+1	plaintext message message m
+1	polyas
+1	polyas gmbh
+1	poor quality
+1	possible ballot types
+1	possibly
+1	potential plaintext messages
+1	pr
+1	practical advantages
+1	practical considerations
+1	practical cryptographic instantiations
+1	practical post-quantum primitives
+1	practical properties
+1	preneel
+1	printing/delivery facilities
+1	printing/distribution facilities
+1	prioritise solutions
+1	privacy
+1	private key
+1	pro-democratic organizations
+1	probabilistic polynomialtime
+1	probability pz
+1	property guarantees
+1	protocol run
+1	protocol specification
+1	public key
+1	public-key infrastructure
+1	puiggal
+1	qrcode
+1	qualcomm r snapdragon
+1	random encryption coin
+1	random numbers
+1	randomization elements r
+1	randomness r x + r
+1	re-randomisation
+1	re-randomization
+1	re-randomize ciphertext c
+1	re-written presentations
+1	re-written protocol
+1	real execution
+1	real-life elections
+1	real-world elections
+1	realworld elections
+1	reasonable assumptions
+1	receipt problem
+1	recorded-as-cast verifiability
+1	recorded-ascast aspect
+1	references
+1	related
+1	relying
+1	remark
+1	remote national elections
+1	renaud
+1	requirements
+1	research community
+1	respective votes
+1	retrieved august
+1	return code
+1	riigikogu
+1	rohloff
+1	run interactive
+1	s contains
+1	s tasks
+1	s.j.
+1	satisfies completeness
+1	scapin
+1	scheme [
+1	schurmann
+1	second device
+1	secret choice
+1	secret input
+1	secret input r
+1	security analysis
+1	security issues
+1	security level
+1	security result
+1	security vulnerabilities
+1	security/usability/deployability trade-offs
+1	select multiple choices
+1	select system [
+1	semantic security
+1	sends x
+1	serious drawback
+1	serious practical consequences
+1	serious problems
+1	server gathers
+1	setup phase
+1	sigma
+1	sigma protocol
+1	sigma protocols-an erratum
+1	signature s
+1	significant issue
+1	similar checks
+1	simple
+1	simple ballot
+1	simple cryptography
+1	simple vote buying
+1	simple way
+1	simpler security proofs
+1	simulatability towards voting server recall
+1	simulation algorithm
+1	simulator algorithm
+1	simulator returns
+1	small number
+1	so-called end-to-end verifiability [
+1	software programs
+1	sok
+1	solvak
+1	soundness
+1	soundness level
+1	special decryption guarantees
+1	special hardware
+1	standard legal requirements
+1	standard mechanism
+1	standard way
+1	standards
+1	state higher-level security properties
+1	statutory regulation
+1	strong trust assumption
+1	structure
+1	successful vote
+1	such complex software/hardware systems
+1	such devices
+1	such mechanisms
+1	such problems
+1	such receipt
+1	such risks
+1	such schemes
+1	support
+1	support modular security analysis
+1	swiss elections
+1	symposium
+1	system [
+1	system interfaces
+1	system specification
+1	t. truderung cast-as-intended verification
+1	t.p
+1	teague
+1	technical note
+1	technically
+1	technische richtlinie tr-03162
+1	theorem protects
+1	tomasz truderung2
+1	towards
+1	tracking codes
+1	transparent verifiability
+1	trapdoor value
+1	trapdoor values
+1	trivial receipts
+1	true statement
+1	u = u gx
+1	u = gr
+1	u.
+1	uk
+1	unique plaintext v
+1	unique voters identifier
+1	universal verifiability process
+1	unternehmen-und-organisationen/standards-und-zertifizierung/technische-richtlinien/ tr-nach-thema-sortiert/tr03162/tr-03162
+1	usability
+1	usability point
+1	user
+1	v = v.
+1	valid ballot
+1	various mechanisms
+1	vdv
+1	verifiability method
+1	verifiability notions
+1	verifiability relies
+1	verifiable ballot submission
+1	verifiable ballot submission protocol
+1	verifiable elections
+1	verifiable internet
+1	verification algorithm
+1	verification codes leak
+1	verification key
+1	verification mechanism
+1	verification step
+1	verifier returns
+1	vinkel
+1	vogt
+1	volk
+1	vote buyer
+1	vote buying
+1	vote buying/coercion
+1	votelid
+1	voter audits
+1	voter choice
+1	voter chooses
+1	voter compares
+1	voter devices
+1	voter enters
+1	voter identifier
+1	voter identifiers
+1	voter submits
+1	voters ballot
+1	voters need
+1	voters perspective
+1	voters vote v.
+1	voting codes
+1	w = w hx
+1	w = mhr
+1	w hr
+1	wallach
+1	wallet
+1	weber
+1	well-established methods involves
+1	well-known sigma-protocol
+1	whether
+1	wikstrom
+1	write-in candidates
+1	zero-knowledge proof

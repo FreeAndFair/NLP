@@ -1,0 +1,1066 @@
+31	cpk
+27	rck
+21	computer
+20	zp
+19	lecture notes
+19	springer verlag
+18	comeck
+16	input
+16	protocol
+15	el gamal
+15	gq
+15	pedersen
+14	com
+14	i =
+14	yn
+13	gp
+12	definition
+12	j =
+12	online phase
+12	prg
+12	rpk
+12	suppose
+11	advances
+11	exponents
+10	epk
+10	gen
+10	permutation commitment
+10	rsa
+10	zn
+10	zq
+9	commitment scheme
+9	fujisaki-okamoto
+9	pk
+9	proposition
+9	public key pk
+8	equal exponents
+8	gene
+8	general position
+8	pr
+7	appendix
+7	c c0
+7	cyclic subgroup
+7	mpk
+7	offline phase
+7	order q
+7	sn
+7	x0
+6	cs
+6	dl
+6	sako
+6	sq
+6	yk
+5	ck
+5	cryptology crypto
+5	d. wikstrom
+5	furukawa
+5	g r u
+5	g x
+5	hk }
+5	homomorphic cryptosystem
+5	lemma
+5	mapck
+5	mj
+5	neff
+5	p.
+5	polynomial time adversary
+5	secret key
+5	v.
+5	wikstrom
+5	{ h1
+4	acm
+4	b1 =
+4	batch proofs
+4	commitment-consistent
+4	cryptology eurocrypt
+4	cyclic group
+4	different cryptosystems
+4	example
+4	g y
+4	knowledge
+4	l =
+4	lj
+4	map pk
+4	pn
+4	proves knowledge
+4	public key
+4	random vectors
+4	rshuf
+4	s [ k ]
+3	2+2r +c
+3	2e + 0
+3	b1 = g s0 i=1 gisi
+3	b2 = i=1 hsi i i=1 cei i
+3	challenge c
+3	comck
+3	commitment algorithm
+3	commitment-consistent proof
+3	commitments [
+3	computational complexity
+3	consider
+3	ddh
+3	en [
+3	generator g
+3	honest verifier
+3	i [
+3	i g3
+3	i=1 gi
+3	i=1 i
+3	k. sako
+3	l0
+3	lk
+3	mod q
+3	overall security
+3	paillier
+3	partial decryption
+3	perm twin
+3	prime order group
+3	qn
+3	qn qk qk qn
+3	r [
+3	rand
+3	re-encryption
+3	s [
+3	shuffle
+3	standard unit vector
+3	step
+3	theory
+3	threshold decryption
+3	time o
+3	x1
+3	y = g x
+3	y r v
+3	} e
+2	y 
+2	+ /e
+2	2e +c +r
+2	2j +c +r
+2	= g
+2	= g r
+2	[ l ]
+2	] [
+2	a. neff
+2	a0
+2	adida
+2	aj =
+2	assumption states
+2	b. adida
+2	b2 =
+2	batch
+2	batch proof
+2	below
+2	brief informal description
+2	c 6= c0
+2	c [
+2	challenge c [
+2	chooses s
+2	chooses t0
+2	ciphertext c0
+2	ck =
+2	commitment parameter
+2	communications
+2	computes ai = g ri g1
+2	computes c0 =
+2	computes d = cr + s
+2	corollary
+2	cpk rpk cpk
+2	cryptography
+2	cryptology
+2	cryptology asiacrypt
+2	cryptosystem [
+2	diffie-hellman
+2	discrete logarithms
+2	e = c =
+2	e [
+2	e. fujisaki
+2	elements ui
+2	exponents t0
+2	fujisaki-okamoto commitments
+2	g d
+2	g e0 i=1 giei
+2	g n0
+2	g r
+2	g rj
+2	g s
+2	g xy
+2	generators g
+2	gj
+2	gmp
+2	gp gp
+2	h [ k ]
+2	high probability
+2	homomorphic map pk
+2	i + rj
+2	i 6=
+2	i d0j
+2	i r2
+2	i x2
+2	i. damgard
+2	i=1 ci
+2	i=1 i=1
+2	i=1 ui
+2	input ciphertexts
+2	invertible modulo q
+2	invoke protocol
+2	j ej
+2	j wj
+2	j. furukawa
+2	j=1 dl
+2	joint decryption
+2	kg
+2	kilian
+2	list ej+1
+2	lj1
+2	m1
+2	march
+2	maximal cyclic subgroup
+2	mck
+2	mk
+2	n cramer-shoup
+2	n/10
+2	n/2
+2	new prover
+2	online complexity
+2	online computational complexity
+2	order group
+2	otherwise
+2	pairs ck
+2	parameter algorithm
+2	parameter generation algorithm
+2	parameters n
+2	particular proof
+2	permutation commitment scheme
+2	permutation shuffle
+2	permutation sn
+2	pi 2c
+2	pre-computation technique
+2	prime
+2	private communication.
+2	proofs
+2	prover
+2	public keys
+2	q n
+2	q q
+2	qn1
+2	r =
+2	r. cramer
+2	r1
+2	r1 r2
+2	r2
+2	random seed
+2	real interaction
+2	recall
+2	ri [
+2	rmap
+2	rshuf rck rck
+2	s [ l ]
+2	s0 [
+2	s0 [ l ]
+2	safe primes
+2	satisfying bj,1 =
+2	security properties
+2	seed z {
+2	shuffles
+2	si
+2	similarly
+2	simultaneous exponentation [
+2	simultaneous exponentiation
+2	small number
+2	standard methods
+2	such commitments
+2	t. granlund
+2	tcc
+2	total complexity
+2	u0 /u
+2	uc-secure
+2	usenix
+2	valid openings
+2	verifiable secret shuffle
+2	w =
+2	x hi
+2	y rj
+2	y y y
+2	yk n
+2	yt
+2	zero-knowledge simulator chooses c [
+2	|0 | [
+1	 perm
+1	 twin
+1	 x = pk cl
+1	 y xl
+1	yn j=1 e y j
+1	yn t
+1	+ 80+80+20
+1	+ e
+1	+ n
+1	+ w multiplications
+1	+n2 x2
+1	-bit exponent corresponds
+1	-bit exponents ei
+1	-bit strings
+1	.. .. ..
+1	/2 multiplications
+1	/e factors
+1	157n multiplications
+1	2006. http
+1	2w multiplications
+1	3. schemes
+1	4e +2c +2r
+1	< c
+1	= 59n multiplications
+1	= 98n
+1	= c0
+1	= crn mod n2
+1	= g e0
+1	= g e0 i=1 giei
+1	= g h2 mod n.
+1	= g i mod n i=1 i  
+1	= g i=1 gi
+1	= g l0
+1	= g mod n ]
+1	= g2
+1	= g3
+1	= gr
+1	= h2 mod n ]
+1	= hs01 i=0 n1
+1	= hs02 i=1 i=n1 +1 x hi
+1	= i6=t i ri
+1	= i=1 ri i
+1	= j=1 i=1 i j=1 i=1 i  y y xl
+1	= k
+1	= n1 n2 n1 n1y +n2
+1	= pk i=1 i y
+1	= t
+1	= x ]
+1	= z c
+1	] ciphertexts
+1	] ck pk
+1	] decreases
+1	] |
+1	a. juels
+1	a. menezes
+1	a00
+1	a0i = g ri ai
+1	abe
+1	abealian groups
+1	abstract
+1	acisp
+1	acknowledgments
+1	acm symposium
+1	ai = g ri g1
+1	alternative approach
+1	alternative constructions
+1	andy neff
+1	appendix e.
+1	application
+1	applied cryptography
+1	april
+1	archive
+1	assumptions f.1 discrete logarithm assumptions definition
+1	australasian
+1	automata
+1	average cost
+1	b. pfitzmann
+1	b. schoenmakers
+1	b.1
+1	b1 = g i=1 gi
+1	b1 = g s0 g1s1 g2s2
+1	b2 = hs11 hs22
+1	b2 = htii i=1 i=1
+1	b2 = htii pk cei i
+1	b2 = i=1 hi i=1 ci
+1	b2 = ki=1 hsi i
+1	background
+1	basic approach
+1	basic batch proof
+1	basic idea
+1	basic principles
+1	batch proof techniques [
+1	batch proofs [
+1	batch techniques
+1	bi = hri +ri
+1	bj,2 =
+1	blind c0
+1	blind signatures
+1	breaking
+1	broadcast channel
+1	bulletin board
+1	c c0 divides fj fj0
+1	c denotes
+1	c shuffle
+1	c0 =
+1	c0 = cepk
+1	c0 [
+1	c0 ki=1 hsi i
+1	c0i = c
+1	c0i = pk
+1	c0l = pk
+1	careful look
+1	ccs
+1	cdi = bc2
+1	certain fraction
+1	chaum
+1	chooses ri
+1	chooses ri0
+1	chooses rj
+1	chooses s1
+1	chooses t1
+1	chooses y1
+1	ci =
+1	ciphertext attack
+1	ciphertext c.
+1	ciphertext space
+1	ciphertext space equals
+1	colloquium
+1	com -permutation commitment scheme
+1	com denotes
+1	commitment [
+1	commitment bj,1
+1	commitment paeq rameter ck output
+1	commitment parameter ck
+1	commitment parameter ck =
+1	commitment parameters
+1	commitment parameters g
+1	commitment schemes
+1	commitment space
+1	commitment-consistent proof suffices
+1	commitment-consistent proofs
+1	commitmentconsistent proofs
+1	commitments hide
+1	commitments implies
+1	complete mix-net
+1	complete sigma protocol
+1	complete sigma protocols
+1	component-wise multiplication
+1	composable mix-net
+1	composite degree residuosity classes
+1	composite order
+1	compute a=
+1	compute c =
+1	compute x
+1	computes a0i = g ri ai
+1	computes b1 =
+1	computes cj
+1	computes wi = ui gix
+1	computing
+1	con e sist
+1	conclude q q
+1	conditioned
+1	conference version
+1	constant c
+1	construct sigma protocols [
+1	construction |c c0 | 2c p
+1	correct opening
+1	corresponding secret key sk
+1	corresponding secret key x
+1	corrupt senders
+1	costly interaction
+1	costly offline part
+1	cq
+1	cramershoup
+1	crc
+1	cryptography sac
+1	cti i=1 i
+1	d d d d g1
+1	d solution based
+1	d uf
+1	d. chaum
+1	d. pointcheval
+1	d. tuinstra
+1	d.1 permutation commitment
+1	d.2
+1	d0 = ce0 + t0 mod q
+1	decryption key
+1	decryption shuffle
+1	defines =
+1	defines gi = g ri
+1	defines gt = h
+1	denotes partial decryption
+1	depending
+1	details
+1	deterministic commitment algorithm
+1	deterministic polynomial time algorithms map
+1	di =
+1	di = cei + ti mod 2e +c +r
+1	di [
+1	di d0i
+1	different ej =
+1	different forms
+1	different orders
+1	different protocol
+1	different randomness spaces
+1	different ways
+1	digital pseudo-nyms
+1	digital signatures
+1	discrete logarithm
+1	discrete logarithm assumption
+1	distinct components
+1	distinct homomorphic maps
+1	distinct openings
+1	distributed
+1	dj,0 = cxj
+1	dj,0 [
+1	dog @ csc.kth.se
+1	douglas wikstrom
+1	e +c +r
+1	e 2e
+1	e =
+1	e c j
+1	e denotes
+1	e proofs
+1	e0 [
+1	e02 =
+1	e0i = e
+1	e0j =
+1	e0n {
+1	efficient anonymous channel
+1	efficient commitment-consistent proof
+1	efficient online part
+1	efficient proof
+1	efficient proofs
+1	efficient protocol
+1	efficient scheme
+1	efficient schemes
+1	ei =
+1	ei [
+1	ei b1 =
+1	ei e
+1	ei i=1 ri ei
+1	ei r computes
+1	ei s0 conclude
+1	ei si si
+1	ei {
+1	el gamal case
+1	electronic elections
+1	elements = g t0
+1	elements u1
+1	eq map twin
+1	eq twin
+1	equation
+1	equations
+1	essentially
+1	example shows
+1	exponent
+1	exponent ri0
+1	exponents r0
+1	exponents r1
+1	exponents r1 +r10
+1	exponents recall
+1	exponents t0j,0
+1	exponents tj,0
+1	extractor outputs
+1	f = cw + t
+1	f.2 strong rsa assumption definition
+1	factor p
+1	fast commitment-consistent proof
+1	feldman
+1	fi = csi + li mod q
+1	fi fi0
+1	final list
+1	financial cryptography
+1	firstly
+1	fj = cwj + sj mod 2+2r +c
+1	fj [
+1	fj fj0
+1	flaws
+1	focs
+1	form e01 =
+1	formal definitions
+1	fortunately
+1	foundations
+1	fujisaki-okamoto commitment
+1	fujisakiokamoto
+1	function 
+1	function f
+1	furthermore
+1	g =
+1	g b
+1	g d0
+1	g d0 gidi = ac
+1	g f
+1	g f0 i=1 i
+1	g f0 i=1 i=1 gifi = bc1
+1	g fi = bc1
+1	g i=1 i
+1	g i=1 i =
+1	g i=1 ri ei
+1	g r1 g1
+1	g ri g1
+1	g rn g1
+1	g t
+1	g wj
+1	garay
+1	general case
+1	general class
+1	generation algorithm
+1	generator g states
+1	generators
+1	generators generate
+1	generic
+1	geq relation
+1	geq sj =
+1	gi =
+1	gi = g ri
+1	gn
+1	gnu
+1	gq gq
+1	group elements
+1	group elements y1
+1	group elements yj
+1	h. imai
+1	h. miyauchi
+1	h1 =
+1	h2 =
+1	h2 mod n ]
+1	handbook
+1	hands d
+1	helpful comments
+1	hf02 n2
+1	hfi i
+1	homomorphic ciphertexts
+1	homomorphic cryptosystem satisfies
+1	homomorphic cryptosystems
+1	homomorphic cryptosystems [
+1	homomorphic cryptosystems recall
+1	homomorphic election schemes [
+1	homomorphic encryptions
+1	homomorphic map
+1	honest verifier proof
+1	honest veriperm twin fier
+1	i 6= i0
+1	i 6= j
+1	i 6= t
+1	i 6= t.
+1	i = cj1
+1	i = cxj
+1	i = ej
+1	i = g
+1	i = y1c
+1	i = y2c
+1	i = y3c
+1	i = z1c
+1	i = z2c
+1	i >
+1	i bj,2 = hi pk ci
+1	i ej
+1	i g1
+1	i i=0
+1	i i=1
+1	i i=1 i dl
+1	i i=n1 +1 g3
+1	i mod 2+2r +c
+1	i mod 2j +c +r
+1	i n1 n2 i =
+1	i n1 n2 w1
+1	i r1
+1	i uj1
+1	i values
+1	i vj1
+1	i w
+1	i=0 hf01 i=0 n1
+1	i=1 aei i =
+1	i=1 ai =
+1	i=1 d i=1 hi
+1	i=1 e gi
+1	i=1 e0 gi i
+1	i=1 g ri ei gei1
+1	i=1 g3
+1	i=1 gili
+1	i=1 giti
+1	i=1 hfi i
+1	i=1 hi i=1
+1	i=1 hlii
+1	i=1 htii
+1	i=1 i i
+1	i=1 i i=1 gi
+1	i=1 i=1 twin
+1	i=1 n2
+1	i=1 proves
+1	i=1 ri ei
+1	i=1 riei
+1	i=1 t hij
+1	i=1 yi
+1	i=1 yi = g j
+1	i=1 z2 = g0y2 k
+1	i=n1 +1 hi
+1	i=n1 +1 x hi
+1	icalp
+1	ieee computer
+1	ieee symposium
+1	ieee transactions
+1	imai
+1	important building block
+1	important observation
+1	improving efficiency
+1	independent vectors ej =
+1	index t [
+1	individual element yl
+1	individual ri
+1	informal description
+1	information
+1	information theory
+1	input ck
+1	integer commitment scheme
+1	integers modulo n
+1	introduction consider
+1	j = pk ci j
+1	j calls
+1	j+1 ej+1
+1	j+1 jl=1 el
+1	j. benaloh
+1	j. groth
+1	j. killian
+1	j. stern
+1	j.a
+1	j=1 j=1 i=1 
+1	j=1 xl
+1	joint decryption step
+1	joint public key
+1	joint public key pk
+1	jun furukawa
+1	k commitment-consistent proofs
+1	k si e e
+1	k. kurosawa
+1	k. mori
+1	kck
+1	kck n n
+1	key cryptography pkc
+1	key generation
+1	key generation protocol
+1	key observation
+1	ki=1 hsi i
+1	knowledge knowledge
+1	knowledge property
+1	l 6= j
+1	l = j
+1	l }
+1	languages
+1	latin
+1	linear combination
+1	linear combinations
+1	linear independence
+1	linear independence argument
+1	list commitment
+1	list elements
+1	list output
+1	ll
+1	ll1
+1	logarithm w
+1	logarithm xi
+1	logarithms w1
+1	m rn mod n2
+1	m. abe
+1	m. bellare
+1	m. jakobsson
+1	m0 m1
+1	m1 m2
+1	main computational cost
+1	main part
+1	main security parameter
+1	making
+1	maximal bit size
+1	maximal order
+1	may
+1	message mi
+1	mix
+1	mix nets robust
+1	mix-nets
+1	mix-nets based
+1	mix-server commits
+1	mix-server proves knowledge
+1	ml
+1	mod n i=1
+1	mod qa
+1	modular polynomial relations
+1	modulus n = pq
+1	multiple precision arithmetic library
+1	multiplicative group
+1	n = pq
+1	n denotes
+1	n el gamal
+1	n g n0 i=1 gi i =
+1	n mapck
+1	n n
+1	n p n
+1	n t
+1	n y
+1	n zq
+1	n1 n1y +n2
+1	n1 n2 n1 n1y +n2
+1	n3 = n1 + n2
+1	natural numbers
+1	natural way
+1	negligible function 0
+1	negligible perm
+1	negligible pk shuf soundness
+1	new ciphertexts
+1	new proof
+1	non-efficient extraction procedure
+1	non-interactive
+1	non-trivial element
+1	non-trivial relations
+1	non-zero tuple
+1	notation
+1	obvious application
+1	obvious techniques
+1	obvious ways
+1	offline/online
+1	omitted proofs
+1	online complexity estimate
+1	opening
+1	openq ni
+1	optimistic mix-nets
+1	order q = i=1 pi
+1	order q = ti=1 pi
+1	orders qa
+1	original ciphertext
+1	original exponents
+1	output ciphertext c0
+1	output messages
+1	p. feldman
+1	p. oorschot
+1	p. paillier
+1	p. q
+1	parameter ck
+1	partial knowledge
+1	particular permutation
+1	parties compute y =
+1	pedersen commitment
+1	pedersen commitments
+1	perfect form
+1	permutation commitments
+1	permutation suffices
+1	pi 2com
+1	pk  e
+1	pk c
+1	pk c0i = pk
+1	pk relations
+1	pk shuf
+1	plaintext corresponds
+1	plaintext space
+1	pn q p
+1	pn q qn
+1	positive integers
+1	positive probability
+1	possible combinations
+1	possible shuffles
+1	potential issue
+1	practical attacks
+1	practical public key cryptosystem
+1	practical scheme
+1	practical security parameters
+1	practical values
+1	pre-computation technique reduces
+1	pre-computation trick
+1	precomputation
+1	previous
+1	previous mix-net
+1	previous work
+1	prime order groups
+1	prime order p
+1	prime order p.
+1	prime p.
+1	prime symbol
+1	privacy acisp
+1	product ii uei i
+1	programming
+1	protocol inherits properties
+1	provable properties
+1	provable security properties
+1	provable security properties [
+1	prover hands
+1	public key cryptosystem
+1	public key defines
+1	public key pk =
+1	public key pk = n
+1	public-key
+1	q = ti=1 pi
+1	q proposition
+1	q q n
+1	q qk qk
+1	qna
+1	qt
+1	r = i=1 ri ei
+1	r e
+1	r twin
+1	r uw v
+1	r ux1 v
+1	r. rivest
+1	r0 r1
+1	r2,0 [
+1	random /2bit
+1	random challenge
+1	random commitment
+1	random element y
+1	random exponents ri
+1	random exponents s [ k ]
+1	random generators g
+1	random generators g1
+1	random order
+1	random permutation j
+1	random r1
+1	random re-encryption
+1	random seed z
+1	random seed z {
+1	randomizer pair
+1	randomness r
+1	randomness r [
+1	randomness r.
+1	randomness r1
+1	randomness space
+1	re-encryption factors
+1	readers
+1	receipt-free
+1	reciept-free
+1	reck
+1	reduction modulo 2e +c +r
+1	references
+1	reject proofs
+1	remark
+1	results [
+1	return addresses
+1	ri consistent
+1	ri ei
+1	rigorous definition
+1	rj = c1
+1	rj i=1 i 
+1	rj l
+1	rn +rn
+1	rn [
+1	rsa-assumption
+1	s [ l ] 6= s0 [ l ]
+1	s ut
+1	s. obana
+1	s. vanstone
+1	s0i 6= s0j
+1	s1
+1	sampleable randomness space
+1	satisfies ei 6= ei0
+1	scheme [
+1	secondly
+1	secret share
+1	secret share x1
+1	secret-ballot elections
+1	security arguments
+1	security property
+1	selected areas
+1	senders submit
+1	senders submit homomorphic ciphertexts
+1	sense invariant
+1	separate case
+1	set {
+1	shuffle [
+1	shuffle douglas wikstrom csc kth stockholm
+1	shuffle map
+1	shuffle map pk
+1	shuffle maps
+1	shuffle relation
+1	shuffle setting
+1	shuffle-friendly maps
+1	shuffle-friendly maps protocol
+1	shuffle-friendly relation
+1	si 6= sj
+1	si =
+1	sigma protocol
+1	sigma protocol geq twin
+1	signiture scheme
+1	similar properties
+1	simple shuffle
+1	simple solution
+1	simplified
+1	simultaneous exponentiation [
+1	simultaneous exponentiations
+1	small random seed z
+1	society press
+1	software
+1	special advantages
+1	special key set-up
+1	special property
+1	special soundness
+1	special trick
+1	standard batch-proof argument implies
+1	standard computational versions
+1	standard honest verifier zero-knowledge proof
+1	standard hybrid argument shows
+1	standard optimization techniques
+1	standard proof
+1	statistical
+1	statistical zero-knowledge
+1	statistical zero-knowledge proof
+1	statistical zero-knowledge simulators
+1	stoc
+1	string commitment
+1	string w
+1	submission schemes
+1	success probability
+1	successful prover
+1	such group u1
+1	such moduli
+1	such optimizations
+1	such products
+1	such values
+1	sweden
+1	symposium
+1	t t
+1	t. el gamal
+1	t. okamoto
+1	t. p. pedersen
+1	t. rabin
+1	techniques [
+1	throughout
+1	tk [
+1	tn [
+1	trivial ciphertexts
+1	twin respect
+1	typical cases
+1	uc
+1	unpredictability suffices
+1	unpredictable vector
+1	usual homomorphic cryptosystems
+1	v yn yk
+1	v. shoup
+1	valid permutation
+1	validity checks
+1	various proofs
+1	vector space
+1	verifiable mix-net
+1	verifier chooses x [
+1	verifier computes
+1	w elements
+1	w }
+1	wikstroms
+1	window exponentiation
+1	x = x1 + x2 + x3
+1	x e rj l
+1	x g1
+1	x g2
+1	x x g3
+1	xl = j=1 dl
+1	y = g w
+1	y = y1 y2 y3
+1	y d
+1	y s
+1	y. desmedt
+1	y1 = i=0 g1
+1	y1 = n1
+1	y2 = i=0 g2
+1	y2 = i=0 z1 = hy01 n2
+1	y2 [
+1	y3 =
+1	y3 = i=0 n1
+1	yi = g xi
+1	yi = gixi
+1	yk yn
+1	yl =
+1	yn n n
+1	yn yk
+1	z = g w
+1	z1 = g0y1
+1	z1 = h0 i=1 hi i=1 hi
+1	z2 = hw
+1	z2 = hy02 i=1 n2
+1	zero knowledge protocols
+1	zero-knowledge properties
+1	zero-knowledge simulator
+1	zero-knowledge simulator chooses z
+1	zn2

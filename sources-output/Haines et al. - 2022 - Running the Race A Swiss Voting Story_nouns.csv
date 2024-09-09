@@ -1,0 +1,620 @@
+28	swiss post
+20	ccrs
+19	protocol specication
+17	voting
+16	ckid
+15	sect
+11	control components
+11	veles
+10	bckid
+10	voting server
+9	ccr
+9	ccr4
+9	chancellery
+9	electoral board
+9	j =
+9	running
+8	ck2id
+8	fig
+8	t. haines
+7	ccm
+7	ccms
+6	verifyvotingphase
+6	vs
+5	australia
+5	internet
+5	return codes
+5	switzerland
+5	vote cast return
+4	art
+4	march
+4	o.
+4	pereira
+4	protocol
+4	protocol specification
+4	secret key
+4	security proof
+4	tally phase
+4	verier specication
+3	attack
+3	cong phase
+3	creative commons
+3	cryptographic protocol
+3	divergence
+3	e-voting
+3	haenni
+3	haines
+3	koenig
+3	lack
+3	lncs
+3	locher
+3	message
+3	p.
+3	r.
+3	return code
+3	security model
+3	teague
+3	trust assumptions
+3	v.
+3	vccid
+3	veles appendix
+3	verifiability
+2	academies
+2	acm
+2	april
+2	attack scenario
+2	australian
+2	authentication
+2	ballot casting
+2	canberra
+2	cases
+2	ccm3
+2	ccm4
+2	ccr2
+2	ccr3
+2	ccrj
+2	cham
+2	cheating ccr4
+2	chvote
+2	ck1id
+2	communication channels
+2	conrmation attempts
+2	details
+2	electoral board members
+2	elpk
+2	estonia
+2	estonian
+2	federal chancellery ordinance
+2	general public
+2	halderman
+2	honest control component
+2	honest parties
+2	independent examination
+2	j values
+2	july
+2	june
+2	key recommendations
+2	manual process
+2	national university
+2	number
+2	omission
+2	open question
+2	paper sheet
+2	political elections
+2	print oce
+2	privacy
+2	proceedings
+2	protocol description
+2	protocol specication document
+2	public key
+2	r.e.
+2	requirements
+2	right lvccid
+2	sec
+2	security analysis
+2	security proofs
+2	setup component
+2	shamirs
+2	signicant security issues
+2	specication
+2	springer
+2	step
+2	such logs
+2	swiss post system
+2	swisspost
+2	system specification
+2	t.
+2	technical aid
+2	verifyonlinetally
+2	version 0.9.11
+2	vote cast return code
+2	vote transcript
+2	voter enters
+2	voters device
+2	x.509
+1	//gitlab.com/swisspost-evoting/e-voting/e-voting-documentation/-/tree/ documentation-0.8.5.0/protocol
+1	//gitlab.com/swisspost-evoting/e-voting/e-voting-documentation/-/tree/ documentation-0.8.5.0/system
+1	//www.bk.admin.ch/bk/en/ home/politische-rechte/e-voting.html
+1	//www.bk.admin.ch/bk/en/home/ politische-rechte/e-voting.html
+1	//www.bk.admin.ch/bk/en/home/dokumentation/ medienmitteilungen.msg-id-84337.html
+1	//www.bk.admin.ch/bk/en/home/dokumentation/ medienmitteilungen.msg-id-88085.html
+1	//www.tu.no/ artikler/feil-i-krypteringen-av-e-stemmer/234436
+1	0.8.5.0 [
+1	2022. https
+1	7th workshop
+1	= 2
+1	= i=1
+1	] outlines
+1	a.
+1	abstract
+1	abstract model
+1	academic community
+1	academic community [ 9,11,22 ]
+1	academic literature
+1	access
+1	advances
+1	adversarys objective
+1	advocate adoption
+1	alternatively
+1	analysis
+1	analysis focuses
+1	appropriate consistent information
+1	appropriate credit
+1	archive
+1	attack illustrates
+1	audit
+1	authentication checks
+1	authentication mechanisms
+1	author
+1	authorisation
+1	available [
+1	available documents
+1	b.
+1	ballot box
+1	ballot pass verication
+1	based
+1	basic cryptographic components
+1	belgium
+1	bonneau
+1	breaking
+1	bugs
+1	canton
+1	cc
+1	ccm1
+1	ccm2
+1	ccr1
+1	certain conrmation attempt
+1	certain stakeholders
+1	certain trust assumptions
+1	certicate chains
+1	certicates subject eld contains
+1	certicates subject eld matches
+1	certication process
+1	chancellery ordinance
+1	channels
+1	choicecodesgenerationserviceimpl
+1	ck3id
+1	ck4id
+1	ck5id
+1	ck6id
+1	ck7id
+1	ck8id
+1	classical attack
+1	clear
+1	client displays
+1	client guesses
+1	client modifies
+1	client out-of-band
+1	closer
+1	collected-as-cast veriability
+1	comments
+1	communication mishaps
+1	communications
+1	complete
+1	complete absence
+1	complete veriability
+1	complete verifiability
+1	computational proof
+1	computer
+1	computes lvccid,4
+1	conclusion
+1	configuration phase
+1	conrmation attempts number
+1	conrmation code
+1	conrmation key
+1	conrmation logs
+1	consistency checks
+1	contrary
+1	control component
+1	control component group
+1	control components state
+1	copyright holder
+1	correct certicates
+1	correct code
+1	correct execution
+1	correct key generation
+1	correct lvcc codes
+1	corresponding choice return codes
+1	corresponding party
+1	councils
+1	creates w.r.t
+1	creative commons attribution
+1	credit line
+1	cryptographic implementation
+1	cryptographic information
+1	cryptographic proof
+1	cryptology
+1	current documents
+1	current public version
+1	current requirements
+1	current review process
+1	current specications
+1	current swiss post system [
+1	current system
+1	d.
+1	dc
+1	decryption key shares
+1	democracy
+1	desirable goal
+1	detect manipulation
+1	die-hellman
+1	dierent order
+1	dierent values
+1	different cantons
+1	discussion
+1	dishonest participants
+1	documentation 0.8.5.0
+1	doesnt leak
+1	draft ordinance
+1	draft ordinance claries
+1	dubuis
+1	e-vote-id
+1	e-voting architecture document
+1	e.
+1	ebpk
+1	eds
+1	eective
+1	el
+1	el
+1	elpk,3 ebpk
+1	election board
+1	election outcome
+1	electoral board key
+1	electoral board member
+1	electoral board trustworthy
+1	electronic ballot
+1	electronic voting
+1	eligible voters
+1	elpk,1
+1	elpk,2
+1	elpk,3
+1	encrypt votes
+1	encryption scheme
+1	engineering
+1	error handling
+1	erzeel
+1	espen zachariassen
+1	examination [
+1	examination process
+1	examination requirements
+1	examples
+1	explicit part
+1	extra care
+1	extra control component group
+1	extractable code
+1	facilitate decision
+1	fairfield
+1	fc
+1	fch veles
+1	feasibility study
+1	federal government launches examination
+1	federal law [
+1	feil
+1	fiat-shamir
+1	financial support
+1	formal denition
+1	furthermore
+1	gaudry
+1	geneva
+1	gitlab
+1	gitlab issue
+1	global parameters
+1	golovnev
+1	good certication process
+1	good process
+1	government elections
+1	handling inconsistencies
+1	hard things
+1	heninger
+1	high level issues
+1	high level requirements
+1	high-impact cryptographic protocols
+1	hinder comprehension
+1	honest execution
+1	honest return code control component
+1	honest voter
+1	i i=1 2 setup component acts
+1	i krypteringen av e-stemmer
+1	identical attempt numbers
+1	identity
+1	ieee
+1	ieee symposium
+1	incompletely aligned
+1	incompletemore information
+1	inconsistent logs
+1	incorporate improvements
+1	incorrect ballot
+1	incorrect behavior
+1	incorrect values
+1	independent experts
+1	independent test trials
+1	individual veriability
+1	individual veriability.1
+1	innocent communication problem
+1	instance [ 2,6,7,10,12,23 ]
+1	introduction switzerland
+1	ivote system
+1	j s
+1	j tuples
+1	j.
+1	j.-b.
+1	j.a
+1	j.a.
+1	javascript
+1	key issue
+1	key shares
+1	key usage
+1	keys certicate
+1	large collection
+1	lconfirmed
+1	lconfirmedj
+1	legal basis
+1	lewis
+1	license
+1	likely pressure
+1	live online election
+1	log random
+1	log reconciliation attempt
+1	logs oer
+1	logs oer sucient information
+1	long history
+1	long road
+1	long vote cast return code lvccid
+1	louvain-la-neuve
+1	lvccid values
+1	m.
+1	main groups
+1	major objectives [
+1	malicious parties
+1	medicine
+1	message reordering
+1	mixing
+1	model considers
+1	moscow
+1	nal conrmation
+1	nal mix
+1	nal return
+1	nal step
+1	narrow
+1	new ground
+1	new light
+1	new trials
+1	non-compliant system
+1	norway
+1	numbers
+1	numerous components
+1	numerous flaws
+1	numerous stakeholders
+1	oer security
+1	olivier pereira2
+1	olivier.pereira @ uclouvain.be
+1	omit lvccid
+1	open source system [
+1	operational procedures
+1	operational processes
+1	opposite voter actions
+1	ordinance [
+1	ordinance considers parts
+1	organisational procedures
+1	original author
+1	outgoing communication
+1	outline
+1	own headings
+1	paper proceeds
+1	paper summarises
+1	particularly
+1	party material
+1	permitted
+1	pilet
+1	places species
+1	point external experts
+1	possibilit dintroduire
+1	possible attacks
+1	possible directions
+1	possible way
+1	post system svote
+1	potential enormous complexity
+1	potential risks
+1	preneel
+1	preservation
+1	previous ones
+1	previous verication steps
+1	previous version
+1	process illustrates diculties
+1	proofs
+1	proofs means
+1	proper layer
+1	protecting
+1	protocol design
+1	protocol executions
+1	protocol participants
+1	protocol roles
+1	protocol specication documents
+1	protocol specication focuses
+1	public key shares
+1	public scrutiny
+1	publish studies thereon
+1	r. krimmer
+1	r.e
+1	random oracle model
+1	references
+1	release
+1	relevant parts
+1	relevant section
+1	remember
+1	reorder values
+1	report refers
+1	requirements positively
+1	resolution
+1	result contains
+1	return lvccid
+1	rfc
+1	roles
+1	root certicate authority
+1	root certicates
+1	rst round
+1	rst stage
+1	russia
+1	s.
+1	s.j.
+1	scenario shows
+1	scytl
+1	scytl-swiss
+1	sdm
+1	secret keys
+1	secret verication codes
+1	secure
+1	secure electronic voting
+1	secure initialisation
+1	securing
+1	security assumptions
+1	security failures
+1	security games
+1	security requirements
+1	sequence mix
+1	server-side components
+1	setup
+1	setup components
+1	setuptally
+1	setupvoting
+1	signature verication
+1	signaturechecker
+1	signicant extent
+1	similar attack
+1	similar lines
+1	similar processes
+1	similarly
+1	simpler additive
+1	slight updates
+1	special needs
+1	specic attack
+1	specic examples
+1	specic recommendations
+1	specication shows
+1	specification
+1	specification documents say
+1	specter
+1	springall
+1	stable trial operations
+1	statutory regulation
+1	strict equality accross control components
+1	successful examination
+1	successful verication
+1	sucient information
+1	sucient time
+1	summary
+1	suppose
+1	svote proprietary system
+1	svote protocol
+1	swift return
+1	swiss community
+1	swiss post posts
+1	swiss post protocol
+1	swiss post specications
+1	swiss regulations
+1	swiss return-code
+1	swiss system
+1	system component actions
+1	system components
+1	system deployment
+1	system development
+1	system implementation
+1	system participant
+1	system specication
+1	system system specication [
+1	systems protocol design
+1	theorem
+1	thinking cybersecurity pty
+1	thissee [
+1	thomas haines1
+1	thomas.haines @ anu.edu.au
+1	transparent
+1	trial phase
+1	trivial case
+1	trust assumption
+1	trust model
+1	trustworthy part
+1	tude sur
+1	u.s. vote
+1	uclouvain icteam b-1348
+1	unique set
+1	universal veriability
+1	universal verifiability
+1	unnecessary details
+1	untrustworthy system category
+1	usable system
+1	users device
+1	valid purpose
+1	vanessa teague3,4
+1	vanessa.teague @ anu.edu.au
+1	various processes
+1	various scenarios
+1	various signature verication implementations
+1	various stakeholders
+1	vcid values
+1	veriability captures
+1	veriability corresponds
+1	verication card
+1	verication card identier
+1	verication codes
+1	verication failure
+1	verication process
+1	verication protocol
+1	verication sketch
+1	verication step
+1	verifiable internet
+1	verification flaws
+1	verifier specification
+1	verifyoinetallyphase
+1	verifyonlinetallyphase
+1	version
+1	version 0.9.1
+1	version 0.9.7
+1	vote
+1	vote cast code
+1	vote cast conrmation codes
+1	vote cast return code vccid
+1	vote cast return codes
+1	vote choices
+1	vote conrmation code attempts
+1	vote conrmation phase
+1	vote conrmation phase.4
+1	vote internet
+1	vote matches
+1	votelid
+1	voter accepts
+1	voter credentials
+1	voter intent
+1	voter rejects
+1	voter votes online
+1	voters choices
+1	voting phase
+1	votingcardsetdatageneratorserviceimpl
+1	wales
+1	washington
+1	web page
+1	wikstrm
+1	wont correspond
+1	zk proofs
+1	zkps
+1	} m j=1

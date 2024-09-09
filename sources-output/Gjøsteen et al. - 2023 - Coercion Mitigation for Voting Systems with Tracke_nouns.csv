@@ -1,0 +1,828 @@
+43	selene
+22	coercion mitigation
+14	v.
+11	cortier
+11	trackers
+11	voting systems
+10	b.
+10	lncs
+9	bulletin board
+9	elgamal
+9	ieee computer
+9	k. gjsteen
+9	s.
+9	selene case
+9	springer
+8	claimtracker
+8	d.
+8	ea
+8	j.
+8	m.
+8	public key pk
+8	society press
+7	bpriv
+7	coercion
+7	csf
+7	decryptresult
+7	extracttracker
+7	furthermore
+7	heidelberg
+7	ryan
+7	trackergen
+6	archive
+6	computer
+6	cryptology
+6	foundations symposium
+6	gjsteen
+6	helios
+6	i =
+6	tracker generation
+5	bb
+5	benaloh
+5	dec
+5	hyperion
+5	p.
+5	privacy
+5	secret key
+5	shue
+5	smyth
+5	t.
+5	voterverify
+4	belenios
+4	bernhard
+4	dragan
+4	i }
+4	kgen
+4	kusters
+4	list evt
+4	p.y.a.
+4	pdl
+4	public key
+4	queries
+4	result res
+4	right ballots
+4	rnne
+4	selene ii
+4	setup
+4	tally process
+4	tracker commitments
+4	userkeygen
+4	vdl
+4	veriability
+4	verifyresult
+4	vote
+4	warinschi
+3	a.
+3	advg
+3	c.
+3	c.c.
+3	creative commons
+3	crypto
+3	e-vote-id
+3	f.
+3	fc
+3	fig
+3	full version [
+3	g t
+3	galindo
+3	i /ti
+3	i /vi
+3	ieee symposium
+3	k.
+3	lallemand
+3	machine-checked
+3	n }
+3	nc }
+3	p.b.
+3	proof system
+3	result proof r
+3	result query
+3	secret key vsk
+3	security denition
+3	security properties
+3	set {
+3	tracker t
+3	verifyballot
+3	verifyshue
+3	{ t
+3	{ v
+2	= vb
+2	a.c.
+2	acm
+2	australian
+2	b1
+2	b2,1
+2	b2,2
+2	b3
+2	ballot proof v
+2	ballot v
+2	brenner
+2	cast ballots
+2	chaidos
+2	challenge bit
+2	challenge query
+2	chaum
+2	chaum-pedersen
+2	chong
+2	ciphertext ev
+2	ciphertext queries
+2	clarkson
+2	coerce query
+2	coercers tracker
+2	coercion resistance
+2	compute
+2	compute d
+2	cryptographic
+2	cryptographic analysis
+2	damgard
+2	dene privacy
+2	discrete logarithm proofs
+2	discrete logarithms
+2	distler
+2	dl dl }
+2	dupressoir
+2	e-voting
+2	election veriability
+2	ep
+2	evt/wote
+2	experiment models
+2	fake world
+2	formal denition
+2	g r
+2	gaudry
+2	haines
+2	id
+2	inconsistent result
+2	iovino
+2	j =
+2	jakobsson
+2	jcj
+2	jia
+2	jth tuple
+2	juels
+2	koenig
+2	l.
+2	ls
+2	lv
+2	m.l.
+2	m.r
+2	minivoting
+2	muller
+2	myers
+2	nfr
+2	norway
+2	opening op
+2	original description
+2	own tracker
+2	particular ballot
+2	pedersen
+2	pets
+2	prime order q
+2	privacy denitions
+2	proof s
+2	protocols
+2	ps
+2	public keys
+2	r.
+2	real world
+2	research council
+2	schneier
+2	schnorr
+2	secret keys
+2	secret-ballot elections
+2	security proof
+2	select [
+2	set
+2	shue proofs
+2	shue server
+2	simple way
+2	sok
+2	surveying
+2	system s
+2	t.p
+2	term coercion mitigation
+2	test query
+2	tracker commitment ct
+2	tracker generation query
+2	truderung
+2	tuinstra
+2	usenix
+2	v =
+2	valid sequence
+2	veriable shues
+2	voter cast
+2	voter key queries
+2	voters privacy
+2	vs
+2	york
+2	zero-knowledge proofs
+2	zollinger
+1	    
+1	  -distinguisher
+1	+ 2ns
+1	+ negligible terms
+1	//www.iacr.org/elections/ evoting/nalreporthelios 2010-09-27.html
+1	1 -distinguisher
+1	2023. https
+1	=  
+1	= 1
+1	= ct ct/g t
+1	= skt
+1	= skv
+1	= t.
+1	= v. r
+1	= vi
+1	[ 23,31,38 ]
+1	] 1/2| x = priv
+1	] x = int
+1	abstract
+1	abstract scheme
+1	abuse notation
+1	access
+1	accessed
+1	acknowledgments
+1	acm ccs
+1	acm stoc
+1	actual result
+1	additional exponentiation mixes
+1	adida
+1	advddh g
+1	adversary interacts
+1	adversary rst species ballots
+1	adversarys goal
+1	adversarys guess
+1	adversarys interaction
+1	advs pr
+1	advvotex selene
+1	algorithm raises
+1	algorithm uses
+1	algorithms
+1	alternative trackers
+1	analysis applies
+1	anonymous reviewers
+1	applied cryptography
+1	approach simplies
+1	appropriate credit
+1	apr
+1	asiacrypt
+1	auditors rst
+1	aug
+1	australia
+1	australian discovery early career
+1	author
+1	b = b
+1	b = b
+1	background
+1	ballot
+1	ballot ev
+1	ballot privacy
+1	ballot privacy denitions
+1	ballot proof
+1	ballot proofs
+1	ballot proofs iv
+1	ballot sequences
+1	ballot/tracker pair
+1	ballot/tracker pairs
+1	ballots cast
+1	ballots supports plaintext equivalence tests
+1	ballots v1
+1	baloglu
+1	beleniosrf
+1	bit b
+1	blakley
+1	blocks
+1	boca raton
+1	bpriv-style
+1	brassard
+1	brickell
+1	briey describe
+1	briey introduce
+1	bulletin board veries
+1	bursuc
+1	c =
+1	c dummy ciphertexts
+1	c.e.
+1	c.p
+1	canberra
+1	case study
+1	catalano
+1	certain computations
+1	certain cryptographic properties
+1	challenge queries
+1	cham
+1	chapman
+1	check value x
+1	check values xv
+1	chi
+1	choose
+1	civitas
+1	clark
+1	coerce queries
+1	coerce query species
+1	coercer organises
+1	coercers demands
+1	coercion evasion strategy
+1	coercion mitigation event
+1	coercion mitigation properties
+1	coercion simpler
+1	coercion threat
+1	coercion verication queries
+1	coercion verication query
+1	coercion-resistant
+1	commitment
+1	commitments [
+1	commitments cti vpksi i g t
+1	common origin
+1	common secret power s.
+1	complete model
+1	complete protocol
+1	complete security proof
+1	comprehensive analysis
+1	compute dl vi
+1	compute g t ct opvsk
+1	compute op
+1	compute tracker commitments
+1	compute x g r
+1	computing machinery
+1	comr  pkvv
+1	contains tuples
+1	convenient protocol
+1	copyright holder
+1	correct tracker
+1	correctness proofs
+1	corresponding decryption key sk
+1	corresponding tracker
+1	count
+1	creative commons attribution
+1	credit line
+1	crypto84
+1	cryptographic actions
+1	cryptographic issues
+1	cryptographic primitives
+1	cryptologic
+1	ct/g t
+1	cyclic group
+1	ddh
+1	ddh ddh ddh
+1	de220100595
+1	decryption algorithm
+1	decryption key
+1	decryption servers
+1	defining
+1	delaune
+1	dene security
+1	denitional style
+1	dierent approach
+1	dierent approaches
+1	dierent candidate
+1	dierent notion
+1	dierent parties
+1	dierent parts
+1	dierent questions
+1	dierent tallies
+1	discrete logarithm proof
+1	distinct permutations
+1	dl =
+1	does
+1	du-mb-bpriv model
+1	dummy ciphertexts
+1	dummy trackers
+1	e-voting coercion
+1	e.
+1	e.f
+1	e.r.
+1	ecient
+1	eds
+1	eef
+1	election authorities
+1	election authority
+1	election key
+1	election processes
+1	election result
+1	electronic elections
+1	enc
+1	encryption algorithm
+1	encryption system
+1	encryptions eti
+1	ensures correctness
+1	entire game
+1	equational reasoning
+1	estonia
+1	evt contains
+1	evt0 =
+1	evtns = evt
+1	evtns res
+1	exacerbate threats
+1	exact details
+1	exact manner
+1	experience design
+1	exponentiation mix
+1	extract ballots
+1	extract permutations
+1	failure event
+1	fake information consistent
+1	fc fr fu fv
+1	feigenbaum
+1	fifty
+1	final
+1	fnr
+1	fnt
+1	foundations
+1	fr
+1	fu
+1	fuchsbauer
+1	full coercion resistance
+1	full details
+1	function evaluation
+1	fv
+1	g.
+1	g.r.
+1	general background
+1	generate election
+1	generate per-voter keys
+1	generate trackers
+1	generator g.
+1	glondu
+1	good understanding
+1	guttman
+1	halevi
+1	hall/crc
+1	helios-an
+1	helpful comments
+1	hicks
+1	hoboken
+1	honest parties
+1	honest players
+1	honest setup
+1	honest shues
+1	honest voters
+1	i dl
+1	i dl dl dv
+1	i g rt
+1	i g rv
+1	i pkt t
+1	i r  wt
+1	i r r dl dl
+1	i.
+1	i.b
+1	iacr
+1	ieee
+1	ik = ik
+1	inc
+1	inconsistent result event
+1	inconsistent verication
+1	inconsistent verication event
+1	independent interest
+1	individual ballots
+1	informally
+1	int }
+1	integers modulo q
+1	integrity events
+1	integrity game
+1	interesting approach
+1	interesting dierences/choices
+1	international association
+1	introduction electronic
+1	involves voters
+1	ith element
+1	j. comput
+1	j.c.
+1	j.d.
+1	john wiley
+1	joint privacy
+1	joint project
+1	js =
+1	k  {
+1	k = k 
+1	karayumak
+1	katzenbeisser
+1	kauer
+1	keywords
+1	knowledge [
+1	knowledge v
+1	kopf
+1	kristian gjsteen1
+1	kruegel
+1	labelled-minivoting
+1	landwehr
+1	large scale
+1	left world
+1	left-or-right query
+1	license
+1	list ct
+1	list evt
+1	list op
+1	list t
+1	logg pkt = logxt
+1	logg pkv = logxv
+1	logg x = loghv x = r.
+1	loghv x = logg x
+1	los alamitos
+1	low-stakes elections
+1	luxembourg
+1	m pkr
+1	m. volkamer
+1	m.m.
+1	m.r.
+1	main technical diculty
+1	malicious board
+1	malicious boards
+1	mauw
+1	may
+1	meiklejohn
+1	mental models align
+1	meseguer
+1	mix
+1	model adversarial interactions
+1	model coercion
+1	model corruption
+1	model integrity
+1	models adversarial control
+1	morten rotvold solberg1
+1	mosolb } @ ntnu.no
+1	mueller
+1	multiple
+1	multiple tuples
+1	nal opening
+1	nal result
+1	nal shue server
+1	national elections
+1	national research fund
+1	national university
+1	nc challenge
+1	negligible advantage
+1	negligible probability
+1	non-fresh execution
+1	non-interactive
+1	non-unique results
+1	noninteractive proofs
+1	noninteractive receipt-free
+1	norwegian
+1	notable examples
+1	notation
+1	ns sequences
+1	ns shue servers
+1	ns shue/chosen shue queries
+1	numbers aects
+1	numbers complicate coercion resistance
+1	nv registration
+1	nv voters
+1	nv } output
+1	nv } {
+1	o.
+1	okamoto
+1	olembo
+1	oorschot
+1	open source
+1	opening opi
+1	openings op
+1	opi = g si
+1	opi g ri
+1	opi g ri ssi
+1	opposite ballot
+1	original author
+1	original papers
+1	output
+1	output ciphertexts
+1	outputs c+1 trackers
+1	own unique view
+1	own view
+1	p.b
+1	p.c
+1	p.y.
+1	p.y.a
+1	pang
+1	parallel
+1	parse r
+1	parse v
+1	partially
+1	particular operations
+1	particular privacy
+1	particular proofs
+1	particular shue
+1	party material
+1	past decades
+1	pavlovic
+1	pedersen-style
+1	pereira
+1	personal set
+1	pet
+1	ph.d.
+1	pk =
+1	pk = g sk
+1	plain model
+1	plaintext
+1	plaintext ballots
+1	plaintext trackers
+1	possible candidate
+1	possible protocols
+1	practical mathematical cryptography
+1	preserves privacy
+1	pret
+1	prevents straight-forward cryptographic real-or-random denitions
+1	previous denitions
+1	privacy [
+1	privacy event
+1	private output
+1	project number
+1	proof dl
+1	proof r
+1	proofs v
+1	properties
+1	protocol [
+1	protocols security properties
+1	public bulletin board
+1	public encryption key
+1	public key cryptosystem
+1	public key encryption system
+1	public key encryption system [
+1	public key vpk
+1	public output
+1	publish commitments
+1	pute xv
+1	q.
+1	r {
+1	ramchen
+1	random bit
+1	random element
+1	random elements ri
+1	random guess
+1	random number ri
+1	random oracle
+1	random oracle model
+1	random permur tation
+1	random permutation
+1	rastikian
+1	re-encryption mixnet
+1	re-encryption shue
+1	real attacks
+1	real trackers
+1	reasonable adversary
+1	receipt-free
+1	references
+1	registration phase
+1	related
+1	relative
+1	requiring
+1	res v
+1	research [
+1	resistance models
+1	result query evt
+1	rial
+1	right side
+1	roenne
+1	rohlo
+1	roughly
+1	rst ballot
+1	rst challenge
+1	rst question tends
+1	rst remark
+1	rst shue server
+1	rst shue server uses
+1	rst voter
+1	rt {
+1	runs setup
+1	s =
+1	sallal
+1	sample hv
+1	sample r r w pkv v.
+1	sample tracker commitments
+1	scapin
+1	schemes properties
+1	schmidt
+1	secret key material
+1	secret key sk
+1	secret keys pk
+1	secret power si
+1	sect
+1	secur
+1	security experiment
+1	security mechanisms
+1	security notions
+1	security parameter
+1	security result
+1	selene voting
+1	separate key management
+1	september
+1	sequence evt
+1	setup phase
+1	setup protocols
+1	shue algorithm
+1	shue proof s
+1	shue query
+1	shue servers
+1	shue servers post
+1	si r {
+1	signature scheme
+1	similar denition
+1	simple protocol
+1	simple variations
+1	simplies analysis
+1	simplify denitions
+1	sk =
+1	sketch
+1	smart cards
+1	so-called trackers
+1	solberg
+1	soundness errors
+1	source code
+1	space constraints
+1	space limitations
+1	standard cryptographic privacy notions
+1	statutory regulation
+1	straight-forward computation  1/vsk vsk = gt
+1	strub
+1	style captures
+1	subtract nv votes
+1	such protocols
+1	such simulators
+1	sucient conditions
+1	suitable ballot-tracker pair
+1	suitable dummy algorithms
+1	suitable protocol
+1	surcvs
+1	syntax
+1	system property
+1	system reveals plaintext ballots
+1	systems [
+1	systems t
+1	t = ti
+1	t t
+1	tally phase
+1	tally proofs
+1	technical point
+1	test queries
+1	theorem
+1	thomas haines
+1	thomas haines2
+1	thomas.haines @ anu.edu.au
+1	throughout
+1	ti t.
+1	tracker commitment
+1	tracker commitments ct
+1	tracker generation phase
+1	tracker t.
+1	trackers aect
+1	trackers evti
+1	trackers increases
+1	trackers results
+1	trackers t
+1	tracking
+1	traditional cryptographic left-or-right game
+1	traditional left-or-right cryptographic denitions
+1	traditional left-or-right game
+1	transparent veriability
+1	trondheim
+1	true tracker
+1	unique result event
+1	unique view
+1	usability
+1	user
+1	user experience
+1	valid approaches
+1	valid sequence evt
+1	variants
+1	various honest components
+1	various queries
+1	veriability notions
+1	veriability properties
+1	veriable mix nets
+1	veriable multi-party computation protocol
+1	verication information
+1	verication phase
+1	vi res
+1	vmv
+1	volkamer
+1	voter casts
+1	voter contains
+1	voter instructs
+1	voter key
+1	voter key pair
+1	voter points
+1	voter proves knowledge
+1	voter signatures
+1	voter submit
+1	voter verication queries {
+1	voter verication query
+1	voters [
+1	voters device
+1	voters device runs
+1	voters tracker
+1	voting
+1	voting protocol
+1	vpkri i
+1	wallach
+1	wallet
+1	web bulletin board
+1	weippl
+1	widespread use
+1	x = cmit
+1	x hrv
+1	x { priv
+1	yang
+1	zero-knowledge protocols
+1	zq
+1	{ kristian.gjosteen
+1	|pr [
+1	} n
+1	} nj=1

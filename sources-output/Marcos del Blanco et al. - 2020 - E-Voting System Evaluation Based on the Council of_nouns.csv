@@ -1,0 +1,961 @@
+11	helios voting
+10	evaluation
+9	europe
+8	e2ev
+7	springer
+6	additionally
+6	coercion resistance
+6	marcos
+6	private elections
+5	lecture notes
+5	r.
+4	cryptographic primitives
+4	e-voting
+4	elections
+4	kora
+4	krimmer
+4	m.
+4	neumanns
+4	proceedings
+4	protocol
+4	registry
+4	software
+4	technical overview
+4	verificatum
+3	according
+3	administrators
+3	authorities
+3	available information
+3	benaloh
+3	bregenz
+3	brunlich
+3	challenges
+3	cloudfare
+3	coe
+3	computer
+3	criteria
+3	critical nodes
+3	currently
+3	d.
+3	ddos
+3	democratic processes
+3	election administrator
+3	estonia
+3	eur
+3	ex_software
+3	existence
+3	guidelines
+3	hirt
+3	incidents
+3	international conference
+3	introduction
+3	inviolability
+3	june
+3	k.
+3	key principles
+3	legal requirements
+3	methodology [
+3	practical evaluation methodology
+3	recommendation cm/rec
+3	sako
+3	scalability
+3	sms
+3	specific
+3	specifically
+3	system evaluation
+3	ultimate goal
+3	usability
+3	v-n
+3	versatility
+3	volkamer
+2	access
+2	agora voting sl
+2	alternative channels
+2	analysis
+2	auditing
+2	ballot
+2	bb
+2	brunlichs tdgs
+2	c-n
+2	canada
+2	cast
+2	census administrator
+2	clear
+2	client
+2	consultative referenda
+2	critical operations
+2	crypto
+2	decision-support system
+2	democratic election
+2	distributed
+2	e-vote-id
+2	election officials
+2	end-to-end verifiability
+2	error
+2	estonian
+2	eswd-n
+2	fail2ban
+2	faq
+2	fig
+2	figure
+2	formal
+2	free
+2	grimm
+2	helios
+2	homepage
+2	i-n
+2	iap-n
+2	ieee
+2	impact accelerator
+2	integration
+2	internal
+2	internet
+2	internet voting
+2	iso
+2	july
+2	kulyk
+2	l.
+2	lekkas
+2	leon
+2	m-n
+2	ma
+2	ma-n
+2	maintenance cost
+2	market share
+2	master initialization protocol
+2	minimize collusion risks
+2	monitoring/auditing
+2	neumann
+2	norway
+2	nvotes [
+2	nvotes team
+2	o o
+2	o.
+2	online
+2	open source approach
+2	p.
+2	panizo
+2	panizo alonso l.
+2	pedersen
+2	policy
+2	practical evaluation framework
+2	public elections
+2	requirements
+2	richter
+2	risk assessment
+2	rivest
+2	ryan
+2	s-n
+2	safe
+2	safe range
+2	satisfactory performance
+2	schnorr
+2	scytl
+2	security evaluation framework
+2	security level
+2	sine-qua-non requirements
+2	spain
+2	spanish company
+2	spanish constitution [
+2	special needs
+2	standard internet connection
+2	standards
+2	swd-n
+2	switzerland
+2	systems [
+2	tallinn
+2	tls
+2	towards
+2	u-n
+2	usa
+2	usenix
+2	users
+2	val
+2	val x
+2	virtual polling
+2	vote
+2	voters privacy
+2	wales
+2	wcag
+2	zero knowledge proofs
+2	zissis
+1	++ = =1
+1	++ =1
+1	//riasc.unileon.es/archivos/documentos/tesis/tesis_david_y_marcos.pdf 28. nvotes
+1	//www.20minutos.es/noticia/2419700/0/podemos-defiendefiabilidad/sistema-votacion-acusaciones/primarias/ 2020/05/15
+1	1/n ...
+1	17th conference
+1	2017. pp
+1	2018. pp
+1	5.5/10 points
+1	6.5/10 points
+1	90s [
+1	[ 0000-0001-6572-1261 ]
+1	[ 0000-0001-7702-6602 ]
+1	[ 0000-0002-04514514 ]
+1	[ 6,7,8 ]
+1	a threshold
+1	a.
+1	a.-m.
+1	a.h.
+1	aa
+1	abstract
+1	acceptation [
+1	access control
+1	accessible website
+1	acemyan
+1	acemyan cz
+1	acknowledgements.the
+1	acm siglog
+1	action protocols
+1	actual elections
+1	ad
+1	ad-hoc
+1	additional
+1	additional criteria
+1	adida
+1	admin interface
+1	administrations
+1	administrative roles
+1	advances
+1	affordable option
+1	aforementioned list
+1	agora voting
+1	ahora madrid
+1	akadeemia
+1	alaiz moreton h. e-voting
+1	alternatively
+1	amongst others
+1	analiza nieudanego wdroenia elektronicznych maszyn
+1	ann
+1	apolitical project
+1	appropriate format
+1	arch
+1	artificial intelligence
+1	arxiv e-prints
+1	assistance phone service
+1	audit mechanism
+1	audit/monitoring
+1	auditing protocol
+1	australia
+1	austria
+1	authentication
+1	authentication protocols
+1	authentication tools
+1	author concludes
+1	authors aim
+1	authors hope
+1	automated
+1	auxiliary systems protection w/
+1	availability
+1	availability analysis
+1	available bibliography
+1	available browsers
+1	awareness campaigns
+1	b.
+1	back-up protocol
+1	back-up protocols
+1	ballot alteration
+1	ballot cast termination
+1	ballot stuffing
+1	barcelona
+1	barcelona provincial
+1	belenios
+1	berkeley
+1	berlin
+1	bernhard
+1	besselaar
+1	betriebliche telefon
+1	bioinformatics
+1	blanco d. y.
+1	blanco dy
+1	blanco dy cybersecurity
+1	blanco dy.
+1	blanco1
+1	broader application
+1	browsers/devices w/
+1	brunlich k.
+1	bruss
+1	bulletin
+1	bulletin board
+1	business perspective
+1	business research
+1	c-n c-1 c-2 definition transparency
+1	ca
+1	cahve
+1	capacity tests
+1	case [
+1	case analysis
+1	cast vote
+1	cast-or-audit approach
+1	catalano d.
+1	cc
+1	census integrity
+1	certain cryptographic primitives
+1	certain point
+1	cham
+1	channels etc
+1	chaum d.
+1	cheapest option
+1	city council
+1	clear indication
+1	client authentication
+1	client/server authentication
+1	cloudfare homepage
+1	cm/rec
+1	code developer
+1	coerc
+1	coes
+1	com
+1	comm
+1	commision
+1	common heritage
+1	communication
+1	communication/problem solving/back
+1	commutative operators
+1	comparative
+1	compared
+1	comparison
+1	compatibility
+1	compatibility study
+1	compatible it
+1	complete
+1	complete evaluation
+1	complete evaluation methodology
+1	complete explanation
+1	complete pr
+1	complex set
+1	compulsory principles
+1	computing
+1	concerning
+1	conclusion
+1	concretization
+1	confine potential attacks
+1	constant dialogue
+1	constitucin espaola
+1	constituent requirements
+1	consultation
+1	consultative referenda [
+1	conversely
+1	corporate presentations
+1	correct development
+1	correct operation/readiness
+1	corresponding measurable sub-items
+1	corruption risk elections
+1	cortier v.
+1	cost breakdown
+1	cost efficiency [
+1	cp efficient identification
+1	cr
+1	credential submission
+1	credible assumptions
+1	critical parameters
+1	crypto86
+1	cryptographic
+1	cryptographic capabilities
+1	cryptographic scheme
+1	cryptology eurocrypt91
+1	cryptosystem
+1	cultural customs hinder
+1	cva
+1	cvp
+1	d. davies
+1	d. simi-draws
+1	david duenas-cid
+1	david duenas-cid2,3
+1	david yeregui marcos
+1	david.duenas @ taltech.ee / dduenas @ kozminski.edu.pl
+1	days etc
+1	defining
+1	democratic principles
+1	democratic process
+1	design phase
+1	develop
+1	different election typologies
+1	different layers
+1	different levels
+1	different personnel
+1	different versions
+1	different ways
+1	direct policy
+1	direct properties
+1	discrete logarithms
+1	distributed key generator
+1	distributed/modular approach
+1	distribution
+1	dmarcb01 @ estudiantes.unileon.es hector.moreton @ unileon.es
+1	does
+1	driza maurer
+1	e-vote cost
+1	e-voteid
+1	e2ev cr n.a
+1	e2ev n.a
+1	efficient receipt-free voting based
+1	el espaol homepage
+1	el gamal homomorphic encryption
+1	election manager
+1	election organizer
+1	election results
+1	election technology
+1	election verificator
+1	elections [
+1	elections officials [
+1	electoral authority
+1	electoral field
+1	electoral law
+1	electoral laws
+1	electoral management
+1	electoral systems
+1	electron
+1	electronic elections
+1	electronic voting
+1	elgamal
+1	elgamal encryption ind-cca2
+1	eligibility verifiability
+1	emerging topics
+1	end-to-end
+1	entire systems
+1	equational reasoning
+1	esendex
+1	esendex homepage
+1	estonian internet
+1	eswd-10
+1	eswd-11
+1	eswd-12
+1	eswd-n eswd-1 eswd-2 eswd-3 eswd-4 definition
+1	eswd1-4
+1	eswd5
+1	eswd6-7
+1	eu study.
+1	european standards
+1	european start-ups
+1	europes
+1	evaluation approach [
+1	evaluation framework
+1	evaluation framework [
+1	evaluation framework design
+1	evaluation items
+1	evaluation methodologies
+1	evaluation methodology
+1	evaluation part
+1	evaluation scheme
+1	eve fills
+1	evidence
+1	evote2014
+1	ex-software
+1	ex-software development
+1	ex-software perspective
+1	ex-software policies
+1	ex_soft
+1	ex_software activities
+1	ex_software aspect
+1	ex_sw aspects
+1	expert
+1	extending helios towards
+1	fail2ban ddos
+1	fail2ban homepage
+1	fiat a.
+1	fiat-shamir
+1	final
+1	final foreword
+1	final step
+1	fix cost
+1	following
+1	formal analyses
+1	formal authentication
+1	formal verification
+1	foundations
+1	france
+1	frequency
+1	frequent updates
+1	full explanation
+1	fully distributed
+1	furthermore
+1	gains control
+1	gales
+1	gasc m.
+1	gasco m.
+1	gaudry p.
+1	general model
+1	generation
+1	germany
+1	gjsteen
+1	global company
+1	global level
+1	glondu s. belenios
+1	goals
+1	good software engineering
+1	goodman
+1	gosowania w
+1	government reports
+1	grimm r.
+1	grundschutz
+1	guideline [
+1	habit forming
+1	hackers/indep
+1	hammer v.
+1	hardware redundancy
+1	harmonization
+1	hctor aliz moretn
+1	heidelberg
+1	helios ktv
+1	hermida alonso
+1	hermida alonso ja.
+1	high levels
+1	hmac
+1	holandii
+1	holistic
+1	homogeneous series
+1	homomorphic encryption
+1	homomorphic property [
+1	http
+1	hw
+1	i-1i-6 val x x evaluation
+1	i-4
+1	i-n i-1 i-2 i-3 i-4 i-5 i-6 i-7 definition software
+1	iacr cryptol
+1	iap-n iap-1 iap-2 iap-3 iap-4 iap-5 iap-6 iap-7 definition risk assessment
+1	icedeg
+1	ict
+1	ictac
+1	id
+1	ideas
+1	ieee transactions
+1	imminent announcement
+1	important element
+1	important risk
+1	improvement
+1	in-depth improvement
+1	incid./attackprot
+1	incidents/attacks
+1	indelible logs
+1	independent experts
+1	independent observers protocol
+1	industry experts
+1	infallible perspective
+1	infallible point
+1	information
+1	information campaign
+1	information stands
+1	infrastructure surveillance
+1	inproceedings
+1	institutions
+1	int
+1	integrates lessons
+1	integrity preference
+1	interdisciplinary collaboration
+1	interesting approach
+1	intermediate position
+1	intermediate usability layer
+1	international experts
+1	internet voting halt declining
+1	internet voting schemes based
+1	introduce votes
+1	introduces strengths
+1	intuitive
+1	intuitive/user-friendly
+1	inviolability policy
+1	ip
+1	irrefutable improvement
+1	isdn-anlagen
+1	it-security evaluation
+1	ivote systems
+1	j. inf
+1	j.d.c.
+1	jagiellonska
+1	jakobsson m. coercion-resistant electronic elections
+1	judgement [
+1	juels
+1	juels a.
+1	key
+1	key cryptosystem
+1	key element
+1	key elements
+1	key generation
+1	key people
+1	keywords
+1	kish
+1	konkretis-ierung rechtlicher inforderungen
+1	konkretisierung rechtlicher inforderungen
+1	kortum p.
+1	kozminski
+1	leg
+1	legal criteria
+1	legal point
+1	legally binding elections
+1	legally-founded
+1	len
+1	lexicon choice
+1	lncs
+1	local clubs
+1	m-n m-1 m-2 m-3 definition covering
+1	ma-n ma-1 ma-2 ma-3 ma-4 ma-5 ma-6 ma-7 ma-8 ma-9 ma-10 definition
+1	madrid
+1	main characteristics
+1	main cryptographic primitives
+1	maintenance process
+1	manag
+1	manage elections
+1	manageable size
+1	marcos phd
+1	math
+1	maximized flexibility
+1	may
+1	member states [
+1	miniatura
+1	mixnet [
+1	mixnet library
+1	mobile devices amongst others
+1	modell
+1	modelling
+1	modularity
+1	modularity principles
+1	monitoring
+1	monitoring/audit
+1	monitoring/auditing protocol
+1	monte-carlo
+1	montecarlo
+1	multichannel elections
+1	n/m
+1	national research center grant
+1	national soil
+1	nda
+1	neumann s.r.
+1	new methodology
+1	nist
+1	nomos
+1	non-iteractive zero knowledge proofs
+1	nonetheless
+1	numerical evaluation
+1	numerical value
+1	numerous bibliography
+1	nvotes displays
+1	nvotes generates
+1	nvotes implementation
+1	nvotes inviolability
+1	nvotes needs
+1	nvotes scheme components
+1	o o o o
+1	october
+1	offline backup copies
+1	online groups
+1	oostveen
+1	open source
+1	open source project
+1	open standards
+1	openstv
+1	oper
+1	operational system
+1	operative
+1	opinion polls
+1	organizational requirements
+1	organize
+1	original work
+1	overall
+1	paper ballot
+1	partial application
+1	partial compliance
+1	parties
+1	party access
+1	pedersen t.
+1	penetration testing
+1	perfect scenario nvotes
+1	performance tests
+1	period ends
+1	permanent losses
+1	personal device
+1	personal information
+1	pias
+1	podemos
+1	poland
+1	polish
+1	political affiliation
+1	political parties
+1	pordesch u.
+1	possible decision
+1	possible outcomes
+1	post-electoral maintenance
+1	post-quantum security
+1	postgresql
+1	potential
+1	potential attacker
+1	potential collusion
+1	potential collusion request
+1	potential collusions
+1	potential impact
+1	potential weaknesses
+1	powtrna
+1	practical
+1	practical approach
+1	practical cryptographic voting scheme based
+1	practical evaltuation methodology
+1	practical evaluation framework [
+1	practical evaluation framework tool
+1	practical evaluation standpoint
+1	practical requisites
+1	practical standpoint
+1	preference whatsoever
+1	pret
+1	prevention protocols
+1	previous attacks
+1	previous experiences
+1	previous methodology
+1	previous process
+1	principles
+1	priv.,7
+1	privacy
+1	privacy impact assessment
+1	privacy levels
+1	probabilistic attack strategies
+1	probabilistic proofs
+1	prominent success story
+1	proofs
+1	proper
+1	proper protocol
+1	property stands
+1	protocolized
+1	protocols
+1	pt
+1	public bulletin board
+1	public money
+1	pursuing
+1	put
+1	python
+1	python/java
+1	q/a
+1	ra
+1	random number generator
+1	readers disposal
+1	real elections
+1	rec
+1	recent years
+1	rechtsgemss gestaltet
+1	recommendations
+1	recommendations [
+1	recorded
+1	references
+1	registration database
+1	registry/ballot
+1	reinforce security
+1	reinforced
+1	reinforcement operations
+1	related
+1	relevant solutions university
+1	reliable feedback
+1	requirement code weight
+1	research council grant
+1	research papers
+1	research resources
+1	research work
+1	resistance x
+1	responsibilities attributions etc
+1	retrievable logs
+1	review
+1	revision
+1	rice
+1	richter p.
+1	rie
+1	ries
+1	risk assess
+1	risk-free technological apparatus
+1	roots trace
+1	s-n s-1 s-2 s-3 s-4 s-5 definition maximum
+1	s.
+1	safe authentication protocols
+1	safe utilization range
+1	safer introduction
+1	sample design
+1	santa barbara
+1	scala rest api
+1	scantegrity ii
+1	scheme components
+1	scheme evaluation tool
+1	schnorr signature
+1	scytl/ivote
+1	scytls
+1	secrecy prerequisite
+1	secret suffrage
+1	secur
+1	secure
+1	secure electronicvotingsystems
+1	security code
+1	security evaluation assumes
+1	security implications
+1	security logs
+1	security protocols
+1	security requirements
+1	sensitive actions
+1	sensitive issue
+1	serious shortcomings
+1	server certificate
+1	server validation
+1	service platform
+1	services [
+1	set
+1	shamir
+1	sichere internetwahlen ein
+1	signature problems
+1	signature scheme based
+1	signatures
+1	simic-draws
+1	similar approach
+1	simulations [
+1	smart
+1	snowball [
+1	snowball sampling
+1	social engineering
+1	social media
+1	software devel
+1	software engineering requirements
+1	software side
+1	solutions
+1	solvak
+1	source code
+1	space constraints
+1	special attention
+1	specific items
+1	specific person
+1	specific tools [
+1	springer berlin heidelberg
+1	springer verlag lncs
+1	stand
+1	standard tool
+1	stat
+1	statistical
+1	strong infrastructure
+1	structural flaw
+1	student government bodies
+1	stv homepage
+1	subsequently
+1	successful attack
+1	such case
+1	such environment
+1	such moniker
+1	such statement
+1	such type
+1	sufficient security level
+1	support
+1	sw. e-voting
+1	swd-1
+1	swd-10
+1	swd-11
+1	swd-13
+1	swd-14
+1	swd-2
+1	swd-4
+1	swd-5
+1	swd-9
+1	swd-n swd-1 swd-2 swd-3 swd-4 swd-5 swd-6 swd-7 swd-8 swd-9 swd-10 swd-11 swd-12 swd-13 swd-14 definition usual
+1	swd/eswd
+1	swd8
+1	symbolic analysis
+1	symposium
+1	system [
+1	system beforehand
+1	system compares
+1	system cost
+1	system nvotes
+1	systems
+1	systems viability
+1	systems/open standards
+1	t. elgamal
+1	t.t
+1	tabulation library
+1	taiwhenua
+1	tallied
+1	tally administrator
+1	tally results
+1	tdg
+1	teague
+1	tech
+1	technical
+1	technical background
+1	technical criteria
+1	technical requirements
+1	technical review
+1	technical team
+1	technische universitt darmstadt
+1	technol
+1	technologii w e-administracji
+1	technology [
+1	technology security
+1	test bench
+1	test benches
+1	third-party access
+1	thread modelling
+1	total
+1	total priority
+1	track record
+1	tracking
+1	train voters
+1	training
+1	transparency
+1	transparent approach
+1	trechsel
+1	trusted
+1	tsl
+1	turnout
+1	tut
+1	u-1
+1	u-3
+1	u-3 u-4 u-5 definition simplicity
+1	u-n u-1
+1	understandable format
+1	uned
+1	universal
+1	universal definition
+1	up-to-date document
+1	update
+1	updated
+1	useful source
+1	user-friendly
+1	usual software engineering practices
+1	v-2 v-3 v-4 v-5 definition versions
+1	v.
+1	v. cortier
+1	val evaluation
+1	val n/a evaluation
+1	val n/a n/a n/a x eswd-5 eswd-6 eswd-7 eswd-8 eswd-9 eswd-10 eswd-11 eswd-12 eswd-13 eswd-14 eswd-15 distributed
+1	val x x evaluation
+1	val x x x x x x x
+1	validation
+1	validation audit
+1	valuable framework
+1	van
+1	vassil
+1	vegazana
+1	vendor [
+1	verifiability
+1	verifiable mixnet [
+1	verification code
+1	verification codes
+1	verificator
+1	verificatum homepage
+1	verify
+1	vinkel
+1	vote forwarding server
+1	vote storage server
+1	vote-id
+1	vote/voter link
+1	vote/voters privacy
+1	voteid
+1	voter
+1	voter election
+1	voter-driven attacks
+1	voters ballot verification percentage
+1	votes ciphertexts
+1	voting eur
+1	voting processes reengineering
+1	vulnerable [
+1	vulnerable groups
+1	vulnerable groups pursuant
+1	warsaw
+1	web-based open-audit voting
+1	well-documented
+1	whole ex_sw development
+1	whole lifecycle
+1	work [
+1	x x
+1	x x x
+1	zaufanie
+1	zealands

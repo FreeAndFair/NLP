@@ -1,0 +1,608 @@
+48	is
+17	using
+10	was
+10	are
+9	to recover
+8	based
+8	were
+8	including
+7	base64encoded
+7	profiling
+6	has
+6	distributed
+5	associated
+5	would be
+5	to identify
+4	to be
+4	being
+4	used
+4	to man-in-the-middle
+4	accessed
+4	exchanged
+4	object
+4	is used
+4	found
+4	sent
+3	is only protected
+3	includes
+3	forcing
+3	deployed
+3	discussed
+3	provides
+3	provided
+3	served
+3	enters
+3	uses
+3	responds
+3	described
+3	to perform
+3	intercepting
+3	conducted
+3	created
+3	is created
+3	performs
+3	serving
+3	to observe
+3	provide
+3	contains
+3	could be
+3	contained
+3	could allow
+2	requires
+2	allowing
+2	visits
+2	can have
+2	generates
+2	examine
+2	is contained
+2	originating
+2	bypassing
+2	encoded
+2	analyse
+2	submits
+2	to be performed
+2	to read
+2	to detect
+2	performing
+2	follows
+2	ivoteid
+2	stored
+2	relies
+2	is designed
+2	to facilitate
+2	cast
+2	present
+2	to allow
+2	combined
+2	describes
+2	can be observed
+2	comes
+2	argue
+2	observed
+2	exists
+2	set
+2	covering
+2	to protect
+2	do
+2	discovered
+2	encrypted
+2	extending
+2	recommended
+2	collecting
+2	will refer
+2	are served
+2	notified
+2	is encrypted
+2	discuss
+2	obtaining
+2	would also be
+2	listing
+2	disclosed
+2	allow
+2	outline
+2	demonstrating
+2	located
+2	to construct
+2	making
+2	following
+2	would have
+2	is presented
+2	becomes
+2	taken
+2	remains
+2	would
+2	cert
+2	allows
+2	changed
+2	is derived
+2	to decrypt
+2	observing
+2	operating
+2	modify
+2	revealing
+2	to choose
+2	implemented
+2	to derive
+2	is shown
+1	are decrypted
+1	continue to be served
+1	to withstand
+1	were hosted
+1	will be forced to do
+1	have witnessed being injected
+1	starting
+1	calls
+1	implies
+1	were attempting to verify
+1	not sending
+1	is posted to vote-encoder/token/{voterkeysid}?v=1
+1	included
+1	were presented
+1	had to extend
+1	was blamed
+1	to link
+1	moderately sized
+1	is depicted
+1	setting
+1	preventing
+1	was ever set
+1	is named
+1	is decrypted to form
+1	constructed
+1	moves
+1	strongly suggesting
+1	scanned
+1	strongly indicates
+1	to verify
+1	computing
+1	need only look
+1	to risk-limiting
+1	can determine
+1	is needed
+1	hosting
+1	may possibly be asked
+1	made
+1	to proxy
+1	thereby allowing
+1	was extracted
+1	concatenated
+1	has shown
+1	opens
+1	to direct-to-origin
+1	first travels
+1	svca
+1	inspected
+1	placing
+1	to impersonate
+1	removing
+1	key stored
+1	is supposed to allow
+1	to test
+1	used to construct
+1	to track
+1	rendering
+1	has examined
+1	to load
+1	may not convey
+1	act
+1	is slightly altered to allow
+1	completing
+1	attacks
+1	alter completed
+1	opted to disable
+1	refers
+1	become
+1	were received
+1	disappeared
+1	use
+1	continuing
+1	are elected is
+1	then forwarded
+1	to hijack
+1	object is used to decrypt
+1	inject
+1	connecting
+1	injects
+1	should not have been
+1	randomly generated
+1	have been recorded
+1	will be
+1	transport
+1	already being used to identify
+1	exposes
+1	believe would plausibly be
+1	seems to be to protect
+1	may also allow
+1	being transmitted
+1	only had
+1	may pause
+1	verifying
+1	being protected
+1	could directly link
+1	thereby hiding
+1	initially deployed
+1	often does
+1	poses
+1	increases
+1	were mocked
+1	read
+1	increased
+1	casting
+1	mocked
+1	are beginning to observe
+1	is protected
+1	requiring
+1	must be properly hidden
+1	handshakes
+1	protecting
+1	would be leaked
+1	identify
+1	proposes
+1	necessarily outsources
+1	also stored
+1	need not require
+1	not being
+1	should not come
+1	advertises
+1	left
+1	sets
+1	transparently swap
+1	voterid
+1	is to prevent
+1	threaded
+1	running
+1	is built to perform
+1	involve using
+1	could be searched nearly instantly using
+1	does not appear to be related
+1	is assumed
+1	make
+1	was served
+1	is sent
+1	containing
+1	website set up
+1	id
+1	sits
+1	reads
+1	ii
+1	iv
+1	ip
+1	flooding
+1	x-iinfo
+1	can perform
+1	are always submitted
+1	remaining
+1	expanded
+1	may procure
+1	only needs to be extended
+1	cast.5
+1	has been successfully cast
+1	packs
+1	has submitted
+1	describe
+1	generating
+1	website
+1	rely
+1	entered
+1	to compromise
+1	would also have
+1	puts
+1	to flood
+1	combines
+1	leading up
+1	to not always be
+1	maintained
+1	is taken
+1	is decrypted
+1	prosecuting
+1	were accurately recorded
+1	filtering
+1	load
+1	amplex.com.au
+1	disappears
+1	can cast
+1	receives
+1	was also being used
+1	credential.json->challenge
+1	is sent to vote-encoder/partial_vote/{voterkeysid}?v=1
+1	relying
+1	come
+1	now achieve
+1	may notice
+1	eeca
+1	did not include
+1	opening
+1	passks
+1	nearest pop
+1	must be trusted not to pursue
+1	used to prove
+1	limiting
+1	injecting
+1	depends
+1	operates
+1	being loaded
+1	bundling
+1	is temporarily stored
+1	was shared
+1	outwardly presents
+1	reencrypted
+1	could alter
+1	requesting
+1	are propagated
+1	is already injecting
+1	alconchirurgia.pl
+1	means
+1	were detected
+1	did not originate
+1	concatenates
+1	corresponds
+1	are cryptographically derived
+1	sharing
+1	can then be manipulated
+1	explain
+1	may call
+1	did not correctly protect
+1	is finally generated
+1	widely varying
+1	restore
+1	contacted
+1	instead using
+1	calculates
+1	is then used to initialise
+1	to make
+1	cannot be linked
+1	to outline
+1	.example.com served
+1	can be used to identify
+1	retaining
+1	not proxied
+1	will send
+1	connected
+1	cipher
+1	falls
+1	proxied
+1	to encrypt
+1	maneuvering
+1	added
+1	extracted
+1	was cast
+1	will vote
+1	ivote
+1	forced
+1	had manipulated
+1	have
+1	must inadvertantly grant
+1	would also provide
+1	concludes
+1	is to derive
+1	providing
+1	not adding
+1	is designed to perform
+1	to procure
+1	submitted
+1	encrypting
+1	showed
+1	is to be decrypted
+1	are being logged
+1	key derived
+1	is applied
+1	completes
+1	are using
+1	focusing
+1	to deriving
+1	is also covered
+1	regards
+1	website being served
+1	lists
+1	leaking
+1	will continue
+1	subsequently modify
+1	were being served
+1	to take
+1	store
+1	advancemotors.com.au
+1	can be recovered
+1	listed
+1	confirming
+1	can be provided
+1	to provide
+1	is not mitigated
+1	given
+1	is entered
+1	to surrender
+1	noticed
+1	shall discuss
+1	currently exists
+1	better serve
+1	owned
+1	has published
+1	omitted
+1	to cause
+1	saving
+1	reversing
+1	spotted
+1	designed
+1	can feasibly be satisfied
+1	utilizing cloud based
+1	determining
+1	exposing
+1	incorporates
+1	absolutewatches.com.au
+1	backed
+1	have shown
+1	to stop accepting
+1	also allows
+1	associate
+1	ref
+1	receiving
+1	is revealed
+1	acting
+1	may
+1	ivote seemingly acknowledges
+1	shown
+1	is designed to trick
+1	brings
+1	hosted
+1	expect
+1	serverencrypted
+1	extended
+1	is then used
+1	related
+1	are already being obfuscated
+1	then chooses
+1	then hear
+1	may assume
+1	is known
+1	could recover
+1	identified
+1	represents
+1	could be significantly improved
+1	is written
+1	to steal
+1	is verified
+1	to do
+1	is modified
+1	is passed
+1	alter
+1	travelling
+1	does not provide
+1	to known
+1	still maintaining
+1	may not be uniformly distributed
+1	chosen
+1	being forwarded
+1	thank
+1	wishing to attack
+1	is generated
+1	digest
+1	to be made
+1	to injecting
+1	differs
+1	installed
+1	developed
+1	would have been
+1	to avoid targeting
+1	used to store
+1	is stored
+1	to avoid
+1	yielding
+1	acknowledged
+1	to mitigate
+1	as follows
+1	had been globally deployed
+1	being posted
+1	derived
+1	may provide
+1	is submitted
+1	is given
+1	currently entered
+1	intended
+1	have installed
+1	reconfigured
+1	to cast
+1	connect
+1	could be injected
+1	already being injected
+1	needs
+1	were not correctly implemented
+1	lifemapco.com
+1	performed
+1	protects
+1	has been allowed to be recorded
+1	can be
+1	may seem
+1	stated
+1	may raise
+1	also used
+1	proxying
+1	would be expected
+1	vote-stealing
+1	challenge
+1	recall
+1	now show
+1	capturing
+1	blocking
+1	would allow
+1	known
+1	carrying
+1	is used to initialize
+1	occurred
+1	compromising
+1	being used to proxy
+1	before reaching
+1	pret
+1	were actually used
+1	have deployed
+1	is proxied
+1	is already rewriting
+1	takes
+1	are copied
+1	was used
+1	presents
+1	to use
+1	appears to be
+1	addressed
+1	internet-facing
+1	centers.8
+1	continued to use
+1	followed
+1	involves
+1	makes
+1	was made
+1	could proceed
+1	leaving
+1	is discussed
+1	then uses
+1	to selectively target
+1	challenge_object
+1	downloaded
+1	have been provided
+1	will be deleted
+1	focuses
+1	was correctly covered
+1	consisting
+1	can be reduced
+1	are obfuscated
+1	to dial
+1	suspect
+1	is involved
+1	resume
+1	to tls
+1	web-based
+1	to acquire
+1	manipulating
+1	pass
+1	to see
+1	to determine
+1	to include
+1	would ignore
+1	to obtain
+1	being used
+1	to achieve
+1	to assess
+1	joined
+1	presented
+1	may still aspire
+1	azca
+1	are base64encoded
+1	region.8
+1	putting
+1	wishes
+1	connects
+1	is also used to prove
+1	has successfully recovered
+1	to reduce
+1	is limited
+1	discovering
+1	have analysed
+1	was created
+1	to overwhelm
+1	are protecting
+1	applied to iv
+1	consists
+1	leads
+1	existing
+1	surrounding
+1	illustrates
+1	managed
+1	is organized

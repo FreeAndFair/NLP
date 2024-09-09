@@ -1,0 +1,5734 @@
+257	e2e-viv
+156	internet
+126	url
+107	chapter
+98	election officials
+88	e2e-v
+52	ideal functionality
+31	e2e
+31	u.s.
+28	computer
+28	vcs
+27	rigorous software engineering
+26	helios
+25	election system
+25	electoral authority
+25	public elections
+24	doi
+23	ries
+22	cryptographic foundations
+22	ddos
+22	final tally
+21	architecture
+21	bon
+21	election systems
+20	prt voter
+19	bulletin board
+18	acm
+18	isbn
+16	proceedings
+15	election outcome
+15	norwegian
+15	uocava
+15	vol
+14	figure
+14	java
+14	value
+13	e2e-viv explained
+13	easycrypt
+13	election results
+13	eligible voters
+13	id
+13	introduction
+12	ieee
+12	javascript
+12	mpc
+12	pc
+12	punchscan
+12	technical requirements
+12	uml
+12	voter privacy
+11	cryptographic algorithms
+11	cryptographic protocols
+11	developers
+11	ed
+11	lecture notes
+11	required properties of e2e systems
+11	source code
+11	source code specifications
+11	tpm
+11	usability
+11	vvsg
+10	additional information
+10	c #
+10	coq
+10	eac
+10	english
+10	formal specification
+10	individual voters
+10	it
+10	nist
+10	professor
+10	references
+10	remotegrity
+10	systems
+10	voting
+9	critical systems
+9	development process
+9	e2e-viv project
+9	end-to-end verifiability
+9	feasibility
+9	galois
+9	project team
+9	public bulletin board
+9	receipt freedom
+9	software engineering
+9	software product lines
+9	source
+9	springer
+9	springer berlin heidelberg
+9	test suite
+8	additionally
+8	alice
+8	appendix
+8	assistance
+8	certification
+8	continuous integration
+8	david chaum
+8	demos
+8	e2eviv
+8	eiffel
+8	election integrity
+8	election process
+8	elections
+8	enc
+8	end-to-end
+8	haskell
+8	mobile device
+8	non-functional requirements
+8	non-functional requirements forcing architectural factors
+8	release management
+8	remote voters
+8	remote voting
+8	researchers
+8	set
+8	standards
+8	team members
+8	unit tests
+8	voter casts
+8	wombat
+7	] ensure
+7	auditing
+7	bob
+7	ci
+7	concept specifications
+7	cryptol
+7	database
+7	david jefferson and concurring experts
+7	dispute resolution
+7	election integrity advocates
+7	expert statements a.2
+7	for_all v
+7	formal
+7	implementation language
+7	implementation languages
+7	military voters
+7	open source
+7	overseas
+7	pki
+7	public online bulletin board
+7	real election
+7	result.count
+7	scantegrity ii
+7	security properties
+7	software
+7	specification languages
+7	such_that v member_of result it_holds v member_of {
+7	system [
+7	test cases
+7	tls
+7	verification
+7	voters choices
+6	/ / www
+6	accessibility
+6	analysis
+6	cast ballots
+6	client software
+6	cryptoverif
+6	dec
+6	dynamic analysis
+6	election period
+6	election technology
+6	engineering
+6	formal concept specifications
+6	formal specifications
+6	gen
+6	general election
+6	git
+6	hava
+6	implementation methodology
+6	information
+6	integration tests
+6	international conference
+6	issn
+6	open protocols
+6	os
+6	overseas vote
+6	protocol specification
+6	scytl
+6	specifically
+6	u.s. vote
+6	ui
+6	various ways
+6	vast majority
+6	version
+6	version control
+6	vote code
+6	voter
+6	voter authentication
+6	voter registration
+6	voters computer
+5	accessible devices
+5	architecture specification
+5	auditor interface
+5	aug.
+5	ballot question
+5	bitcoin
+5	candidate names
+5	cast
+5	code specifications
+5	complete set
+5	conclusion
+5	democracy
+5	e2e-verifiability
+5	election administrator
+5	election administrators
+5	election data
+5	fhe
+5	foreseeable future
+5	formal verification
+5	furthermore
+5	fuzz
+5	fvaa
+5	guidelines
+5	high assurance
+5	ids
+5	jml
+5	language
+5	malicious code
+5	malware
+5	mercurial
+5	move
+5	multiple ballots
+5	national institute
+5	nizk
+5	object notation
+5	ovf
+5	part
+5	personal information
+5	poll workers
+5	protocol specifications
+5	public key
+5	random seed
+5	recommendation
+5	regardless
+5	requirements
+5	rice
+5	security guarantees
+5	service attacks
+5	software independence
+5	software systems
+5	spark
+5	specification
+5	specification language
+5	system software
+5	systems correctness
+5	technical team
+5	technology recommendations
+5	testing
+5	universal design
+5	usenix
+5	verifiable systems
+5	vote
+5	vote codes
+5	web/app server database
+5	zk
+4	aadl
+4	acsl
+4	addison-wesley
+4	administrator interface
+4	ballot box
+4	ballot information
+4	ballot privacy
+4	cast ballot
+4	checkstyle
+4	client relationships
+4	client side malware
+4	code contracts
+4	communications
+4	configuration management
+4	contextual analyses of primary e2e-v protocols
+4	dec.
+4	different ways
+4	domain model
+4	dutch
+4	dynamic cloud
+4	election day
+4	election website
+4	feedback string
+4	formal concept specification
+4	functional
+4	github
+4	google
+4	icse
+4	ideal world
+4	informal concept specifications
+4	information systems
+4	internet voting
+4	issue trackers
+4	large number
+4	large numbers
+4	limitations and tradeoffs of existing e2e systems
+4	local state
+4	long time
+4	malicious attack
+4	mar
+4	native applications
+4	ocvra
+4	operational
+4	particular candidate
+4	peer-to-peer architecture
+4	primary architectural variants
+4	protocols
+4	public acceptance
+4	quickcheck
+4	recommendations
+4	regular basis
+4	reliability
+4	right-hand side
+4	separate document [
+4	similarly
+4	software system
+4	such evidence
+4	summary
+4	symmetric encryption key
+4	system architecture
+4	systems requirements
+4	takoma
+4	test
+4	threshold cryptography
+4	tool support
+4	unless
+4	victoria
+4	voluntary voting
+4	vote secrecy
+4	voter interface
+4	voter records
+4	voter uses
+4	voter votes
+4	voters choice
+4	voters trust
+4	web
+4	web/app server
+4	wide range
+3	> > > fib
+3	a/b
+3	accessible voting
+3	ada
+3	additional effort
+3	advances
+3	aflfuzz
+3	aggelos kiayias
+3	airborne systems
+3	alloy
+3	analysis tools
+3	ansible
+3	applications
+3	architectural feature model
+3	architecture space
+3	associate professor
+3	assurance
+3	audit system
+3	authentication secrets
+3	automation tools
+3	availability
+3	back door
+3	backup systems
+3	ballot
+3	ballot secrecy
+3	ballot styles
+3	barbara simons
+3	based
+3	ben adida
+3	bertrand meyer
+3	bitbucket
+3	boot firmware
+3	c compilers
+3	ca
+3	cambridge
+3	carnegie mellon
+3	cast votes
+3	certificate authority
+3	client side
+3	cloudflare
+3	code
+3	communication links
+3	compcert
+3	computer scientists
+3	computer security
+3	configuration management tools
+3	contents
+3	coverage
+3	current
+3	cvl
+3	daniel m. zimmerman
+3	data
+3	data integrity
+3	data manipulation
+3	data store
+3	delis
+3	depending
+3	development efforts
+3	different
+3	different types
+3	disabilities
+3	diverse group
+3	docker
+3	domain analysis
+3	dynamic cloud architecture
+3	e-voting
+3	e2e-viv in practice
+3	election administration
+3	election concept
+3	election cycle
+3	election result
+3	election transcript
+3	election verification advocates
+3	electoral authorities
+3	encryption keys
+3	entire election
+3	entire system
+3	esc
+3	executable code
+3	existing
+3	expectations
+3	f*
+3	facebook
+3	fe
+3	federal level
+3	final release
+3	fips
+3	formal description
+3	formal methods
+3	formal model
+3	functional requirement
+3	functionality extracts
+3	future versions
+3	general public
+3	golden implementation
+3	government systems
+3	graphical notation
+3	halvm
+3	history
+3	homomorphic encryption
+3	ieee transactions
+3	individual developers
+3	informal description
+3	information forensics
+3	initial usability study
+3	initialization message
+3	initiative
+3	integral part
+3	internet-based
+3	invisible ink
+3	ip
+3	iso/iec
+3	issue tracker
+3	joseph r. kiniry
+3	josh benaloh
+3	judy murray
+3	june
+3	local election officials
+3	malicious logic
+3	maryland
+3	methodology
+3	national security
+3	netherlands
+3	network attacks
+3	new election technology
+3	next steps
+3	non-technical feasibility analysis
+3	openjml
+3	optical scan
+3	outcomes
+3	parliamentary elections
+3	philip stark
+3	possible input
+3	possible inputs
+3	presidential election
+3	privacy
+3	privacy violation
+3	prngs
+3	protocol
+3	protocol implementation
+3	proverif
+3	public cloud infrastructure
+3	public keys
+3	public record
+3	public-key encryption
+3	pvs
+3	python
+3	quality assurance
+3	rac
+3	random test
+3	re
+3	realizing ideal functionality
+3	reference implementation
+3	release
+3	rijnland internet
+3	runtime assertion checks
+3	scientists
+3	secret information
+3	secret key
+3	secure
+3	security issues
+3	security model
+3	security requirements
+3	security vulnerabilities
+3	sept.
+3	server side
+3	server-side system
+3	service attack
+3	shuffle
+3	significant amount
+3	small fraction
+3	small number
+3	small set
+3	software development
+3	software implementation
+3	software modules
+3	software quality
+3	software runs
+3	solicit
+3	sourceforge
+3	spark pro
+3	specific technologies
+3	static analysis
+3	static analysis tools
+3	sysml
+3	system components
+3	system development
+3	system failures
+3	system logs
+3	system satisfies
+3	system uses
+3	tech
+3	technical
+3	technical feasibility analysis
+3	template functionality
+3	test ballots
+3	test data
+3	test oracles
+3	theory
+3	tools
+3	tracking
+3	trusted computing
+3	trustworthy elections
+3	umova
+3	usenix evt/wote
+3	user experience
+3	ux
+3	vaeha
+3	vdm
+3	vendors
+3	version control systems
+3	vo
+3	vote collector
+3	vote privacy
+3	voter assistance
+3	voter coercion
+3	voter intent
+3	voter record
+3	voter verification
+3	voters computers
+3	washington
+3	web application
+3	web servers
+3	zero-knowledge proofs
+2	] security
+2	a.2.2 verifiability
+2	absentee ballot
+2	absentee ballots
+2	abstraction
+2	academic literature
+2	accessibility studies
+2	accessible
+2	accessible device
+2	according
+2	accurate timing information
+2	acknowledgment code
+2	acknowledgments
+2	acm sigplan
+2	acm sigplan notices
+2	active voters
+2	administrator precomputes
+2	advanced software analysis
+2	adversary interface
+2	adversary responds
+2	advisory council
+2	allow
+2	amazon
+2	american political science association
+2	annual acm symposium
+2	apache bloodhound
+2	apparently-random orderings
+2	applicable law
+2	application servers
+2	application-level protocols
+2	appropriate tool support
+2	apr
+2	architectural choices
+2	architectural dimensions
+2	architectural variants
+2	architecture specifications
+2	arizona
+2	assessment
+2	audit ballots
+2	audit logs
+2	australia
+2	authentication
+2	authentication codes
+2	author
+2	automated
+2	automatic generation
+2	automation
+2	avispa
+2	backup data
+2	ballot integrity
+2	basic ways
+2	bb check
+2	ben hosp
+2	blank ballot
+2	blank ballots
+2	bons
+2	bottom part
+2	browser history
+2	buffer overflows
+2	bvc
+2	c co t
+2	c0
+2	california
+2	candidate order
+2	carter
+2	cas
+2	case
+2	casper
+2	cast vote
+2	centralized
+2	certain number
+2	certification authorities
+2	certification process
+2	certified javascript
+2	chair
+2	chapters
+2	charlie
+2	ciphertext processing
+2	ciphertexts ~
+2	civilian absentee voters
+2	clafer
+2	claire m. smith
+2	clear guidance
+2	clerk
+2	cloud deployments
+2	cloud infrastructure
+2	co rd
+2	code base
+2	code review
+2	colorado
+2	combining
+2	commit
+2	common data formats
+2	commonly used cryptographic tools
+2	communication patterns
+2	communication technologies
+2	complex input types
+2	comprehensive set
+2	computer aided verification
+2	computing
+2	concrete values
+2	concurring
+2	configuration
+2	confirmation codes
+2	congress
+2	connecticut
+2	constitutional
+2	continuous integration processes
+2	continuous integration system
+2	correct implementation
+2	corrupt election administrator
+2	corrupt voters
+2	coverage metrics
+2	critical information
+2	critical part
+2	critical security issues
+2	cryptdb
+2	cryptographic systems
+2	cryptographic tools
+2	currently
+2	custom applications
+2	custom cryptographic protocols
+2	cvk
+2	cybersecurity experts
+2	d tes
+2	dafny
+2	daikon
+2	dana debeauvoir
+2	daniel wagner
+2	data consistency
+2	data storage
+2	databases
+2	david a. wheeler
+2	dean logan
+2	define
+2	demos demos
+2	deployment
+2	deployment automation tools
+2	designing
+2	detect errors
+2	developer preference
+2	development methods
+2	development tools
+2	different kinds
+2	different languages
+2	different parts
+2	different subsystems
+2	direct engagement
+2	direct refinements
+2	disabled civilian voting
+2	distributed
+2	dns
+2	documentation
+2	domain
+2	domain modeling
+2	domain models
+2	dynamic analysis tools
+2	e ribut
+2	e2e-v internet
+2	e2e-verifiable elections
+2	ebon
+2	edition
+2	editor
+2	eiffel inspector
+2	eindhoven
+2	eipsi
+2	either
+2	elderly
+2	election apparatus
+2	election authority
+2	election community
+2	election equipment
+2	election integrity community
+2	election observers
+2	election outcomes
+2	election periods
+2	election protocol
+2	election security
+2	election server
+2	election software
+2	election staff
+2	election technologies
+2	election workflows
+2	elections project
+2	electoral authority voters
+2	electoral process
+2	electronic ballot
+2	electronic ballots
+2	electronic method
+2	elgamal
+2	eligible voter
+2	emma
+2	endorsed
+2	engelbert hubbers
+2	engineering issues
+2	enormous impact
+2	entire database
+2	es ul ts
+2	essentially
+2	estonia
+2	event-b
+2	exact number
+2	executable implementations
+2	execution paths
+2	expert statements
+2	external observers
+2	external stakeholders
+2	f returns
+2	feature model
+2	federal elections
+2	feedback information
+2	final report table
+2	final result
+2	findbugs
+2	fiscal
+2	formal models
+2	fortunately
+2	foundations
+2	france
+2	fraudulent transactions
+2	free download
+2	full set
+2	fully countering trusting
+2	functional requirements
+2	functionality switches
+2	fundamental problem
+2	future phases
+2	future work
+2	fvap
+2	galoiss
+2	general elections
+2	general purpose
+2	general terms
+2	general way
+2	george washington
+2	germany
+2	gnu
+2	good domain model
+2	good solutions
+2	google chrome
+2	government agencies
+2	gradle
+2	graphical notations
+2	greece
+2	hackers
+2	hash chain
+2	heinz
+2	helios helios
+2	hence
+2	high availability
+2	high-assurance software
+2	high-assurance systems
+2	hunit-plus
+2	i -th position
+2	i/o
+2	identify
+2	identity
+2	iec
+2	implementation technology
+2	implementations correctness
+2	important role
+2	importantly
+2	improving
+2	in-person poll-site
+2	increase confidence
+2	independent body
+2	independent communication channel
+2	independent party
+2	independent verification
+2	indistinguishability property
+2	individual states
+2	individual verifiability
+2	informal specification
+2	informal system specification
+2	information exchange
+2	information systems management
+2	initial suggestions
+2	inte
+2	integrated feasibility analysis
+2	integration
+2	integration test
+2	internal state
+2	international technology
+2	introduction societies
+2	invisible ink confirmation codes
+2	isabelle
+2	jenkins
+2	jira
+2	judd choate
+2	july
+2	junit
+2	keith instone
+2	ken thompson
+2	key b
+2	key components
+2	key distribution
+2	krzysztof czarnecki
+2	large class
+2	left-hand side
+2	legal framework
+2	legal provisions
+2	lightweight
+2	lincolns
+2	linux
+2	local election
+2	lock-in code
+2	log
+2	lori augino
+2	main purposes
+2	major concern
+2	making
+2	malicious attacks
+2	management
+2	march
+2	mark earley
+2	method
+2	microsoft
+2	midterm elections
+2	military vote
+2	mirage
+2	mirrored servers
+2	mobile devices
+2	model
+2	montoya
+2	multi-party computation
+2	multiparty protocol
+2	multiple
+2	multiple languages
+2	multiple layers
+2	multiple locations
+2	multiple parts
+2	multiple times
+2	multiple ways
+2	municipal elections
+2	national election
+2	network attack
+2	network configuration
+2	new election technologies
+2	new ones
+2	new vendors
+2	non-functional
+2	norwegian system
+2	nov.
+2	novel cryptographic protocols
+2	nunit
+2	object-oriented software
+2	olivier pereira
+2	omg systems modeling language
+2	online approach
+2	online voter services
+2	open engineering issues
+2	open questions
+2	open source election systems
+2	opencover
+2	original voter intent
+2	osate2-ocarina
+2	osce
+2	otherwise
+2	ottawa
+2	overall
+2	overall functionality
+2	overseas civilians
+2	overseas vote initiative
+2	own computers
+2	own implementations
+2	own security
+2	own votes
+2	paper ballots
+2	particular code
+2	particular version
+2	particular way
+2	payment card
+2	pci dss
+2	peer-to-peer
+2	peer-to-peer fashion
+2	peer-to-peer network
+2	peer-to-peer system
+2	peter y.a
+2	phony votes
+2	physical control
+2	pmd
+2	political parties
+2	political system
+2	politics
+2	poorvi vora
+2	positive assessment
+2	possible architectural variants
+2	possible architecture
+2	possible choices
+2	possible threats
+2	possible ways
+2	postcard application
+2	potential inputs
+2	previous section
+2	problematic aspects
+2	proc
+2	procedural
+2	product lines
+2	program behavior
+2	programming
+2	project participants
+2	protection
+2	protocol design
+2	protocol specification language
+2	protocol specification languages
+2	protocols [
+2	public cloud infrastructures
+2	public election
+2	public information
+2	public infrastructure
+2	public parameter p
+2	public perception
+2	public review
+2	public trust
+2	public-key pk
+2	puppet
+2	qr
+2	random oracle model
+2	real ballots
+2	real elections
+2	real time
+2	real world
+2	real world adversary
+2	reasonable cost
+2	reasonable time frame
+2	rec
+2	recent
+2	redmine
+2	reflect
+2	reflections
+2	regional natural disaster
+2	release manager
+2	reliable software
+2	remote
+2	remote civilian voting
+2	remotegrity remotegrity
+2	report contains
+2	republican
+2	resharper
+2	residual information
+2	reverse firewalls
+2	review
+2	rigorous engineering
+2	rigorous engineering requirements
+2	rigorous software engineering process
+2	risk management framework
+2	ron rivest
+2	ronald l. rivest
+2	running
+2	runtime
+2	runtime violations
+2	ryan
+2	s n
+2	sae architecture analysis
+2	safe subset
+2	safety-critical systems
+2	satisfactory test results
+2	saw
+2	scalability
+2	scratch-off fields
+2	screen readers
+2	seamlessness
+2	secret key sk
+2	section 3.3.4
+2	section 3.3.5
+2	section 6.1.5
+2	secure multi-party computation
+2	security failures
+2	security proof
+2	security risks
+2	serial numbers
+2	shortcomings
+2	shortcomings and expectations of e2e-viv
+2	signature schemes
+2	significant
+2	significant effect
+2	sms
+2	social engineering attacks
+2	software analysis workbench
+2	software architecture
+2	software artifacts
+2	software development process
+2	software engineering literature
+2	software product
+2	software testing
+2	solving
+2	source code specification
+2	specific implementation
+2	specific type
+2	spin
+2	springer-verlag
+2	stakeholder groups
+2	standards bodies
+2	state level
+2	static
+2	statistical sense
+2	stefan popoveniuc
+2	stoc
+2	storage devices
+2	strong
+2	strong correctness guarantees
+2	stuart haber
+2	stuart holmes
+2	stylecop
+2	subsequent legislation
+2	subversion
+2	such attacks
+2	such information
+2	such protocols
+2	such services
+2	such systems
+2	sufficient information
+2	sunit
+2	support infrastructure
+2	susan dzieduszycka-suinat
+2	symposium
+2	system activity
+2	system design
+2	system documentation
+2	system equipment
+2	system implementation
+2	system operational
+2	system specification
+2	system vendor
+2	systems [
+2	systems developers
+2	systems domain model
+2	systems functionality
+2	systems principles
+2	systems users
+2	tally computation
+2	tally regardless
+2	tally votes
+2	tammy patrick
+2	target ciphertext
+2	team
+2	technical feasibility
+2	technical project management
+2	technical solutions
+2	technical team members
+2	test execution program
+2	test frameworks
+2	test generation
+2	test generators
+2	test oracle
+2	test suites
+2	tests
+2	textual notation
+2	threats
+2	threshold decryption
+2	threshold encryption
+2	time limits
+2	timing information
+2	tool
+2	top part
+2	tpms
+2	trac
+2	trust relationships
+2	trusted
+2	trusted platform module
+2	trusted platform modules
+2	trusting
+2	twitter
+2	typically
+2	uniform
+2	unikernels
+2	unique view
+2	unit test
+2	university dr.
+2	uno
+2	uppaal
+2	useful instantiation
+2	user interface
+2	user interface design
+2	vag
+2	variability language
+2	various aspects
+2	various platforms
+2	various sizes
+2	various tools
+2	verasco
+2	verif
+2	verifiability
+2	verifiable in-person
+2	verifiable system
+2	verification data
+2	verification objectives
+2	verification program
+2	verification tools
+2	verified software toolchain
+2	verified voting
+2	verify
+2	verify tally
+2	version control system
+2	vote buying
+2	vote integrity
+2	voter anonymity
+2	voter choice
+2	voter enters
+2	voter interacts
+2	voter participation
+2	voter shares
+2	voterid
+2	voters needs
+2	votes cast
+2	voting accessibility
+2	voting survey
+2	voting systems
+2	vst
+2	w. scott stornetta
+2	web/app servers
+2	whether
+2	world war
+2	york
+2	youtrack
+2	zeus
+1	# ifdefs
+1	% [
+1	% turnout rate
+1	% uptime
+1	+ m
+1	... h
+1	.net implementation
+1	/ / casa
+1	/ / cryptoverif
+1	/ / csrc
+1	/ / sunit
+1	/ cs20090303 _ 2bvc 000307en.html
+1	/ fips1402
+1	// www.overseasvotefoundation.org/files/time_to_move_march2011.doc
+1	//csrc.ni st.gov/publications/nistpubs/800-37-rev1/sp800-37-rev1-final.pdf
+1	//cubist.cs.washington.edu/security /2009/03/13/security-review-helios-online-voting/
+1	//czt.source forge.net/
+1	//docs.pyth on.org/3/library/doctest.html
+1	//drive.google.com/file/d/0b-mtbrwypn_sdnpmrzbkcezwum8/ view
+1	//elections.itif.org/ resources/guidelines/
+1	//fstar- lang.org
+1	//hackage.haskell.org/package/hunit -plus
+1	//research.microsoft.com/en- us/projects/contracts/
+1	//spd-web.terma.com/proje cts/raise/
+1	//vote.nist.gov/si- invoting.pdf
+1	//www.atlassian.com/git/tutorials/comparing- workflows
+1	//www.cs.dartmouth.edu/reports/abstrac ts/tr2007-597/
+1	//www.csun.edu/cod/ conference/index.php
+1	//www.eac.gov/ testing_and_certification/accredited_test_laboratories.aspx
+1	//www.jmlspecs.org/refman/jmlrefma n.pdf
+1	//www.opengroup.org/face/tech- standard-
+1	//www.osce.org/odihr/elect ions/netherlands/24322
+1	//www.pcisecuritystandards.org/security_ standards/
+1	//www.trustedcomputinggroup.org/ resources/tpm_main_specification
+1	//www.useni x.org/legacy/events/sec08/tech/full_papers/adida/adida.pdf
+1	//www.usenix.org/legacy/ events/sec10/tech/full_papers/carback.pdf
+1	//www.usenix.org/legacy/event/ evt08/tech/full_papers/chaum/chaum.pdf
+1	//www.usenix.org/legacy/event/evtwote09/ tech/full_papers/adida-helios.pdf
+1	//www.usvotefound ation.org/e2e-viv/bon-specification.pdf
+1	10.1007/3- 540-
+1	15+ years
+1	2. sk
+1	2. use
+1	2013- studymission-report2.pdf
+1	22nd symposium
+1	3. c
+1	3.4.2 3.4.3 3.4.4 3.4.5 3.4.6 3.4.7 vii
+1	4.1.4 security
+1	4.1.6 system
+1	4.2.5 maintenance
+1	5.1.2 corruption
+1	5.2.7 vvote/prt
+1	7.4.3 implementation
+1	8.1.3 design
+1	8.2.1 law
+1	8.2.5 business
+1	9.2.2 research
+1	= ki=1 v i
+1	= x
+1	> =
+1	> void
+1	] asm.js
+1	] c
+1	] center
+1	] community
+1	] framework
+1	] supports
+1	] tools
+1	] ystein
+1	a. ryan
+1	a.1 josh benaloh
+1	a.1 josh benaloh and concurring experts ronald l. rivest
+1	a.2 david jefferson
+1	a.2 david jefferson and concurring experts candice hoke
+1	a.2.1
+1	a.2.3
+1	a.2.3 the power of e2e-v systems end-to-end
+1	a.2.4 remaining
+1	a.2.4 remaining unsolved security issues with e2e-viv systems
+1	a.2.5 conclusion
+1	a.2.5 conclusion e2e-v
+1	aadl execution semantics transformation
+1	abe
+1	about galois galois
+1	about the democracy fund
+1	about u.s. vote foundation u.s. vote
+1	absent
+1	absent random numbers
+1	absent security properties
+1	absentee ballot request form
+1	absentee ballot submission deadlines
+1	absentee turnout
+1	absentee voters
+1	absentee voting
+1	absolute precision
+1	absorb
+1	abstract level
+1	academic literature highlights
+1	acceptable choice
+1	acceptable level
+1	acceptable response time
+1	acceptable slowdown
+1	acceptable state
+1	acceptance
+1	access control
+1	access patterns
+1	access restriction
+1	accessibility accessibilitythe
+1	accessibility according
+1	accessibility knowledge
+1	accessible system
+1	accessible verification protocols
+1	accessible voters
+1	accessible workaround
+1	accommodate absentee
+1	accompanying
+1	account number
+1	account threshold conditions
+1	accountability
+1	accountable way
+1	accredited test laboratories
+1	accurate
+1	accurate results
+1	accurate specification
+1	acknowledgement code
+1	acknowledgement codes
+1	acm sigaccess
+1	acm sigops
+1	acm trans
+1	across
+1	active research [
+1	active role
+1	active voters correspond
+1	activist communities
+1	activity relevant
+1	actual behavior
+1	actual choice
+1	actual election
+1	actual elections
+1	actual electronic ballot
+1	actual implementation
+1	actual mock election situations
+1	actual physical harm
+1	actual set
+1	actual source
+1	actual system
+1	actual terms
+1	actual tests
+1	actual voter
+1	ada standards
+1	adam foltzer
+1	adam kiezun
+1	addition example
+1	addition implementation
+1	additional architectural complexity
+1	additional assumption
+1	additional assurance
+1	additional burdens
+1	additional connection markings
+1	additional expense
+1	additional problems
+1	additional properties
+1	additional property
+1	additional protection
+1	additional requirement
+1	additional research
+1	additional runtime checks
+1	additional security characteristics
+1	additional security problems
+1	additional semantic properties
+1	additional specifications
+1	additional structure
+1	additional tables
+1	additional verification steps
+1	additional work
+1	additive
+1	additive homomorphic property
+1	additively homomorphic encryption
+1	address differences
+1	address implementation issues
+1	addresses barriers
+1	addresses need
+1	addresses privacy
+1	addresses system failures
+1	adi shamir
+1	administration software
+1	administrative access
+1	administrative staff
+1	administrator decrypts
+1	administrator generates
+1	administrator post
+1	adversarial code
+1	adversarial environment
+1	adversarial interface
+1	adversarial modifications
+1	adversarial voters
+1	adversary monitors
+1	advisory council dr.
+1	aes
+1	aforementioned stakeholders
+1	aforementioned toolsetsproverif
+1	after-the-fact test
+1	aggressive
+1	agile
+1	agile techniques
+1	aid attackers
+1	airborne capability environment
+1	albert camilleri
+1	aleks essex
+1	aleksander essex
+1	alessandro aldini
+1	alessandro armando
+1	alex delis
+1	alfred j. menezes
+1	algorithm dec
+1	algorithm enc
+1	algorithmic efficiency
+1	alistair cockburn
+1	alphabetical order
+1	alternate voters choice
+1	alternative display fonts
+1	alternative distribution mechanisms
+1	alternative implementation
+1	alternative license
+1	alternative methods
+1	alternative value
+1	alternative way
+1	alternatively
+1	amazon ec2
+1	america vote
+1	american civil war
+1	american political science
+1	american public
+1	american voter
+1	amit sahai
+1	ample information
+1	analysis tools monitor
+1	analysis tools process
+1	analyzable documentation
+1	and
+1	and vanessa teague
+1	andrew wasser
+1	android-based bitcoin
+1	andrzej wasowski
+1	anil madhavapeddy
+1	annotate issues
+1	anonymous agsinst
+1	anothers services
+1	ansi iso
+1	ansi/iso
+1	antivirus/antimalware software
+1	antonyan
+1	anybody
+1	anywhereballot
+1	apache maven
+1	apache maven project
+1	apple
+1	apple safari
+1	applicable regulations
+1	application binary
+1	application software
+1	application supports voters
+1	application technologies
+1	application-level
+1	application-scale secure multiparty computation
+1	application/browser/script software
+1	applied
+1	applied cryptography
+1	applied mathematics
+1	applying
+1	approach
+1	approaches
+1	appropriate algorithm
+1	appropriate government entity
+1	appropriate intervals
+1	appropriate number
+1	appropriate pace
+1	appropriate platforms
+1	appropriate protocol
+1	appropriate protocol state machine
+1	appropriate system modules
+1	appropriate tools
+1	appropriate use
+1	apress
+1	april
+1	arbitrary computation
+1	arbitrary ways
+1	architectural
+1	architectural decisions
+1	architectural feature model availability e2e-viv
+1	architectural feature model cryptographic protocols
+1	architectural issues
+1	architectural models
+1	architectural properties
+1	architectural specification
+1	architectural specification languages
+1	architectural specifications [
+1	architecture component class
+1	architecture design
+1	architecture level
+1	architecture specification language
+1	architectures
+1	arinc
+1	arinc standards
+1	armed forces voting
+1	arrow types
+1	artech
+1	arxiv preprint arxiv:1404.6822
+1	asm.js [
+1	assertions
+1	assess compliance
+1	assess usability
+1	assessing quality
+1	assistive technology
+1	assurance requirements
+1	atlassian
+1	atop general-purpose
+1	atop hypervisors
+1	attach supplementary documents
+1	attack deceives
+1	attack level
+1	attack technology
+1	attack verifiability
+1	attacker floods
+1	attacks e2e-viv
+1	attention onor
+1	attractive target
+1	attribute-based
+1	audio representations
+1	audit data
+1	audit information
+1	audit procedure
+1	audit process
+1	audit-or-cast mechanism
+1	audit-or-cast process
+1	audit-or-check procedure
+1	audited
+1	august
+1	australian
+1	authentic ballot
+1	authenticatation servers
+1	authenticate communications
+1	authenticate voters
+1	authentication attacks
+1	authentication card
+1	authentication card contains
+1	authentication code
+1	authentication mechanisms
+1	authentication process
+1	authentication requirements
+1	authentication system
+1	authentication systems
+1	author adam foltzer
+1	author philip robinson
+1	author shpatar morina
+1	authoritative source
+1	authorization codes
+1	automatic
+1	automatic process
+1	automatic verification
+1	automating
+1	automation frameworks
+1	automation tool
+1	autotest
+1	availability demands
+1	availability requirements
+1	available descriptions
+1	available elections systems
+1	available evidence
+1	available interfaces
+1	available specifications
+1	available technology
+1	available way
+1	average cost
+1	average voter
+1	avi wigderson
+1	avionics application
+1	award lecture
+1	az
+1	b. martin
+1	back doors
+1	back-end system
+1	backup system
+1	bad sources
+1	ballot cast
+1	ballot contains
+1	ballot data
+1	ballot data travels
+1	ballot encodings
+1	ballot enters
+1	ballot initiatives
+1	ballot positions
+1	ballot printers
+1	ballot request
+1	ballot return
+1	ballot serial numbers
+1	ballot transmission
+1	ballotfor example
+1	ballots [
+1	ballots cast
+1	bank online
+1	bart jacobs
+1	bart preneel
+1	barthe
+1	baseline
+1	baseline business
+1	baseline data
+1	baseline likelihood
+1	basic integration test
+1	basic issues
+1	basic public services
+1	basic types
+1	behavioral design specifications
+1	belgian university president
+1	bell labs
+1	bernalillo
+1	berry schoenmakers
+1	bespoke server cluster
+1	best-in-class voter services
+1	best-practice software engineering workflows
+1	better technology
+1	bfb0031813
+1	bgv
+1	big picture view
+1	binary addition operation +
+1	binary download
+1	binary dump tools
+1	bingo cards
+1	bingo dauber marks
+1	bingo daubera thick marker
+1	biographical information
+1	bipartisan policy
+1	bipartisan system
+1	blackhat
+1	blanchet
+1	blank ballot transmission
+1	block ciphers
+1	blockchains
+1	boards
+1	boot firmwarethe
+1	bootstrap trust
+1	bottom element
+1	boundary conditions
+1	braille
+1	braille representations
+1	brendan murphy
+1	brent waters
+1	brief descriptions
+1	brief human-readable descriptions
+1	broad range
+1	broad-spectrum voter participationare
+1	broader skepticism
+1	browser plug-ins
+1	browser plugin
+1	browser plugins
+1	bruno blanchet
+1	buffer overflow attacks
+1	bug fix
+1	bug fixes
+1	bug report
+1	buggy online service
+1	built-in bug
+1	business
+1	business aspects
+1	business interests
+1	business pressure
+1	button
+1	byzantine generals
+1	byzantine generals problem
+1	c # programs
+1	c dialect
+1	c test program generator
+1	c++
+1	c-like
+1	cabal
+1	cac
+1	calculating roi
+1	calculus
+1	california berkeley
+1	california berkeley testing team
+1	canada
+1	candice hoke
+1	candidate
+1	candidate choice
+1	candidate name
+1	candidate nominations
+1	candidate nominations and lists
+1	candidate numbers
+1	candidate party affiliation
+1	candidate positions
+1	canonical version
+1	capability maturity model
+1	capable adversaries
+1	capstone team
+1	careless
+1	careless attacker
+1	carolina andrew regenscheid
+1	cas j. f. cremers
+1	cascais
+1	case studies
+1	case study
+1	cases f s specification
+1	cast protocol
+1	cast side
+1	cast vote message
+1	cast-or-audit process
+1	catalyze movements
+1	causes ballots
+1	cedric beust
+1	census
+1	center- norway-
+1	central construction idea
+1	central election system
+1	central infrastructure
+1	central issue
+1	century voter experience
+1	ceo
+1	ceo paul mcguire
+1	ceo rob wiltbank
+1	certain aspects
+1	certain circumstances
+1	certain conditions
+1	certain confidence level
+1	certain context
+1	certain deadlines
+1	certain decisions
+1	certain issues
+1	certain level
+1	certain operations
+1	certain parts
+1	certain procedures
+1	certain qualities
+1	certain security aspects
+1	certain security measures
+1	certain set
+1	certain threshold condition
+1	certain vote code
+1	certicrypt
+1	certificate authorities
+1	certificate authorities issue certificates
+1	certificate matches
+1	certificates
+1	certification failure
+1	certification frameworks
+1	certification gauntlet
+1	certification laboratory
+1	certification program
+1	certification purposes
+1	certification regime
+1	certification requirements
+1	certification standards
+1	certification voting
+1	chakra
+1	challenge mechanisms
+1	challenge stage
+1	challenge-response systems
+1	challenging areas
+1	challenging environment
+1	changes election outcome
+1	channel systems
+1	chapter analyzes
+1	chapter introduces rigorous software engineering techniques
+1	chapters analysis
+1	cheapest way
+1	checkable evidence
+1	checkers attempt
+1	chip
+1	choosing
+1	chris culnane
+1	ciphertext part
+1	ciphertext processing stage
+1	ciphertext processing step ensures
+1	citizen data
+1	civic
+1	civic tech development
+1	civil war
+1	clark
+1	claude crpeau
+1	claudia z. acemyan
+1	clean
+1	clear advantage
+1	clear requirements
+1	clear rules
+1	clear timetables
+1	clear understanding
+1	clear weak link
+1	cleveland
+1	client applications
+1	client applications access
+1	client malware
+1	client side encryption
+1	client side encryption device
+1	client side malware attacks
+1	client side softwarethat
+1	client systems
+1	client technology
+1	client-server interactions
+1	client-server protocols
+1	client-side application
+1	client-side application processes
+1	client-side malware
+1	client-side verification screens
+1	clients integrity
+1	clientserver systems
+1	close polls message
+1	cloud
+1	cloud deployment
+1	cmmi
+1	cmu ism capstone program
+1	cmu/sei-90-tr-021
+1	co
+1	co distribution
+1	co-operation
+1	coda
+1	code [
+1	code analysis tools
+1	code coverage tool
+1	code generation techniques
+1	code generation tools
+1	code inspections
+1	code lint tools
+1	code modules
+1	code review code
+1	code review occurs
+1	code review step
+1	code smells
+1	code style
+1	codes behavior
+1	codes correspond
+1	coercion
+1	coercion-resistant
+1	coercion-resistant protocols pose
+1	collaborative efforts
+1	collaborative result
+1	college master
+1	columbia
+1	com / gnatcovarage/
+1	combination thereof
+1	combined
+1	command line tools
+1	commercial antivirus systems
+1	commercial database
+1	commercial options
+1	commercial organizationswill
+1	commercial products
+1	commercial situations
+1	commercial support organizations
+1	commercial systems
+1	commercial systems end-to-end
+1	commitcoin
+1	commitment
+1	commitment scheme
+1	commitment tables
+1	commodity cloud
+1	common characteristic
+1	common components
+1	common data format
+1	common means
+1	common pitfalls
+1	common scheme
+1	common situation
+1	communicate amongst
+1	communicate models
+1	communication
+1	communication channel
+1	communication channels
+1	communication diagrams
+1	communication disruptions
+1	communication infrastructure
+1	communication standards
+1	communications amongst
+1	communities relevant
+1	comodo
+1	companies
+1	companion
+1	compaq systems
+1	comparative analysis
+1	comparing
+1	comparing workflows
+1	competitive market
+1	compilation
+1	compilers
+1	compiles runtime checks
+1	complementary open
+1	complementary process
+1	complementary techniques
+1	complementary types
+1	complete compromise
+1	complete detail
+1	complete formal system specification
+1	complete informal system specification
+1	complete re-runs
+1	complete system
+1	completeness theorem
+1	complex
+1	complex back-end architectures
+1	complex computer systems
+1	complex expression language
+1	complex machines
+1	complex problem
+1	complex scenario tests
+1	complex system
+1	compliance
+1	component behaviors
+1	compositional nature
+1	comprehensive audits
+1	comprehensive range
+1	compromise election results
+1	compromise privacy
+1	compromise system security
+1	compromise vote secrecy
+1	compsac
+1	computation [
+1	computation proceeds
+1	computation technology
+1	computation-intensive parts
+1	computational core
+1	computational model
+1	computational overhead
+1	computational work
+1	computer hardware
+1	computer programming
+1	computer science
+1	computer science foundations
+1	computer science graduate student
+1	computer software
+1	computer splits
+1	computer systems
+1	computer-aided
+1	computer-aided cryptographic proofs
+1	computers
+1	computing machinery
+1	computing systems
+1	concept
+1	concept possesses
+1	concept specification
+1	concept specification language
+1	concepts election
+1	concrete audit trails
+1	concrete legal recommendations
+1	concrete outcomes
+1	concrete recommendation
+1	concurrency problems
+1	concurrent development
+1	concurrent executions
+1	concurrent system
+1	concurring a.2.1 election security is national security
+1	concurring the viability of responsible internet voting remote
+1	condition x
+1	conditional compilation
+1	conf
+1	conference [
+1	conference-volume
+1	confidence software
+1	configuration choices
+1	configuration file
+1	configuration management complex
+1	confirmation code offering
+1	congressional election
+1	consensus protocol
+1	consensus protocols
+1	consequent costto
+1	considerable engineering
+1	considerable expertise
+1	considerable time
+1	consistency protocols
+1	consistent basis
+1	consistent way
+1	construction approach
+1	constructive dialogue
+1	consultant
+1	consume minimal resources
+1	containment relationships
+1	contains refinements
+1	content
+1	contents ballot stuffing
+1	contextual analyses
+1	contextual analyses of primary e2e-v protocols privacy beyond the voters choices
+1	contingency plan
+1	continued
+1	continuous
+1	continuous automation tool
+1	continuous flow
+1	continuous integration and configuration management
+1	continuous integration configuration
+1	continuous integration process
+1	continuous integration systems
+1	contract
+1	contractual obligations
+1	contrary
+1	contribu- tions
+1	control procedures
+1	convene
+1	conventional optical-scan paper ballots
+1	cook
+1	copy-edit
+1	core application
+1	core capabilities
+1	core stakeholders
+1	correct acknowledgement code
+1	correct behavior
+1	correct cryptographic seeds
+1	correct election outcomes
+1	correct operation
+1	correct protocol
+1	correct realization
+1	correct tally
+1	correct votes
+1	correctness
+1	correctness communities
+1	correctness evidence
+1	correctness proof
+1	correspondence properties
+1	corresponding candidate names
+1	corresponding election choice
+1	corresponding pointer
+1	corresponding private key
+1	corresponding specification languages
+1	corrupt communications
+1	corrupt election officials
+1	corrupt high-level insider
+1	corrupt implementation
+1	corrupt implementations
+1	corrupt official
+1	corrupt parties
+1	corrupt peer
+1	corrupt peers
+1	corrupt voter
+1	corrupted
+1	corruption robustness
+1	corruption state
+1	cost [
+1	costly defects
+1	counted
+1	counting
+1	counting accuracy
+1	countless configuration choicesway
+1	countrys scientists
+1	county election
+1	county vote server
+1	coverage criteria
+1	cpu
+1	craft
+1	craft laws
+1	craig burton
+1	creates others
+1	creates standards
+1	creating
+1	credential distribution mechanism
+1	credit card database
+1	criteria certification
+1	critical
+1	critical component
+1	critical components
+1	critical data
+1	critical election information
+1	critical factor
+1	critical features
+1	critical hardware
+1	critical mistakes
+1	critical need
+1	critical parts
+1	critical pieces
+1	critical question
+1	critical reports
+1	critical requirement
+1	critical security
+1	critical subsystems
+1	critical system components
+1	critical technical activities
+1	critical vulnerabilities
+1	cross-concept properties
+1	cross-referenced
+1	crucial feasibility question
+1	crypto currency
+1	crypto verification kit
+1	cryptographers
+1	cryptographic algorithm
+1	cryptographic computational assumption
+1	cryptographic experts
+1	cryptographic foundation
+1	cryptographic foundations cryptographic
+1	cryptographic foundations ideal functionality
+1	cryptographic functions
+1	cryptographic hash function h.
+1	cryptographic id
+1	cryptographic integrity
+1	cryptographic keys
+1	cryptographic modules
+1	cryptographic principles
+1	cryptographic proof
+1	cryptographic proofs
+1	cryptographic protocol
+1	cryptographic protocol implementations
+1	cryptographic protocol verifier
+1	cryptographic system
+1	cryptographic techniques
+1	cryptographic work factor
+1	cryptography
+1	cryptography literature
+1	cryptography protocol verifiers
+1	cryptologia
+1	cryptologic
+1	cryptology crypt0
+1	cryptologyeurocrypt
+1	current architecture
+1	current economic climate
+1	current election costs
+1	current election practices
+1	current elections
+1	current general-purpose computers
+1	current implementation
+1	current knowledge
+1	current questions
+1	current software artifacts
+1	current stalemate
+1	current state
+1	current systemsis
+1	current techniques
+1	current technologies
+1	current technology
+1	current-generation systems
+1	cursory
+1	custom hardware
+1	custom_app
+1	cvs
+1	cyber-physical systems
+1	cybersecurity
+1	cybersecurity specialists
+1	damien giry
+1	dan boneh
+1	dan wallach
+1	dangerous form
+1	daniel zimmerman
+1	dark net
+1	dartmouth
+1	data [
+1	data communications
+1	data corruption
+1	data element
+1	data file
+1	data file formats
+1	data interchange
+1	data security
+1	data standards
+1	data storage errors
+1	data structure variant
+1	data types
+1	data volume
+1	data volumes
+1	database servers
+1	date focus
+1	dave bayer
+1	david bismark
+1	david jefferson
+1	david kaloper mersinjak
+1	david l. detlefs
+1	david p. gluch
+1	david r. jefferson
+1	david wagner
+1	ddos mitigation
+1	de- pendent
+1	december
+1	decent estimate
+1	decision points
+1	decisional diffie hellman
+1	decryption function
+1	decryption operation
+1	deep mathematical
+1	defcon
+1	defective code
+1	defects
+1	defects [
+1	defense name
+1	defining
+1	definitional point
+1	definitions
+1	definitive final formulation
+1	delaware
+1	delegates trust
+1	deliberate secrecy tradeoff
+1	delicate balance
+1	delivers software
+1	delivery process
+1	delphi
+1	demand introduces
+1	democracy election security
+1	democracy project
+1	democratic party
+1	demonstration election
+1	demonstration software
+1	demonstration system
+1	denial of service attacks
+1	denial-of-service attacks
+1	dependent algorithms
+1	dependent events
+1	deploying
+1	deployment automation
+1	deployment automation tool
+1	deployment characteristics
+1	deployment requirements
+1	deployment scenarios
+1	deployment style
+1	deputy county
+1	description
+1	design and engineering for usability striving
+1	design decisions
+1	design discussions
+1	design measures
+1	design problem
+1	design/refinement method
+1	detect accidental corruption
+1	detect attacks
+1	detect code smells
+1	detect corruption
+1	detect election integrity problems
+1	detect integrity issues
+1	detect issues
+1	detect voter fraud
+1	detection
+1	determine
+1	developed
+1	developer
+1	developer checks
+1	developer commits
+1	developer input
+1	developer job satisfaction
+1	developer uses
+1	developers environment
+1	developers machines
+1	developers productivity suffers
+1	developers specify
+1	developing
+1	development artifacts
+1	development environment
+1	development environments
+1	development information
+1	development phase
+1	development team
+1	development team preference
+1	development technique [
+1	development techniques
+1	device software
+1	devices boot firmware
+1	dexterity impairments
+1	dhcp
+1	diagram shows
+1	dieter gollmann
+1	dif- ferent
+1	different allocation
+1	different applications
+1	different approach
+1	different aspects
+1	different ballot
+1	different category
+1	different choices
+1	different companies
+1	different compilers
+1	different computer
+1	different deployment
+1	different facets
+1	different forms
+1	different functionalities
+1	different hardware
+1	different key distribution methods
+1	different levels
+1	different low-level designs
+1	different machine
+1	different mainstream
+1	different meanings
+1	different mechanisms
+1	different methods
+1	different metrics
+1	different official
+1	different organizations
+1	different outcome
+1	different paradigm
+1	different parties
+1	different perspectives
+1	different plaintexts
+1	different protocols
+1	different requirements
+1	different security guarantees
+1	different set
+1	different source code
+1	different styles
+1	different subsystems communicate
+1	different syntax
+1	different target audiences
+1	different target platforms
+1	different tools
+1	different value m
+1	different version
+1	different versions
+1	different votes
+1	difficult path
+1	difficult problem
+1	difficult question
+1	difficult security context
+1	difficult security problems
+1	digital
+1	digital ballot boxes
+1	digital document
+1	digital election systems
+1	digital elections benefit
+1	digital evidence
+1	digital observation
+1	digital signature
+1	digital timestamping
+1	direct access
+1	direct attack
+1	direct communication
+1	direct individuals
+1	direct measurement
+1	direct optimization efforts
+1	directors
+1	disability
+1	disability information
+1	disastrous consequences
+1	disclose tally information
+1	discrete development tasks
+1	discussions
+1	disenfranchise voters
+1	dishonest voter
+1	dishonest voters
+1	dispute resolution e2e
+1	disrupt election processes
+1	distinct issues
+1	distinct type
+1	distributes ballots
+1	distributing
+1	distributing trust
+1	distribution ceremonies
+1	distribution channel
+1	distribution mechanisms
+1	distribution of authority
+1	district water
+1	distrust
+1	diverse
+1	diverse double-compiling
+1	diverse environments
+1	dk / software
+1	do-178b
+1	do-178b software considerations
+1	do-178c
+1	do-178c software considerations
+1	docket nos
+1	documentation practices
+1	documentation update requirement
+1	dod
+1	domain-specific language
+1	domestic absentee
+1	domestic absentee voters cast
+1	domestic turnout rate [
+1	dominion
+1	donate engineering time
+1	dontto use
+1	doorn
+1	dos
+1	double arrows
+1	double line
+1	doug jones
+1	doug w. jones
+1	downloadable ballots
+1	dozen voters
+1	dramatic effect
+1	dramatic improvement
+1	drivers license
+1	dropbox
+1	due diligence
+1	duncan buell
+1	duplicate code
+1	duplicate reports
+1	dynamic
+1	dynamic analysis dynamic
+1	dynamic cast
+1	dynamic cloud architecture need
+1	dynamic cloud deployment
+1	dynamic cloud deployment behaves
+1	dynamic cloud infrastructure
+1	dynamic data
+1	dynamic detection
+1	e y g
+1	e-acsl
+1	e2e binding governmental
+1	e2e systems
+1	e2e viv technical
+1	e2e-verifiable election
+1	e2e-verifiable election technologies
+1	e2e-verifiable system
+1	e2e-viv bon specification
+1	e2e-viv end-to-end verifiability
+1	e2e-viv explained election process and goals
+1	e2e-viv github
+1	e2e-viv in practice prt voter
+1	e2e-viv in practice ries ries
+1	e2e-viv in practice scantegrity ii scantegrity ii
+1	e2e-viv project team
+1	e2e-viv usability
+1	e2e-vivparticularly
+1	e2eviv_architecture
+1	e2eviv_architecture_dimensions
+1	eacs
+1	eager officials
+1	early
+1	early adoption
+1	early detection
+1	early small-scale pilot programs
+1	early steps
+1	early usability studies
+1	early work
+1	earth
+1	easy ddos targets
+1	ecole polytechnique
+1	ecommerce situations
+1	economic reasons
+1	edsls
+1	educate voters
+1	educating
+1	eecs computer
+1	eelco rommes
+1	effective software engineering
+1	effective use
+1	effectively
+1	efficiency
+1	efficiency improvements
+1	efficient broadcast time-stamping
+1	efficient definition
+1	efficient ways
+1	eidhoven
+1	eiffelstudio
+1	elastic demand
+1	elderly individuals
+1	electing
+1	election advocates
+1	election and registration timing
+1	election assessment team
+1	election audits
+1	election authorities
+1	election authority releases
+1	election case study
+1	election choice
+1	election costs
+1	election data formats
+1	election definition
+1	election definition data
+1	election design
+1	election disasters
+1	election experience
+1	election formats
+1	election fraud
+1	election function
+1	election hacktivists
+1	election industry
+1	election infrastructure
+1	election innovation
+1	election jurisdiction
+1	election jurisdictions
+1	election logs
+1	election observation data
+1	election officials acceptance
+1	election officials behave
+1	election officials manage
+1	election officials notify
+1	election officials request
+1	election officials resort
+1	election outcomeis
+1	election process and goals
+1	election processes
+1	election professionals
+1	election record
+1	election research community
+1	election schemes
+1	election servers
+1	election system [
+1	election system fulfills
+1	election system software
+1	election system vendors
+1	election system vendors ignore
+1	election systems hope
+1	election systems struggle
+1	election tally
+1	election terminates
+1	election types
+1	election vendors
+1	election verification
+1	election verification activists
+1	election verification advocates reject
+1	election verification community
+1	election verification scientists
+1	elections [
+1	elections administration
+1	elections community
+1	elections conclusion
+1	elections correctness
+1	elections definition
+1	elections marketplace
+1	elections online
+1	elections questions
+1	elections setting
+1	elections technology
+1	elections vendors
+1	elections verification network
+1	electoral authority access
+1	electoral authoritys administration application
+1	electoral jurisdiction
+1	electoral officials
+1	electrical
+1	electronic distribution
+1	electronic pollbooks
+1	electronic systems
+1	electronic vote
+1	electronic voting
+1	electronics
+1	electronics engineers
+1	eligible voter list
+1	email
+1	email address
+1	email addresses
+1	email communications
+1	emerging technologies
+1	eml
+1	empirical case study
+1	empirical evidence
+1	empty arrowheads
+1	emv
+1	en
+1	enable arbitrary
+1	enable computation
+1	enable generation
+1	enable information transmission
+1	enable large scale
+1	enable overseas citizens
+1	enable such messages
+1	enable voter authentication
+1	enable voters
+1	encode information
+1	encouraging voters
+1	encrypted query processing
+1	encryption generalizes
+1	encryption key
+1	encryption scheme
+1	end client_technology
+1	end correctness_evidence
+1	end crypto_protocols
+1	end deployment_style
+1	end end end
+1	end implementation_type
+1	end key_distribution_method
+1	end-to-end security
+1	end-to-end verifiability guarantees
+1	end-to-end verification
+1	end-to-end voting systems
+1	end-toend verifiability
+1	endless range
+1	endto-end verifiability
+1	engineering and technology
+1	engineering challenges
+1	engineering contribution
+1	engineering for correctness and security
+1	engineering foundations
+1	engineering practices
+1	engineering project management
+1	engineering team
+1	engineering techniques
+1	enormous checklist
+1	enormous ciphertexts
+1	enormous responsibility
+1	enormous security threats
+1	enormous variety
+1	ensure data consistency
+1	ensure data integrity
+1	ensure vote secrecy
+1	ensure voter privacy
+1	entire cloud infrastructure
+1	entire data path
+1	entire development process
+1	entire election system
+1	entire hash chain
+1	entire process
+1	entire project
+1	entire rest
+1	entire set
+1	entire systems
+1	entscheidungen
+1	envi- ronment
+1	environment communicates
+1	environmental assumptions
+1	equal amount
+1	equal number
+1	equal opportunity
+1	equality predicate
+1	equally
+1	equally-expressive textual
+1	equivalent capabilities
+1	equivalent set
+1	equivalent ways
+1	eradicate client side malware
+1	erlang
+1	esorics
+1	especially
+1	essential component
+1	essential data
+1	essential information
+1	essential input
+1	essential services
+1	essex
+1	establishing
+1	etc.should disappear
+1	etfa
+1	europe
+1	evan r. sparks
+1	everyone counts
+1	evidence
+1	evidence of correctness
+1	evidence trail
+1	evidence-based decisions
+1	evidence-based elections
+1	evidence-based elections technology
+1	evidence-based elections technology evidence-based elections technology
+1	evolution work
+1	evolutionary fuzzing
+1	evolvability
+1	evolvability requirements
+1	evt
+1	exact circumstances
+1	examples
+1	examples pragma
+1	excellent high-level characterization
+1	excellent useful environments
+1	excessive use
+1	exclude people
+1	exclude technologies
+1	executable specification language
+1	executable tests
+1	execution environments
+1	executive officer
+1	exhaustive proof
+1	exhaustive search
+1	exhaustive test
+1	exhibit high availability
+1	exhibit receipt freedom
+1	existing e2e
+1	existing e2e systems
+1	existing internet
+1	expatriate voters
+1	expensive administrative overhead
+1	expensive process
+1	experience affects
+1	experience lab
+1	experience report
+1	experiences gained
+1	experimentation platform
+1	experimentation withor use ofinternet
+1	experiments [
+1	expert
+1	explicit requirement
+1	explicit sequences
+1	exploitable security holes
+1	exploits
+1	exploring
+1	expose flaws
+1	expose potential problems
+1	expressive textual
+1	extended
+1	extended static checking
+1	extending
+1	extensible
+1	extensive dialogue
+1	extensive experience
+1	extensive research [
+1	external behaviors
+1	external communication
+1	external dependencies
+1	external entities
+1	external factors
+1	external interactions
+1	external services
+1	extract models
+1	extraordinary amount
+1	extraordinary circumstances
+1	extraordinary effort
+1	extreme
+1	extreme case
+1	extreme disabilities
+1	extreme levels
+1	extreme scenarios
+1	eye trackers
+1	ez
+1	ez ballot
+1	f [
+1	f defines
+1	f restricts
+1	f*specifying
+1	fabio martinelli
+1	face
+1	face technical
+1	facilitator uses
+1	factors
+1	faculty
+1	fagan
+1	failure points
+1	fake identities
+1	fall victim
+1	false claims
+1	falsification
+1	fashion [
+1	fax technology
+1	feasibility analysis
+1	feasibility area
+1	feasibility assessment
+1	feasibility study
+1	feature-oriented
+1	features
+1	featuresfor example
+1	federal agencies
+1	federal laws
+1	federal legislation
+1	federal office
+1	federal standards
+1	feedback fromthe election verification advocate community
+1	feedback loop
+1	fes
+1	few
+1	fibonacci module
+1	field
+1	figures
+1	filip zagorski
+1	filip zagrski
+1	final assessment
+1	final ballot
+1	final binary distribution
+1	final distribution
+1	final election tally
+1	final implementation
+1	final line
+1	final list
+1	final ou phase
+1	final product
+1	final recommendations
+1	final release artifacts
+1	final report
+1	final sequence
+1	final software product
+1	final step
+1	final vote confirmation
+1	final vote tallies
+1	financial
+1	financial cryptography
+1	financial resources
+1	finding
+1	findings
+1	fine-grain concurrency properties
+1	fingerprint authentication devices
+1	finite-state machines
+1	first-class capability
+1	first-class constructs
+1	fiscal feasibility
+1	fix bugs
+1	flags errors
+1	flaws [
+1	florida
+1	foda
+1	fog creek softwares fogbugz
+1	fogbugz
+1	following
+1	forces voting
+1	foreign soil
+1	forensic examination
+1	foreverbut tests
+1	forfeit privacy
+1	forge votes
+1	formal behavioral description
+1	formal concept specification linear data structure
+1	formal correctness proofs
+1	formal end
+1	formal framework
+1	formal mechanization
+1	formal mechanization of ideal functionality
+1	formal mechanization of ideal functionality fe
+1	formal modeling
+1	formal process
+1	formal proofs
+1	formal specification language
+1	formal specifications formal specifications
+1	formal statements
+1	formal system
+1	formal system specification
+1	formal system specifications
+1	formal techniques
+1	formal verification capabilities
+1	formalize aspects
+1	formalize systems
+1	foundational cryptography framework
+1	fourth
+1	foveoos
+1	frama-c
+1	frama-c. url
+1	frank j linden
+1	freedom ensures
+1	friendly online forums
+1	front lines
+1	front-end system
+1	front-line support staff
+1	fulfilling
+1	full advantage
+1	full authoritative data
+1	full blown
+1	full cryptographic system
+1	full documentation
+1	full functional verification
+1	full homomorphic cryptographic schemes
+1	full implementations
+1	full report
+1	full suite
+1	full system specification
+1	full-blown application
+1	fully
+1	fully homomorphic encryption
+1	function evaluation
+1	function f
+1	function f guarantees
+1	function fib
+1	functional correctness
+1	functional details
+1	functional encryption
+1	functionality checks
+1	functionality enforces
+1	functionality extracts choices
+1	functionality f
+1	functionality forces
+1	functionality leaks
+1	functionality notifies
+1	functionality reacts
+1	functionality restricts
+1	functionality returns
+1	functionality verifies
+1	fundamental defense
+1	fundamental new security vulnerabilities
+1	fundamental research
+1	fundamental security problems
+1	fundamental security properties
+1	fundamental threat
+1	fundamental ways
+1	future bugs
+1	future election equipment
+1	future elections
+1	future mechanization work
+1	future mission-critical
+1	future stages
+1	future vendors
+1	future version
+1	fuzz tester determines
+1	fuzz tester reports
+1	fuzz tester tries
+1	fuzzy lop
+1	gain access
+1	gain confidence
+1	gain experience
+1	gallina
+1	galois github
+1	galois team
+1	galois technical team
+1	galoisinc/e2eviv github
+1	game consoles digital signature process
+1	gary t. leavens
+1	gathering registration information
+1	gathers information
+1	gavin lowe
+1	general availability
+1	general comprehensibility
+1	general directions
+1	general lack
+1	general purpose language
+1	general solution
+1	general structure
+1	general template
+1	general usability requirement
+1	general-purpose logic frameworks
+1	generalwill increase
+1	generate code
+1	generate evidence
+1	generate high-coverage unit test suites
+1	generate part
+1	generate partial
+1	generate random integers
+1	generate random unit tests
+1	generate results
+1	generate sequences
+1	generated
+1	generation
+1	generation java testing
+1	generous financial support
+1	genetic algorithms
+1	george c. necula
+1	george mason
+1	georgios tsoukalas
+1	gerard j. holzmann
+1	gerwin klein
+1	git flow
+1	global clock functionality
+1	global content distribution networks
+1	global functions
+1	gnatcoverage
+1	gnatcoverage coverage analysis tool
+1	gnter bckle
+1	goals
+1	golden_implementation
+1	good choices
+1	good election system
+1	good example
+1	good guess
+1	good intentions
+1	good issue
+1	good options
+1	good practice
+1	good random seeds
+1	good reason
+1	good reasons
+1	good set
+1	good specification
+1	good user interface designfor example
+1	gov / publications / fips / fips140
+1	government assert
+1	government elections
+1	government employees
+1	government institutions
+1	government websites
+1	governmental elections
+1	gradual evolution
+1	graduate student association elections
+1	grammar-based whitebox fuzzing
+1	grand challenge
+1	granularity
+1	graphical format
+1	graphical representation
+1	great care
+1	grey-box attack surface testing
+1	group structure
+1	guarantees correctness
+1	guard equipment
+1	guide
+1	h.-s. jacob tsao
+1	hackers and hacktivists
+1	hacking
+1	hacktivists
+1	halleux
+1	hand assert
+1	hand-written tests
+1	hani suleiman
+1	hard work
+1	hardware entropy generators
+1	hardware peripherals
+1	hardware platforms
+1	hardware simulations
+1	hardware vendors
+1	hardware/network architecture
+1	hardware/network architecture specification
+1	harvards
+1	hash collisions
+1	hash h
+1	hashchains
+1	hashchains and blockchains
+1	haskell cabal
+1	haskell lightweight virtual machine
+1	haugen
+1	healthy business ecosystem
+1	healthy systems market
+1	helger lipmaa
+1	helios online voting
+1	helmut schwichtenberg
+1	hennepin
+1	heroku
+1	hide vote codes
+1	high assurance end-to-end
+1	high assurance software
+1	high assurance system
+1	high assurance systems
+1	high availablity
+1	high code coverage percentages
+1	high confidence
+1	high level
+1	high level specifications
+1	high percentage
+1	high-assurance
+1	high-assurance development method
+1	high-assurance software engineering tools
+1	high-assurance systems development
+1	high-level architecture specification
+1	high-level description
+1	high-level language
+1	high-level overview
+1	high-level protocol specification language
+1	high-level requirements
+1	high-level structure
+1	high-level system specification
+1	high-priority issue
+1	high-quality shredder
+1	higher-order effectual language
+1	higher-order frameworks
+1	highlevel design
+1	highlevel interactions
+1	hinder voters
+1	historical evidence
+1	historically
+1	history domestic absentee domestic
+1	hlspl
+1	hmac
+1	hol
+1	hol4
+1	home directory
+1	home management
+1	honest
+1	honest majority
+1	honest part
+1	honest prover
+1	honest voter exists
+1	honest voters
+1	hong kong
+1	htt ps
+1	huge data breaches
+1	human nature
+1	human public phenomena
+1	human resources
+1	human-readable description
+1	hunit
+1	hybrid authority model
+1	hybrid model
+1	hypothetical implications
+1	i -th voter
+1	iavoss
+1	ibe
+1	ibm
+1	iceccs
+1	ideal behavior
+1	ideal functionality ensures voter privacy
+1	ideal functionality of an e2e-v system
+1	ideal functionality specification
+1	ideal world adversary
+1	ideal world execution
+1	ideal worlds
+1	identical serial number
+1	identifiable data
+1	identify accessibility problems
+1	identify potential improvements
+1	identify voter intent
+1	identity-based
+1	ieee voting
+1	ignore rights
+1	ii
+1	illegal businesses online
+1	imdea
+1	imdeas
+1	impact trust
+1	impede voter participation
+1	impenetrable mess
+1	impersonate thousands
+1	implementation code
+1	implementation correctness
+1	implementation decisions
+1	implementation frameworks
+1	implementation fulfills
+1	implementation increases
+1	implementation languagescan
+1	implementation methodology automated
+1	implementation methodology ci
+1	implementation methodology issue tracking
+1	implementation methodology version control
+1	implementation need
+1	implementation point
+1	implementation strategies
+1	implementation style
+1	implementation technologyinvolve
+1	implementation type
+1	implementation-independent high-
+1	implementations behavior
+1	implementations code base
+1	implementing
+1	important aspect
+1	important aspects
+1	important audience
+1	important form
+1	important lessons
+1	important open question relates
+1	important part
+1	important protections
+1	important question
+1	important reference point
+1	important requirement
+1	important requirements
+1	important stage
+1	important stakeholders
+1	important step
+1	important tasks
+1	important uses
+1	important variation
+1	in-person elections
+1	in-person interviews
+1	inappropriate disclosure
+1	include
+1	included
+1	inconsistent patchwork
+1	incorporate feedback
+1	incorrect election dates
+1	incorrect information
+1	increase understanding
+1	increases poll worker training requirements
+1	incredible
+1	incremental fashion
+1	indelible paper ballots
+1	independent [
+1	independent advice
+1	independent bodies
+1	independent channel
+1	independent election verification programs
+1	independent implementation independent validation
+1	independent observation
+1	independent parties
+1	independent path
+1	independent random source
+1	independent top computer scientists
+1	independently-checkable hashchains
+1	individual algorithms
+1	individual ballot
+1	individual cases
+1	individual components
+1	individual computers
+1	individual concept specifications
+1	individual cryptographic algorithms
+1	individual election officials
+1	individual elections
+1	individual experts
+1	individual features
+1	individual machines
+1	individual modules
+1	individual objectives contribute
+1	individual parties
+1	individual steps
+1	individual vote verification
+1	individual vote verification [
+1	individual voter
+1	individual voters computers
+1	individual votes
+1	individuals
+1	inductive constructions
+1	industrial practice
+1	industrial software engineering community
+1	industry demands
+1	industry security
+1	ineligible person
+1	influential paper
+1	informal
+1	informal behavioral description
+1	informal command
+1	informal concept specification
+1	informal concept specifications list
+1	informal constraint
+1	informal domain analysis
+1	informal models
+1	informal queries
+1	informal query
+1	informal requirements
+1	informal reviews
+1	informal specifications
+1	informal specifications informal specifications
+1	informal specifications scenarios
+1	informally
+1	information processing standards
+1	information processing standards publication
+1	information relevant
+1	infrastructure
+1	infrastructure and equipment
+1	infrastructure software
+1	inherent faults
+1	inheritance
+1	inheritance relationship
+1	inheritance relationships
+1	initial
+1	initial defect
+1	initial formal specifications
+1	initial reflections
+1	initial stage
+1	inperson access
+1	input channel
+1	input data generation
+1	input plaintext m returns
+1	inria
+1	insecure communication protocols
+1	insecure elections
+1	insider ballot
+1	insider fraud
+1	instance modular proofs
+1	instant run-off
+1	insufficient identification [
+1	integers x
+1	integrate
+1	integrated feasibility analysis earning
+1	integration ensures
+1	integration testing
+1	integration tests test
+1	integrity
+1	integrity benefits
+1	integrity checks
+1	integrity requirements
+1	integrity violations
+1	intel
+1	intentional disruptions
+1	interaction design
+1	interactive behavior
+1	interactive proofs
+1	interactive verifications
+1	interative development process
+1	intercept ballots
+1	interesting input data generation
+1	interfaces of the ideal functionality
+1	intermediary computers
+1	intermediate setting
+1	internal assertions
+1	internal network topology
+1	international association
+1	international center
+1	international election standardization exists
+1	international standards
+1	international standards body
+1	international workshop
+1	internet protocol
+1	internet security protocols
+1	internet voting pilot
+1	internet voting requirements internet
+1	internet voting today internet
+1	internet-connected
+1	internetbased
+1	interoperability
+1	interoperability e2e-viv
+1	interoperability requirements
+1	interpreting evidence
+1	interpreting evidence for voters
+1	interview
+1	intractable malware attack
+1	intricate combinations
+1	introduce civilian absentee
+1	introduces voter-side entropy
+1	introducing
+1	introductory computer
+1	intrusive malware
+1	intuitively
+1	invalid input
+1	invalid votes
+1	invariant number_of_votes_cast >
+1	invest millions
+1	invisible ink code
+1	involves ballot integrity
+1	iowa
+1	irregularity affects
+1	irrevocable harm
+1	iso
+1	iso-9000
+1	isolating
+1	israel
+1	issue comments
+1	issue reports
+1	issue tracking
+1	issues
+1	ist s
+1	italy
+1	ivan damgard
+1	ivan damgrd
+1	j -th element
+1	j =
+1	j. alex halderman
+1	j.r. lewis
+1	james e tomayko
+1	james e. king
+1	james herbsleb
+1	jan bosch
+1	jan.
+1	jared demott
+1	java ides
+1	java modeling language
+1	java/jml
+1	javier lopez
+1	jean-marc nerson
+1	jean-raymond abrial
+1	jeremy clark
+1	jerry zeyu gao
+1	jetbrainss youtrack
+1	jml reference manual
+1	jmlunit
+1	jmlunitng
+1	john launchbury
+1	john p. wack
+1	john wack
+1	jonathan
+1	jonathan ben-nun
+1	joseph kiniry
+1	jscert
+1	judicious
+1	jvm
+1	k = h
+1	k ciphertexts
+1	k.c
+1	kang
+1	key
+1	key aspect
+1	key component
+1	key counties
+1	key distribution method
+1	key equipment
+1	key functions
+1	key generation
+1	key members
+1	key organizationsperhaps
+1	key part
+1	key qualification
+1	key reasons
+1	key recommendations
+1	key requirements
+1	key roles
+1	key security problems
+1	key technologies
+1	key-exchange protocols
+1	kim waldn
+1	kingdom
+1	klaus schmid
+1	koa
+1	kristen k. greene
+1	kristian gjsteen
+1	kstner
+1	l.
+1	l. zero-knowledge proofs
+1	laboratory
+1	lack technology
+1	lacks recovery mechanisms
+1	lacks semantics
+1	lang
+1	language choice determines
+1	language design
+1	language l = { x | w
+1	language-neutral specification languages
+1	languages
+1	large amount
+1	large amounts
+1	large body
+1	large collection
+1	large conspiracy
+1	large fixed set
+1	large number voters
+1	large pieces
+1	large scale
+1	large set
+1	large software systems
+1	large tree
+1	large-scale corruption
+1	large-scale deployment
+1	large-scale dispute resolution
+1	large-scale elections
+1	largescale theft
+1	late 1990s
+1	late ballot receipt
+1	late receipt
+1	laura inozemtseva
+1	laurie williams
+1	law commission oversaw
+1	lawrence livermore
+1	lead technical project
+1	leah daniels
+1	leendert
+1	legal
+1	legal challenges
+1	legal challengesand
+1	legal counsel
+1	legal impediments
+1	legal legal
+1	legal procedures
+1	legal requirements
+1	legalizing internet
+1	legislatures worldwide
+1	legitimate evidence
+1	legitimate security
+1	legitimate voters
+1	length k.
+1	leo
+1	leo it
+1	leon
+1	leos
+1	leslie lamport
+1	lessons
+1	lever machines
+1	leveraging
+1	lianping chen
+1	libraries
+1	licensed
+1	life cycle processes
+1	lifecycle
+1	lightweight end
+1	lightweight modeling language
+1	lightweight static tools
+1	likely consist
+1	likely invariants
+1	likely party preference
+1	likely specifications
+1	likely vote
+1	likewise
+1	limit deployment flexibility
+1	limitations
+1	limitations and tradeoffs of existing e2e systems ballot stuffing
+1	limitations and tradeoffs of existing e2e systems e2e
+1	linda northrop
+1	line conference
+1	line-by-line inspection
+1	linear
+1	linear hashchains [
+1	linear secret-sharing scheme
+1	linhares
+1	lionel c. briand
+1	lisp-like
+1	live election scenario
+1	llvm
+1	load ballot information
+1	local elections
+1	local elections officials
+1	local guidelines
+1	local legislators
+1	local levels
+1	local municipalities
+1	local nature
+1	local political attitudes
+1	local secrets
+1	locations [
+1	log data
+1	logical consistency
+1	logical formula
+1	logical framework
+1	logical frameworks
+1	logical presentation
+1	login information
+1	lois h. neuman
+1	lois neuman
+1	long delays
+1	long history
+1	long leash
+1	long project
+1	long sequence
+1	long term
+1	long waits
+1	longer-term projects
+1	los angeles countys vsap
+1	los angeles registrar-recorder/county clerk
+1	lottery-style scratch-off field
+1	louvain
+1	low-level architecture specification
+1	low-level communications
+1	low-level subset
+1	low-quality
+1	lower-level protocols
+1	lower-level specification languages
+1	lower-right peer
+1	luxembourg
+1	m servers
+1	m.v
+1	m1 + m2
+1	ma
+1	machine standards
+1	machine-checkable evidence
+1	machine-interpretable evidence
+1	machines disk
+1	magic fix
+1	mail-in ballot
+1	main application
+1	main challenge
+1	main concern
+1	main development
+1	main device
+1	main difference
+1	main driver
+1	main goals
+1	main issues
+1	mainstream elections
+1	mainstream open
+1	maintaining
+1	maintenance and evolvability
+1	maintenance costs
+1	maintenance process
+1	maintenance techniques
+1	major
+1	major architectural changes
+1	major challenge
+1	major cloud providers
+1	major conceptual
+1	major election systems vendors
+1	major life activities
+1	major project milestones
+1	major releasesan average
+1	major stakeholders
+1	major ways
+1	malicious action
+1	malicious administrator
+1	malicious client
+1	malicious corruption
+1	malicious errors
+1	malicious loss
+1	malicious purposes
+1	malicious software
+1	malicious web browsers
+1	malware denial
+1	malware denial of service
+1	malware infection
+1	malware modification of votes
+1	malware threat
+1	malware vote privacy violation
+1	malware writer
+1	man-in-the-middle attacker
+1	manageable environments
+1	manageable scenario
+1	management processes
+1	management systems
+1	management technologies
+1	manages changes
+1	manages digital certificates
+1	mandatory component
+1	mandatory usability
+1	mandayam srivas
+1	manual
+1	manual code review
+1	manual effort
+1	manual execution
+1	manual guidance
+1	manual hand
+1	manual intervention
+1	manual operator
+1	manual process
+1	manual release management
+1	mare
+1	maricopa
+1	mark harman
+1	market pressure
+1	markup language
+1	marshall pease
+1	martin kuhlemann
+1	massachusetts
+1	mathematical description
+1	mathematical principles
+1	mathematical specification
+1	mathematical statements
+1	mathematical step
+1	mathematician
+1	mathematics
+1	maturity
+1	maximal coverage
+1	maximum extent
+1	maximum recovery time
+1	maximum system
+1	mdd
+1	measure performance
+1	measuring
+1	measuring and assessing quality
+1	mechanical theorem
+1	mechanization
+1	mechanized
+1	media
+1	medical certification
+1	mediocre attempts
+1	medium-level specification
+1	medium-to-long term
+1	meeting
+1	memory allocation
+1	memory leaks
+1	memory usage/storage requirements
+1	mental game
+1	mental impairment
+1	merchant marines
+1	mere fact
+1	message x
+1	methodology based
+1	methods
+1	mexico
+1	michael
+1	michael clarkson
+1	michael d. byrne
+1	michael d. ernst
+1	michael fagan
+1	michael jacobson
+1	michael p. mcdonald
+1	michael y. levin
+1	michigan candice hoke
+1	microsoft azure
+1	microsoft internet explorerplus
+1	microsoft researchs crypto verification kit
+1	midterm election cycle
+1	milcom
+1	military members
+1	military personnel
+1	military personnel absentee
+1	military voter
+1	military voter laws
+1	military voter participation
+1	milos gligoric
+1	minimal assumptions
+1	minimal developer effort
+1	minimum number
+1	minimum threshold
+1	minnesota
+1	minor patch releases
+1	minor protocol changes
+1	mirage os
+1	mirror specifications
+1	mission report
+1	mission-critical systems
+1	mission-critical systems areas
+1	mistaken memory
+1	misunderstand changes
+1	mit
+1	mitigate insider foreknowledge
+1	mitigate issues
+1	mitigation strategies
+1	mix-net operation
+1	mix-nets
+1	mobile app
+1	mobile phones
+1	mobile security
+1	mock elections
+1	model [
+1	model checker determines
+1	model checking
+1	model checking model
+1	model fulfills
+1	model hold
+1	model-based engineering
+1	model-based testing
+1	model-driven
+1	model-driven development
+1	modeling
+1	models [
+1	moderate price
+1	modern formal system specification languages support traceability
+1	modern public elections
+1	modern software systems
+1	modify ballots
+1	modify data
+1	modify election results
+1	modify voter record message
+1	modify votes
+1	modular fashion
+1	module interactions
+1	mothers maiden name
+1	move forward
+1	mozilla firefox
+1	mozillas
+1	mthode b. url
+1	muhammad ali babar
+1	multi-party computation and linear secret sharing
+1	multimodal inputs
+1	multiparty
+1	multiparty computation
+1	multiple accessible devices
+1	multiple approaches
+1	multiple channels
+1	multiple commercial cloud infrastructures
+1	multiple complaints
+1	multiple computers compute
+1	multiple concepts
+1	multiple databases
+1	multiple deployment platforms
+1	multiple developers
+1	multiple disabilities
+1	multiple environments
+1	multiple experts
+1	multiple features
+1	multiple good options
+1	multiple implementation choices
+1	multiple independent implementations
+1	multiple individuals
+1	multiple informal concept specifications
+1	multiple machines
+1	multiple modules
+1	multiple modules interact
+1	multiple parties
+1	multiple people
+1	multiple pilot elections
+1	multiple redundant implementations
+1	multiple servers
+1	multiple source code specification languages
+1	multiple states
+1	multiple suites
+1	multiple systems
+1	multiple times online
+1	multiple toolchains
+1	multiple tools
+1	multiple types
+1	multiple users
+1	multiple users test
+1	multiple versions
+1	multiple workflow practices
+1	multiple years
+1	mutually-incompatible textual
+1	mysql
+1	n > =
+1	n ce
+1	n elements
+1	n parties
+1	n shares s
+1	n. shankar
+1	nachiappan nagappan
+1	naive proposals
+1	nased
+1	national association
+1	national election results
+1	national level
+1	national public elections
+1	national security context
+1	native application
+1	native application binaries
+1	nato science series
+1	natural disaster
+1	natural language
+1	nave voter feedback
+1	ndp
+1	neal mcburnett
+1	near future
+1	necessary components
+1	necessary computations
+1	necessary concepts
+1	necessary cryptographic
+1	necessary evidence
+1	necessary information
+1	necessary network
+1	necessary properties
+1	necessary security measures
+1	necessary skills
+1	necessary theoretical
+1	negative assessment
+1	net effect
+1	netbsd
+1	network
+1	network attacks and distributed denial of service
+1	network bandwidth
+1	network communications
+1	network connectivity
+1	network environment
+1	network infrastructure
+1	network path
+1	network protection services
+1	network resources
+1	new area
+1	new assurances
+1	new ballot
+1	new ballots
+1	new deployment environments
+1	new election systems
+1	new elections technologies
+1	new electronic ballot
+1	new evidence
+1	new features
+1	new generation
+1	new hardware
+1	new implementation
+1	new ink signature
+1	new inputs
+1	new languages
+1	new ledger element x
+1	new process
+1	new projects
+1	new protocols
+1	new release
+1	new results
+1	new secret key sk
+1	new security problems
+1	new steps
+1	new system
+1	new technologies
+1	new technology
+1	new tests
+1	new version
+1	new vote
+1	nice side effect
+1	nikolai tillmann
+1	nist-approved dual_ec_drbg prng
+1	nitro
+1	nizks
+1	nn ou n ce
+1	no guarantees
+1	no-excuse absentee
+1	noel h. runyan
+1	noel runyan
+1	non-adequate test suites
+1	non-e2e systems
+1	non-english speakers
+1	non-experts
+1	non-functional interoperability figure
+1	non-functional requirement
+1	non-functional requirement groups
+1	non-functional requirements forcing architectural factors certification
+1	non-functional requirements non-functional requirements
+1	non-functional tests
+1	non-government entities
+1	non-governmental enetities
+1	non-interactive protocols
+1	non-internet election scenarios
+1	non-linear
+1	non-malicious voters
+1	non-profit foundations
+1	non-security properties
+1	non-standard foundational techologies
+1	non-standard foundations
+1	non-technical aspects
+1	non-technical feasibility analysis law
+1	non-technical feasibility analysis non-technical
+1	non-technical staff
+1	non-technical version
+1	non-trivial information
+1	non-trivial program
+1	nondisclosure agreement
+1	nonprofit organization
+1	normal conditions
+1	normal operation
+1	northridge
+1	norway
+1	norways
+1	norwegian internet voting protocol
+1	not-quite-so-broken tls
+1	notable example
+1	notarization requirements
+1	nour ali
+1	novel experimentation
+1	novel research directions
+1	nsa
+1	nth fibonacci number
+1	ntp
+1	nuclear energy
+1	number generators
+1	numberand instructions
+1	numeric literals
+1	numeric types
+1	numerous hands
+1	numerous protocols
+1	numerous reports
+1	numerous researchers
+1	numerous universities
+1	object constraint language
+1	object management
+1	object-oriented programming
+1	observe
+1	obstacles
+1	obvious choice
+1	obvious questions
+1	obvious widespread malware denial
+1	ocaml
+1	ocl
+1	oct.
+1	officers
+1	official election verification application
+1	official grantee
+1	official project team
+1	official release
+1	official server
+1	official set
+1	official sub-teams
+1	official verification programyou
+1	officials input
+1	old languages
+1	old signature image
+1	old technology
+1	old vote
+1	omgs
+1	on-site ballot
+1	on-site system
+1	on_paper
+1	one-time access codes
+1	online
+1	online ballot return systems
+1	online bulletin board
+1	online citizen identification
+1	online election
+1	online elections
+1	online purposes besides
+1	online registration
+1	online voters
+1	online votes
+1	ontario ndp
+1	oopsla
+1	opaque subsystems
+1	open polls message
+1	open question
+1	open source code
+1	open source implementations
+1	open source static analysis tools
+1	open source system
+1	open source systems
+1	open system
+1	open-audit voting
+1	open-source choices
+1	open-source issue
+1	open_protocols_and_specs
+1	opening doors
+1	openness
+1	openness and transparency
+1	operational aspects
+1	operational issues
+1	operational operational
+1	operational procedures
+1	operational requirements
+1	operationally
+1	opportunitiesshould focus
+1	optical scan election systems
+1	optical scan elections
+1	optical signals
+1	or
+1	ordinary software bugs
+1	oregon
+1	oreilly media
+1	org / iso / catalogue_detail.htm
+1	org / iso / home / standards / management standards/iso_9000.htm
+1	org / publication /
+1	organizational code style standards
+1	organizational identities
+1	organizational structure
+1	organizational style standards
+1	organizations
+1	original domain analysis
+1	original project
+1	original sequence
+1	original source
+1	original vendors
+1	original verification
+1	osce/odihr
+1	other potentially useful cryptographic tools
+1	others non-technical
+1	otherwise-sound cryptographic systems
+1	outcomes solicit
+1	outcomes usability
+1	outgoing connections
+1	outline
+1	output channel
+1	output interfaces
+1	outsider attack
+1	outstanding issues
+1	overall experience
+1	overall feasibility
+1	overall goals
+1	overall objective
+1	overall project conception
+1	overall responsibility
+1	overall software architecture
+1	overseas and military voters
+1	overseas citizens
+1	overseas civilian absentee
+1	overseas civilian groups
+1	overseas civilian voters
+1	overseas postal
+1	overseas soldiers
+1	overseas vote foundations
+1	overseas voter empowerment
+1	overseas voter participation
+1	overseas voter program
+1	overture tool
+1	own authentication credentials
+1	own ballot
+1	own ballots
+1	own clean environment
+1	own companiesa condition
+1	own experts
+1	own familiar hardware
+1	own flaky computers
+1	own high-bandwidth
+1	own infrastructure
+1	own interface
+1	own machines
+1	own programs
+1	own proprietary designs
+1	own secret information
+1	own share
+1	own source code
+1	own standards
+1	own strengths
+1	own technology
+1	own test vectors
+1	package release artifacts
+1	packaging
+1	palgrave macmillan
+1	paper absentee ballots
+1	paper ballot overrides
+1	paper cast vote records
+1	paper mail-in ballots
+1	paper proof
+1	paper proofs
+1	paper receipt
+1	paper specifications
+1	paper trail
+1	parameter k
+1	parameter p
+1	paramount importance
+1	paris
+1	park election
+1	parliamentary elections [
+1	part home
+1	partial failures
+1	partial opening
+1	partial recertification
+1	partial verification
+1	particular actions
+1	particular concrete values
+1	particular execution environment
+1	particular focus
+1	particular implementation languages
+1	particular inputs
+1	particular part
+1	particular program
+1	particular race
+1	particular run
+1	particular server
+1	particular values
+1	particular voter
+1	parties measure
+1	partisan politics
+1	partisan struggles
+1	parts reveals
+1	party authentication mechanisms
+1	party verification
+1	passive repository
+1	password parameters
+1	past activities
+1	past decade
+1	past systems
+1	past vendors
+1	patch election systems
+1	patent
+1	path coverage
+1	patrice godefroid
+1	paul clements
+1	paul syverson
+1	payment systems
+1	paypal
+1	pci ssc data
+1	pcs
+1	peak times
+1	peer network
+1	peer peer peer peer electoral authority peer peer peer peer peer peer party
+1	peer peer peer peer figure
+1	peer review
+1	peer-to-peer architecture raises
+1	peer-to-peer architecturesuch
+1	peer-to-peer electronic cash
+1	peer-to-peer implementation
+1	peer-to-peer network model
+1	peer_to_peer
+1	peers knowledge
+1	peerto-peer fashion
+1	pen reacts
+1	people lack
+1	peoples election
+1	per-file abstraction
+1	performance bottlenecks
+1	period approaches
+1	personal computers
+1	personal data
+1	personal data systems
+1	pervasive use
+1	peter h. feiler
+1	peter ryan
+1	peter y
+1	pex
+1	pexwhite
+1	pgp
+1	pgp users guide
+1	ph.d.
+1	ph.d. daniel m. zimmerman
+1	ph.d. daniel wagner
+1	ph.d. galois joseph r. kiniry
+1	ph.d. philip robinson adam foltzer shpatar morina july
+1	phase
+1	phd
+1	philanthropic organization
+1	philip robinson
+1	philip zimmermann
+1	philippe bulens
+1	phone number
+1	physical access
+1	physical artifact
+1	physical delamination
+1	physical disabilities
+1	physical election security procedures
+1	physical implementation
+1	physical locations
+1	physical mailers
+1	physical protocols
+1	physical record
+1	physical security
+1	physical theft
+1	piece software
+1	pilato
+1	pilot study
+1	pilot tests
+1	pin
+1	place online
+1	place out-of-band
+1	plaintext forms
+1	plaintext part
+1	plaintext v i corresponds
+1	platform module
+1	platform modules
+1	playstation
+1	pldi
+1	plurality vote
+1	point-and-click deployment
+1	policy
+1	policy considerations
+1	policy decision
+1	policy innovation
+1	political action committee
+1	political actors
+1	political and legal challenges
+1	political decision
+1	political feasibility
+1	political goals
+1	political organizations
+1	political organizationswhich
+1	political organzations
+1	political spectrum
+1	political system integrity
+1	poll tax
+1	polling
+1	polynomial-time predicate
+1	poor use
+1	pop-up blockers
+1	popular approach
+1	popular commercial websites
+1	popular movement
+1	portugal
+1	positive action
+1	positive attitude
+1	positive effects
+1	positive side
+1	possibility [
+1	possible appearances
+1	possible choice
+1	possible comprehensive defense
+1	possible deployment
+1	possible deployment scenarios
+1	possible execution paths
+1	possible flaws
+1	possible impact
+1	possible implementations
+1	possible measures
+1	possible outweigh
+1	possible path
+1	possible problems
+1	possible server topologies
+1	possible values
+1	possible variants
+1	post-election audit
+1	post-election uocava survey
+1	post-election verification stage
+1	postage costs
+1	postal systems
+1	postcondition result >
+1	postgres
+1	potential applicability
+1	potential application
+1	potential applications
+1	potential approach
+1	potential attack surfaces
+1	potential benefits
+1	potential breach
+1	potential breaches
+1	potential candidates
+1	potential issues
+1	potential recommendations
+1	potential root values
+1	potential security issues
+1	potential solution space
+1	potential solutions
+1	potential threats
+1	potential voters
+1	potentially useful cryptographic tools
+1	powerful
+1	powerful adversaries
+1	powerful nation
+1	powerful partisan fraud tool
+1	powerful political special interest groups
+1	powerful security guarantees
+1	powerful type
+1	practical
+1	practical issues
+1	practical problem
+1	practical pursuit
+1	practical solutions
+1	practice elections
+1	practices [
+1	prato
+1	pre-election step
+1	precise description
+1	precise formulation
+1	precise mathematical terms
+1	precise mechanization
+1	precise recommendations
+1	precise specification
+1	precise specifications lead
+1	precise structure
+1	preconditions
+1	predicate captures
+1	preliminary results
+1	premiere environments
+1	prentice
+1	prentice-hall
+1	prepared
+1	present evidence
+1	present medical documentation
+1	present system formulation relies
+1	present terminology
+1	preserves vote integrity
+1	president and chief executive officer judy murray
+1	pressing
+1	prevents manipulation
+1	previous acts
+1	previous architectural variants
+1	previous choices
+1	previous elections [
+1	previous hashchain
+1	previous inputs
+1	previous non-e2e
+1	previous works
+1	primary
+1	primary architectural variants database
+1	primary architectural variants large fixed set of servers
+1	primary architectural variants party
+1	primary architectural variants web/app server
+1	primary architectural variants web/app server database
+1	primary component
+1	primary consultant
+1	primary deliverables
+1	primary e2e-v protocols
+1	primary focus
+1	primary mirror
+1	primary requirement
+1	primary sources
+1	primary system variants
+1	primary use
+1	princetons
+1	principal conclusions
+1	privacy arguments
+1	privacy aspects
+1	privacy benefits
+1	privacy controls
+1	privacy issues
+1	privacy violations
+1	private cloud
+1	private cloud infrastructures
+1	private companies
+1	private elections
+1	private information
+1	private key
+1	private platforms
+1	private resources
+1	prng
+1	pro git
+1	probabilistic computations
+1	probabilistic strategy
+1	problematic aspect
+1	process
+1	process automation
+1	process external input
+1	process_based
+1	processing configuration files
+1	processing systems
+1	processing test ballots
+1	prod_ group_id=1
+1	produce
+1	product
+1	product line engineering
+1	production servers
+1	professional societies
+1	professional website
+1	program
+1	program branches
+1	program crashes
+1	program development
+1	program runs
+1	program verification
+1	program verifier
+1	programming errors
+1	programming language
+1	programming languages
+1	programs
+1	programs behavior
+1	prohibit developers
+1	project [
+1	project automation
+1	project coordination capstone project team carnegie mellon
+1	project discounts
+1	project log
+1	project milestone
+1	project of u.s. vote foundation written and produced by galois u.s. vote foundation susan dzieduszycka-suinat
+1	project shows
+1	project team rachel bohman
+1	project team team members project
+1	projects history assures
+1	projects implementation languages
+1	prominent example
+1	prominent use
+1	promising [
+1	promising approach
+1	promotes voter independence
+1	proof arguments
+1	proof assistant
+1	proof assistant [
+1	proof checkers
+1	proof-carrying
+1	proof-carrying code
+1	proofs
+1	proper choice
+1	proper feedback
+1	proper form
+1	proper function
+1	proper system operation
+1	proper value
+1	properties
+1	proponents
+1	proposal development
+1	proposals
+1	proposed study and objectives
+1	proprietary data formats
+1	proprietary election systems
+1	prospective vendors
+1	protecting confidentiality
+1	protection services
+1	protective measures
+1	protocol description
+1	protocol designers
+1	protocol designs
+1	protocol development
+1	protocol dictates
+1	protocol evolution
+1	protocol fulfills
+1	protocol implementations
+1	protocol stack
+1	protocol verification
+1	protocol verification tool
+1	protocol verification tools
+1	protocol-centric tools
+1	protocols correctness
+1	protocols security properties
+1	provenance requirements
+1	provide
+1	providing
+1	provision exists
+1	pseudorandom
+1	pseudorandom number generators
+1	pseudorandom random number generators
+1	psychological roots
+1	public attitudes
+1	public audit
+1	public audits
+1	public awareness
+1	public bulletin boards
+1	public ceremonies
+1	public charity
+1	public cloud resources
+1	public confidence
+1	public documentation
+1	public election systems
+1	public issue trackers
+1	public key generation
+1	public key infrastructure
+1	public key pk
+1	public manner
+1	public office
+1	public protocol
+1	public reactions
+1	public relations
+1	public systems
+1	public verification
+1	public-key cryptography
+1	public-key encryption operation
+1	public-key encryption pair
+1	public-key encryption scheme
+1	public/secret key generation algorithm
+1	public_ceremony
+1	public_cloud
+1	publications
+1	publickey encryption
+1	publish manifests
+1	punch cards
+1	punchscan punchscan
+1	puppet labs
+1	pure functional language
+1	pure functional style
+1	pure functional style exemplifies
+1	pure peer-to-peer architectures
+1	pure randomness
+1	purpose [
+1	python software
+1	qualitative experiment
+1	qualitative experiments
+1	qualitative feedback
+1	quality control process
+1	quality management
+1	quality process
+1	quality process category
+1	quality software system
+1	quality-centric software engineering
+1	quantitative experiment
+1	quantitative experiments
+1	quantitative usability study
+1	queries
+1	quick suite
+1	quickcheck-like
+1	radiation output
+1	radical way
+1	raise
+1	raiserigorous approach
+1	ralf steinbrggen
+1	raluca ada popa
+1	randall trzeciak
+1	random [
+1	random audit
+1	random data
+1	random input
+1	random input generator
+1	random seedinto
+1	random sequences
+1	randomized
+1	randomized and fuzz testing manually-written
+1	randomly
+1	randomness quality
+1	rapid progress
+1	rare effort
+1	rationale
+1	rationale remote
+1	rdrand
+1	re casting
+1	re-engineering
+1	re-vote
+1	reachable states
+1	read
+1	readable ballots
+1	readily-available oracles
+1	real challenge
+1	real environment
+1	real execution
+1	real opportunities
+1	real persons
+1	real public elections
+1	real system
+1	real-world election scenariosis
+1	real-world performance requirements
+1	real-world use
+1	realistic programthe number
+1	realistic system
+1	realistic ways
+1	realities lead
+1	reality tv show
+1	realizing ideal functionality realizing ideal functionality
+1	reasonable amount
+1	reasonable choice
+1	reasonable choices
+1	reasonable costs
+1	reasonable implementation
+1	reasonable number
+1	reasonable proposal
+1	reasonable representations
+1	reasonable way
+1	reasoning
+1	reasoning frameworks
+1	receipt
+1	receipt code
+1	receipt codes
+1	receipt data
+1	receipt freedom e2e-viv
+1	receipt freedom requirement
+1	recent advances
+1	recent call
+1	recent extensions reason
+1	recent formalization
+1	recent research
+1	recent shifts
+1	recent years
+1	recommendations [
+1	recommendations based
+1	recommendations focus
+1	recommendations recommendations
+1	recommendations reflect
+1	recommendfor example
+1	reconstruction algorithm
+1	record voter intent
+1	record votes
+1	recorde
+1	recorded
+1	recount results
+1	recounts
+1	redundant backup systems
+1	redundant implementations
+1	redundant storage
+1	redundant system design
+1	reference point
+1	refinement techniques
+1	reflect changes
+1	registration
+1	registration material
+1	registration timing
+1	regression
+1	regression suite
+1	regression test
+1	regression testing
+1	regression tests
+1	regular health checks
+1	rehabilitation
+1	reid holmes
+1	reiner sailer
+1	relational
+1	relational properties
+1	relative merits
+1	release cycle
+1	release management and lifecycle release
+1	release management process
+1	release software
+1	release stage
+1	relevant artifacts
+1	relevant cryptographic tools
+1	relevant election officials
+1	relevant inputs
+1	relevant protocols
+1	reliability e2e-viv
+1	reliable estimates
+1	reliable method
+1	reliable software systems
+1	reliable systems
+1	remote attackers
+1	remote attestation
+1	remote ballot [
+1	remote client hardware
+1	remote destinations
+1	remote elections
+1	remote service
+1	remote systems
+1	remotely-cast ballots
+1	replacement credentials
+1	replicated
+1	replication
+1	report [
+1	report potential issues
+1	reports system specification
+1	repository identifies
+1	representative range
+1	reproducibility
+1	reproducibility and automation
+1	required properties
+1	requirement addresses
+1	requirement categories
+1	requirements [
+1	requirements and scenarios
+1	requirements engineering
+1	requirements focus
+1	requiring
+1	requisite skills
+1	research and engineering challenges
+1	research center
+1	research community
+1	research dr.
+1	research issues
+1	research report
+1	research system
+1	research teams
+1	residual vote
+1	resistance to client malware and denial of service
+1	resource allocation
+1	resource changes
+1	respective development environments
+1	response procedures
+1	response time
+1	responsible alternative
+1	responsible way
+1	restore system integrity
+1	result [
+1	retargetable crypto development
+1	retinal scans
+1	return code generator
+1	return code generator share information
+1	reverse engineering
+1	reversibility
+1	reversible refinement
+1	review practices
+1	reviews
+1	revision
+1	revolutionizing
+1	rhod j. jones
+1	rich online experiences akin
+1	richard carback
+1	richard vogt
+1	right circumstances
+1	right hand side contains
+1	rigorous
+1	rigorous approach
+1	rigorous development approach
+1	rigorous engineering demonstrators
+1	rigorous engineering methodologies
+1	rigorous implementation practices
+1	rigorous process
+1	rigorous software engineering context
+1	rigorous software engineering sound
+1	rigorous software engineering techniques
+1	rigorous specification
+1	rijnland
+1	rinkesh nagmoti
+1	ripple outward
+1	robert shostak
+1	robinson
+1	robust protocol
+1	robustness
+1	rockville
+1	rogue certificate authority
+1	ronald cramer
+1	ronald perez
+1	roots
+1	roots of trust
+1	rop gonggrijp
+1	rough idea
+1	route traffic
+1	rsa
+1	rubber hose attack extracts information
+1	rubber hose attacks
+1	runtime assertion
+1	runtime assertion check
+1	runtime assertions
+1	runtime environments
+1	s n }
+1	sabrinade capitani
+1	safe implementation
+1	same-day voter registration
+1	sample voters
+1	sarah p. everett
+1	sat
+1	satoshi nakamoto
+1	scantegrity
+1	scantegrity ii municipal
+1	scantegrity ii voting
+1	scantegrity responds
+1	scantegrity-ii
+1	scarce resources
+1	scenarios
+1	scenarios describe
+1	scheme
+1	scheme attains
+1	science division
+1	science education
+1	scientific leaders
+1	scientific literature
+1	scientific specialists
+1	scientists care
+1	scientists doubt claims
+1	scope
+1	scott a. vanstone
+1	scott chacon
+1	scratch-off field
+1	script blockers
+1	scyther protocol description language
+1	scyther tool
+1	seamless
+1	sean beggs
+1	sebastopol
+1	second-class effectiveness
+1	secret
+1	secret informationin
+1	secret key msk
+1	secret-key sk
+1	secret-sharing
+1	section 3.3.1
+1	section 3.3.2
+1	section 3.3.3
+1	section 4.1.8
+1	section 6.1.4
+1	section 8.1.5
+1	section 8.2.3
+1	section 8.2.5
+1	section focuses
+1	section508.gov
+1	security
+1	security assurance accessibilty procedural usability evolvability auditing maintenance authentication operational reliability legal system operational certification functional
+1	security breach
+1	security characteristics
+1	security characterizations
+1	security climate changes
+1	security experts
+1	security experts advise
+1	security infrastructureand
+1	security patches
+1	security problems
+1	security property verification
+1	security protocols
+1	security researcher
+1	security specification
+1	security strength
+1	security threats
+1	securitythe twin
+1	seed input
+1	sel4 [
+1	self-certification
+1	self-certification mechanism
+1	senior advisor
+1	senior cryptographer
+1	separate phase
+1	separate security issue
+1	separate servers
+1	separate times
+1	september
+1	sequences ii
+1	sequential records
+1	serious challenge
+1	serious effort
+1	serious integration
+1	serious problems
+1	serious shortcomings
+1	serve
+1	server functionality
+1	server information
+1	server infrastructure
+1	server regardless
+1	servers
+1	servers architecture
+1	servers cant
+1	servers interact
+1	servers security certificate
+1	service availability
+1	service efforts
+1	services [
+1	set up
+1	set { s
+1	setup d setup
+1	setup phase
+1	seunghyun lee
+1	sha
+1	shafi goldwasser
+1	shared goals
+1	shareddocs
+1	sharemonad
+1	sharp contrast
+1	shin yoo
+1	short development timelines
+1	short examples
+1	short paragraph
+1	short timetable
+1	shortcomings of current practice
+1	shortcomings of current practice accessibility and usability
+1	shortcomings of current practice modern remote voting
+1	shpatar morina
+1	sigchi
+1	sigma
+1	signature chain ensures
+1	signature chains
+1	signature check
+1	significant advantages
+1	significant amounts
+1	significant benefits
+1	significant challenge
+1	significant check
+1	significant commercial support business infrastructure
+1	significant complexity
+1	significant computational resources
+1	significant developer effort
+1	significant digit
+1	significant effort
+1	significant impact
+1	significant loss
+1	significant manual effort
+1	significant number
+1	significant readability issues
+1	significant research
+1	significant research challenge
+1	significant risks
+1	significant security
+1	significant tradeoffs
+1	significant usability
+1	sigplan notices
+1	silvio micali
+1	similar accessible devices
+1	similar attacks
+1	similar development cost
+1	similar devices
+1	similar mechanisms
+1	similar problems
+1	similar proportions
+1	similar standard
+1	similar systems
+1	simple file storage
+1	simple language
+1	simple majority
+1	simple natural-language sentences
+1	simple protocols
+1	simple question
+1	simple syntactic checks
+1	simple systems
+1	simple unit tests
+1	simpler in-person setting
+1	single point of failure
+1	sip-and-puff input devices
+1	skype
+1	small components
+1	small concession
+1	small critical sections
+1	small demonstration systems
+1	small group
+1	small groups
+1	small problems
+1	small random sample
+1	small standard
+1	small task
+1	small-scale defects
+1	smalltalk
+1	smart ballot tracker corresponds
+1	smart ballot tracker information
+1	smart phone applications
+1	smooth integration
+1	smoothly
+1	smt
+1	social and political
+1	social class
+1	social media
+1	social networks
+1	social nonfunctional requirements
+1	social pressure
+1	social security database
+1	social security number
+1	soft solutions
+1	software architecture specification
+1	software bugs
+1	software components
+1	software computes
+1	software considerations
+1	software correctness
+1	software defect reduction
+1	software defects increases
+1	software developers
+1	software development environments
+1	software development languages
+1	software development processes
+1	software ecosystem
+1	software elements
+1	software engineer
+1	software engineering flaws
+1	software engineering methodologies
+1	software engineering methodology
+1	software engineering process
+1	software engineering recommendations
+1	software evolve
+1	software implementations
+1	software independence doesnt
+1	software industry
+1	software interface
+1	software manifest
+1	software packages
+1	software platforms
+1	software product lines developing
+1	software projects
+1	software quality engineering
+1	software relate
+1	software releases
+1	software safeguards
+1	software specifications
+1	software stack combinations
+1	software system [
+1	software system fulfills
+1	software systems [
+1	software tools
+1	software trustworthy
+1	software versions
+1	softwares dependencies
+1	softwares functionality
+1	soldier voting
+1	sole sources
+1	solid foundation
+1	solid set
+1	sophisticated assistive devices
+1	sophisticated coverage measures
+1	sophisticated cybercrimes
+1	sophisticated equipment
+1	sophisticated technical means
+1	sosp
+1	sound designs
+1	soundness expresses
+1	source code changes
+1	source code specification language
+1	source code specification languages
+1	source continuous integration server
+1	source development groups
+1	source files
+1	source form
+1	source statements
+1	spacecraft applications
+1	spdl
+1	special acknowledgment
+1	special attention
+1	special case
+1	special ciphertext processing operation
+1	special committee
+1	special device
+1	special format
+1	special hardware devices
+1	special instrumentation
+1	special role
+1	special thanks
+1	specialist knowledge
+1	specific
+1	specific architectural factors
+1	specific aspects
+1	specific ciphertexts
+1	specific cloud provider
+1	specific components
+1	specific considerations
+1	specific election certification guidelines
+1	specific electoral officials
+1	specific external dependencies
+1	specific functionalities
+1	specific implementation languages
+1	specific languages
+1	specific numbers
+1	specific parts
+1	specific platforms
+1	specific processes
+1	specific set
+1	specific task
+1	specific tools
+1	specific voter choice
+1	specification aspects
+1	specification conformance
+1	specification inference
+1	specification language choices
+1	specification of open protocols
+1	specification of open protocols e2e-v
+1	specification refinement process
+1	specification technique
+1	specifications describe
+1	specify cryptographic algorithms
+1	specify interaction protocols
+1	specify overall characteristics
+1	specify standards
+1	specify variants
+1	speculative future research
+1	speculative impact
+1	spidermonkey
+1	spinoff project
+1	spl
+1	spl-based
+1	spls
+1	spoil ballots
+1	spoiling
+1	springer netherlands
+1	spurious bit flips
+1	src
+1	ssl
+1	st te s
+1	stable storage
+1	staff member
+1	standard choices
+1	standard cryptographic notion
+1	standard cryptographic protocols
+1	standard database systems
+1	standard database technology
+1	standard libraries
+1	standard manner
+1	standard means
+1	standard practice
+1	standard public key cryptosystems
+1	standard requirement
+1	standardize data interchange formats
+1	standards [
+1	standards fall
+1	standards overview
+1	stark contrast
+1	startup time
+1	state certification
+1	state election
+1	state elections
+1	state elections systems
+1	state governments
+1	state issues
+1	state laws
+1	state mandate
+1	state transformation rules
+1	state university
+1	state university dr.
+1	state-defined
+1	state-specific paperwork
+1	state-wide
+1	statement coverage
+1	statement x l
+1	states absentee registration
+1	static analysis recommendations
+1	static analysis static
+1	static analysis tool
+1	static data
+1	static resources
+1	static verification
+1	statistical analysis
+1	statistics
+1	stephen h. kan. metrics
+1	steps
+1	steps voters
+1	steve schneider
+1	stimulate election development overall
+1	stock market end-of-day quotes
+1	straightforward syntax
+1	strengthening trust
+1	strenuous requirements
+1	strict reliability requirements
+1	strict subset
+1	strict voter
+1	stringent development
+1	strong community
+1	strong contrast
+1	strong remote voter authentication
+1	strong security
+1	strong type systems
+1	student election [
+1	student governments
+1	study [
+1	study shows
+1	style contains
+1	style enforcement tool
+1	submit button
+1	submit vote codes
+1	subsequent changes
+1	subsequent outcry
+1	subsequent release management
+1	subsequent research
+1	subsequently
+1	substantial functionality
+1	substantial integrity issues
+1	substantial new benefits
+1	subsystemsthe effort
+1	success
+1	success criteria
+1	success rates
+1	successful adoption
+1	successful attack
+1	successful deployment
+1	successful malware
+1	successful outcome
+1	successful track record
+1	such analyses
+1	such appointments
+1	such ballot
+1	such cases
+1	such constraints
+1	such denial
+1	such discussions
+1	such dispute resolution mechanisms
+1	such effort
+1	such errors
+1	such failures
+1	such frameworks
+1	such generators
+1	such higher-level languages
+1	such improvements
+1	such inconsistencies
+1	such instrumentation
+1	such investments
+1	such keys
+1	such malicious code
+1	such mechanization
+1	such misjudgments
+1	such modules
+1	such network attacks
+1	such new support vendors
+1	such plaintexts
+1	such procedures
+1	such programs
+1	such proofs
+1	such requirement
+1	such schemes
+1	such signatures
+1	such sources
+1	such system
+1	such systems authenticate
+1	such techniques
+1	such tools
+1	such trust
+1	such verification
+1	such violations
+1	such vulnerabilities
+1	such weak authentication mechanisms
+1	sufficient access
+1	sufficient accuracy
+1	sufficient arrangements
+1	sufficient detail
+1	sufficient entropy
+1	sufficient evidence
+1	sufficient independent evidence
+1	sufficient performance
+1	sufficient resources
+1	sufficient security
+1	sufficient verification data
+1	suitable path
+1	suitable reliable power supplies
+1	suitable roots
+1	supervised first
+1	supervisors
+1	support automation
+1	support claims
+1	support communities
+1	support elastic demand
+1	support elections
+1	support partial
+1	support refinement
+1	support services
+1	support team susan dzieduszycka-suinat
+1	support technologies
+1	support unikernel architectures
+1	supported
+1	supportive community
+1	supports deployment
+1	supports high-level domain
+1	surrey
+1	suspicious political groups
+1	sven apel
+1	switch interface
+1	switzerland
+1	sybil attacks
+1	symantec
+1	symbolic constants
+1	symbolic execution
+1	symbolic executionanalysis
+1	symbolic fashion
+1	symbolic model
+1	symmetric encryption keys
+1	synchronization point
+1	syst
+1	system administration experts
+1	system administrator precomputes
+1	system availability
+1	system builds
+1	system certification
+1	system certification regime changes
+1	system changes
+1	system combinations
+1	system correctness
+1	system deals
+1	system designers
+1	system developers
+1	system emails
+1	system evolution
+1	system exists
+1	system generates
+1	system guarantees voter privacy
+1	system hinges
+1	system identifies
+1	system integrators
+1	system integrity
+1	system issues
+1	system malfunctions
+1	system need
+1	system officials
+1	system operation
+1	system operational requirements ensure
+1	system pilot projects [
+1	system proceeds
+1	system records
+1	system release
+1	system requirements
+1	system requirements relate
+1	system responsiveness
+1	system runs
+1	system security
+1	system security policies
+1	system security requirements
+1	system sends
+1	system services
+1	system tests
+1	system usability
+1	system voters compose
+1	system vulnerability
+1	system-reliability
+1	system/platform combination
+1	systemall versions
+1	systematic review
+1	systems architecture
+1	systems attempt
+1	systems authentication mechanism
+1	systems behavior
+1	systems certification standards
+1	systems claims
+1	systems compatibility
+1	systems computation
+1	systems cryptography
+1	systems data model
+1	systems deserve
+1	systems design
+1	systems designs
+1	systems development
+1	systems fall
+1	systems force
+1	systems function
+1	systems health
+1	systems implementation
+1	systems inherit
+1	systems lack
+1	systems mitigate
+1	systems output
+1	systems post
+1	systems property
+1	systems purpose
+1	systems random number generation subsystems
+1	systems roots
+1	systems source code
+1	systems specification
+1	systemsboth good
+1	systemselection officials
+1	t trustees
+1	t values
+1	t. abdoul
+1	tabulation efficiency
+1	tally accuracy
+1	tally generation
+1	tally message
+1	tallying
+1	tamper-evident fashion
+1	tap08
+1	targetsthe areas
+1	task type
+1	tcp/ip
+1	te s
+1	team dynamics [
+1	team member text
+1	team recruitment
+1	technical activities
+1	technical artifacts
+1	technical authentication methods
+1	technical chapters
+1	technical experts
+1	technical feasibility analysis coercion resistance
+1	technical foundations
+1	technical functional requirements
+1	technical individuals
+1	technical infrastructure
+1	technical issues
+1	technical matters
+1	technical means
+1	technical members
+1	technical reason
+1	technical requirements functional
+1	technical requirements security and authentication
+1	technical setting
+1	technical standards
+1	techniques
+1	techniques limit
+1	technology accessible-voting-systems
+1	technology advancements
+1	technology dr.
+1	technology improvements
+1	technology local election officials
+1	technology recommendations atlassians jira
+1	technology recommendations randomized
+1	technology recommendations static
+1	temporary virtual machines
+1	test automation
+1	test data choices
+1	test data satisfies input constraints
+1	test failures
+1	test framework building
+1	test input
+1	test invalid
+1	test laboratories [
+1	test laboratory
+1	test non-functional properties
+1	test occurs
+1	test results
+1	test suite effectiveness
+1	test suite quality
+1	test themselves
+1	test usability
+1	testable documentation documentation
+1	testable documentation varies
+1	testable property
+1	testing continuous
+1	testing software
+1	testing testing
+1	testng
+1	tests ensures
+1	texas
+1	text message
+1	textual representations
+1	tgdc
+1	thank
+1	the case for software independence the case for software independence
+1	the e2e-viv project overseas vote
+1	the future of voting recorde
+1	theorem prover
+1	third-party certification
+1	thompson
+1	thompson-style
+1	thread safety
+1	threat environment changes
+1	threat vectors
+1	threats mitigating
+1	three-letter alphanumeric code
+1	three-letter code
+1	threshold cryptosystems
+1	threshold encryption scheme
+1	threshold number
+1	threshold t
+1	threshold_cryptography
+1	tight budgets
+1	tigran antonyan
+1	time frames
+1	time sources
+1	time voters cast
+1	time window
+1	time-stamp
+1	timing data
+1	tls-encrypted
+1	todays elections
+1	todays software tools
+1	together
+1	token parameter
+1	tool development
+1	tool generates random input
+1	tool suite
+1	tool support exists
+1	toolchain binary introduces
+1	tools complement
+1	tools disappear
+1	tools process
+1	tools support
+1	top researchers
+1	top-level goal
+1	towards trustworthy elections
+1	tr2007-597
+1	traceable correspondence
+1	traceable fashion
+1	traceback
+1	tradeoffs
+1	traditional
+1	traditional approaches
+1	traditional c
+1	traditional election systems
+1	traditional in-person
+1	traditional it
+1	traditional means
+1	traditional poll site
+1	traditional prose documentation
+1	traditional styles
+1	traditional system
+1	traditional systems
+1	traditional vendors
+1	traditional voter authentication method
+1	traditional way
+1	traditionally
+1	traffic spikes
+1	transient hardware faults
+1	transmit ballots
+1	transmit votes
+1	transparent
+1	transparent withand
+1	transport protocols
+1	travis
+1	travis countys star-vote
+1	treasurer
+1	tremendous improvement
+1	tremendous pressure
+1	triage issues
+1	trial [
+1	trigger failures
+1	true e2e-v
+1	trust [
+1	trust election technology
+1	trust implications
+1	trust relationship
+1	trust system
+1	trusted_servers
+1	trustee uses
+1	trusting the cryptography
+1	trusting the data
+1	trusting the electoral authority
+1	trusting the network
+1	trusting the servers
+1	trusting the software
+1	trusting the toolchain
+1	trusting the voter
+1	trusting the voting client
+1	trustworthy
+1	tucson
+1	turing
+1	turnaround time
+1	tv un ote s
+1	twenty-third acm symposium
+1	two-part ballots
+1	two-part paper ballot
+1	type integer
+1	type vote
+1	typical concept specification
+1	typical set
+1	typical software lifecycle
+1	typical usability requirements
+1	typical voter
+1	typical voters
+1	u.s. congress
+1	ueli maurer
+1	ui/ux
+1	umls
+1	un tv ote s
+1	uncast side
+1	uncontrolled environment
+1	uncover defects
+1	uncover flaws
+1	undesirable behavior
+1	undisputed precept
+1	unexpected certificate
+1	unforeseen omissions
+1	unified modeling language
+1	uniform distribution
+1	uniform randomness
+1	uniformed
+1	uniformed services
+1	unikernels [
+1	union states
+1	union supervisors
+1	unique trait
+1	unique vote code
+1	unit test automation frameworks
+1	unit testing
+1	unit tests varies
+1	universal design e2e-viv
+1	universal design principles
+1	universal interface
+1	universal public verifiability
+1	universal verifiability
+1	university president
+1	university press
+1	unlikely event
+1	unofficial objective
+1	unrealistic limits
+1	unreasonable requirements
+1	unsafe actions
+1	unsafe code
+1	unsolvable problem
+1	unsupported official
+1	unusable system
+1	unvoted
+1	unwritten chapters
+1	uocava pilot program testing requirementsaugust
+1	up-to-date documentation
+1	upper-left peer
+1	us $
+1	us $ 1,300,000,000
+1	usa
+1	usability analyst
+1	usability aspects
+1	usability complications
+1	usability experts
+1	usability facets
+1	usability team keith instone
+1	usability traditional
+1	usability usability
+1	usable
+1	usable vote privacy
+1	usage limits
+1	usb
+1	use of communication technologies
+1	used
+1	useful form
+1	useful foundation
+1	useful illustrations
+1	useful implications
+1	useful information
+1	useful insight
+1	useful properties
+1	useful static analysis tools
+1	usenix evt
+1	user conferences
+1	user experience consultant morgan miller
+1	user experience studies
+1	user interface components
+1	user interfaces
+1	user-level applications
+1	users
+1	users home directory
+1	uses cryptographic techniques
+1	uses invisible ink
+1	uses two-part paper ballots
+1	utilizes encryption
+1	utilizes mix-nets
+1	utilizes non-interactive zero-knowledge
+1	utilizes threshold encryption
+1	v k
+1	valid ballot
+1	valid code
+1	valid codes
+1	valid credentials
+1	valid vote
+1	validate overall properties
+1	value c encrypts
+1	value k
+1	value m
+1	value pk
+1	value s
+1	value s.
+1	value sk
+1	value t
+1	valueerror
+1	vanessa teague
+1	vannevar bush professor
+1	variability
+1	variant departs
+1	variants correspond
+1	variation points
+1	various architectural choices
+1	various architectural dimensions
+1	various classes
+1	various components
+1	various concepts
+1	various desirable properties
+1	various dimensions
+1	various hardware components
+1	various hardware/os platforms
+1	various implementation languages
+1	various kinds
+1	various levels
+1	various models
+1	various parts
+1	various possible architectural choices
+1	various possible architectures
+1	various properties
+1	various quantitative measures
+1	various real world systems
+1	various security threats
+1	various styles
+1	various threshold decryption operations
+1	various toolsbut
+1	vast amounts
+1	vendor chooses
+1	vendors existing
+1	vendors nonetheless
+1	vendors release security updates
+1	verifiability comprehensible
+1	verifiability overall
+1	verifiabilityusability experts
+1	verifiable artifacts
+1	verifiable computation
+1	verifiable computing
+1	verifiable election systems
+1	verifiable elections
+1	verifiable elections activist community aboutinternet
+1	verifiable evidence
+1	verifiable manner
+1	verifiable poll-site
+1	verifiable property
+1	verifiable randomness
+1	verifiable tally
+1	verification artifacts
+1	verification capability
+1	verification network
+1	verification procedure
+1	verification process
+1	verification subsystems
+1	verification techniques
+1	verification tool support
+1	verified
+1	verifier accepts
+1	verifier proverif
+1	verifying
+1	verifying multi-threaded software
+1	version control repository
+1	version focuses
+1	veto power
+1	viable alternatives
+1	victor basili
+1	victorian
+1	vienna
+1	vii
+1	vimercati
+1	vipul goyal
+1	virtual machines
+1	visible example
+1	vo end-to-end verifiable internet voting specification and feasibility assessment study
+1	vocal minority
+1	voluntary recommendations
+1	vote [
+1	vote buying transaction
+1	vote choices
+1	vote coercion
+1	vote collector share
+1	vote encryptions
+1	vote home
+1	vote matches
+1	vote privacy violation
+1	vote sale
+1	vote secrecy systems
+1	vote secrecy violations
+1	vote server
+1	vote tally
+1	vote verification
+1	vote-by-mail systems
+1	voted
+1	voter account
+1	voter application
+1	voter authentication credentials
+1	voter authentication secrets
+1	voter authentication systems
+1	voter authorization
+1	voter authorizations
+1	voter behavior
+1	voter choice information
+1	voter choices
+1	voter communicate
+1	voter convenience
+1	voter cooperates
+1	voter decision-making
+1	voter discloses
+1	voter experience
+1	voter feedback
+1	voter feedback string
+1	voter fills
+1	voter fraud
+1	voter hover
+1	voter identification details
+1	voter identities
+1	voter information
+1	voter interest
+1	voter isolation
+1	voter logs
+1	voter marks
+1	voter obtains
+1	voter outreach organizations
+1	voter paper audit
+1	voter pause
+1	voter privacy waiver
+1	voter proves
+1	voter registration information
+1	voter registration instructions
+1	voter registration rolls
+1	voter relies
+1	voter returns
+1	voter ritual
+1	voter scans
+1	voter self-check procedure
+1	voter verifiability
+1	voter verifiability relies
+1	voter-verifiable election
+1	voters
+1	voters [
+1	voters abilities
+1	voters act
+1	voters actions
+1	voters attitudes
+1	voters audit
+1	voters authorization code
+1	voters ballot
+1	voters cast ballot information
+1	voters challenge ballots
+1	voters compliance
+1	voters computer contains malicious code
+1	voters encryption software
+1	voters forfeit independence
+1	voters generate ciphertexts
+1	voters group
+1	voters heads
+1	voters identity
+1	voters intent
+1	voters interactions
+1	voters machine
+1	voters navigate
+1	voters peer peer peer peer peer peer peer peer peer peer peer peer peer peer party
+1	voters perspective
+1	voters privacy
+1	voters shoulder
+1	voters submit
+1	voters undesrtand
+1	voters web browsers
+1	votes
+1	votes travel
+1	voting assistance
+1	voting assistance guide
+1	voting assistance program
+1	voting systems standards
+1	vra
+1	vssc/1622
+1	vulnerability
+1	vulnerable software software
+1	vvote system
+1	vvote/prt voter
+1	vvpat
+1	wales
+1	war department
+1	washington d.c.-based
+1	water management board
+1	way certificate authorities work
+1	way voter corruption
+1	weak authentication systems
+1	weak link
+1	weak online authentication systems
+1	weakest recovery mechanism
+1	wealthy individuals
+1	weather measurements
+1	web access
+1	web accessibility evaluation tool
+1	web accessibility initiative
+1	web applications
+1	web browser
+1	web browser versions
+1	web server
+1	web-based
+1	web-based open-audit voting
+1	web/app server database web/app server database figure
+1	web/app server web/app server database
+1	web/app server web/app server web/app server web/app server
+1	web/app server web/app server web/app server web/app server web/app server web/app server web/app server web/app server
+1	web_based
+1	web_of_trust
+1	websockets
+1	weekly news
+1	well-defined
+1	well-designed
+1	well-established domain analysis methods
+1	well-established external libraries
+1	well-informed decisions
+1	well-understood database technology
+1	wet ink signature
+1	wet ink signature image
+1	whenever
+1	whole election process
+1	whole-product specification
+1	wholesale election manipulation
+1	wide audience
+1	wide spectrum
+1	wide variety
+1	wide-scale deployment
+1	widely-available communication channel
+1	widespread
+1	widespread adoption
+1	widespread concern
+1	widespread method
+1	widespread trustworthy use
+1	wiki functionality
+1	window manager
+1	windows
+1	wire protocol formats
+1	with generous support from the
+1	wolter pieters
+1	wombat voting
+1	word cloud
+1	worthwhile goal
+1	wote
+1	wouter swierstra
+1	writingis irresponsible
+1	wroclaw
+1	wrong people
+1	x +
+1	x = y
+1	x k h
+1	x l
+1	x-quickcheck
+1	xen
+1	xen project
+1	xmonad
+1	xuejun yang
+1	xunit framework
+1	xunit frameworks
+1	ye wu
+1	year time frame
+1	z specifications
+1	z tools
+1	zhong shao
+1	~ =

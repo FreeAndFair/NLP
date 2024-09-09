@@ -1,0 +1,392 @@
+11	source code
+9	negative example
+7	case study
+7	ivote system
+6	chvote
+6	zp
+6	zpgroupelement
+5	election management bodies
+5	elgamal
+4	australian
+4	computer
+4	correct form
+4	helios
+4	luxembourg
+4	positive example
+4	scytl
+4	switzerland
+4	usenix
+4	wales
+3	acm
+3	australia
+3	clear
+3	correct subgroup
+3	electionguard
+3	group element
+3	hlpt20
+3	problem
+3	security analysis
+3	springer
+3	swiss post system
+3	test vectors
+3	thomas haines
+2	alternative
+2	application layer
+2	application level
+2	based
+2	biginteger
+2	ca
+2	case
+2	clear security properties
+2	communications
+2	consistent
+2	crypto library
+2	current configuration
+2	election result
+2	encryption scheme
+2	estonian
+2	gg20
+2	haenni
+2	hdkl20
+2	hgs21
+2	hgt19
+2	ht15
+2	ieee
+2	ieee symposium
+2	independent verifier
+2	introduction
+2	j alex halderman
+2	javascript
+2	json
+2	lecture notes
+2	may
+2	message space
+2	method encrypt
+2	method newzpgroupelement
+2	microsoft
+2	minimal
+2	minimality
+2	norway
+2	norwegian
+2	original reference implementation
+2	particular flaw
+2	privacy
+2	proprietary libraries
+2	rajeev gore
+2	regularly updated
+2	riv08
+2	san jose
+2	scytls
+2	security properties
+2	semi-public repository
+2	sfd+
+2	sh20
+2	skw20
+2	sp
+2	such checks
+2	summary
+2	swisspost
+2	symposium
+2	system implementations
+2	thorough
+2	usa
+2	value q
+2	vanessa teague
+1	@ param
+1	[ group ]
+1	] [
+1	abstract
+1	acknowledgements
+1	acm sigsac
+1	actual security guarantees
+1	adequate security
+1	adi08
+1	alexander golovnev
+1	alina oprea
+1	analysis phase
+1	applied
+1	australian capital territory
+1	authors experiences
+1	avoid
+1	background
+1	below
+1	ben adida
+1	bern
+1	bhavesh sharma
+1	breaking
+1	build phase
+1	canada
+1	care
+1	certain key points
+1	certain parameters
+1	checks suffice
+1	civitas
+1	clear claims
+1	clear description
+1	code base
+1	code behaves
+1	code relevant
+1	collaborative process
+1	common problem
+1	compounding
+1	conclusion
+1	concrete empirical recommendations
+1	concrete recommendations
+1	concrete steps vendors
+1	consistent documentation
+1	construct verifiers
+1	convenient structure
+1	correct group
+1	critical bugs
+1	cryptographic code
+1	cryptographic code relies
+1	cryptographic primitives
+1	cryptolib-js-elgamal encrypter.js checks
+1	cryptolib-js-elgamal encrypter.js creates
+1	cryptolib-js-elgamal input-validator.js
+1	cryptolib-js-mathematical service.js
+1	cryptolib-jsmathematical service.js
+1	cryptologic
+1	custom hash function
+1	daniel j. weitzner
+1	decisional diffiehellman
+1	decryption proofs
+1	demo elections
+1	democracy live
+1	designing
+1	details
+1	difference incentives
+1	different systems
+1	different things
+1	distinct solutions
+1	documentationand source code comments
+1	drew springall
+1	e-vote-id
+1	e-voting
+1	e-voting systems
+1	efficient ways
+1	election management prevents meaningful analysis
+1	election outcome
+1	election softwareindependent [
+1	election system
+1	encrypt
+1	engineering
+1	ensure malicious behaviour
+1	ensuring
+1	eric dubuis
+1	estonia
+1	evacs
+1	even theoretical
+1	examining
+1	execution flow
+1	exploitable bugs
+1	extensive review [
+1	february
+1	federal elections
+1	financial cryptography
+1	fnr
+1	formally
+1	fundamental reliance
+1	future improvement
+1	grnet
+1	hardness assumption
+1	harri hursti
+1	high levels
+1	high standards
+1	highlight key recommendations
+1	highlight problems
+1	historically
+1	hovav shacham
+1	identity
+1	important area
+1	including
+1	incorrect fix
+1	incredible brittle
+1	independent verification
+1	initial disclosures
+1	integers modulo p
+1	intermediary values
+1	international association
+1	international conference
+1	irrelevant code
+1	ivote system [
+1	ivote uses
+1	j halderman
+1	james koppel
+1	jason kitcat
+1	joint project
+1	june
+1	keywords
+1	large amounts
+1	late stage
+1	leaves reviewers
+1	legendre
+1	library level
+1	library stores values
+1	live online election
+1	logical flow
+1	long response.4
+1	long vulnerability disclosure times
+1	looking
+1	maintain phase
+1	major obstacle
+1	margaret macalpine
+1	mathematical
+1	maven
+1	meaningful scrutiny
+1	means vulnerability disclosure
+1	message x check
+1	michael a. specter
+1	minor findings
+1	moscow
+1	moscow internet
+1	mukesh tiwari
+1	multiplicative subgroup
+1	national election implements
+1	national elections
+1	national research fund
+1	new features
+1	nsw_ivote_oct2019.pdf
+1	obvious privacy attacks
+1	olivier pereira
+1	oorschot
+1	open source code
+1	open source system
+1	open source variant
+1	optional
+1	order q
+1	order q.
+1	outline
+1	overall system
+1	overlook flaws
+1	own experience
+1	p = 2q +
+1	paper
+1	paper contains praises
+1	particular vendor
+1	particularly
+1	paul c.
+1	peter roenne2
+1	peter.roenne @ uni.lu
+1	philipp locher
+1	philosophical transactions
+1	physical
+1	pierrick gaudry
+1	potential attacks
+1	practice techniques
+1	prevents experts
+1	previous bugs
+1	previous version
+1	prime order q
+1	proceedings
+1	prominent
+1	proof [
+1	proverbial iceberg
+1	provide
+1	pseudocode
+1	pseudocode algorithms
+1	public documentation
+1	public scrutiny security standards
+1	public transparency
+1	publics perspective
+1	punitive measures
+1	quadratic residues
+1	quadratic residues modulo
+1	recent disclosures
+1	recommendation
+1	recommendations
+1	reference implementation
+1	references adi08
+1	reflections
+1	research council
+1	response relies
+1	reto e. koenig
+1	review processes
+1	review time
+1	rivest
+1	rolf haenni
+1	ronald
+1	royal society
+1	runs checkencryptiondata
+1	safe prime p.
+1	sarah jamie lewis
+1	schnorr
+1	scytl javascript elgamal
+1	secureas cryptographers
+1	security claims
+1	security failures
+1	security goals
+1	security guarantees
+1	security requirements
+1	semantic security
+1	sha256
+1	sigma
+1	significant elections
+1	simple
+1	simple schemes
+1	sixteen
+1	software independence
+1	source code examinations thomas haines1
+1	source code repository
+1	specific election system
+1	specific issues
+1	specter
+1	standard tool
+1	standards
+1	standards disclaimer
+1	starvote
+1	state electoral commission
+1	steps vendors
+1	subgroup check
+1	such attack exists
+1	such proof
+1	surcvs
+1	surrey
+1	system [
+1	systems specification5
+1	systems support
+1	test vector
+1	texas
+1	theoretical foundations
+1	thomas.haines @ ntnu.no
+1	thorough documentation
+1	time constraints
+1	transparent system
+1	travis
+1	travis finkenauer
+1	trondheim
+1	trust assumptions
+1	turn calls validator.checkzpgroupelements
+1	u.s.
+1	unicrypt
+1	universal verifiability
+1	universite
+1	v. teague
+1	v. teagues
+1	various academics
+1	vast quantities
+1	vendors exhibit
+1	vendors response
+1	vendors reuse
+1	verifiable aspects
+1	verifiable mix nets
+1	verifiable schemes
+1	verifiable systems
+1	verification flaws
+1	verificatum mixnet
+1	verified
+1	verify
+1	victoria
+1	voatz
+1	vote
+1	voting
+1	vulnerability discourses
+1	vvote system
+1	waterfall process
+1	web-based
+1	work underway
+1	x p 2. xq mod p =
+1	zakir durumeric
+1	zero-knowledge
+1	zeus
+1	zpsubgroup

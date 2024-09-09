@@ -1,0 +1,586 @@
+37	bingo voting
+36	dispute resolution
+24	dummy votes
+21	vote privacy
+17	proverif
+16	va
+14	bulletin board
+12	j.
+11	dummy vote
+10	global verification
+10	r.
+10	springer
+9	a.
+9	bb
+9	election outcome
+9	paper ballot
+9	s.
+9	trng
+8	honest voters
+8	m.
+8	vb
+7	countpchoiceq
+7	dishonest voter
+7	dispute resolution mechanisms
+7	dummy random number
+7	election results
+6	c.
+6	d.
+6	formal analysis
+6	individual verification
+6	ryan
+6	t.
+5	dishonest voters
+5	fresh random number
+5	individual verifiability
+5	j n
+5	ksters
+5	v.
+4	acm
+4	additional assumptions
+4	algorithm
+4	b.
+4	bohli
+4	candidate b
+4	cj q
+4	dummy random numbers
+4	general case
+4	giustolisi
+4	ieee
+4	kremer
+4	nizkp
+4	p choice^
+4	privacy properties
+4	receipt freeness
+4	rtrg
+4	truderung
+4	trust assumptions
+3	bruni
+3	carback
+3	chaum
+3	corr
+3	cortier
+3	csf
+3	e.
+3	figure
+3	global
+3	henrich
+3	honest trng
+3	k.
+3	privacy
+3	privacy sleeves
+3	privacy-preserving
+3	smyth
+3	srva
+3	ta { v
+3	test1 pj q
+3	usenix
+2	a.t.
+2	additional trust assumptions
+2	authority generates
+2	automated
+2	benaloh
+2	booth assumption
+2	ccs
+2	check vote privacy
+2	choiceh choice^
+2	clark
+2	coercion resistance
+2	dierent dummy random number
+2	dispute
+2	dispute resolution properties
+2	election result
+2	equational theory
+2	essex
+2	g.
+2	generate
+2	i n
+2	ieee transactions
+2	improved bingo voting
+2	incorrect information
+2	information forensics
+2	input language
+2	iovino
+2	j.m.
+2	kiayias
+2	lallemand
+2	mller
+2	mller-quade
+2	new _dummy
+2	non-interactive zero-knowledge proof
+2	non-interactive zero-knowledge proofs
+2	observational equivalence
+2	p t
+2	p.l
+2	p.y.a.
+2	pedersen
+2	ph.d.
+2	privacy sleeve
+2	privacy sleeve leaves
+2	privacy-preserving dispute resolution
+2	proves soundness
+2	publish
+2	random number generator
+2	reachability properties
+2	remotegrity
+2	resolution mechanisms
+2	rhrich
+2	rov erif q @
+2	scantegrity ii
+2	scantegrity iii
+2	schneider
+2	secret-ballot elections
+2	security pp
+2	sherman
+2	similar analyses
+2	similarly
+2	ta { v u |
+2	tb { v
+2	teague
+2	test 1pj q
+2	test k pq
+2	testp q
+2	universal verifiability
+2	verification strategy
+2	vogt
+2	vora
+2	vote privacy implies
+2	voter process
+2	votes cast
+2	voting
+2	yung
+2	zkp2 pca
+2	| testp q
+1	-calculus [
+1	[ 11,4,19,10,3 ]
+1	] design dispute-free
+1	] detail dispute resolution processes
+1	] observe
+1	] studies
+1	abadi
+1	abstract
+1	accountability
+1	accountability and/or privacy properties
+1	accountability guarantees
+1	accountability notions
+1	acknowledgments
+1	additional
+1	additional dummy votes
+1	address usability limitations
+1	alessandro bruni it
+1	alignment
+1	analyse reachability
+1	analysing bingo voting
+1	analysis
+1	analysis pinpoints
+1	analysis shows
+1	applied cryptography
+1	arbitrary number
+1	arspa-wits
+1	assumptions
+1	asymmetric encryption scheme
+1	attackers instruction
+1	auscrypt
+1	authority uses
+1	automatic analysis
+1	automatic trustworthy receipts
+1	backes
+1	background bingo voting
+1	ballot confirmation check
+1	ballot privacy
+1	base case
+1	bb dispute resolution
+1	bb global verification honest trng
+1	bb up
+1	bingo
+1	bingo voting primitive equation digital
+1	bismark
+1	blanchet
+1	brun } @ itu.dk
+1	bulletin
+1	bulletin board use
+1	c2 s |
+1	candidate names
+1	candidates ca
+1	case checksign returns
+1	case studies
+1	certain frauds
+1	ch c.
+1	channels c1
+1	check privacy
+1	checks vote privacy
+1	checkzkp2 pca
+1	choice rnd
+1	choice_h
+1	choiceh
+1	choiceh vh ch
+1	cluster contains
+1	clusters [
+1	coercion
+1	coercion resistance [
+1	coercion resistance hold
+1	coercion resistance honest trng
+1	coercion resistance relate
+1	cohen
+1	com1q checkzkp1 pca
+1	com1qq pcom0
+1	commitment
+1	completeness
+1	complex elections
+1	complex test
+1	computational models
+1	conclusion dispute
+1	confirmation codes
+1	considers k receipts
+1	conversely
+1	conway
+1	copenhagen
+1	correct amount
+1	correct order
+1	correct verification key
+1	corresponding choice cj
+1	corresponding receipt
+1	count
+1	counterfactual relations
+1	countpchoiceq choiceh choice^
+1	crypto
+1	cryptographic
+1	csfw
+1	culnane
+1	cx ca ^ cy cb ^ checkzkp2pca
+1	d p t
+1	d.a.
+1	december
+1	decryption function
+1	denmark
+1	dierent mitigation scenarios
+1	dierent pairs
+1	dierent runs
+1	dierent setups
+1	dierent verification strategy
+1	digital signature
+1	display shows
+1	dispute fig
+1	dispute incorrect receipts
+1	dispute resolution procedure
+1	dispute resolution procedures
+1	dispute resolution test
+1	dispute tallying generate
+1	disputes leak
+1	draft
+1	dummy
+1	dummy vote pair dvppcomprx
+1	dummy vote pairs
+1	dummy votes dummy votes
+1	dummy_vote ^ ra rx ^ ra ry
+1	early model
+1	ecient
+1	ecient cryptographic protocol verifier
+1	eective manipulation
+1	election observer
+1	election scheme
+1	election verifiability
+1	election verifiability properties
+1	electronic exam protocol
+1	eligibility verifiability
+1	eligible voters
+1	encoding
+1	encryption function
+1	enhancing
+1	equation decpencpm
+1	equational
+1	equational theories
+1	equivalence relation
+1	esiyok
+1	esorics
+1	essential components
+1	eurocrypt
+1	evt/wote
+1	external attacker
+1	f.
+1	false receipt
+1	fig
+1	final result
+1	findings proverif
+1	fink
+1	fischer
+1	focs
+1	foo
+1	formal analysis property
+1	formal analysis proverif
+1	formal definitions
+1	formal treatment
+1	fournet
+1	fresh dummy vote pair dvppcomprtrg
+1	fresh random numbers
+1	fujioka
+1	fulfil criteria
+1	full voter verifiability
+1	function pkpkq models
+1	function zkp1
+1	function zkp2
+1	functional encryption techniques
+1	galindo
+1	gallegos-garca
+1	gallegos-garcia
+1	global verification data
+1	global verification goalgv
+1	global verification test
+1	governmental election
+1	h.
+1	heather
+1	hence
+1	herrnson
+1	hirt
+1	homomorphic encryption
+1	honest va
+1	honest va vote privacy honest trng
+1	honest voter ij
+1	horn
+1	i.
+1	identical barcode
+1	ieee computer
+1	ieee symposium
+1	illegitimate access
+1	important components
+1	improved bingo voting rosario giustolisi
+1	improvement regards
+1	improving
+1	incorrect receipt
+1	information
+1	input data
+1	inside attacker
+1	interesting questions
+1	introduction consensus
+1	intuitively
+1	invalid proof
+1	invisible random codes
+1	j th entry
+1	j th receipt
+1	kempka
+1	key cryptography
+1	key improvements
+1	knneman
+1	knnemann
+1	kq m models
+1	l.
+1	large scale elections
+1	lenzini
+1	link votes
+1	machine random number
+1	machine scans
+1	machine uses
+1	machines choice
+1	main dierence
+1	main pillars
+1	manual induction proof
+1	manual induction proofs
+1	manual inductive proof
+1	mayberry
+1	message
+1	message sequence chart
+1	minimal trust assumptions
+1	mitigate attacks
+1	mobile
+1	morever
+1	mounira
+1	muller-quade
+1	municipal election
+1	n receipts
+1	necessary additional assumptions
+1	necessary assumptions
+1	necessary evidence
+1	network
+1	neutralise faults
+1	new names
+1	nq
+1	numbers coincide
+1	ohta
+1	ok ^ rx ry ^ rx cx ^ rx cy ^ ry cx ^ ry cy ^
+1	ok checkzkp2 pca
+1	okamoto
+1	open question
+1	original amount
+1	original intention
+1	original paper
+1	outline
+1	over/under votes
+1	p.b.
+1	p.s.
+1	p.y.a
+1	partial solution
+1	party [
+1	perfect ballot secrecy
+1	performs cryptographic checks
+1	pi calculus
+1	popl
+1	popoveniuc
+1	possible mitigation
+1	prearranging
+1	precise algorithm
+1	pret vter
+1	privacy analysis
+1	privacy guarantees
+1	privacy setting
+1	private channels
+1	private information
+1	programming languages
+1	prolog rules
+1	proofs dummynizkp
+1	properties
+1	protocol [
+1	proves completeness
+1	prt
+1	public channel
+1	public data
+1	public evidence
+1	public information
+1	public key
+1	q l
+1	r.a.
+1	r.l.
+1	r.t.
+1	radomirovic
+1	random generator
+1	random number
+1	random number diers
+1	random numbers
+1	raq foreach receipt
+1	rasmus dilling mller
+1	reachability property
+1	receipt
+1	receipt encodes
+1	receipt freeness honest trng
+1	receipt-free
+1	recent
+1	references
+1	regards privacy properties
+1	related
+1	revealing
+1	revote mitigates
+1	revoting
+1	rial
+1	right candidate
+1	rivest
+1	rnd rnd receipt
+1	rnne
+1	rohrich
+1	rq opendummyvotepdvppcom0
+1	rqq pval
+1	s |
+1	sako
+1	scapin
+1	scheme [
+1	scheme respect
+1	schmid
+1	schoenmakers
+1	schoenmarkers
+1	schuermann
+1	scitepress
+1	sean wachs
+1	secret key
+1	secrypt
+1	secure
+1	security conference
+1	security properties
+1	security protocols
+1	select [
+1	self-tallying
+1	seminal work
+1	sequence chart
+1	shacham
+1	shen
+1	signature checksignpsignpm
+1	sok
+1	sole assumption
+1	soundness
+1	space limitations
+1	special compartment
+1	specific algorithm
+1	specifically
+1	spk psskqq m
+1	srcrv
+1	srcrva
+1	srv
+1	stoc
+1	strategy
+1	such mechanisms
+1	such proof
+1	such voters
+1	suciency conditions
+1	symbolic attacker model
+1	symbolic model
+1	systems
+1	takoma park
+1	tb { v u
+1	tb { v u |
+1	tc { v
+1	term dec models
+1	term enc models
+1	term k
+1	term m
+1	terms
+1	test @
+1	test blames
+1	test considers
+1	test n p q checks
+1	testn p q
+1	theorem
+1	total number
+1	towards
+1	trivial attack
+1	trivial attacks
+1	trivial task
+1	true @
+1	true goal
+1	true pby
+1	true pij
+1	true testn p q
+1	tuinstra
+1	type c
+1	unconditional verifiability
+1	unused
+1	v c. similarly
+1	valid receipt
+1	verifiability
+1	verification
+1	verification conditions
+1	verification dispute resolution condition global verification
+1	verification ensures
+1	verification honest trng
+1	verification procedure
+1	verification process
+1	vh v
+1	vice versa
+1	vote
+1	vote-id
+1	voter [
+1	voter casts
+1	voter choice
+1	voter instance
+1	voter instances
+1	voter interaction
+1	voter receipt assigns
+1	voter records
+1	voter registration record
+1	voter votes
+1	voters check
+1	voters choices c
+1	voters knowledge
+1	voters publish
+1	voting auth./machine trng voter bb setup generate
+1	vtest
+1	vvote [
+1	work [
+1	xia
+1	yale
+1	york
+1	z.
+1	zagrski
+1	zkp1 pca
+1	zkp1 q
+1	zkp2 q
+1	{ rosg
+1	{ v uc1
+1	{ v uch
+1	| goal

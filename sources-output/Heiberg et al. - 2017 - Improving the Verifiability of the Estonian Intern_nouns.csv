@@ -1,0 +1,662 @@
+23	ibbp
+20	rs
+15	v ss
+14	eo
+12	estonia
+11	data auditor
+11	ivxv
+10	auditv
+10	estonian internet voting
+10	i-ballot box
+8	b1
+8	sign
+7	eviv
+7	hash
+7	internet
+6	ballot secrecy
+6	ca
+6	central system
+6	dibbp
+6	drs
+6	dv
+6	ocsp
+6	private key
+5	auditt
+5	enc
+5	estonian
+5	hsm
+5	m s
+5	pki
+5	springer
+5	universal verifiability
+4	auditibbp
+4	auditm
+4	b2
+4	complete audit
+4	computer
+4	double envelope
+4	double envelopes
+4	election organizer
+4	end-to-end verifiability
+4	f s
+4	general public
+4	i-ballot box integrity
+4	individual verification tool
+4	inner envelope
+4	jan willemson
+4	partial audit
+4	randomness rv
+3	c stores
+3	certica
+3	confirmation regvid
+3	electronic voting
+3	eligible voters
+3	hence
+3	i-ballot
+3	identifier vid
+3	individual verifiability
+3	internet voting
+3	lecture notes
+3	log
+3	national electoral committee
+3	registration
+3	sven heiberg
+3	tartu
+3	ulikooli
+3	usa
+3	v c. v
+3	vote storage server
+3	voter
+3	voter v
+3	voters computers
+3	voting
+2	additional means
+2	audit ceremony
+2	auditing
+2	authenticity/eligibility
+2	bulletin board
+2	c responds
+2	c sends
+2	candidates c
+2	certca
+2	certvca
+2	consistency
+2	correct registration
+2	current scheme
+2	currently
+2	decryption proofs
+2	digital signatures
+2	double envelope votev
+2	efficient
+2	elgamal
+2	external parties
+2	full recount
+2	genenc
+2	gensig
+2	helger lipmaa
+2	i i
+2	i-ballot box replacement
+2	individual verifiability [
+2	individual verification
+2	lncs
+2	log files
+2	lossi
+2	mixing
+2	new list
+2	october
+2	organizational measures
+2	original double envelopes
+2	paper ballots
+2	partial audits
+2	pdec
+2	plats 1a
+2	pmix
+2	popoveniuc
+2	proceedings
+2	public key
+2	recorded-as-cast properties
+2	result integrity
+2	rsa
+2	rsa-oaep
+2	san francisco
+2	system components
+2	t ms
+2	tabulation application
+2	tabulation tool
+2	tabulation tool compromise
+2	tallied
+2	tallier
+2	tallinn
+2	v c.
+2	verification application
+2	verification capabilities
+2	vote collection process
+2	vote decryption
+2	vote forwarding server
+2	vote storage
+2	vote votev
+2	voting application
+2	well-formedness
+1	% [
+1	2010. http
+1	= ballotc
+1	= ballotcv
+1	access
+1	acknowledgements
+1	acm
+1	acm sigsac
+1	acquires confirmation
+1	actual forgery
+1	actual implementation
+1	actual integrity
+1	actual list
+1	actual tabulation
+1	additional
+1	additional countermeasures
+1	additional mitigation
+1	address i-ballot box integrity issues
+1	administrator access
+1	advances
+1	aforementioned restriction
+1	aforementioned specifications
+1	aggelos kiayias
+1	ahto buldas
+1	aivo jurgenson
+1	andreas vogt
+1	andrew regenscheid
+1	anonymous ballot
+1	anonymous ballots
+1	anto veldre
+1	application
+1	applications competence centre
+1	arne ansper
+1	assumptions
+1	attack tree
+1	audit log forgery
+1	audit procedure
+1	audit step
+1	audit steps
+1	auditing ibbp
+1	auditing v
+1	auditor satisfaction
+1	august
+1	austria
+1	ballot box
+1	ballot type
+1	bjorn terelius
+1	box [
+1	box integrity
+1	bregenz
+1	c accepts iff
+1	c acquires
+1	c contains
+1	c generates
+1	c verifies
+1	c0 c
+1	c0 c elec
+1	california
+1	candidate cv c uses
+1	candidate list
+1	capable auditor
+1	card [
+1	carlos ribeiro
+1	cast
+1	cast ballot
+1	cast votes
+1	central system lie
+1	central systems
+1	cerca ca
+1	certain properties
+1	certain window
+1	certca ca eligible
+1	certificate validation
+1	certification
+1	chancellery
+1	checks eligibility
+1	choice ballotc
+1	choice c0
+1	choice cv
+1	choices c
+1	clash
+1	clash-attack [
+1	claus-peter schnorr
+1	clear separation
+1	common ground
+1	communications
+1	comparable measures
+1	complete
+1	complete audits
+1	complete re-execution
+1	computational capabilities
+1	computer technology
+1	computers
+1	concept security
+1	conceptual level
+1	conclusions
+1	confidence
+1	confirmars tion regvid =
+1	conflict resolution mechanisms
+1	core requirement
+1	core system
+1	correct implementation
+1	correct operation
+1	correct tabulation
+1	corresponding certificate
+1	corresponding file
+1	corresponding paper vote
+1	corresponding plaintexts
+1	corresponding registration confirmation
+1	corresponding solutions
+1	corresponding voter
+1	crypto
+1	cryptographers
+1	cryptographic hash-function
+1	cryptographic integrity statements
+1	cryptographic protocol
+1	cryptographic techniques
+1	cryptology ct-rsa
+1	cryptologyafricacrypt
+1	cryptologyeurocrypt
+1	current effort
+1	current nature
+1	current system
+1	cybernetica
+1	d.c.
+1	data abuse
+1	data auditors
+1	dec
+1	decryption functions
+1	description e-voting
+1	detect manipulations
+1	device [
+1	different
+1	different combination
+1	different organizations
+1	different steps
+1	digital ballot box
+1	digital identity tool
+1	digital signature
+1	digital signature capabilities
+1	digital signature infrastructure
+1	dimitrios lekkas
+1	dimitrios zissis
+1	direct attacks
+1	discussion
+1	dispute resolution procedures
+1	double votes yields
+1	douglas w. jones
+1	douglas wikstrom
+1	drew springall
+1	e-voting
+1	early days
+1	easy access
+1	effects
+1	efficiency
+1	efficient identification
+1	elec ballotcv
+1	elec elec
+1	election configuration
+1	election data
+1	election keypair
+1	election law journal
+1	election procedures
+1	election records
+1	election result
+1	election setup
+1	electronic
+1	eligible voter v
+1	encryption rv
+1	encryption system 
+1	end-to-end
+1	ensure third-party auditability
+1	equal conditions
+1	erapp establishes
+1	erapp uses
+1	erapp verifies
+1	eric rescorla
+1	erif y
+1	error message
+1	estonia abstract
+1	estonian internet
+1	estonian parliamentary elections
+1	estonian pki
+1	evote
+1	evt/wote
+1	exact meaning
+1	excellence
+1	excessive reliance
+1	external assumptions
+1	external auditor
+1	external online service provider
+1	extra commitment step
+1	f s verifies
+1	february
+1	following
+1	foreign research groups
+1	framework introduces
+1	future development
+1	future iterations
+1	general elections
+1	general goal
+1	general public relies
+1	gilles brassard
+1	goggin
+1	hardware
+1	hardware security module activation
+1	hardware tokens
+1	harri hursti
+1	heiberg
+1	high entry-level requirements
+1	holistic manner
+1	homomorphic public-key algorithm
+1	homomorphic public-key cryptosystem  =
+1	homomorphic tally
+1	homomorphic tally computation
+1	honest operation
+1	human beings
+1	human control
+1	human factor
+1	human inaccuracy
+1	human interpretation
+1	i-ballot-box integrity
+1	i-vote cast
+1	i-voting
+1	id
+1	identification proof
+1	identifier v
+1	identity v
+1	ieee computer
+1	ieee symposium
+1	igi global
+1	immediate problem
+1	implementing
+1	improving
+1	independent auditor organizations
+1	independent devices
+1	independent external auditors
+1	independent implementations
+1	independent organizations
+1	independent verifiability
+1	individual verifiability tool
+1	individual verifiability tools
+1	individual verification steps
+1	individual verification time-window
+1	informally
+1	inner envelope ballotcv
+1	input votes
+1	inputs regardless
+1	integrity layer
+1	international conference
+1	internet-enabled
+1	introducing
+1	introduction
+1	invalid votes
+1	iut27-1
+1	j alex halderman
+1	jaan priisalu
+1	jan willemson4,5
+1	jason kitcat
+1	jeanjacques quisquater
+1	jens groth
+1	joaquim
+1	john kelsey
+1	juan e gilbert
+1	kaido raiend
+1	kaur virunurm
+1	kazue sako
+1	key management
+1	large elections
+1	levels
+1	links voter identities
+1	local civil activists
+1	local municipal elections
+1	log monitor
+1	major components
+1	major goal
+1	major update
+1	malicious auditor
+1	manual counting accuracy
+1	march
+1	margaret macalpine
+1	mart oruaas
+1	may
+1	measures increases
+1	melanie volkamer
+1	michael d byrne
+1	mimics double envelope postal
+1	mimics double-envelope postal
+1	mixnet shuffles
+1	mobile device
+1	modeling threats
+1	module
+1	multiple components
+1	national elections
+1	negative votes
+1	network errors
+1	new considerations
+1	new mechanisms
+1	new party
+1	new proposals
+1	new role
+1	nizk
+1	non-disputable manner
+1	non-trivial task
+1	obstacle involves
+1	online component
+1	online components log
+1	online service
+1	online vote collection
+1	open issues
+1	open question
+1	open specifications
+1	optionally
+1	organisational measures [
+1	organizational integrity
+1	organizational procedures
+1	organizational separation
+1	organizer
+1	organizer eo
+1	original list
+1	original set
+1	original verification scheme [
+1	oteapp creates
+1	oteapp verifies
+1	outer authenticity
+1	outer envelope
+1	outsiders
+1	outsource aspects
+1	outsourcing
+1	own tools
+1	paper ballot
+1	paulo ferreira
+1	peeter laud
+1	performance
+1	performance requirements
+1	personal mobile devices
+1	political debates
+1	political parties
+1	poorvi l. vora
+1	popular means
+1	post-election auditing
+1	post-voting/pre-tabulation offline phase
+1	potential
+1	potential verifier
+1	potential weaknesses
+1	practical try-outs
+1	pragmatic approach
+1	prastudy fauzi
+1	preparing
+1	previously
+1	priit vinkel3
+1	privacy
+1	private key management
+1	private key protection
+1	private keys
+1	procedure
+1	processor
+1	processor ibbp
+1	proofs
+1	protocol participants
+1	provable decryption
+1	public key ekpub
+1	public part ekpub
+1	qr
+1	r =
+1	ralf kusters
+1	random number
+1	random number rv
+1	random oracles
+1	random-sample recount
+1	re-encryption mixnet
+1	re-encryption mixnets
+1	reasonable number
+1	reasonable trade-off
+1	recent
+1	recorded
+1	reencryption mixnet m s
+1	reference implementations
+1	references
+1	registeredvid =
+1	registration confirmation regvid
+1	registration queries
+1	registration request
+1	registration request reqvid =
+1	remarkable performance overhead
+1	remote compromise
+1	research council
+1	resolving
+1	result [
+1	result result
+1	riigikogu
+1	robert krimmer
+1	routine operation
+1	rs rs
+1	rui joaquim
+1	rv =
+1	s.
+1	s. v
+1	safety measure
+1	schnorr
+1	sealable ballot boxes
+1	secure electronic voting systems
+1	security analysis
+1	security analysis [
+1	security requirements
+1	sends vid
+1	service denial attack
+1	service m
+1	services disagree
+1	setting
+1	shortcomings
+1	show step
+1	shuffle argument
+1	signature forgery
+1	signature keypair
+1	signature keypairs
+1	signature scheme =
+1	signatures
+1	similar trust model
+1	similarly
+1	smart
+1	smartmatic-cybernetica centre
+1	software
+1	software applications
+1	sp
+1	springall
+1	standard cryptographic primitives
+1	statistics
+1	stefan popoveniuc
+1	stephanie bayer
+1	stephen n goggin
+1	storedvid =
+1	storing
+1	strong proof
+1	such disputes
+1	such errors
+1	such measures
+1	superfluous votes
+1	sven heiberg1,2
+1	system development
+1	system generates
+1	system improvements
+1	system relies
+1	system update
+1	tabulating
+1	tabulation
+1	tabulation integrity
+1	tabulation process
+1	tabulation relies
+1	tally integrity assumes proficiency
+1	tampering
+1	tarvi martens2
+1	technical expert
+1	technical logs
+1	technical tasks
+1	technical/mathematical capability
+1	technically
+1	technology workshop / workshop
+1	theoretical possibility
+1	third-party auditors
+1	threshold decryption
+1	threshold scheme
+1	tification authority
+1	time utcvid
+1	time-mark tsvid =
+1	time-marking
+1	tls
+1	tomasz truderung
+1	topics
+1	towards
+1	travis finkenauer
+1	trust assumptions
+1	trustworthy elections
+1	tut
+1	unauthorized
+1	unique identifier i
+1	unique identifier vid
+1	unique random vote identifier vid
+1	unique vote identifier vid
+1	universal access
+1	universal verification
+1	unknown vid
+1	usenix
+1	uses homomorphic
+1	valid ballots
+1	valid countermeasure
+1	various organizational procedures
+1	vc v
+1	verifiability criteria
+1	verifiable elections
+1	verifiable reencryption mixnet
+1	verification
+1	verification devices
+1	verification functions
+1	verification phases
+1	verification timeframe
+1	verification window
+1	verifying
+1	vote collection
+1	vote collection part
+1	vote collection task
+1	vote collector
+1	vote collector v
+1	vote cryptogram
+1	vote decryption phase
+1	vote encryption
+1	vote integrity
+1	vote privacy
+1	vote v votev =
+1	vote-id
+1	voter uses
+1	voter v uses
+1	voters certificate
+1	voters computer
+1	voters digital identity tool
+1	voters identity
+1	voters interact
+1	votev =
+1	voting method
+1	washington
+1	willemson
+1	zakir durumeric
+1	zero-knowledge argument

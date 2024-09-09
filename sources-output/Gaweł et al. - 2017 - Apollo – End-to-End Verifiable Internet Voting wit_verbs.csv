@@ -1,0 +1,575 @@
+74	is
+16	used
+9	checking
+9	present
+9	get
+9	displays
+8	using
+8	has
+8	enters
+7	was
+7	to detect
+6	chooses
+6	uses
+6	are
+6	to cast
+6	is posted
+5	sends
+5	exploiting
+5	described
+5	see
+5	stealing
+4	assume
+4	check
+4	posted
+4	provides
+4	casting
+4	is displayed
+4	enables
+4	note
+4	encrypting
+4	ask
+4	may enter
+4	including
+4	posting
+4	takes
+4	allows
+3	allowing
+3	describe
+3	opens
+3	does
+3	provided
+3	will notice
+3	was not followed
+3	obtain
+3	proposed
+3	has been used
+3	to generate
+3	cast
+3	to protect
+3	begins
+3	scans
+3	provide
+3	receiving
+3	choose
+3	can be
+3	contains
+3	auditing
+3	is using
+3	clickjacking
+2	requires
+2	is treated
+2	casts
+2	prepares
+2	see listing
+2	to verify
+2	made
+2	may repeat
+2	start
+2	step
+2	may have
+2	coded
+2	lets
+2	adding
+2	do not use
+2	attempts to lock-in
+2	containing
+2	trusted
+2	is passed
+2	featured?featured
+2	receives
+2	agree
+2	not authorized
+2	were
+2	ends
+2	learns
+2	do
+2	based
+2	discovered
+2	attacking
+2	can detect
+2	take
+2	has been posted
+2	have
+2	to provide
+2	to change
+2	beginning
+2	given
+2	performs
+2	obtains
+2	found
+2	presented
+2	inform
+2	informs
+2	may
+2	making
+2	to vote
+2	include
+2	to audit
+2	was used
+2	addresses
+2	to prove
+2	makes
+2	has been
+2	change
+2	tallying
+2	to choose
+2	to determine
+2	says
+2	wishes
+2	is asked to enter
+2	can be used
+2	to check
+1	should be
+1	decides to submit
+1	refer to was used
+1	required
+1	remote
+1	voting
+1	generated
+1	replace
+1	prepared
+1	cannot do
+1	to transfer
+1	does not learn
+1	cannot tell
+1	dont agree
+1	compares
+1	setting
+1	preventing
+1	can make targeted
+1	fixing
+1	to enable
+1	is behaving
+1	moves
+1	has begun
+1	vas cast is selected
+1	uses to make
+1	parses
+1	defined
+1	are sufficientselected
+1	display
+1	etc.
+1	to profile
+1	was not intended
+1	can be replaced
+1	admin console
+1	signed
+1	prevents
+1	builds
+1	deployed
+1	featuring
+1	are sent
+1	has not been supported
+1	filed
+1	will be detected
+1	to be counted
+1	are tallied
+1	lock-in
+1	are detected
+1	is correctly encrypted
+1	analyze
+1	is audited
+1	so lets go is executed
+1	should use
+1	retrieving
+1	chooses not to use
+1	may attempt to steal
+1	can play
+1	is not expected to provide
+1	directly learns
+1	can also be used to provide
+1	hears
+1	seeing
+1	to visit
+1	are listed
+1	to prevent
+1	to clientside
+1	accepts
+1	would require
+1	carried
+1	might be
+1	should immediately abort
+1	bb
+1	was not used
+1	may be
+1	is published
+1	decides to verify
+1	were not followed
+1	should then use
+1	shall
+1	demonstrates
+1	rarely do
+1	generates
+1	thinks
+1	chooses to use
+1	being noticed
+1	also to recover
+1	should not learn
+1	might post
+1	to successfully complete
+1	to compare
+1	not to prove
+1	works
+1	disallows
+1	may be targeted
+1	follows
+1	identifying
+1	decrypted
+1	refer to such
+1	accepted
+1	was logged
+1	may point
+1	can display
+1	reuse
+1	can still be detected
+1	requiring
+1	are hosted
+1	not based
+1	had
+1	may not be
+1	to server-side
+1	is used to encrypt
+1	did not verify
+1	underlying
+1	first explain
+1	does not imply
+1	being
+1	exploits
+1	possesses
+1	to prove there is
+1	could result
+1	audit
+1	is designed
+1	changing
+1	running
+1	received is
+1	reporting
+1	gets
+1	trusts to check
+1	lets also get
+1	authenticates
+1	does not checke
+1	would result
+1	can then obtain
+1	is sent
+1	was sent
+1	interacts
+1	examined
+1	may require
+1	did not provide
+1	inspired
+1	will
+1	look
+1	is tallied
+1	applied
+1	does not use
+1	to obtain
+1	was changed
+1	the(signed
+1	need to be
+1	have attempted to keep
+1	enable
+1	obtained
+1	define
+1	entered
+1	expected
+1	can be detected
+1	create
+1	asks
+1	does not restrict
+1	exploit
+1	corresponds
+1	named
+1	logged
+1	will then use
+1	is not checked/verified
+1	to bb
+1	to be
+1	are securely delivered
+1	would answer
+1	enabling
+1	taking
+1	to sign
+1	suggested
+1	electing
+1	is loaded
+1	vas inform
+1	explicitly include
+1	to be used
+1	did not cast
+1	encounters
+1	reading
+1	discovers
+1	should then check
+1	correctly identifies
+1	audits
+1	is encouraged to use
+1	depends
+1	suggested to use
+1	are using
+1	to client-and/or-server-side
+1	are not secured
+1	may collude
+1	will be limited
+1	can also create
+1	reveals
+1	audited
+1	are initialized
+1	communicates
+1	approach
+1	to integrate
+1	can only be recovered
+1	querying
+1	regarding
+1	could then cast
+1	may do
+1	report
+1	can lead to clickjacking
+1	attempting to change
+1	would need
+1	can be addressed
+1	means
+1	is selected
+1	hope
+1	suggest is to introduce
+1	is correctly represented
+1	employs to check
+1	should
+1	controls
+1	may be split to provide
+1	appended
+1	relies
+1	also describe
+1	computes
+1	to exploit
+1	supported
+1	encrypted
+1	is even worse
+1	called
+1	publicread accessis
+1	is intended
+1	explicitly describes
+1	to convince
+1	to make
+1	is not displayed
+1	does not see
+1	later does
+1	was using
+1	treats
+1	has been correctly posted
+1	is is not checked
+1	detect
+1	to encrypt
+1	web-based
+1	begin
+1	has been accepted
+1	to introduce filtering
+1	to alleviate
+1	issuing
+1	also result
+1	is correctly posted
+1	built
+1	may be stored and/or printed
+1	tells
+1	recover
+1	will not report
+1	say
+1	need to happen
+1	result
+1	remembers
+1	providing
+1	hacking
+1	to focus
+1	assumes
+1	require
+1	determines
+1	was known
+1	may reveal
+1	sessionid
+1	need not be
+1	needs to additionally check
+1	took
+1	does not know
+1	can be tricked to perform
+1	was supposed to contain
+1	may complain
+1	can lead
+1	was treated
+1	leading
+1	guess
+1	may check
+1	can be placed
+1	will inform
+1	not detecting
+1	is issued
+1	should now enter
+1	to lock-in
+1	encrypts
+1	canceling
+1	patched
+1	to subvert
+1	used to encrypt
+1	being cast
+1	proxy
+1	is not met
+1	commits
+1	are not assumed
+1	shows
+1	may choose to require
+1	suggesting
+1	increase
+1	will not receive
+1	shown
+1	may return
+1	cannot prove
+1	may lose
+1	has been audited
+1	to take
+1	referred
+1	are set
+1	can change
+1	to attack
+1	would not lock
+1	may assume
+1	not to allow
+1	to do
+1	verifying
+1	submits
+1	to execute
+1	could improve
+1	ballotis
+1	have been demonstrated to be
+1	prevented
+1	is patched
+1	were partially supported
+1	is based
+1	hidden
+1	has been using
+1	offers
+1	vbdoes
+1	denoted
+1	to interact
+1	to pass
+1	have informed
+1	pre-voting
+1	ended
+1	is caused
+1	can be treated
+1	would have been
+1	make
+1	helps protect
+1	suggest
+1	allow
+1	to be detected
+1	rerunning
+1	used to check
+1	may not be assumed
+1	also knows
+1	improving
+1	may make
+1	is played
+1	are issued
+1	could have selectively disallowed
+1	is not performed
+1	may be replaced
+1	may choose
+1	to given
+1	needs
+1	collude
+1	to start
+1	allowed
+1	is not posted
+1	protects
+1	indicates
+1	would allow
+1	was misdirected
+1	are described
+1	launching
+1	compare
+1	will be computed
+1	following
+1	to nominate
+1	can
+1	believes
+1	adapting
+1	can be achieved
+1	to count
+1	blocking
+1	known
+1	initiates
+1	would like to say
+1	not only to detect
+1	thus depends
+1	will need to make
+1	distributing
+1	to resolve
+1	visit
+1	prove
+1	propose
+1	cheating
+1	corresponds to dispute-resolution
+1	can use
+1	are digitally signed
+1	to use
+1	were posted
+1	to communicate
+1	cheats
+1	can be combined to be
+1	try to use
+1	was not correctly displayed
+1	would be to correctly encrypt
+1	prints
+1	will not display
+1	pick
+1	sending
+1	publishes
+1	appears
+1	has admin
+1	let
+1	is not authorized
+1	drew
+1	may behave
+1	supplies
+1	could easily lead
+1	plays
+1	needs to make
+1	to exclude
+1	being counted
+1	could replace
+1	helios was not protected
+1	discover
+1	to include
+1	needs to use
+1	also proposed
+1	need to collude to carry
+1	can prove
+1	released to enable
+1	can check
+1	perceived
+1	to assign blame
+1	to cross-site
+1	is rejected
+1	can be verified
+1	.get
+1	can challenge
+1	hence depends
+1	to address
+1	is required to secure
+1	is limited
+1	sent
+1	also possesses
+1	is linked
+1	to csrf
+1	helps
+1	can audit
+1	presents
+1	would have to do
+1	abs/1211.1904
+1	are executed
+1	follow
+1	being included
+1	to back
+1	issued
+1	explicitly address
+1	here to allow

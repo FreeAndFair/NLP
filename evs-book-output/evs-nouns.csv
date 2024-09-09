@@ -1,0 +1,5420 @@
+303	definition
+202	douglas wikstrm
+192	do not distribute
+172	draft
+153	reserved
+123	pr
+116	theorem
+85	itm
+59	gen
+53	gq
+51	zq
+50	computer
+48	ideal functionality
+47	proceedings
+44	encpk
+43	cryptology
+43	ro
+42	itms
+42	random oracle
+42	springer
+41	lecture notes
+41	mi
+39	pi
+39	pkc
+39	turing
+38	el gamal
+38	protocol
+38	usa
+35	i [
+33	lemma
+32	m1
+32	mpk
+31	figure
+30	rg
+30	uc
+30	x1
+29	hash function
+29	n y
+27	s1
+26	advances
+26	fiat-shamir
+26	ppt
+25	diffie-hellman
+25	p1
+24	fsro
+24	theory
+24	verifier messages
+23	ideal functionalities
+23	shuffle
+22	pj
+22	pseudo-random generator
+22	rpk
+21	abuse notation
+21	ind-cpa
+21	zn
+20	furthermore
+20	hash functions
+20	mr
+20	x2
+19	evsmarkchapter
+19	p3
+19	permutation matrix
+19	qn
+19	si
+19	signature scheme
+19	time p
+19	transcript tree
+18	cca2
+18	computational problem
+18	cpk
+18	crypto
+18	f1
+18	free model
+18	hf
+18	i =
+18	i3
+18	knowledge
+18	message m
+18	np
+18	random oracle model
+18	schnorrs
+18	soundness
+17	= {
+17	b =
+17	consider
+17	sam
+17	shadow sequence
+17	suppose
+16	[ c ]
+16	a0
+16	annual
+16	cryptography
+16	denote
+16	r1
+16	reserved read by
+16	xi
+16	} r
+15	august
+15	california
+15	equality
+15	i [ k ]
+15	naor-yung
+15	public key
+15	verifier message
+15	zz
+14	a1
+14	discrete logarithm
+14	g g
+14	matroid tree
+14	negative binomial distribution
+14	public key cryptosystem
+14	public key pk
+14	recall
+14	s0
+14	sam0
+14	sam1
+14	santa barbara
+14	ta
+13	] [
+13	acm
+13	comck
+13	communication model
+13	dec
+13	decsk
+13	equation
+13	experiment
+13	hhk
+13	ideal functionality f
+13	may
+13	mx
+13	p2
+13	pk
+13	prg
+13	px
+13	r0
+13	ran
+13	set
+13	shadow sequences
+13	sigma
+12	 
+12	[ ]
+12	basic protocol
+12	common input x
+12	corollary
+12	define
+12	discrete logarithms
+12	dw
+12	enc
+12	international conference
+12	j [
+12	m =
+12	pk b
+12	similarly
+12	simulation adversary
+12	t [ i ]
+12	v1
+11	bellare
+11	commitment-consistent
+11	example
+11	j =
+11	micali
+11	p + o
+11	prime order q
+11	public-coin protocols
+11	security parameter
+11	ui
+11	vs
+11	x =
+11	} {
+10	= k
+10	b +
+10	challenge ciphertext
+10	ddh
+10	decision problem
+10	di
+10	gm
+10	lr
+10	mq
+10	parallel composition
+10	prf
+10	proofs
+10	public-coin protocol
+10	qj
+10	random tape
+10	real protocol
+10	remark
+10	secret key
+10	vro
+10	w [ i ]
+9	] |
+9	cma
+9	composition theorem
+9	computational assumptions
+9	cryptographic techniques
+9	d1
+9	eurocrypt
+9	exppkc ny
+9	g b
+9	geometric distribution
+9	hybrid model
+9	interactive proofs
+9	key generation
+9	m0
+9	m2
+9	mck
+9	models dmz
+9	multiple links
+9	n+
+9	naors
+9	piece-wise
+9	pr exppkc ny
+9	q3
+9	qi
+9	r.
+9	special soundness
+9	statistical distance
+9	tape heads
+9	te
+9	v.
+9	xk
+9	yungs cryptosystem
+9	} n2 v
+8	0th slot
+8	] =
+8	ai
+8	alg
+8	application
+8	aro
+8	below
+8	bs
+8	canetti
+8	cite
+8	constructing accepting basis extractors
+8	depth function
+8	discrete logarithm assumptions
+8	discrete logarithm problem
+8	g.
+8	goldreich
+8	ideal free model
+8	ik
+8	key pair
+8	lpk
+8	markovs
+8	matrix m
+8	message space
+8	natural way
+8	plaintext basis
+8	product group
+8	product groups
+8	properties
+8	pseudo-random function
+8	public-key cryptosystems
+8	q1
+8	random oracles
+8	random tapes
+8	rck
+8	recursive extractor
+8	s.
+8	self-reducibility
+8	signature schemes
+8	silvio micali
+8	sk b
+8	template adversary
+8	tm
+8	x y
+8	yn
+7	2r +
+7	= i=1
+7	\ span
+7	accepting basis extractor
+7	aj
+7	aug
+7	auxiliary input z
+7	ciphertext space
+7	ck
+7	collision resistance
+7	commitment scheme
+7	commitment schemes
+7	communication slot [ c ]
+7	comput.
+7	compute
+7	cryptographic protocols
+7	decision problems
+7	depth r
+7	extractor
+7	f =
+7	geo
+7	group elements
+7	interactive turing machines
+7	label {
+7	list
+7	lr0
+7	multiple discrete logarithms
+7	non-zero element
+7	november
+7	oracle
+7	pn
+7	polynomial time
+7	pr exp
+7	pr zz
+7	prover message
+7	prover min-entropy
+7	prover predicate
+7	q2
+7	random variables
+7	real free model
+7	redundant communication model transform
+7	rk
+7	rogaway
+7	samb
+7	schnorrs signature scheme
+7	schwartz-zippel
+7	secret key sk
+7	security parameter 1n
+7	siam j
+7	simulation transform
+7	submission
+7	such protocols
+7	wikstrm
+7	zero knowledge
+7	zero knowledge proofs
+7	|pr [
+6	= e
+6	[ f ]
+6	adversary converter
+6	adversary slot [
+6	alice
+6	apkc
+6	appendix
+6	augmentation algorithm
+6	basis extractor
+6	bn
+6	bob
+6	chaums
+6	com
+6	communication models
+6	depth i
+6	describing ideal functionalities
+6	dhk
+6	discrete logarithm assumption
+6	el gamal cryptosystem
+6	exponential distribution
+6	foundations
+6	generator
+6	ggeo
+6	gk
+6	gkq
+6	goldwasser
+6	groups
+6	gx
+6	hybrid protocol
+6	i [ r ]
+6	i [ t ]
+6	ideal 3-communication model
+6	ideal communication models
+6	index function
+6	introduce notation
+6	itm graph
+6	j j
+6	key generation algorithm
+6	link simulation transform
+6	lr1
+6	matroid trees
+6	merkle-damgrd transform
+6	mhk
+6	n3
+6	national institute
+6	nist
+6	nk
+6	notation
+6	original protocol
+6	party slots [
+6	pedersen
+6	pkc eg
+6	plaintext permutation
+6	prgt
+6	product
+6	protocols
+6	prover messages
+6	qn qn
+6	r =
+6	rackoff
+6	randomness space
+6	real 3-communication model
+6	reserved evsmarkchapter
+6	security experiment
+6	security parameter n
+6	standards
+6	straight-line statistical zero knowledge
+6	throughout
+6	ti
+6	time o
+6	two-party protocols
+6	vector space
+6	zero knowledge proof
+6	zkq
+5	-hash functions
+5	-model map
+5	= [ k ]
+5	= w
+5	= wrap
+5	[ ar ]
+5	[ b ]
+5	a2
+5	algddh
+5	applications
+5	april
+5	augny
+5	auxiliary input z {
+5	b {
+5	basic extractor
+5	bit b {
+5	ca
+5	codebook variation
+5	column vector
+5	common input
+5	compound geometric distribution
+5	concrete protocols
+5	conversely
+5	cramer
+5	cryptosystem [
+5	d0
+5	ddh assumption
+5	decryption algorithm
+5	definitions
+5	di+1
+5	distributions
+5	dj
+5	dummy 3-protocol
+5	dummy party
+5	efficient
+5	environment
+5	environment slot [
+5	f.
+5	fj
+5	g c
+5	grafting function
+5	grafting protocols
+5	graph
+5	hard problems
+5	i >
+5	i ]
+5	ideal
+5	ideal communication model
+5	ieee computer
+5	information processing standards publication
+5	ith message
+5	j i=1
+5	j. cryptology
+5	joan feigenbaum
+5	knowledge extraction
+5	l =
+5	l [ i+1
+5	merkle-damgrd
+5	mi+1
+5	n.
+5	nb
+5	non-uniform adversaries
+5	ny
+5	oded goldreich
+5	one-way function
+5	oracles
+5	p z|xc
+5	part
+5	part ii
+5	pkc ny
+5	pro
+5	probabilistic key generation algorithm
+5	probability p
+5	prover
+5	pt
+5	public coin protocols
+5	public key pk =
+5	r ]
+5	ran canetti
+5	random self-reducible
+5	randomness r
+5	real communication model
+5	real model
+5	running
+5	security parameters
+5	simulation adversary s
+5	size sro
+5	slot [
+5	special case
+5	special sound protocols
+5	standard generator
+5	stating
+5	submission schemes
+5	success probability
+5	syst
+5	todo
+5	transforms
+5	two-party protocol
+5	u1
+5	vf
+5	vi
+5	w [ i ] = w [ i ]
+5	wi
+5	wl =
+5	y0 = g0x0
+5	york
+5	zero-knowledge proofs
+4	 e
+4	-discrete logarithm assumption
+4	-sigma protocol
+4	[ k ]
+4	[ m ]
+4	] show
+4	adversarial structure
+4	annual acm symposium
+4	askpk
+4	auxiliary input
+4	b ]
+4	basic cryptosystem
+4	basis
+4	bi
+4	bi1
+4	birgit pfitzmann
+4	c =
+4	cambridge
+4	cck
+4	ccs
+4	challenge messages
+4	chernoffs inequalities
+4	chp hash function
+4	codebookcny
+4	comb
+4	communications
+4	complexity
+4	computing
+4	conjunction
+4	cramrs theorem
+4	cryptographic hash functions
+4	cs
+4	d =
+4	decveg
+4	deterministic polynomial time
+4	disjunction
+4	dm
+4	dummy
+4	efficient algorithm
+4	encny
+4	encryption algorithm
+4	environments
+4	estimating
+4	exact analysis
+4	expcca
+4	expcma ss
+4	expcpa
+4	exppkc
+4	extraction problem
+4	false statement
+4	february
+4	fi
+4	fl
+4	fortunately
+4	function f
+4	g ab
+4	g x
+4	genb
+4	genny
+4	gitm
+4	grafted sequence
+4	guess d
+4	h i
+4	h i h i sim
+4	homomorphic
+4	homomorphic tallying
+4	honest verifier
+4	hybrid free model
+4	hybrid models
+4	ideal free
+4	ii
+4	interactive proof
+4	interactive turing machine
+4	internal randomness
+4	interpretation
+4	interval
+4	intuitively
+4	j. comput
+4	january
+4	kazue sako
+4	key cryptography
+4	key cryptosystem
+4	knowledge extractor
+4	l [
+4	m-predicate
+4	matroid tree m
+4	matroids
+4	message predicate
+4	min entropy
+4	mix-nets
+4	mj
+4	mn
+4	multiparty protocols
+4	mx1
+4	my
+4	ne [
+4	next-message function
+4	non-trivial representation
+4	np relation
+4	oracle model
+4	original adversary
+4	output
+4	p y
+4	parameter tuple t
+4	path projection
+4	physical
+4	pkn
+4	plaintext group
+4	plaintext space
+4	polynomial p
+4	polynomial time algorithms
+4	pr expcpa,0
+4	pr exppkc
+4	pr x
+4	prghf
+4	primitives
+4	privacy
+4	proceeding
+4	product ring
+4	product rings
+4	protocol [
+4	protocol execution
+4	prover convinces
+4	pseudo-random generators
+4	public coin protocol
+4	public-key cryptosystem
+4	py
+4	q1 q2
+4	qk
+4	ram
+4	random choice
+4	random function
+4	rank
+4	real adversary
+4	real subadversaries
+4	redundant communication
+4	redundant communication models
+4	reserved b.5
+4	ronald cramer
+4	root protocol
+4	router
+4	sako
+4	sci.
+4	security framework
+4	security properties
+4	shadow sequence w
+4	shafi goldwasser
+4	shamir
+4	shuffle group
+4	sig
+4	sigsk
+4	simplified
+4	simplified notation
+4	sj
+4	ss
+4	standard definition
+4	standard generator g
+4	standardized ciphers
+4	step
+4	stripny
+4	technical details
+4	thf
+4	todobound
+4	tz
+4	u =
+4	u2
+4	university press
+4	usenix
+4	verifier
+4	verifiers messages
+4	victor shoup
+4	w =
+4	w = f
+4	x ]
+4	xj
+4	y = g x
+4	y1
+4	z [ i1 ]
+4	z ro
+4	zero-knowledge
+4	zero-knowledge protocols
+4	zte [
+4	} nzn
+3	-secure realization
+3	-special zero-knowledge
+3	3-protocol =
+3	< 1/
+3	= f
+3	= g
+3	= i=1 xi
+3	[ [
+3	[ aj ]
+3	[ ar
+3	[ b ] ] ]
+3	[ cj ]
+3	[ k ] < /
+3	a.6
+3	accepting basis extractors
+3	adi shamir
+3	adversarial model
+3	adversarially biased keys
+3	adversaries
+3	adversary
+3	algr
+3	alternative framework
+3	annual symposium
+3	b.3
+3	b1
+3	basic sampler
+3	batch proofs
+3	binary strings
+3	binomial distribution
+3	bounding
+3	bounding distributions
+3	challenge tree
+3	channels functionality
+3	charles rackoff
+3	chaum
+3	chernoffs
+3	chooses v [
+3	ciphertext attack
+3	ciphertext w
+3	ckn
+3	claim
+3	classes
+3	collision-resistant hash function
+3	commitment algorithm
+3	common input g0
+3	complete free model
+3	computational assumption
+3	concrete assumptions
+3	concrete security parameters
+3	conditional probability
+3	constant c >
+3	convenient way
+3	cryptographic literature
+3	cryptosystem
+3	decision diffie-hellman assumption
+3	decision multi-diffie-hellman assumption
+3	decny
+3	decryption queries
+3	definition b.21
+3	different groups
+3	diffiehellman
+3	dolev
+3	dx
+3	dy
+3	e = i=1 ei
+3	easy reference
+3	elliptic curves
+3	enccny
+3	enceg
+3	encveg
+3	ene
+3	entities
+3	evaluation slot [
+3	f0
+3	faithful transforms
+3	fiat-shamir transform
+3	fiatshamir
+3	flats
+3	follows
+3	formally
+3	framework [
+3	frameworks
+3	free models
+3	function determines
+3	gbs
+3	gd
+3	generate
+3	generator g
+3	gennaro
+3	gilles brassard
+3	grafted sequences
+3	grafting verifier
+3	group homomorphism
+3	gt
+3	h i h i
+3	h i h i cpa,1
+3	h3
+3	hands v
+3	heijsts
+3	hi =
+3	hoeffdings inequality
+3	homomorphic augmentation algorithm
+3	hybrid
+3	hybrid adversary
+3	hybrid free
+3	i = i
+3	i = i i
+3	i [ ]
+3	i [ l ]
+3	i [ n ]
+3	i [ rt ]
+3	i ke
+3	i,1
+3	i,1 r3
+3	ieee trans
+3	important role
+3	index hk
+3	inequality matroid
+3	information theory
+3	input 1n
+3	input m
+3	input x
+3	interactive
+3	internet
+3	ith iteration
+3	ith row
+3	ith shadow element
+3	ith slot
+3	itms m1
+3	itms x1
+3	ivan damgrd
+3	j = f
+3	ji
+3	joe kilian
+3	johan hstad
+3	jth message
+3	k +
+3	k >
+3	k+1 ] cl
+3	k1ln k
+3	key property
+3	l ]
+3	label i
+3	large number
+3	lemma b.11
+3	lists
+3	m,0
+3	m0 = m1
+3	malicious prover
+3	manuel blum
+3	mathematical background
+3	matroid
+3	maximal subdensity
+3	message authentication codes
+3	mihir bellare
+3	mod b
+3	moni naor
+3	multi-party protocols
+3	multiple communication models
+3	n n
+3	n y pn
+3	naor
+3	negligible function
+3	non-interactive
+3	notions
+3	nv [
+3	october
+3	otherwise
+3	p z
+3	p.
+3	partial executions
+3	partial transcript
+3	parties = {
+3	permutation matrices
+3	pfitzmann
+3	pfitzmanns hash function
+3	phillip rogaway
+3	philosophical remarks
+3	pkc veg
+3	plaintext basis b
+3	plaintext m
+3	possible outcome x
+3	pr pro
+3	pr z
+3	predicate
+3	prh
+3	private input x0
+3	probabilistic polynomial time algorithm
+3	probabilistic test
+3	prota
+3	protc
+3	provably secure primitives
+3	provided
+3	pz
+3	q q
+3	r g
+3	r3
+3	ran ppt
+3	random bits
+3	random order
+3	random self-reducibility
+3	readers
+3	real
+3	real free
+3	real subprotocols
+3	reductions
+3	relation
+3	return
+3	ri
+3	rigorous proof
+3	rigorous treatment
+3	rj
+3	root adversary
+3	rosario gennaro
+3	row vector
+3	rr2
+3	s signature queries
+3	s {
+3	sampler
+3	schnorr
+3	secret key x
+3	secure
+3	security frameworks
+3	sequence z
+3	setting
+3	sha-2
+3	shadow sampler
+3	shuffles [
+3	slots [
+3	slots [ a1 ]
+3	special sound protocol
+3	special zero-knowledge simulator
+3	special-sound protocols
+3	stochastic dominance
+3	stripcny
+3	strippk
+3	submission scheme
+3	t ]
+3	t oracle queries
+3	tail bounds
+3	tal malkin
+3	tcc
+3	tcg d1
+3	terelius
+3	theorem b.29
+3	total number
+3	triangle inequality implies
+3	ueli maurer
+3	uniform
+3	uniform matroids
+3	unique prefix
+3	v0 = x
+3	validating sampler
+3	validator
+3	vt
+3	wait
+3	wi =
+3	x nb
+3	x pr
+3	xa
+3	yi
+3	z =
+3	z [ k ]
+3	z z
+3	zero knowledge protocols
+3	zi
+3	zk
+3	zk+1
+3	{ v1 }
+3	|a ]
+3	} d
+3	} d {
+3	} n
+3	} p
+2	  
+2	   
+2	  w =
+2	 
+2	 n
+2	  hk =
+2	+ k
+2	+ r
+2	-chosen ciphertext
+2	-environment map
+2	-pseudo-random generator
+2	-statistical honest-verifier zero-knowledge
+2	/2 /q
+2	/2 z/q
+2	0th write-once tape
+2	2ne +nv +nr
+2	< /k ] < e
+2	< ln
+2	= 1/
+2	= 1/k
+2	= =
+2	= b
+2	= bt
+2	= g bi
+2	= g k
+2	= h1
+2	= i [ r ]
+2	= m
+2	= min
+2	= s
+2	= sim
+2	= u
+2	= x
+2	= x ]
+2	> k ] < e
+2	[ ai ]
+2	[ b ] denotes
+2	[ b ] }
+2	[ bi ]
+2	[ cj
+2	[ i ]
+2	[ k ] = w
+2	[ k ] = x
+2	[ k+1
+2	[ x =
+2	[ x ] =
+2	[ x ] = y
+2	[ y1
+2	[ z ]
+2	[ |x
+2	\ b
+2	] +
+2	] <
+2	] = p
+2	] ii / [ 
+2	] proves
+2	] slot
+2	] |z [ k ]
+2	] }
+2	a.1 faithful transforms
+2	a.2 simulating multiple interactive turing machines
+2	a.4
+2	a.4 redundant communication
+2	a.5 transforms
+2	a.6 adversary converter
+2	absorbing transform
+2	accepting basis
+2	accepting transcript tree
+2	acm trans
+2	activation tapes
+2	activity head
+2	adaptive
+2	additional properties
+2	additive group
+2	adecsk
+2	advantage
+2	adversary slot
+2	aes
+2	africa
+2	aj,0
+2	aj,1
+2	al
+2	alfredo de santis
+2	algebraic computation
+2	alternative definition
+2	analysis
+2	andrew chi-chih yao
+2	andrew m. odlyzko
+2	ann
+2	apkpk
+2	ar ar
+2	assumptions
+2	augcny
+2	augmented
+2	austria
+2	auxiliary advice string
+2	av
+2	aveg
+2	b <
+2	b = b { v1 }
+2	b.1
+2	b.1 matroids
+2	b.5 distributions
+2	b.6 stochastic dominance
+2	b0
+2	babai
+2	ballot box
+2	basic public key pk b
+2	basic requirement
+2	basic special sound protocol
+2	basis b
+2	basis g
+2	basis subtree
+2	basis tree
+2	beaver
+2	beijing
+2	belgium
+2	benaloh
+2	berkeley
+2	bibliography
+2	binary operator
+2	binary operators
+2	binary representation
+2	bit b
+2	bit size
+2	bit strings
+2	bit-strings
+2	bj
+2	bjrn terelius
+2	bounding distribution
+2	breaking
+2	c = c
+2	c [
+2	c0 j [ i1 ]
+2	carsten schrmann
+2	cat
+2	cg
+2	challenge v
+2	chapman
+2	china
+2	chooses e [
+2	chosen ciphertext
+2	chris peikert
+2	ciphertext attacks
+2	civitas
+2	classical proof system
+2	codebook
+2	codebook naor-yung cryptosystem
+2	coinciding indices
+2	collapsing transform
+2	collecting
+2	collisionresistant hash function
+2	combination algorithm
+2	combining transform
+2	commitment key ck
+2	commitment-consistent proof
+2	commun
+2	complete protocol
+2	completeness
+2	completeness c
+2	composable security
+2	composable security framework [
+2	compound distributions
+2	compound geometric distributions
+2	computational model
+2	computational problems
+2	computationally binding
+2	computationally binding commitment scheme
+2	computes y = g x
+2	concrete examples
+2	concrete parameters
+2	concrete protocol
+2	consistent notation
+2	constant c0
+2	constructive
+2	corollary b.10
+2	corresponding advantage
+2	corrupt party
+2	couple of weeks
+2	cpa
+2	cryptographic construction
+2	cryptographic protocol
+2	current transcript
+2	d = dn
+2	d {
+2	d1 = b1
+2	dan boneh
+2	danny dolev
+2	david chaum
+2	ddh problem
+2	deccny
+2	deceg
+2	december
+2	decision makers
+2	decode
+2	decoder
+2	decryption algorithms
+2	decryption oracle
+2	decryption protocols
+2	definition a.10
+2	depending
+2	describe distributions
+2	deterministic function
+2	devices
+2	different parties
+2	different ways
+2	digital
+2	discrete log setting
+2	discrete logarithm [
+2	disobedient verifier
+2	distribution
+2	dl problem
+2	dmm
+2	dsa/ecdsa
+2	dummy parties
+2	dwork
+2	e = ei
+2	e g d h1 i=1 i = g d h1 i=1 i
+2	e i
+2	e pr
+2	e wi i
+2	e0
+2	ea
+2	efficient distinguisher
+2	efficient protocols
+2	ei
+2	el gamals cryptosystem
+2	election scheme
+2	election schemes
+2	electronic voting systems
+2	element y
+2	empty table
+2	encode
+2	encodet
+2	equivalence relation eq
+2	evaluation algorithm
+2	evsmarkchapter read by
+2	exact
+2	exact security analysis
+2	exchange messages
+2	executing
+2	expanding function
+2	expcpa,0
+2	expcpa,0 pkc eg
+2	expected
+2	experiments
+2	exponents
+2	expss
+2	external parties
+2	extraction algorithm
+2	extraction theorem
+2	f -parties
+2	families
+2	fast
+2	feldmans
+2	fiat
+2	fiat-shamir protocol
+2	figure a.1
+2	figure a.5
+2	figures
+2	finding
+2	finite field
+2	fm
+2	following
+2	france
+2	free 0th slot
+2	free ideal model
+2	free slot [
+2	free slots
+2	fs
+2	functionality f
+2	fx
+2	g i=1 hi =
+2	g x1
+2	g xn
+2	g2
+2	g3q
+2	gencny
+2	general case
+2	general form
+2	general results
+2	generalized exponentiation
+2	generate randomness
+2	generator algorithm
+2	genk
+2	genveg
+2	geometric distributions
+2	germany
+2	gkt
+2	gn
+2	gq zq
+2	graph transform
+2	group isomorphism
+2	group operation
+2	group operations
+2	gt1
+2	gy
+2	gz
+2	h =
+2	h i h i cpa
+2	h i h i prg,1
+2	h1 i=1 i
+2	hands a0
+2	hands ai
+2	hands e
+2	hash digest
+2	heijst
+2	hence
+2	historical remarks
+2	hk
+2	hk =
+2	hk |x
+2	hnb s
+2	hoeffdings
+2	homomorphic commitment scheme
+2	homomorphic cryptosystems
+2	honest parties
+2	hstad
+2	hugo krawczyk
+2	hybrid argument
+2	hypothetical adversary
+2	i [ k ] pi
+2	i [ r
+2	i ] =
+2	i i=1
+2	i s
+2	i }
+2	i1
+2	i=0 hei i =
+2	i=1 ei = i=1 ei
+2	i=1 ei si
+2	ideal functionality slot [ f ]
+2	identification scheme
+2	identity tape
+2	ieee symposium
+2	ii / ii [  
+2	im
+2	implies cca2
+2	ind-cpa secure
+2	independent elements
+2	independent random variables
+2	independent vectors
+2	independent work
+2	index
+2	index pi
+2	inequality implies
+2	informal
+2	informal description
+2	information
+2	initialization vector
+2	initializing
+2	input
+2	inputs m
+2	integer index
+2	intentionally blank draft
+2	interactive case
+2	interactive public-coin protocol
+2	intermediate values
+2	international workshop
+2	introduction
+2	italy
+2	ith element
+2	ith party
+2	ith round
+2	ith subdensity
+2	itm graphs
+2	itoh
+2	j [ f ]
+2	j [ i ] pj
+2	j [ k ]
+2	j [ r ] dj
+2	j ]
+2	j,0 ka
+2	j,0 kf
+2	j. acm
+2	jakobsson
+2	jean-jacques quisquater
+2	jens groth
+2	ji = ji
+2	jj e
+2	joint
+2	joint input
+2	jonathan katz
+2	jth mix-server
+2	july
+2	june
+2	k ]
+2	k b
+2	k+1 ]
+2	k+1 ] cl j [ i+1
+2	k-pedersen commitment scheme
+2	k-wise disjunction
+2	kilian
+2	knowledge [
+2	knowledge implies soundness
+2	knowledgeable readers
+2	krzysztof pietrzak
+2	kurosawa
+2	l [ t ]
+2	l {
+2	label corresponds
+2	labels
+2	large subgroups
+2	left side shows
+2	lemma b.23
+2	lemma b.24
+2	lemma b.28
+2	leonid a. levin
+2	levin
+2	linear map
+2	linear relation
+2	linked
+2	logg ub = logz ua
+2	logg y
+2	lr0 lr1
+2	m [ ]
+2	m hi i
+2	m0 m1
+2	machine m
+2	main theorem
+2	markovs inequality
+2	matroid subdensities
+2	meaningful security guarantees
+2	member
+2	message m {
+2	minimal model
+2	minimizing
+2	mk
+2	model
+2	moment generating function
+2	moment generating functions
+2	mpk rpk cpk
+2	mul
+2	multiple
+2	multiple ciphertexts
+2	multiple codewords
+2	multiple dummy parties
+2	multiple layers
+2	multiple parties
+2	multiple rounds
+2	multiplication algorithm
+2	n bits
+2	n y n y pn
+2	n3 p1 p2
+2	naor-yung cryptosystem
+2	ne [ m ]
+2	negative binomial distributions
+2	negligible probability
+2	new paradigm
+2	ni
+2	nnb s
+2	node u
+2	non-negligible function
+2	non-permutation matrix
+2	non-permutation matrix m
+2	non-zero kernel
+2	normalized model
+2	notable probability
+2	notational convenience
+2	np ] < e
+2	np-relation
+2	original construction
+2	original model
+2	outputs m
+2	outputs x =
+2	overwhelming function
+2	p = 2q +
+2	p3 figure
+2	p5
+2	parameter c
+2	parameter determines
+2	parameter tuple t =
+2	parameters i =
+2	partial execution
+2	particular slots
+2	party slots
+2	pedersen commitment scheme
+2	perfectly hiding
+2	perfectly hiding commitment scheme
+2	permutation
+2	philosophical level
+2	pi =
+2	pierangela samarati
+2	pl
+2	plaintext
+2	plaintext words
+2	polynomially bounded relation
+2	possible output
+2	postal service
+2	pr algddh
+2	pr exppkc eg
+2	pr expss
+2	pr vs
+2	practical
+2	practical constructions
+2	practical protocols
+2	practical purposes
+2	practical reasons
+2	preliminaries
+2	prime order
+2	private input w
+2	private inputs
+2	probabilistic
+2	probability generating function
+2	probability generating functions
+2	program
+2	programmable random oracle
+2	programming
+2	prot
+2	protocol level
+2	protocols intentionally blank draft
+2	provable security
+2	provers messages
+2	pseudorandom generator
+2	public key defines
+2	public keys
+2	public-key
+2	public-key cryptography
+2	q1 q2 p1
+2	q3 figure
+2	r0 + r1
+2	r1 mod q
+2	r2
+2	random self-reducible decision problem
+2	random tape r
+2	randomized
+2	rb
+2	rb ua = z  =
+2	read
+2	read by
+2	real 3-adversary
+2	real parties
+2	real party
+2	real subadversary
+2	real/simulation subadversaries
+2	reasonable probability
+2	reduction
+2	related
+2	repeat
+2	reserved evsmarkpart
+2	reserved evsmarkstarredchapter
+2	reserved list
+2	return v1
+2	revised selected papers
+2	right side
+2	right side shows
+2	ring
+2	rn g
+2	robert krimmer
+2	ronald l. rivest
+2	root
+2	round r
+2	royal institute
+2	rsa
+2	s +
+2	s =
+2	s compound geometric distributions
+2	s0 sj
+2	sample v
+2	san francisco
+2	satisfying
+2	scott a. vanstone
+2	secret augmentation key sk
+2	secure realization
+2	security definitions
+2	security parameter tape
+2	security proofs
+2	security reductions
+2	semantic meaning
+2	sender forms
+2	september
+2	set b
+2	set m
+2	sf
+2	shadow matroid
+2	shadow prefix
+2	shadow sequence w = f
+2	shahram khazaei
+2	short hand
+2	si+1
+2	sigma protocol
+2	sigma protocols
+2	sigro
+2	similar way
+2	simon
+2	simple protocols
+2	simplified universal composability framework
+2	simulation
+2	sj ]
+2	sloan
+2	slot
+2	slot [ b ]
+2	slot [ s ]
+2	sm
+2	small probability
+2	societal impact
+2	solving
+2	sound proofs
+2	sound protocols
+2	soundness error
+2	span
+2	special zero knowledge
+2	special zero-knowledge
+2	special-sound protocol
+2	sro + t +
+2	standard approach
+2	state transition
+2	static corruption
+2	statistical honest verifier zero knowledge
+2	straight-line simulator
+2	straightforward way
+2	strict polynomial
+2	string {
+2	structural flaws
+2	subdensity
+2	submatroid
+2	submatroids
+2	submission secure
+2	submission security
+2	submission security experiment
+2	subparty slots
+2	subparty slots [
+2	success parameter s
+2	successful attempt
+2	successful executions
+2	such adversaries
+2	such proofs
+2	swap links
+2	sx
+2	symmetric primitives
+2	t =
+2	t = 1/
+2	t times
+2	tal rabin
+2	taylor
+2	technical reasons
+2	tenc
+2	th
+2	theorem b.16
+2	theorem b.25
+2	theorem b.7
+2	theorem b.8
+2	theorems
+2	theoretical computer science
+2	three-message public-coin protocol
+2	threshold t > k/2
+2	tighter bounds
+2	transcript
+2	transcript trees
+2	transform
+2	transform [
+2	transformations
+2	trivial augmentation
+2	tsinghua
+2	turn determines
+2	tx
+2	uj s
+2	uniform model
+2	uniform way
+2	universal composition theorem
+2	universal verifiability
+2	upon
+2	upper bounds
+2	value
+2	var
+2	variables
+2	various guises
+2	vc
+2	verdict
+2	verifiable secret shuffle
+2	verificatum
+2	verifier message spaces
+2	verifier uses
+2	verifying
+2	vertex labels
+2	vf ro
+2	vi+1 =
+2	vietnam
+2	virtual event
+2	vj
+2	vv
+2	when the paper is published in
+2	wi j=1 ei
+2	wide range
+2	wigderson
+2	workable security framework
+2	wrapper
+2	x cg
+2	x exp
+2	x x y
+2	xi x0
+2	xi {
+2	y =
+2	y m
+2	y1 = g1x0
+2	y2
+2	yao
+2	yehuda lindell
+2	yk
+2	yvo desmedt
+2	z [ k+1
+2	z [ t1 ]
+2	z s
+2	z v
+2	z zqn n
+2	z1
+2	zero-knowledge arguments
+2	zi |xi
+2	zq gq
+2	zqn n
+2	zt = zt
+2	{ u }
+2	{ x
+2	{ x }
+2	| hds
+2	| i [ k ]
+2	|b| < d1
+2	|e ]
+2	|m0 |
+2	|m0 | = |m1 |
+2	|x = x ]
+2	}   
+2	} b
+2	} ii
+2	} nv
+2	} nzn = [
+1	 [
+1	 b
+1	 ej
+1	 fh
+1	 m =
+1	 pairs
+1	 sequence
+1	  
+1	 
+1	   
+1	 s
+1	 adv
+1	 
+1	q o
+1	the straight-line simulator
+1	     
+1	  i + snb di
+1	  i + snb di k
+1	  qt1
+1	 n m
+1	 s pe
+1	   1+s k di + c fvs
+1	 
+1	 hk =
+1	 
+1	 
+1	 
+1	$ \varsigma $ protocol theory
+1	+ + + + ...
+1	+ -secure realization
+1	+ = k
+1	+ br + sr
+1	+ br + sr = +
+1	+ ci fvs
+1	+ ck + ck1 + c2 + c1
+1	+ e
+1	+ eb
+1	+ f
+1	+ ktcheck +
+1	+ pj pj pj j [ k ] i [ k ] j [ i1 ] j [ i ]
+1	+ s
+1	+ sp
+1	+ x
+1	+ xy
+1	+ |pr [
+1	-decision k-diffie-hellman
+1	-decision k1 -diffie-hellman assumption
+1	-function f
+1	-interactive proof
+1	-message interactive proof
+1	-message protocol
+1	-message public-coin pro tocol
+1	-message public-coin protocolsqwith
+1	-model m
+1	-model m =
+1	-protocol =
+1	-special zero knowledge
+1	-zero knowledge
+1	// www.ecrypt.eu.org
+1	/2 /2
+1	/2 =
+1	/2 concludes
+1	/2 }
+1	/b = /2
+1	/dev/urandom /dev/random
+1	/dev/urandom device
+1	/k s
+1	/v b =
+1	/v c =
+1	/v d =
+1	/v e =
+1	/vj ej =
+1	0th tape contains
+1	1. j {
+1	12.0.1 contribution
+1	1st edition
+1	2-dnf formulas
+1	2. theoutput w
+1	2.5.1 security
+1	2.5.2 security
+1	2.6.1 security
+1	2001. https
+1	2002. https
+1	2009. https
+1	2013. https
+1	2014. https
+1	2024-09-26 7.2.1
+1	2024-09-26 7.2.3
+1	2024-09-26 [
+1	2024-09-26 c 0s { z } | { z } | { xt1 m } | z x0 x1
+1	2t ]
+1	3-communication model c
+1	3r+1 factor
+1	3r+1 times
+1	< /
+1	< / ] =
+1	< / }
+1	< /k ] =
+1	< aea aeb
+1	< c
+1	< i t
+1	< k
+1	< nc
+1	< s ]
+1	< s ] =
+1	< |
+1	< |e ]
+1	= 
+1	=  pe
+1	= #
+1	= +
+1	= + a0 b0
+1	= + ci
+1	= + k
+1	= +s
+1	= /
+1	= 1/q 8.4.3
+1	= 2r
+1	= >
+1	= [
+1	= ]
+1	= aj
+1	= b {
+1	= cl
+1	= cl pj pj l [
+1	= d1
+1	= e e =
+1	= ei m
+1	= g ab
+1	= g ai
+1	= g d h1 i=1 i
+1	= g i
+1	= g i=1 i=1
+1	= g k c v c = g kc hi
+1	= g k y v
+1	= g kd i=1 11.3.1
+1	= g r i=1 hm i
+1	= g r+r hi i i =
+1	= g0a
+1	= g0k0
+1	= g1a
+1	= g1k0
+1	= hk
+1	= i [ n ]
+1	= i [ rt ]
+1	= i i i i1 i1
+1	= i=0 ai
+1	= i=1 ri ei
+1	= i=1b
+1	= j [ i1 ] j i [ r ] i [ r ] j [ i1 ]
+1	= j=0 {
+1	= j=1 xj
+1	= k |
+1	= k ] /
+1	= k ] =
+1	= k vx
+1	= k |x = x ]
+1	= k |x = x ] =
+1	= k0 /q
+1	= k1 p
+1	= l [
+1	= l [ i+1
+1	= logg
+1	= logg u
+1	= logg y 1/q
+1	= logg y <
+1	= m.
+1	= maxj [ di ]
+1	= min fbs
+1	= min { k
+1	= min { s
+1	= minx [
+1	= o nq
+1	= p
+1	= pj i [ k ] j [ i ]
+1	= pt1 z ct1
+1	= r >
+1	= rank
+1	= ru
+1	= s/p
+1	= snb
+1	= tds
+1	= u ]
+1	= u ] /u
+1	= u ] /u =
+1	= u ] =
+1	= u |
+1	= u0
+1	= ug r
+1	= v
+1	= vu
+1	= w w /
+1	= x |w ]
+1	= xi i
+1	= y
+1	= z
+1	= z ci1
+1	= z ck
+1	= z ck pk z = pk z ck +ck+1
+1	= { v0 }
+1	= { w {
+1	= { x s | rank
+1	= | {
+1	= |ui
+1	> b
+1	> b ]
+1	> e
+1	> k ] =
+1	> s ] =
+1	[ 
+1	[ 1/u ] =
+1	[ a1 ]
+1	[ ar ] =
+1	[ bi ] } i [ l ]
+1	[ bj
+1	[ c ] [
+1	[ c ] [ c ] [
+1	[ c1 ]
+1	[ ci ] = [ c ]
+1	[ cl ]
+1	[ d ]
+1	[ e ]
+1	[ f
+1	[ i ] cpa
+1	[ j ] } j [ l ]
+1	[ k ] |k
+1	[ log
+1	[ m ] = e [
+1	[ mj
+1	[ s
+1	[ t ]
+1	[ x
+1	[ x ]
+1	[ x1
+1	[ |z
+1	\ {
+1	]      
+1	]  
+1	] 
+1	] .to
+1	] / =
+1	] < 4.7.3 nnb nnb s
+1	] = g hi i=1 j [
+1	] = i [ k ] j [ i ]
+1	] = mp = ks
+1	] = p1 p2 pk1 pk
+1	] = p2
+1	] = s
+1	] = s/p
+1	] = t
+1	] = vi+1
+1	] [ b ] [ c ]
+1	] [ c ]
+1	] [ c ] [
+1	] accepts
+1	] al
+1	] attempts
+1	] blackbox
+1	] c [ f ] [
+1	] c.
+1	] commitments
+1	] computes vi =
+1	] contains
+1	] d2ne
+1	] f [
+1	] fm
+1	] hands i
+1	] i [ k ] 
+1	] i i h h sim
+1	] j [ f ]
+1	] j [ r ]
+1	] j=1 = j=0 t
+1	] jj
+1	] k
+1	] kd = vd + ke
+1	] kf = vf +
+1	] matrix commitment scheme
+1	] nnb s
+1	] open
+1	] proceeds
+1	] s1
+1	] study
+1	] t1
+1	] xi yi
+1	] z
+1	] { log
+1	] |    +
+1	] | t ]
+1	] | t ] 2e2nt
+1	a multiplication
+1	a +
+1	a = {
+1	a completeness theorem
+1	a. b.2 generic bounds
+1	a. n3 p1 p2
+1	a. theorem
+1	a. w. schrift
+1	a.1 definition
+1	a.1 simulating itms
+1	a.10 definition
+1	a.11 definition
+1	a.12 b.7 b.8 b.9 b.13 b.15 b.16 b.25 b.29
+1	a.14 definition
+1	a.15 definition
+1	a.16 definition
+1	a.17 definition
+1	a.18 definition
+1	a.19 definition
+1	a.2
+1	a.2 collapsing
+1	a.2 definition
+1	a.3
+1	a.3 definition
+1	a.3 redundant
+1	a.3 simulate multiple links
+1	a.3 simulate multiple links suppose
+1	a.4 definition
+1	a.4 redundant
+1	a.5 arbitrary
+1	a.5 theorem
+1	a.6 definition
+1	a.7 definition
+1	a.8 definition
+1	a.9 theorem
+1	a0 = logg u0
+1	a0 aj
+1	a0 b0 x
+1	a1 = logg u1
+1	a2 a3 =a 1+ + + +
+1	a2 a3 a4 ea
+1	aai8809191
+1	ab
+1	abraham wald
+1	abstract
+1	abstract notation
+1	abstract point
+1	abstract protocol
+1	abstract protocols
+1	abstract view
+1	abstractions
+1	abuse
+1	accept
+1	acceptance conditions
+1	acceptance probability
+1	accepts pk b
+1	access
+1	accessible beginners text
+1	accurate electronic voting
+1	acisp
+1	acknowledgments
+1	acm sigsac
+1	activation bit interactive
+1	active
+1	active state transitions
+1	activity head ar
+1	activity tape
+1	actual ciphertexts
+1	actual content
+1	ad-hoc arguments
+1	adaptive chosen-message attacks
+1	adaptive corruption
+1	addison wesley longman
+1	addison-wesley
+1	additional codebook generation algorithm
+1	additional complication
+1	additional definition
+1	additional guarantees
+1	additional index
+1	additional knowledge
+1	additional loss
+1	additional method
+1	additional notation
+1	additional points
+1	additional power
+1	additional privacy property
+1	additional private inputs
+1	additional recursive
+1	additional requirement
+1	additional round
+1	additional security parameters
+1	additional tapes
+1	additional zero knowledge proofs
+1	additive loss
+1	additive plaintext
+1	adida
+1	advanced
+1	adversarial forces
+1	adversarial model determines
+1	adversarially biased keys intentionally blank draft
+1	adversary access
+1	adversary converter adv
+1	adversary converter intentionally blank draft
+1	adversary corrupts parties
+1	adversary notices
+1	adversary queries
+1	adversary s
+1	advice string
+1	af
+1	africacrypt
+1	against chosen ciphertext
+1	against chosen message
+1	against chosen plaintext
+1	agnostic probably-approximately-correct
+1	agreement problem
+1	ahhk
+1	aj =
+1	aj = g aj
+1	aj [
+1	aj j
+1	aj+1
+1	al.s batch proofs work
+1	al.s notion
+1	alfred j. menezes
+1	alfred menezes
+1	alfred v. aho
+1	algebraic structure
+1	algorithm b
+1	algorithm chooses r
+1	algorithm chooses x
+1	algorithm sim
+1	algorithmic pseudo-random generators
+1	algorithms definition
+1	algrt
+1	alternate fashion
+1	alternative
+1	alternative formalization
+1	alternative notation
+1	alternative presentations
+1	alternative software stack
+1	alternative viewpoints
+1	amalfi
+1	amazing ability
+1	ambiguous representations
+1	ambitious attempt
+1	amos fiat
+1	analysis applies
+1	analytic meaning
+1	analytically
+1	analyze algorithms
+1	analyze independence requirements
+1	analyze multi-party protocols
+1	andrea cerulli
+1	andreas pfitzmann
+1	andrew c. myers
+1	andrzej tarlecki
+1	andy rupp
+1	annual cryptology
+1	anonymization services [
+1	anonymous channel
+1	anonymous credentials [
+1	antoine joux
+1	appealing transformations
+1	applicable concentration bounds
+1	application protocols
+1	applied cryptography
+1	approach [
+1	approach differs
+1	approach solves
+1	appropriate assumption
+1	appropriate ground
+1	appropriate matroid ground
+1	appropriate round
+1	approximate
+1	ar
+1	arbitrary adversary
+1	arbitrary bit strings
+1	arbitrary decryption queries
+1	arbitrary list
+1	arbitrary messages mi
+1	arbitrary strings
+1	archive
+1	ari juels
+1	arithmetic circuits
+1	art
+1	arthur-merlin
+1	artificial complexity
+1	aryeh kontorovich
+1	asaf cohen
+1	asiacrypt
+1	asigsk
+1	assign
+1	associative property
+1	assumption p [ i ] = p [ i ]
+1	assumption states
+1	asymptotic analysis
+1	asymptotic proofs
+1	asynchronous communication network
+1	athens
+1	atomic operation
+1	attema
+1	attractive properties
+1	au =
+1	augmentationkey pair
+1	augmented cryptosystems
+1	august draft
+1	australasian
+1	australia
+1	authentication codes
+1	authentication purposes
+1	automata
+1	automatic access
+1	auxiliary security parameter
+1	auxiliary security parameters nv
+1	average-case complexity
+1	avi wigderson
+1	b + s
+1	b /q
+1	b = 2ta / steps
+1	b = [
+1	b = g b
+1	b = logg v
+1	b = m
+1	b = m.
+1	b = r d.
+1	b = {
+1	b = { b |
+1	b = { k |
+1	b =v \a
+1	b >
+1	b ] + +
+1	b ] < k [
+1	b ab
+1	b ai mi
+1	b b
+1	b h i h i
+1	b k xb
+1	b { x }
+1	b |
+1	b. alice
+1	b.1 definition
+1	b.12 definition
+1	b.14 definition
+1	b.17 definition
+1	b.19 definition
+1	b.2
+1	b.2 definition
+1	b.2 generic bounds
+1	b.21 definition
+1	b.26 definition
+1	b.3 definition
+1	b.30 definition
+1	b.31 definition
+1	b.4
+1	b.4 definition
+1	b.4 generating functions
+1	b.5
+1	b.5 definition
+1	b.5.2 var
+1	b.5.3
+1	b.5.4 negative binomial distribution consider
+1	b.6
+1	b.6 definition
+1	b0 = b + s
+1	b0 = logg v0
+1	b0 x
+1	b1 = b0 x
+1	b1 = logg v1
+1	backmatter draft
+1	ballot
+1	ballot envelope
+1	baltimore
+1	bart preneel
+1	base case
+1	based
+1	basic algorithms
+1	basic approach
+1	basic ciphertexts
+1	basic cryptographic notions
+1	basic decryption algorithm
+1	basic extractor algorithm b
+1	basic extractor b
+1	basic extractor increases
+1	basic hash function
+1	basic idea
+1	basic ideas
+1	basic key generation algorithm
+1	basic key pair
+1	basic notation
+1	basic public key cryptosystem
+1	basic results
+1	basic sampler algorithm
+1	basic strategy
+1	basis extractor extracts
+1	batch proof
+1	batch verification
+1	beautiful theory
+1	ben adida
+1	benalohs
+1	benny pinkas
+1	bernard chazelle
+1	bernoullis
+1	berry schoenmakers
+1	bf
+1	bi ]
+1	bi ai
+1	bi ai =
+1	bi1 bi bi
+1	big probability mass
+1	big-o notation
+1	bimal k. roy
+1	binary log k-bit representation
+1	binary operation
+1	binary random
+1	binary ranpindependent n dom variables
+1	binomial law
+1	bit d {
+1	bit length
+1	bit length c
+1	bit size representation
+1	bit string s.
+1	biv
+1	blackbox way
+1	blocks t
+1	blue print
+1	blum
+1	blum-blumshub
+1	bob sloan
+1	boca raton
+1	book focus
+1	bootle
+1	bounds consider
+1	brassard
+1	bregenz
+1	bridging commitments
+1	brisbane
+1	broad family
+1	broad sense
+1	broadcast channel
+1	broader audience
+1	broader focus
+1	broader literature
+1	bruges
+1	bulletin board
+1	byte array
+1	byte arrays
+1	byzantine
+1	byzantine generals problem
+1	c < sk/0
+1	c = [
+1	c = ab +
+1	c = c +
+1	c = i=1 ri
+1	c = logg w
+1	c = |m|
+1	c [ f ] } [ i [ k ] {
+1	c ]
+1	c ] 
+1	c ] +
+1	c ] = akb k1
+1	c ] b
+1	c j [ r ] dj /
+1	c s
+1	c }
+1	c. andrew neff
+1	c0 = a0 b0
+1	c0 = c +
+1	c0 = logg w0
+1	c1 =
+1	c1 = a1 b1
+1	c1 = c0 x = x + a0 b0 x
+1	c1 = logg w1
+1	c=g
+1	cachin
+1	candidate node
+1	candidate proof
+1	candidate signature
+1	canettis
+1	canonical direction
+1	canonical order
+1	capital letter
+1	cardinality q
+1	care
+1	careful formalization
+1	case j = k
+1	case td0
+1	case-by-case basis
+1	cast vote
+1	catuscia palamidessi
+1	cca
+1	cca2-experiment
+1	cca2-security
+1	certain aspects
+1	certain events
+1	certain fraction
+1	certain machines
+1	certain period
+1	certain problems
+1	certain properties
+1	certain results
+1	certain set
+1	certain situations
+1	challenge ciphertext wi
+1	challenge message
+1	challenge messages m0
+1	challenge trees
+1	challenge value
+1	challenge vi+1 s
+1	chapter 4. s
+1	chapter 4for
+1	chapter 4the extraction problem
+1	chapter 4with
+1	chapter b contains mathematical results
+1	characterization generalizes
+1	cheju
+1	chennai
+1	chevalier
+1	chicago
+1	child u
+1	choonsik
+1	chooses  x
+1	chooses b
+1	chooses b1
+1	chooses commitment exponents r
+1	chooses i [ ]
+1	chooses j [ t ]
+1	chooses k
+1	chooses ka
+1	chooses r
+1	chooses random verifier messages
+1	chooses w
+1	chooses x
+1	chp
+1	christophe petit
+1	christos m. papadimitriou
+1	ci = fbs
+1	ci = fs
+1	ci+1 i [ k ] j [ i ] =
+1	ci+1 pj
+1	ci1 =
+1	ci1 = i i i i i
+1	ciphertext attack experiment generates
+1	ciphertext queries
+1	ciphertext w =
+1	ciphertext x
+1	ciphertexts and/or zero knowledge proofs
+1	ciphertexts ui = g r
+1	ciphertexts w0 =
+1	ciphertexts w1
+1	ciphertexts wi =
+1	cite theorem
+1	cj
+1	ck =
+1	ck+1 =
+1	ck,1
+1	cl l [
+1	cl pj pj i [ k ] l [ i+1
+1	classic code book encryption
+1	classic constructions
+1	classical codebook encryption scheme
+1	classical introduction
+1	classical notion
+1	claude crpeau
+1	claus-peter schnorr
+1	clean combinatorial problem
+1	clearly
+1	clever technique
+1	cline chevalier
+1	close connection
+1	cny cny mcny
+1	cny veg
+1	codebook algorithm
+1	codebook naor-yung
+1	codes cryptography
+1	coercion resistance
+1	colin boyd
+1	collapse parts
+1	collection
+1	collection subfunctionality
+1	collision resistance intuitively
+1	collision-resistant function
+1	colloquium
+1	cologne
+1	column-wise commitment
+1	com putational problem
+1	com- mon input x
+1	comb pt
+1	combination algorithms
+1	combinatorial language
+1	combinatorial properties
+1	commitment map
+1	commitment parameter ck
+1	commitment parameters
+1	commitment schemes commitment
+1	commitment space
+1	commitments
+1	commitments r1
+1	committer chooses rj
+1	commmon input
+1	common classes
+1	common examples
+1	common in-
+1	common input xi
+1	common labels
+1	common misconception
+1	common prefix
+1	common proposal
+1	common variation
+1	communication
+1	communication layer
+1	communication model behaves
+1	communication model captures
+1	communication models behave
+1	communication models commute
+1	communication network
+1	communication slot
+1	complete analysis
+1	complete computational model
+1	complete description
+1	complete form
+1	complete free models
+1	complete group
+1	complete public key
+1	complete sequence z
+1	complete set
+1	complete stand-alone proof
+1	complete system
+1	complete transcript
+1	complete tree
+1	complete tuple
+1	completeproof missing
+1	complex matroid
+1	complex protocols
+1	complex system
+1	complexity assumption
+1	complexity theory
+1	component parametrizes
+1	composable models
+1	composable security framework
+1	compose transforms
+1	composite degree residuosity classes
+1	composition
+1	composition theorems
+1	compound geometric distribution distributions
+1	comprehensive comparison
+1	comprehensive historical account
+1	compressing
+1	computable bijection
+1	computable predicates
+1	computational
+1	computational models
+1	computational penalty
+1	computational power
+1	computational problem 
+1	computational problems problems
+1	compute g ab
+1	compute optimal parameters
+1	compute sj
+1	compute u =
+1	compute x0
+1	compute zi =
+1	computer programming
+1	computer science undergraduate student
+1	computer scientists
+1	computes 
+1	computes 
+1	computes c
+1	computes c = i=1 ui h
+1	computes di = bi + ei di1
+1	computes e =
+1	computes g1 = i [ k ] uei i
+1	computes k = vx +
+1	computes k0 = vx0 +
+1	computes ka = va + kc = vc + kb
+1	computes ui = g
+1	computes w =
+1	computes wl =
+1	computes xi =
+1	computes z = y w
+1	computes zi =
+1	concatenation
+1	concatenations
+1	conceptual step
+1	conclude pt1 z ct1
+1	conclusion
+1	concrete augmentations
+1	concrete bounds
+1	concrete example
+1	concrete implementations
+1	concrete instantiations
+1	concrete motivation
+1	concrete notation
+1	concrete primitives
+1	concrete security claims
+1	concrete security parameter
+1	concrete security parameter n0
+1	concrete soundness
+1	concrete tail bounds
+1	concrete variations
+1	conditional distributions
+1	conditional probabilities
+1	conferenceon cryptology
+1	consecutive cells
+1	consensus mechanism
+1	conservative approach
+1	conservative choice
+1	conservative estimates
+1	conservative measure
+1	considerable resources
+1	considers uniform matroids
+1	constant ci
+1	constant factor
+1	constant i [ r ] i < <
+1	constant n0
+1	constant number
+1	constant r
+1	constant term
+1	constant times
+1	construct primitives
+1	construct protocols
+1	construction [
+1	constructions
+1	constructions chaum
+1	constructions work
+1	consumer device
+1	contents
+1	contents contents
+1	contiguous byte array
+1	continuous distribution
+1	contrapositive assumption
+1	convenient form
+1	convenient ways
+1	cook
+1	core ideas
+1	corr
+1	correct estimate
+1	correctness
+1	corresponding adversary
+1	corresponding class
+1	corresponding codeword
+1	corresponding configuration
+1	corresponding definitions
+1	corresponding direct product element
+1	corresponding extraction
+1	corresponding honest prover
+1	corresponding interactive protocol
+1	corresponding language
+1	corresponding links
+1	corresponding model
+1	corresponding modification
+1	corresponding notation
+1	corresponding plaintexts
+1	corresponding probability function
+1	corresponding protocol
+1	corresponding prover
+1	corresponding redundant
+1	corresponding verification
+1	corrupt certain parties
+1	corrupt dummy parties
+1	corrupt parties
+1	counter examples
+1	cpu
+1	cr1 =
+1	cramer-shoup
+1	cramershoup
+1	crc
+1	cris koutsougeras
+1	critical applications
+1	crude measure
+1	cryption algorithm
+1	crypto currency
+1	cryptographers
+1	cryptographic
+1	cryptographic activities
+1	cryptographic background
+1	cryptographic community
+1	cryptographic constructions
+1	cryptographic currencies
+1	cryptographic hash functions intentionally blank draft
+1	cryptographic literature leaves
+1	cryptographic model
+1	cryptographic notions
+1	cryptographic primitives
+1	cryptographic scheme
+1	cryptographic schemes
+1	cryptographic setting
+1	cryptographic setting things
+1	cryptographically
+1	cryptology draft
+1	cryptosystems exhibit
+1	ct
+1	ct-rsa
+1	cumbersome notation
+1	cumulative distribution function f
+1	cumulative sums
+1	currencies
+1	current approach
+1	current partial transcript
+1	current prefix
+1	cyclic group
+1	cyclotomic rings
+1	cynthia dwork
+1	czech
+1	d -disobedient verifier
+1	d = b
+1	d = f
+1	d = i [ r ] di
+1	d = r
+1	d i i=1 i = g d h1 i=1
+1	d n
+1	d. b.5.1 exponential distribution
+1	d.r
+1	d1 ]
+1	d=g
+1	daniel j. bernstein
+1	daniel r. simon
+1	david l. chaum
+1	david pointcheval
+1	dc
+1	ddh assumptions
+1	decb
+1	decbsk
+1	decision bit
+1	decision multi-diffie-hellman problem
+1	decision prob lem
+1	decision problem 
+1	decodet
+1	decrypt ciphertexts
+1	decryption [
+1	decryption oracle computes 1/sk
+1	decryption protocol
+1	decryption query
+1	define prghf
+1	define x
+1	define x0
+1	define z
+1	defines  sj
+1	defines hi = g ri y si
+1	definition a.1
+1	definition a.11
+1	definition a.14
+1	definition a.15
+1	definition a.16
+1	definition a.17
+1	definition a.18
+1	definition a.19
+1	definition a.2
+1	definition a.3
+1	definition a.4
+1	definition a.6
+1	definition a.7
+1	definition a.8
+1	definition b.1
+1	definition b.12
+1	definition b.14
+1	definition b.17
+1	definition b.19
+1	definition b.2
+1	definition b.26
+1	definition b.3
+1	definition b.31
+1	definition b.4
+1	definition b.5
+1	definition b.6
+1	definition implies
+1	definition meaningful
+1	definitional approach
+1	definitional work
+1	definitions identifies
+1	degree d1
+1	degree polynomial
+1	degxj fm >
+1	democracy evolves
+1	denoting
+1	dependent polynomial p
+1	depth function f
+1	depth i +
+1	depth i1
+1	depth intuitive interpretation
+1	depth r tree
+1	deriving
+1	des
+1	describe protocols
+1	design principle
+1	determining
+1	deterministic hash function
+1	deterministic hash functions
+1	deterministic next-message function
+1	deterministic verification algorithm
+1	device learns
+1	device outputs
+1	device pre-compute ciphertexts
+1	devices naively
+1	di = bi + ei di1
+1	di children
+1	di di1
+1	di k
+1	di1
+1	different adversarial models
+1	different algorithm
+1	different approach
+1	different choice
+1	different codewords
+1	different eras
+1	different hardware
+1	different ideal functionalities
+1	different independence
+1	different kind
+1	different lengths
+1	different notation
+1	different parties interact
+1	different parts
+1	different probabilities behave
+1	different purposes
+1	different roles
+1	different router
+1	different solutions
+1	different submission schemes
+1	different types
+1	different view
+1	diffie-hellman element
+1	digital pseudonyms
+1	digital signature
+1	digital signature scheme
+1	digital signatures
+1	dimitris gritzalis
+1	direct rsaimplementation
+1	disclosure proofs
+1	discrete
+1	discrete log proofs
+1	discrete logarithm assumption definition
+1	discrete logarithm assumption m
+1	discrete logarithm dn
+1	discrete logarithm modulo
+1	discrete logarithm prob-
+1	discrete logarithms [
+1	discrete mathematics
+1	discrete random
+1	disjunction problem
+1	distinct verifier messages
+1	distinctness matroid {
+1	distinguishes distributions
+1	distribution corresponds
+1	distributions 
+1	division v aj j,0 vj,1 = g ka
+1	dj1
+1	dl
+1	doctoral
+1	does
+1	donald beaver
+1	donald e. knuth
+1	dongdai lin
+1	dorothy e. denning
+1	double-envelope approach
+1	dp
+1	draft compiled
+1	drastic loss
+1	drop f
+1	drop m
+1	dry form
+1	dual analysis
+1	dummy 3protocol
+1	dummy k-protocol
+1	dummy messages
+1	dummy parties = {
+1	dummy protocol
+1	durham
+1	dv
+1	dv d
+1	dw canetti
+1	dynamic adversaries
+1	e s
+1	e =
+1	e = m e.
+1	e >
+1	e e e
+1	e e na e ena
+1	e ej
+1	e hi i
+1	e hi i i=1
+1	e i e uj j = g j=1 rj ej hi j=1 = g re hm
+1	e ui i
+1	e wi j
+1	e x
+1	e z
+1	e-vote-id
+1	e.
+1	e0 + i=1 ei ri
+1	ea <
+1	early versions
+1	early work
+1	easy task
+1	ecrypt ii
+1	ed
+1	ed dawson
+1	edition
+1	editorial annotation todos
+1	edward w. ng
+1	efficient algorithms
+1	efficient anonymous channel
+1	efficient constructions
+1	efficient extractor
+1	efficient probabilistic test
+1	efficient scheme
+1	efficient way
+1	ei = e1
+1	ei i=1 ui
+1	ej
+1	el gamals cryptosystem recall
+1	elaborate
+1	election closes
+1	electronic
+1	electronic commerce
+1	electronic election
+1	electronic voting
+1	electronic voting systems september
+1	element g
+1	element g ab
+1	element x
+1	elementary linear algebra
+1	elementary mathematics
+1	elements u1
+1	elements ub
+1	eligible voters
+1	elliptic curve groups
+1	empty string
+1	en [
+1	en spans
+1	ena ea
+1	encb
+1	encode senders
+1	encounter 
+1	encryption
+1	encryption function
+1	encryption map
+1	encryption process
+1	encrypts mb
+1	engineering fields
+1	engineering science
+1	eq = {
+1	eq,0 <
+1	eq-submission security
+1	equal lengths
+1	equation [
+1	equation system a0 =
+1	equivalence relation
+1	equivalent adversary
+1	equivalent ideal communication model
+1	equivalent real communication model
+1	eric v. slud
+1	ernest f. brickell
+1	error code
+1	espoo
+1	essential restriction
+1	essential way
+1	eu-jin goh
+1	euclidean
+1	eugne
+1	european network
+1	eurosam
+1	evaluates 
+1	evaluating
+1	evaluation
+1	evaluation algorithms
+1	evaluation function
+1	evsmarkbibliography bibliography
+1	evsmarkchapter a. transformations
+1	evsmarkcontents
+1	evsmarkcontents read by
+1	evsmarkindex
+1	evsmarkindex read by
+1	evsmarklists list
+1	evsmarkpart
+1	evsmarkpart part
+1	evsmarkpart part ii multiparty protocols
+1	evsmarkpart part iii appendix draft
+1	evsmarkstarredchapter
+1	evsmarkstarredchapter acknowledgments
+1	evsmarkstarredchapter introduction fifty
+1	evsmarkstarredchapter preface
+1	evt07
+1	ex-  ecution
+1	exact assumption
+1	exact extraction theorem
+1	exact proof
+1	exact proofs
+1	exact reduction
+1	exact reductions
+1	exact security guarantees
+1	example illustrates
+1	excellent background
+1	execution cpa
+1	execution m
+1	exhaustive search
+1	exists simulator s
+1	exists y1
+1	exp
+1	expapkc
+1	expcpa,1
+1	expected-time
+1	experi- ment
+1	experiment returns
+1	experiment returns w =
+1	explicit
+1	explicit algorithms
+1	explicit definitions
+1	explicit faithful transforms
+1	explicit form
+1	explicit input
+1	explicit proofs
+1	explicit representation
+1	explicit results
+1	explicit router corresponds
+1	explicit transformation
+1	explicit treatment
+1	explicit upper bounds
+1	explicit version
+1	explicit way
+1	exponential variables
+1	exposes [ bj
+1	expprg
+1	extendable prefix w
+1	extendable shadow prefix samples
+1	extendable-output functions
+1	extending
+1	extra leg room
+1	extra tapes
+1	extract
+1	extract indices
+1	extract information
+1	extract x =
+1	extractable proof
+1	extraction
+1	extraction algorithm w
+1	extraction problem suppose
+1	extraction properties
+1	extraction time
+1	extractor whenever
+1	eyal kushilevitz
+1	f -party
+1	f = f v
+1	f = i=1 si ei
+1	f = i=1 wiei
+1	f = {
+1	f >
+1	f [ c ]
+1	f adversary
+1	f outputs
+1	f sends m
+1	f subadversary slots [
+1	f subparty slots [
+1	f v f =
+1	factor r
+1	fair computation
+1	fairfax
+1	faithful way
+1	false statements
+1	fast computation
+1	fauth
+1	feldman
+1	fhe
+1	field element x
+1	field elements
+1	figure a.1-a.5
+1	figure a.2
+1	figure a.3
+1	figure a.4
+1	final message corresponds
+1	final plaintext
+1	final reply
+1	final result
+1	finite domain
+1	finite fields
+1	finite groups
+1	finland
+1	fips.186-4.pdf
+1	firstly
+1	fix notation
+1	fixed
+1	fixed-length collision-resistant hash function
+1	fj =
+1	flips coins
+1	focs
+1	follow-up
+1	follow-up results
+1	follow-up work
+1	following chapters
+1	folq lows
+1	form y  d fd
+1	form x  c1
+1	form /2
+1	form [
+1	form [ [  
+1	form ci
+1	form f
+1	form g c
+1	form groups
+1	form i [ r ]
+1	form jj mi
+1	form p = kq +
+1	form uj = g r
+1	form w =
+1	form wi =
+1	form x
+1	form z [ k ]
+1	form {
+1	formal analysis
+1	formal definition
+1	formal methods literature
+1	formal power series
+1	formal verification
+1	formalizations differ
+1	formalize access
+1	formalize average-case computational problems
+1	formalize cryptographic notions
+1	formalize protocols
+1	formalizing
+1	forms x =
+1	fraction |a|/|s|
+1	framework captures
+1	framework relates
+1	francis
+1	free environment slots
+1	free k-model map
+1	free model formalizes
+1	free model map
+1	free model maps
+1	free real model
+1	free subparty
+1	freebsd
+1	fresh completion z [ k+1
+1	fresh encryption
+1	fresh execution
+1	fresh randomness ai
+1	function e
+1	function evaluation
+1	function f [
+1	function index
+1	function n
+1	functions
+1	functions implies
+1	furukawa
+1	fy
+1	g =
+1	g = 
+1	g g g
+1	g g generators
+1	g g.
+1	g h1
+1	g ka c = c v g kc
+1	g kb
+1	g kd
+1	g m
+1	g r
+1	g r i=1 hi i = g r i=1 hm i
+1	g rl
+1	g x = g x r = y g r = y
+1	g xy
+1	g y
+1	g {
+1	g. remark
+1	g. seroussi
+1	g1
+1	garay
+1	gd0
+1	geneg
+1	general combinatorical structures
+1	general composition theorem
+1	general compound distributions
+1	general framework
+1	general function evaluation
+1	general functions
+1	general infeasible
+1	general introduction
+1	general model
+1	general notation
+1	general problem
+1	general public
+1	general purpose protocol
+1	general settings
+1	general strategy
+1	generate codewords
+1	generates pseudo-randomness
+1	generates sk b
+1	generates xi =
+1	generating functions probability
+1	generator [
+1	generator g.
+1	generators
+1	generators g
+1	generators h1
+1	generic
+1	generic position
+1	genro
+1	gens
+1	geometric distribution captures
+1	geometric distribution consider
+1	geometric p distributions
+1	gi
+1	gi1
+1	gitm itm
+1	giuseppe persiano
+1	goldreichs
+1	goldwasser-micali
+1	goldwassermicali
+1	good idea
+1	good intent
+1	good parameters
+1	good quality
+1	gq generators pedersen
+1	gq zp
+1	graft branches
+1	grafted sequences recall
+1	grafted sequences suppose
+1	grafting
+1	greece
+1	gregor seiler
+1	group descriptions
+1	group element
+1	group element y
+1	group homomorphic properties
+1	group operator
+1	group theory
+1	groups schnorr
+1	gs
+1	gunnar kreitz
+1	gutterman
+1	gzq
+1	h < s
+1	h = h +
+1	h = s
+1	h i cma
+1	h i cpa
+1	h i h i cca,0 cca,1
+1	h i h i cca,1 <
+1	h i h i cpa,1 <
+1	h i h i ss
+1	h pi =t +p
+1	h0 = g
+1	h0 = g.
+1	h0 | |h1
+1	h0 | |h1 form
+1	h1
+1	halevi
+1	hall/crc
+1	hall/crc cryptography
+1	hand route messages
+1	hand vi+1
+1	handbook
+1	hands a0 =
+1	hands aj =
+1	hands b = g b
+1	hands k
+1	hands k0
+1	hands u =
+1	hands vj
+1	hanoi
+1	hard computational problem
+1	hard instances
+1	harriet ortiz
+1	hash digest h
+1	hash digests
+1	hash function key hk =
+1	hash values
+1	haven
+1	head r
+1	head s
+1	heijstpfitzmann
+1	heuristic [
+1	heuristic suggests
+1	hi = g xi
+1	hi i c = g i
+1	hi l=1 mi
+1	hierarchical group signatures
+1	high entropy
+1	high level
+1	high level ideas
+1	high probability
+1	high prover min-entropy
+1	high quality randomness
+1	hirt
+1	hj
+1	hk {
+1	hl
+1	hmin
+1	hnb hcg s
+1	homomorphic cryptosystem
+1	homomorphic encryption
+1	homomorphic encryptions
+1	homomorphic map
+1	homomorphic property
+1	homomorphisms
+1	honest majority
+1	honest party
+1	honest prover
+1	honest verifier zero knowledge
+1	honest-verifier p-zero-knowledge
+1	honest-verifier zero-knowledge proof
+1	honest-verifier zero-knowledge simulator
+1	houthalen
+1	hro
+1	human ignorance
+1	hybrid adversaries
+1	hybrid protocols
+1	hypothetical process
+1	i <
+1	i < r
+1	i = 1/i
+1	i = [
+1	i = d
+1	i = i1
+1	i = i=1 e ui j
+1	i = r
+1	i = vbi + i
+1	i = vei + i
+1	i [ ] 
+1	i [ k ] 
+1	i [ k ] cl
+1	i [ k ] qi
+1	i [ k ] qi i [ k+1 ] ci
+1	i [ n ] = =
+1	i [ r ] i [ r ] j [ i
+1	i [ r1 ] i2 min
+1	i [ rt ] ui
+1	i [ rt ] ui <
+1	i [ rt ] zi
+1	i [ s ]
+1	i [ t
+1	i ] + [ ar
+1	i c
+1	i e form g di h1 j=1 j
+1	i h i h sim
+1	i i
+1	i i i
+1	i i i i i
+1	i i i i i   i + snb
+1	i i k
+1	i i+1
+1	i i=1 i ke
+1	i i=1 l=1 i=1 i=1 i=1
+1	i j=1 i=1 j=1
+1	i l ue = i i=1 =
+1	i s distribution
+1	i,0
+1	i3 x3 q1 q2 q3 figure a.4
+1	i3,3
+1	i=1 e
+1	i=1 ei
+1	i=1 fj j
+1	i=1 hi
+1	i=1 hi =
+1	i=1 hi i
+1	i=1 i i1
+1	i=1 i k1
+1	i=1 j [ ]
+1	i=1 m hi i
+1	i=1 ui / i=1 hi
+1	i=1 ui = g c i=1 hi
+1	i=1 ui = g i=1 hi
+1	i=1 v
+1	i=1 v kb
+1	i=1 xi
+1	iacr
+1	iacr cryptology
+1	ian f. blake
+1	ib
+1	icalp
+1	ics
+1	ideal 3-communication models
+1	ideal behavior
+1	ideal free models
+1	ideal functionality refuses
+1	ideal functionality regardless
+1	ideal functionality slot
+1	ideal k-communication model
+1	ideal model
+1	ideal model formalizes
+1	ideal models
+1	ideal resource
+1	ideal submission scheme
+1	ideal world
+1	ideal/real communication models
+1	identical behaviors
+1	identical input
+1	identical interfaces
+1	identical joint distribution
+1	identical set
+1	identical slots
+1	identical tables
+1	identifies counter examples
+1	identify children
+1	identify integers
+1	identity map
+1	ignore pk
+1	ii multiparty protocols
+1	ii+1
+1	iii appendix
+1	illinois
+1	illustrative example
+1	im plies
+1	immoral majority
+1	implementation detail
+1	implicit
+1	implicit input
+1	implicit representation
+1	implies a1 = a0
+1	implies c0 = + ab +
+1	important advantage
+1	important flavors
+1	important generalization
+1	important notion
+1	important notions
+1	important part
+1	inactive
+1	incomparable approaches
+1	incomparable security properties
+1	indcpa
+1	indem pendent binary random variables
+1	independence requirements
+1	independent copies
+1	independent experts
+1	independent random n variables
+1	independent random oracles
+1	independent samples
+1	independent set
+1	independent set b
+1	index defines
+1	index exists
+1	index function f
+1	index i [
+1	index jd
+1	index k
+1	india
+1	indistinguishability
+1	indistinguishibility properties
+1	individual codewords
+1	individual functionalities
+1	individual vote
+1	individual voter
+1	inequality
+1	inequality [
+1	inequality matroid guarantees
+1	inequality matroid {
+1	inf
+1	infinite subset s
+1	informal analysis
+1	informal argument
+1	informal discussions
+1	informal statement
+1	information theoretic sense
+1	information theoretical reasons
+1	inherent restriction
+1	initial ideal-model
+1	initialize
+1	inner circle
+1	inner node
+1	innovations
+1	input adversaries
+1	input ciphertexts
+1	input computes hk =
+1	input distribution
+1	input hk
+1	input schemes
+1	input tape
+1	input tuple
+1	input vi
+1	input w [ r1 ]
+1	input x {
+1	input x0
+1	input xi
+1	input z
+1	input z =
+1	inputsbefore evaluation
+1	insecure channel
+1	instance case
+1	instance x =
+1	instance x {
+1	instance x0
+1	instantiate random oracles
+1	intact prefix
+1	integer j
+1	integer j [ l ]
+1	integer k
+1	integer s
+1	integers modulo q
+1	integers { s
+1	integrity preservation
+1	interaction
+1	interactive constant-round protocols
+1	interactive proof systems
+1	interactive protocol
+1	interactive setting
+1	interactive turing
+1	interactive turing machines parties
+1	interactive way
+1	intercept messages
+1	interestingly
+1	intermediate
+1	internal structure
+1	intervals [ ai
+1	introduce algorithms
+1	introduce conventions
+1	introduce disjunctions
+1	introduce interactive versions
+1	introduce shadow sequences
+1	introduce transforms
+1	intuitive level
+1	intuitive notation
+1	intuitive view
+1	intuitive way
+1	inverse =
+1	inverse dependence
+1	inverse transform
+1	inversion
+1	invertibility
+1	invertibility property
+1	invertible map
+1	invertible map f
+1	invertible matrix
+1	invertible transforms
+1	invokes r copies
+1	invokes s
+1	involves simulations
+1	iosif pinelis
+1	irrelevant artefacts
+1	isbn
+1	israel
+1	isrn kth/na/r
+1	issn
+1	ith block xi
+1	ith candidate
+1	ith intermediate state zi
+1	ith message ai
+1	ith message vi
+1	ith prover message
+1	ith random oracle
+1	ith sender
+1	ith verifier message
+1	itm q
+1	itm x
+1	itms m0
+1	itms p
+1	itms v
+1	ivan visconti
+1	j < di children
+1	j < i
+1	j = |span
+1	j [ ]
+1	j [ f ]  [ [ 
+1	j [ i ]
+1	j [ i ] = j [ i ]
+1	j [ i+1
+1	j [ k ] \
+1	j [ l ] i [ k ]
+1	j [ t
+1	j ej
+1	j i=1 j=1 = g
+1	j rj
+1	j xj
+1	j,0 ke
+1	j,0 vj,1 =
+1	j,2
+1	j. t. schwartz
+1	j0 =
+1	j=1 =
+1	j=1 aj j
+1	j=1 ei
+1	j=1 ej j
+1	j=1 uj / i=1 hi
+1	jacques stern
+1	jansson
+1	jd = j
+1	jd = pi
+1	jean-sbastien coron
+1	jeffrey scott vitter
+1	ji = f
+1	ji = ji i = = j [ i ]
+1	jl = pjl+1
+1	johannes kinder
+1	joint decryption protocol
+1	joint distribution
+1	joint inductive definition
+1	joint key
+1	joint public key pk
+1	jonathan bootle
+1	joos vandewalle
+1	jordi barrat
+1	joseph jaeger
+1	josh benaloh
+1	josh daniel cohen benaloh
+1	jth column
+1	jth column mj
+1	jth party
+1	juan a. garay
+1	juan manuel gonzlez nieto
+1	jun furukawa
+1	k =
+1	k = 1/
+1	k = k
+1	k [
+1	k ] k1
+1	k ] pj
+1	k ] pj e
+1	k ] pj z
+1	k ] qi
+1	k denotes
+1	k h
+1	k hcg d
+1	k hi
+1	k inputs
+1	k k
+1	k min c
+1	k parties
+1	k proceeds
+1	k queries
+1	k random oracles
+1	k+1 ] cl bt
+1	k+1 ] e
+1	k+1 ] i [ l1 ] j [ i ] j [ i1 ]
+1	k+1 ] j [ i ] j [ i1 ]
+1	k+1 ] j [ l1 ]
+1	k-chp hash function
+1	k-communication model c
+1	k-pedersen commitment scheme 
+1	k-wise conjunction
+1	k. ireland
+1	k0 /q
+1	k0 k1
+1	k0 q
+1	ka,0 ka,1
+1	kaisa nyberg
+1	kaoru kurosawa
+1	kazutomo itoh
+1	kb,0 kb,1
+1	kc,0 kc,1
+1	kd,0 kd,1
+1	ke,0 ke,1
+1	key
+1	key algebraic properties
+1	key exchange
+1	key exchange protocol [
+1	key geneation
+1	key generation protocol
+1	key generator
+1	key ideas
+1	key observation
+1	key point
+1	key protocol
+1	key role
+1	key step
+1	khazaei
+1	ki hcg di
+1	kj,0 e
+1	kn ]
+1	knowledge complexity
+1	knowledge properties
+1	kny =
+1	kobbi nissim
+1	kontorovich
+1	korea
+1	ks/2 tnb s
+1	kte +
+1	kth
+1	ktran +
+1	kveg =
+1	kwangjo kim
+1	l = d
+1	l = f
+1	l = g
+1	l = i=1 g aj
+1	l = i=1 j=1
+1	l = j=1 ej j
+1	l = uxl
+1	l = wl i=1
+1	l >
+1	l [ i
+1	l [ i +
+1	l [ j +
+1	l [ j ]
+1	l [ t
+1	l e hi i
+1	l hi i = g rl i=1 =g
+1	l hi j=1 i
+1	l j=1 e j
+1	l j=1 j=1 ei
+1	l }
+1	l-redundant ideal/real k-communication models
+1	l-redundant k-communication models b
+1	l=1 g rl
+1	l=1 rl
+1	l=1 ul =
+1	label 
+1	label space
+1	labels i
+1	lang
+1	languages
+1	large d
+1	large d1
+1	large domain
+1	large min-entropy
+1	large piece
+1	large protocol
+1	large security parameters
+1	large set
+1	lars arge
+1	las vegas
+1	leaves [ bj,1 ]
+1	left side illustrates
+1	leftover hash lemma [
+1	lemma [
+1	lemma b.18
+1	lemma b.20
+1	lemma b.22
+1	lemma b.27
+1	length k
+1	length k.
+1	lenore blum
+1	leslie lamport
+1	lesser degree [
+1	lewis carroll draft
+1	liberal democracies need
+1	liberal democratic world
+1	linear factor
+1	linear independence
+1	linear independence [
+1	linear nature
+1	linear subspace
+1	linear time
+1	link simulation transform link
+1	linux
+1	linux random number generator
+1	lisa kohl
+1	literature [
+1	local offices
+1	lofthus
+1	log + o
+1	log q+nr
+1	log-cost random access machine
+1	logarithm [
+1	logical verification
+1	london
+1	long period
+1	long term confidentiality
+1	loosely
+1	lorenzo cavallaro
+1	louis c. guillou
+1	louisiana
+1	lrb
+1	lszl babai
+1	m + m
+1	m +m
+1	m = k = ks/p
+1	m = m
+1	m = mi
+1	m [ z ]
+1	m b
+1	m b =
+1	m e e i
+1	m i
+1	m m
+1	m s
+1	m x = i i=1 i=1 xi
+1	m {
+1	m,1
+1	m.
+1	m. 12.14.2
+1	m.i
+1	m0 + m1
+1	m1 m2 m3 figure
+1	m3
+1	ma
+1	machine adversaries
+1	machine algorithm
+1	machine graph
+1	machine learning model
+1	machine probabilistic polynomial time
+1	machine verification
+1	mad people
+1	mads jurik
+1	main advantages
+1	main algorithm
+1	main areas
+1	main contribution
+1	main cryptographic components
+1	main difference
+1	main protocol
+1	main security parameter
+1	majority decision
+1	making
+1	malicious adversary
+1	malicious provers
+1	marc fischlin
+1	march
+1	markov conditioning
+1	markus jakobsson
+1	marseille
+1	marshall c. pease
+1	martin e. hellman
+1	martin hirt
+1	martin r. albrecht
+1	maryland
+1	massachusetts
+1	math
+1	mathematically
+1	mathematics
+1	matrix
+1	matrix commitment
+1	matrix m =
+1	matrix parameter
+1	matroid m =
+1	matroid subdensity i
+1	matroid trees nv ne nv
+1	matroids captures
+1	matroids m =
+1	matroids recall
+1	matroids used
+1	matthew robshaw
+1	mature audiences
+1	mature computational assumptions
+1	maurer
+1	max hoffmann
+1	max {
+1	maxi [ r ] {
+1	maximal length
+1	maximal size
+1	maximal subdensity m = m
+1	maximal subgraph
+1	maximal submatroid
+1	maximum generality
+1	mck rck cck
+1	meaningful claims
+1	meaningful way
+1	means addition modulo s.
+1	means multiplication
+1	measurement errors
+1	melanie volkamer
+1	membership test
+1	membert
+1	mental game
+1	merkledamgrd
+1	mes sages
+1	message
+1	message a0
+1	message attack experiment generates
+1	message attack security experiment
+1	message attacks
+1	message mi
+1	message predicate captures
+1	message spaces
+1	message w
+1	messages m0
+1	method suffers
+1	mg
+1	mi mi k r r
+1	mi mi mi i = i=1 hm
+1	miami
+1	michael k. reiter
+1	michael kloo
+1	michael luby
+1	michael r. clarkson
+1	michael waidner
+1	mike shub
+1	mild assumptions
+1	military interest
+1	min-entropy
+1	minimal entropy
+1	minimal form
+1	minimum
+1	minor adaptations
+1	minor syntactical changes
+1	mix nets robust
+1	mix-net [
+1	mix-net implementation [
+1	mix-server strips
+1	mix-servers form
+1	mix-servers k
+1	mix-servers shuffle
+1	mo
+1	mobile vulgus
+1	mod 2nq nr
+1	model corresponds
+1	model corruption
+1	model m
+1	model m =
+1	modern cryptosystems
+1	modest cost
+1	modify y
+1	modular
+1	modular approach
+1	modular design
+1	modular exponentiation
+1	modular way
+1	moment function 
+1	moti yung
+1	motivation
+1	mpk mpk
+1	mult
+1	multi-party setting
+1	multi-round protocols
+1	multiparty cryptographic protocols
+1	multiple attempts
+1	multiple channels
+1	multiple codebook ciphers
+1	multiple compositions
+1	multiple definitions
+1	multiple devices
+1	multiple discrete logarithms intentionally blank draft
+1	multiple election workers inspects
+1	multiple elements
+1	multiple ideal communication models
+1	multiple identical communication
+1	multiple independent ciphertexts
+1	multiple independent statements
+1	multiple inputs
+1	multiple properties
+1	multiple real communication models
+1	multiple sequential instances
+1	multiple slots
+1	multiple verifiers
+1	multiple ways
+1	multiple witnesses
+1	multiplicative groups
+1	multiplicative groups modulo primes
+1	multiplicative property
+1	multiround protocols
+1	multivariate polynomial ring
+1	mutatis mutandis
+1	mxi
+1	m|v |
+1	n denotes
+1	n ene
+1	n gn
+1	n n n n n y y y y y
+1	n n0
+1	n te
+1	n x
+1	n y fj
+1	n y n y
+1	n y n y e
+1	n zn
+1	n-bit appendix
+1	n-bit representation
+1	n. definition b.30
+1	n. furthermore
+1	n. p. smart
+1	n3 p2
+1	n3,1 n3,2 n3,3 n3 x2 x3 p1 p2 p3 figure a.3
+1	na =
+1	na ]
+1	na ] =
+1	nadja braun binder
+1	naive approach
+1	natural class
+1	natural definition
+1	natural definitions
+1	natural depth function
+1	natural examples
+1	natural generalization
+1	natural idea
+1	natural independence properties
+1	natural notation
+1	natural numbers
+1	natural objection
+1	natural part
+1	natural transform
+1	nb d0
+1	nb g
+1	nb gvs
+1	nc
+1	ne < log q
+1	ne [ m ] = [
+1	necessary secrecy
+1	need firstorder stochastic dominance
+1	need setup assumptions
+1	needs mathematical models
+1	neff
+1	negative hypergeometric siblings
+1	negligible functions
+1	negligible loss
+1	negligible soundness
+1	network
+1	network activity
+1	networks
+1	nevada
+1	new candidate
+1	new ciphertext w
+1	new directions
+1	new elements
+1	new environment
+1	new ideas
+1	new model m
+1	new node
+1	new proof
+1	new real party
+1	new round
+1	new slot [
+1	nk ] <
+1	non-communication models
+1	non-interactive execution
+1	non-interactive fiat-shamir proofs
+1	non-interactive proof
+1	non-interactive protocol
+1	non-interactive prover
+1	non-interactive setting
+1	non-interactive zero knowledge proof
+1	non-interactive zero-knowledge proof [
+1	non-malleable cryptography
+1	non-negative random
+1	non-negative reals
+1	non-programmable random oracle model
+1	non-standard notions
+1	non-trivial augmentations
+1	non-trivial group theory
+1	non-trivial matroid
+1	non-trivial proof
+1	non-trivial representation i=1 hi i=1 hi
+1	non-uniform adversarial model
+1	non-uniform counterparts
+1	non-uniform ppts
+1	non-uniform reduction
+1	non-zero multivariate polynomial
+1	noninteractive
+1	noninteractive protocol
+1	nonpermutation matrix
+1	nonuniform advice string
+1	norbert kersting
+1	normal alphabet
+1	normal function
+1	norway
+1	notation clashes
+1	noticable difference
+1	notion generalizes
+1	notion polynomial indistinguishability
+1	notion proofs
+1	notions need
+1	novel generalization
+1	novel type
+1	novel way
+1	np-hard
+1	np-relations
+1	nq = log
+1	nq = log q
+1	number ofq queries
+1	number theory
+1	numerical analysis
+1	numerous researchers
+1	numerous ways
+1	nv < log q
+1	nv =
+1	ny ny
+1	o ktn3
+1	o pb
+1	oakland
+1	obedient verifier guesses
+1	obvious drawbacks
+1	obvious requirement
+1	obvious simplification
+1	obvious solution
+1	odd primes
+1	offline/online
+1	oh
+1	olivier pereira
+1	one-bit output
+1	online paper [
+1	optimal
+1	optimal extractor
+1	optimal i
+1	optimal parameters
+1	optimization techniques
+1	oracle access
+1	oracle model fiat
+1	oracle model this chapter will be updated
+1	oracle o
+1	oracle queries
+1	order q
+1	original advantage
+1	original analysis
+1	original application
+1	original components
+1	original distribution
+1	original experib ment
+1	original experiment
+1	original input
+1	original notation
+1	original parties
+1	original problem
+1	original process
+1	original proof
+1	original proposal
+1	original template adversary o
+1	originally
+1	orleans
+1	orous analysis
+1	out-of-band channel
+1	outer circle
+1	outer envelope
+1	output 0. pk
+1	output ciphertexts
+1	output d
+1	output d.
+1	output hk
+1	output pi
+1	output pseudo-random bits
+1	output q
+1	output x
+1	output y
+1	output zt
+1	outputs 
+1	outputs ck =
+1	outputs h0 |h1 | |h1
+1	outputs hk =
+1	outputs i=1 hm i
+1	outputs indices
+1	outputs r r
+1	outputs ux v.
+1	outputs x = x r.
+1	outputs zt1 |xt1
+1	outside observer
+1	overall adversary
+1	overall analysis
+1	overall recursive formulas
+1	own choice
+1	own implementation
+1	own key pair
+1	own prefix
+1	own right
+1	own set
+1	own unique prefix
+1	own work
+1	p 
+1	p + o ktn3 -decision
+1	p -special-sound
+1	p .its k-wise conjunction
+1	p 1p
+1	p = i [ t ] i
+1	p = j [ k ] pj
+1	p = o i [ t ] i
+1	p cpk
+1	p ji
+1	p p
+1	p r
+1	p rpk
+1	p v
+1	p xi cg
+1	p x|w
+1	p zi
+1	p. draft
+1	p. pn pn pn
+1	p2 z figure
+1	p3 z
+1	p3 z figure
+1	p4
+1	p=o i [ t ] pi
+1	pac
+1	pailliers probabilistic public-key system
+1	pair
+1	papadimitriou
+1	parallel
+1	parameter captures
+1	parameter d = i [ r ] di
+1	parameter d1
+1	part iii
+1	part shows
+1	partial description
+1	partial information
+1	partial knowledge
+1	partial transcript t
+1	particular algorithm
+1	particular generator
+1	particular instance
+1	particular instantiation
+1	particular order
+1	particular parameters
+1	particular parts
+1	particular presentation
+1	parties
+1	parties communicate
+1	parties k
+1	partisan interests
+1	party j
+1	party rewinds
+1	party submits
+1	pascal paillier
+1	path satisfies
+1	path v
+1	path v.
+1	paths precise
+1	paul c. van oorschot
+1	paul feldman
+1	pc1
+1	pedersens commitment scheme
+1	pedersens commitment scheme pedersen
+1	pennsylvania
+1	perfect hash function
+1	perfect secrecy
+1	permutation matrix test
+1	permutation-based
+1	personal device
+1	perugia
+1	pessimistic entropy estimates
+1	pessimistic estimates
+1	pfor
+1	phd
+1	philadelphia
+1	philosophical remarks intentionally blank draft
+1	phong q. nguyen
+1	phrase definitions
+1	physical coins etc
+1	physical phenomena
+1	pi i [ k ] = i [ k ]
+1	pierre-alain fouque
+1	pigeon hole principle
+1	pinching
+1	pinelis
+1	pino
+1	pj = l [
+1	pj i [ k ] j [ i ]
+1	pj z
+1	pji
+1	pji = ji1
+1	pk =
+1	pk = m
+1	pk j
+1	pk k
+1	pk pk
+1	pkc cny
+1	pkg
+1	pkny
+1	place holder
+1	place-holder adversary o
+1	plain model
+1	plaintext attacks
+1	plaintext m m
+1	plaintext m. park
+1	plaintext mi
+1	plaintext space m
+1	plaintext-ciphertext pairs
+1	plaintext-codebook pairs
+1	plaintexts
+1	plaintexts [
+1	pn yn yn pn
+1	point we
+1	point x
+1	poland
+1	political campaigns
+1	political science
+1	poll station
+1	polynomial fm
+1	polynomial identities
+1	polynomial indistinguishability
+1	polynomial number
+1	polynomial size
+1	polynomial time adversary
+1	polynomial time algorithm
+1	polynomial time generation
+1	polynomial time key generation
+1	polynomial-time algorithms
+1	polynomials d
+1	polynomials d <
+1	positive integers
+1	positive probability
+1	possible executions
+1	possible instantiation
+1	possible ith verifier messages
+1	possible k
+1	possible list
+1	possible output ck
+1	possible output hk
+1	possible permutations
+1	possible plaintexts
+1	potential extractor
+1	powerful composition theorem
+1	powerful notion
+1	pr a0
+1	pr aro
+1	pr expapkc
+1	pr expcca
+1	pr expcca,0 pkc
+1	pr expcma ss
+1	pr expcpa
+1	pr expcpa,0 pkc eg
+1	pr expcpa,1 pkc eg
+1	pr expcpa,1b
+1	pr expprg
+1	pr expprg,0
+1	pr expprg,0 prg
+1	pr ji
+1	pr pr
+1	pr x nb
+1	pr zg
+1	practical advantages
+1	practical applications
+1	practical approaches fall
+1	practical public key cryptosystem
+1	practical scheme
+1	practical size
+1	practical solution
+1	practice [
+1	prague
+1	prandom
+1	pre-compute parts
+1	pre-computed
+1	precise adversarial bias
+1	precise bounds
+1	precise treatment
+1	predicate evaluates
+1	preface
+1	prefix
+1	prefix w [ i ]
+1	prefix commutes
+1	prefix t [ i1 ]
+1	prefix v.
+1	prefix w [ i ]
+1	prefix w [ r1 ]
+1	prefix z [ k ]
+1	prefix-free code
+1	preliminaries read by
+1	present definitions
+1	present security reductions
+1	presentational detail
+1	preservation
+1	preserves functionality
+1	prevents incorrect opening
+1	previous calls
+1	previous elements
+1	previous point
+1	previous shadow elements
+1	previous transcripts
+1	previous verifier message
+1	previous work
+1	prgs
+1	prime order group
+1	private input
+1	private input x
+1	private inputs z
+1	private key
+1	private key sk = x and
+1	private key x
+1	private labels
+1	probab.
+1	probabilistic algorithms
+1	probabilistic cryptosystems
+1	probabilistic encryption [
+1	probabilistic generator algorithm
+1	probabilistic oracles
+1	probabilistic proof
+1	probabilistic signature algorithm
+1	probabilistic signature oracle
+1	probability
+1	probability  
+1	probability =
+1	probability ks s p
+1	probability m
+1	probability p [
+1	probability q = 1p
+1	probability s.
+1	probability theory
+1	probes r
+1	problem amounts
+1	process inolves
+1	product equals i=1 ei
+1	product i=1 ei
+1	product w0 w1
+1	progressin cryptology
+1	prohibits protection
+1	prominent proposals
+1	proof reduces
+1	proof sketch
+1	proofs [
+1	proofs estimating
+1	proper peer review
+1	proper subgroup
+1	prota2
+1	protb
+1	protc3
+1	protocol =
+1	protocol descriptions
+1	protocol differ
+1	protocol invokes
+1	protocol names
+1	protocol notation
+1	protocol proceeds
+1	protocol satisfies
+1	protocol transcript
+1	protocol-dependent construction
+1	protocol-dependent equation system
+1	prover knowns
+1	prover predicate [
+1	prover queries
+1	prover shows
+1	prover use
+1	proververifier message exchange
+1	providence
+1	prudent way
+1	ps
+1	pseudo-random bits
+1	pseudo-random field elements
+1	pseudo-random generator experiment
+1	pseudorandom family
+1	pseudorandom function
+1	pt = f
+1	pt1 z ct1
+1	pthe
+1	ptransp
+1	public augmentation keys
+1	public bulletin board
+1	public channel
+1	public coin verifier
+1	public coin-protocol
+1	public coinprotocol
+1	public key cryptosystems
+1	public key pk output
+1	public key protocols
+1	public key space
+1	public key-size recommendations [
+1	public ledger
+1	public state
+1	public-coin proof
+1	pviewp
+1	px py
+1	pxy
+1	pyrros chaidos
+1	pz py
+1	q 
+1	q < 2r/2 oracle queries h i q2
+1	q = 2r/2
+1	q in
+1	q k+1
+1	q kf
+1	q n
+1	q oracle queries
+1	q vectors
+1	q x
+1	q1 q
+1	q1 q2 p1 n3
+1	q3 n3 p1 p2 p3
+1	q3 n3 p2
+1	q3 p1
+1	q3 p2 n3
+1	q3 z figure
+1	qk qk
+1	qk qk qk
+1	qk z =
+1	qk z ck+1
+1	qn conversely
+1	qn qn qn q qn
+1	qn zq
+1	qnhave
+1	qnnote
+1	qt =
+1	quadratic non-residue
+1	quadratic residue
+1	quadratic residue modulo p
+1	quadratic residues
+1	quadratic residues modulo
+1	quantities v = v0 v1
+1	quantity = 1/
+1	query i
+1	query s =
+1	questionable topics
+1	r + r
+1	r /
+1	r = j [ i
+1	r > d.
+1	r ] dj
+1	r d
+1	r elements
+1	r g n commitment
+1	r g n encryption
+1	r i
+1	r i 4.7.5
+1	r i i1 i1
+1	r r [ k ]
+1	r soundness
+1	r {
+1	r+1 c0 =
+1	r. definition
+1	rabin
+1	radioactive decay
+1	rafael pass
+1	rafail ostrovsky
+1	rafal
+1	ralph c. merkle
+1	ran dom self-reducible computational problem
+1	random access machines
+1	random bit string
+1	random coins
+1	random events
+1	random family
+1	random generator
+1	random messages
+1	random oracle methodology
+1	random oracle model shows
+1	random oracle models
+1	random paths
+1	random permutation
+1	random prefix
+1	random process
+1	random r
+1	random r0
+1	random sample
+1	random seed
+1	random self-reducible problems
+1	random string
+1	random tape c =
+1	random tape r {
+1	random tapes r
+1	random tapes r.
+1	random tuple
+1	random values
+1	random variables encode
+1	random vector r
+1	random verifier messages
+1	randomness extraction
+1	randomness rb
+1	randomness spaces
+1	randoms s ness space
+1	rank d.
+1	rank i
+1	rank rank
+1	ravi ganesan
+1	ravi s. sandhu
+1	raymond pyle
+1	rck comck
+1	rck pr
+1	re-usable component
+1	reachable direction
+1	reactive processes
+1	reactive systems
+1	read by initials
+1	read-once input tape
+1	read-once random tape
+1	read/write activity heads
+1	reading
+1	real 3-communication models
+1	real 3adversary
+1	real applications
+1	real attack
+1	real communication model formalizes
+1	real communication models
+1	real computer
+1	real data
+1	real free models
+1	real k-communication model
+1	real life
+1	real models
+1	real parent adversary
+1	real problem
+1	real protocol execution
+1	real resources
+1	real subadversary exists
+1	real view
+1	real world
+1	real world application
+1	real-world applications
+1	real-world security guarantees
+1	real-world soundness
+1	realistic goalp
+1	realistic model
+1	realizes f
+1	realworld applications
+1	reasonable models
+1	reasonable presentation
+1	receipt-free
+1	receiving messages
+1	recent version
+1	reckhow
+1	recursive algorithm
+1	recursive calls
+1	reductions intentionally blank draft
+1	reductions simplifies
+1	redundant representation
+1	redwood
+1	reference distributions
+1	relaq  tion
+1	relating ddh assumptions
+1	relating dl assumptions
+1	relating multi-ddh
+1	relative
+1	relative different bases
+1	relative different security models
+1	relative strengths
+1	relevant independence
+1	relevant literature
+1	relevant parties
+1	remark a.13
+1	remarkable algebraic property
+1	renato renner
+1	renner
+1	repeated
+1	repeated encryption
+1	repeatedly
+1	reply ai
+1	research efforts
+1	research literature
+1	research prototypes
+1	reserved a.4
+1	reserved a.5
+1	reserved a.6
+1	reserved evsmarkbibliography
+1	reserved evsmarklists
+1	reserved index
+1	reserved wait
+1	resistant devices
+1	resistant hash function maps
+1	restricted verifier messages
+1	restricting
+1	result g
+1	return addresses
+1	return b. lemma
+1	return d.
+1	reuse keys
+1	reusing samples
+1	reverse generalization
+1	rg r g
+1	rg rg
+1	rhode
+1	ri+1
+1	richard zippel
+1	right choice
+1	right definition
+1	right distribution
+1	right inverse =
+1	right language
+1	right result
+1	right side illustrates
+1	right way
+1	rigorous arguments
+1	rigorous definition section
+1	rigorous definitions
+1	rigorous foundation
+1	rigorous presentation
+1	ring elements
+1	ring-lwe ciphertexts
+1	rivest
+1	rkg
+1	rl
+1	rl =
+1	rl re i l i e g hi = ul = g hi =g hm
+1	rl+1 =
+1	ro ro
+1	robert a. reckhow
+1	robert e. shostak
+1	robert sedgewick
+1	roberto de prisco
+1	robust approach
+1	robust implementation
+1	robust process
+1	roi
+1	root 3-protocol =
+1	rosen
+1	routers form
+1	routers inbetween
+1	row sum
+1	rpk encpk
+1	rth elements form
+1	russell impagliazzo
+1	russell w. f. lai
+1	ryan
+1	r|v |
+1	s = /k
+1	s = i [
+1	s = k
+1	s = snb
+1	s = {
+1	s [
+1	s [ c ]
+1	s changes
+1	s decryption queries
+1	s random tape
+1	s tcg s
+1	s times
+1	s } {
+1	s. definition
+1	s. i3
+1	s1 z
+1	saarbrcken
+1	safe prime p = 2q +
+1	saint-malo
+1	sam ppt
+1	samb ppt
+1	sample extensions
+1	sample good candidates
+1	sample paths
+1	sample satisfies
+1	sample space
+1	sample spaces
+1	sample v i [
+1	sample validator algorithm
+1	sample x
+1	sample z [ k ]
+1	sampler algorithm
+1	samples paths
+1	samples z
+1	satisfies   d1
+1	sbastien zimmer
+1	scalar k
+1	scheme [
+1	scheme consist
+1	schnorr-like arguments
+1	schwartzzippel
+1	scientific community
+1	scn
+1	seamless treatment machine
+1	searching
+1	sebastian mdersheim
+1	secondly
+1	secret augmentation keys
+1	secret broadcast channel
+1	secret key  sk
+1	secret key sk =
+1	secret-ballot elections
+1	section 2.5.5
+1	section 4.7.2
+1	section 4.7.3
+1	secur.
+1	securing
+1	security captures
+1	security degrade
+1	security deterioration
+1	security experiment generates
+1	security parameter n.
+1	security reduction
+1	security series
+1	security shows
+1	seed
+1	seed s {
+1	self-reducible
+1	selfreducible computational problem
+1	semantic security
+1	seminal paper
+1	send/receive tapes
+1	sender submit
+1	sender submits
+1	sender uses
+1	senders codebook
+1	senders codewords
+1	sending
+1	separate communication model
+1	separate concrete communication model-machine
+1	separation results
+1	sequence z =
+1	sequences
+1	sequential composition
+1	sequential executions
+1	serious drawback
+1	session identifier
+1	session identifiers
+1	set j
+1	setting m = /k = s/
+1	sfcs
+1	sha-3
+1	shadow element
+1	shadow element ends
+1	shadow matroid m =
+1	shadow matroid tree
+1	shadow matroids
+1	shadow sampler dr times
+1	shadow sampler theorem
+1	shadow sequence prefix w [ w [ i ] ]
+1	shadow version
+1	shai halevi
+1	shannon
+1	share activation
+1	share tapes pairwise
+1	sharpen bounds
+1	sharper definition
+1	sheer number
+1	short
+1	short chapter
+1	short seed
+1	shoup
+1	shuffle intentionally blank draft
+1	shuffle protocol
+1	shvzk
+1	side-channel attacks
+1	sigma protocols read by
+1	sigma qn qn
+1	signature
+1	signature =
+1	signature generation
+1	signature oracle
+1	signature output
+1	signature problems
+1	signature queries
+1	signature scheme [
+1	signatures schemes
+1	significant overhead
+1	significant way
+1	sigx
+1	similar complexity
+1	similar definitions
+1	similar problem
+1	simple approach
+1	simple concatenation
+1	simple drawings
+1	simple proof
+1	simple pseudo-random generator
+1	simple solution
+1	simple unpredictable pseudorandom number generator
+1	simple way
+1	simpler approach
+1	simpler variant
+1	simplified universal composability framework read by
+1	simplifies describdraft
+1	simplifies rigorous reuse
+1	simulate
+1	simulate decryption
+1	simulate multiple links
+1	simulating multiple interactive turing machines
+1	simulation 3-adversary s
+1	simulation 3-subadversary
+1	simulation 3-subadversary s
+1	simulation 3adversary
+1	simulation 3adversary s
+1	simulation 3subadversary
+1	simulation adversaries
+1	simulation adversaries s
+1	simulation adversary s s
+1	simulation halts
+1	simulation k-adversary
+1	simulation paradigm [
+1	simulation soundness
+1	simulation subadversary
+1	simulation transform sim
+1	simulator runs
+1	simulator satisfies
+1	single-bit output
+1	single-bit read/write activity heads
+1	singleton ground
+1	singleton matroid
+1	sk b sk
+1	sk j
+1	sl = f l
+1	slight asymmetry
+1	slot slot r r s
+1	slots [ ai ]
+1	slots [ c ]
+1	slots [ cj,1 ]
+1	slots l.
+1	slots s s [
+1	slow algorithm
+1	slud
+1	small constant number
+1	small impact
+1	small letter
+1	small mistake
+1	small sample spaces
+1	smart cards
+1	snowden attack
+1	social act
+1	social sciences
+1	solid foundation
+1	sorting
+1	sound approach
+1	sound construction
+1	sound cryptographic advise
+1	sound cryptographic protocols
+1	sound proof behaves
+1	sound protocol
+1	sound way
+1	soundness accepting
+1	sparse polynomials
+1	sparse subtree
+1	special 
+1	special class
+1	special form
+1	special instruction
+1	special properties
+1	special property
+1	special soundness framework
+1	special symbol
+1	special zero knowledge simulator computes g1
+1	special zero knowledge simulator s
+1	special zero-knowledge simulator executes
+1	special-sound protocols this chapter will be updated
+1	specific probabilistic test
+1	specific task
+1	specific tasks
+1	specific way
+1	spurious elements
+1	spurious rounds
+1	squeezing
+1	sr
+1	sro + q + r
+1	sro + t + s
+1	sro entries
+1	sro points
+1	ssf
+1	stand-alone libraries
+1	standalone definition
+1	standard assumptions
+1	standard asymptotic security
+1	standard bounds
+1	standard generator g.
+1	standard generators
+1	standard inner product
+1	standard model
+1	standard multiparty computation
+1	standard multiplicative notation
+1	standard presentation
+1	standard primitives
+1	standard protocols
+1	standard pseudo-random generators
+1	standard random devices
+1	standard requirement
+1	standard results
+1	standard surveys
+1	standard texts
+1	standard three-message
+1	standard unit column vector
+1	standard unit vector
+1	standard way
+1	standard zero knowledge
+1	standardizes cryptosystems
+1	stanislaw jarecki
+1	state transitions
+1	static adversaries
+1	statist.
+1	statistical difference
+1	statistical honest-verifier
+1	statistical language
+1	stefano tessaro
+1	stellenbosch
+1	stephen a. cook
+1	stephen chong
+1	stinson
+1	stipulate
+1	stipulates polynomial time algorithms
+1	stores symbols
+1	straight-line zero knowledge simulator
+1	straightforward generalization
+1	straightforward proof
+1	straightforward variation
+1	strategic research
+1	strategy
+1	strict polynomial time
+1	strict polynomial time adversary
+1	strictly
+1	string w
+1	string x
+1	stringent property
+1	strings x
+1	strip ciphertexts
+1	stripsk
+1	strong assumption
+1	strong assumptions
+1	strong properties
+1	strong sequences
+1	strong ubiquitous authentication mechanism
+1	strong undeniable signatures
+1	structural information
+1	structural properties
+1	study knowledge extraction
+1	subadversaries s
+1	subadversary slots
+1	subadversary slots [
+1	subfunctionality
+1	submatroid inherits
+1	submission experiment
+1	submission phase
+1	submission security [
+1	submission security experiment ss
+1	submission-secure form
+1	subprotocol instances
+1	subprotocol names
+1	subprotocol party
+1	subroutine calls
+1	subset [
+1	subset s = [
+1	subset {
+1	substantial compression
+1	subtractive
+1	subtree t =
+1	success parameter s.
+1	success probabilities
+1	successful adversary
+1	successful adversary implies
+1	successful attempts
+1	successful efficient adversary
+1	such 
+1	such anadversary
+1	such applications
+1	such assumptions
+1	such bijections
+1	such concatenation
+1	such constructions
+1	such counter intuitive properties
+1	such elements
+1	such groups
+1	such keys
+1	such measurements
+1	such nodes
+1	such pair exists
+1	such party
+1	such problems
+1	such protocol
+1	such prover messages
+1	such realtime assumptions
+1	such slot
+1	such slots
+1	such uniform matroids
+1	sufficient acceptance
+1	suitable approach
+1	suitable evaluation query
+1	suitable map
+1	suitable number
+1	suitable prefix w [ i ]
+1	suitable range
+1	suitable restrictions
+1	suitable simulator
+1	suitable simulator s
+1	suitable subscripts
+1	support [ w [ i ] ]
+1	sushil jajodia
+1	svante janson
+1	sven heiberg
+1	swedish
+1	symbolic
+1	symbolic analysis
+1	symposium
+1	symposiumon symbolic
+1	syntactic changes
+1	syntactical similarity
+1	syst.
+1	t < log q
+1	t = k
+1	t >
+1	t [ ]
+1	t [ pi ]
+1	t parties
+1	t parties learns
+1	t }
+1	taher el gamal
+1	tail
+1	tangible way
+1	tanja lange
+1	tape head
+1	target protocol
+1	task t
+1	tcheck
+1	tcomb
+1	technical foundation
+1	technical issue
+1	technical requirements
+1	technical result
+1	technical scheme
+1	tel aviv
+1	template adversary o
+1	term privacy
+1	test reports
+1	texts
+1	th round
+1	theorem10.15
+1	theorem a.12
+1	theorem a.5
+1	theorem a.9
+1	theorem b.13
+1	theorem b.15
+1	theorem b.9
+1	theorem shows
+1	thin middle layer
+1	thirdly
+1	thomas attema
+1	thorough discussion
+1	three-message protocol
+1	three-message public-coin protocol [
+1	threefold use
+1	threshold cryptosystems
+1	tighter parameters
+1	tighter security reductions
+1	time 2r
+1	time b
+1	time c j [ r ] dj /
+1	time ktran +
+1	time o ktn2
+1	time o p + vb
+1	time p + o
+1	time p + o ktn2
+1	time p.
+1	time poly/
+1	timely delivery
+1	timely execution
+1	tj [
+1	todays
+1	todobound missing
+1	together
+1	tomasz jurdzinski
+1	tools
+1	top-down approach
+1	top-level proposition
+1	topics
+1	topological order
+1	tor helleseth
+1	torben p. pedersen
+1	tosca
+1	total degree d
+1	total degree d >
+1	total number bits
+1	totalitarian regime
+1	totalitarian regimes
+1	toward
+1	traditional formalization
+1	traditional forms
+1	tran
+1	transcript t [ c ]
+1	transcript t [ i ]
+1	transcripts
+1	transcripts form
+1	transform ciphertexts
+1	transform col
+1	transform m
+1	transform models
+1	transition functions
+1	trapdoor functions
+1	tree structure implies
+1	trees t1
+1	triangle inequality implies < |pr [
+1	trita na
+1	trivial representation g
+1	true statement
+1	trust assumptions
+1	trust model
+1	trusting parties
+1	ts
+1	turing m. definition
+1	turn uses
+1	typical application
+1	typical engineering specifications
+1	typical proof
+1	tzachy reinman
+1	u  {
+1	u = u
+1	u {
+1	u0 = u1
+1	uei i = g
+1	uf
+1	ui =
+1	ui = g c i=1
+1	ui j=1 ei
+1	uj
+1	uj = g r
+1	uk
+1	ul =
+1	ul = g rl
+1	ultimate tool
+1	unary form 1n
+1	uniform adversaries
+1	uniform ppts
+1	uniform reduction
+1	unique cardinality
+1	unique factorization domain
+1	unique input
+1	unique pair
+1	unique real communication model
+1	unique way
+1	unique x
+1	unit cost
+1	unit elements
+1	universal
+1	universal composability
+1	universal composability framework
+1	universal composability model
+1	universal composition theorem canetti
+1	universally
+1	unpredictable system events
+1	upper part shows
+1	useful property
+1	useful textbook
+1	uses lhf random bits
+1	uses w =
+1	usual operations
+1	usual sense
+1	usual way
+1	ux =
+1	uxi i
+1	uy =
+1	v <
+1	v =
+1	v = v
+1	v [
+1	v e
+1	v o b
+1	v v
+1	v. sk
+1	v0 corresponds
+1	v1 =
+1	v1 = s
+1	vadim lyubashevsky
+1	valid candidate
+1	valid message signature pair
+1	valid messages
+1	valid model
+1	valid signature
+1	validating
+1	validation algorithm
+1	validator outputs
+1	valuable information
+1	value x
+1	value x [
+1	values c
+1	values vi
+1	variable decryption algorithm
+1	variable encryption algorithm
+1	various choices
+1	various forms
+1	various ideal functionalities
+1	various reasons
+1	vast number
+1	vb ua
+1	vb usk
+1	vector
+1	vector e
+1	vector space matroid {
+1	vector spaces
+1	verdict function
+1	verifiable mix-net
+1	verification algorithm
+1	verification algorithms
+1	verification purposes
+1	verifier draws
+1	verifier message parts
+1	verifier message vi+1
+1	verifier messages v
+1	verifier messages v {
+1	verifier sends
+1	version thereof
+1	vg s
+1	vi =
+1	vi ]
+1	vi s
+1	vi+1 s
+1	vice versa
+1	victoria ashby
+1	vienna
+1	vietcrypt
+1	view ej
+1	view g
+1	view protocols
+1	viewfsro [
+1	violates encapsulation
+1	virginia
+1	virtually
+1	vj = vj,0 vj,1
+1	voter chooses
+1	voter learns
+1	voter uses
+1	voters cast
+1	vx +
+1	vx implies
+1	w = ux0
+1	w = ux0 proceeds
+1	w [ i ] |w [ i1 ]
+1	w [ i+1 ]
+1	w [ i1 ] = w
+1	w [ w [ i1 ] ]
+1	w component-wise
+1	w0 =
+1	w1 =
+1	waidner
+1	walds
+1	washington
+1	wd =
+1	weak assumption
+1	weak assumptions
+1	weak devices
+1	well-known birthday
+1	wf
+1	whereas machine verifiers
+1	whitfield diffie
+1	whole text
+1	wide variety
+1	wiei l = i=1 =
+1	wj =
+1	wj e
+1	wl = uxl
+1	work tapes
+1	world protocols
+1	wrap
+1	write-in votes
+1	write-once output tape
+1	wroclaw
+1	wus v r g sr
+1	x = logg y
+1	x = logg y /y
+1	x = m|0s |c
+1	x = x
+1	x = x0
+1	x = x0 | |xt1
+1	x = z [ k ]
+1	x ] =
+1	x d
+1	x draft
+1	x geo
+1	x m = x
+1	x output
+1	x pnn
+1	x s \ b
+1	x v
+1	x x
+1	x y x q mi
+1	x |k
+1	x,1
+1	x0
+1	x0 {
+1	x0,0
+1	x0,1
+1	x1 h
+1	x1 mod q
+1	x1 p.
+1	x1 pz
+1	x1 x1 x2 x1 x2 x2 figure a.2
+1	x1 x2
+1	x1 x2 x
+1	x2 v
+1	x3
+1	x3,0
+1	x3,1
+1	xc
+1	xi =
+1	xi = xi
+1	xi geo
+1	xi mod q
+1	xi mx1
+1	xi v
+1	xiaofeng wang
+1	xj,1
+1	xk mod q
+1	xl
+1	xn
+1	xn ]
+1	xnpbe
+1	xx |px
+1	y = g x proceeds
+1	y = i [
+1	y = yg r
+1	y ]
+1	y exp
+1	y i3,1 x1 h i3,2 x2
+1	y p y
+1	y v
+1	y x
+1	y x y
+1	y {
+1	y |x
+1	y1 = i [ k ] wiei
+1	yi =
+1	yi i [ rt ]
+1	yj1 ]
+1	yl1 ]
+1	ym
+1	ymp
+1	youre
+1	yu manin draft
+1	yung
+1	z + d +
+1	z [ f
+1	z [ i ]
+1	z [ j
+1	z [ j ] = z [ ji ]
+1	z [ ji+1
+1	z e
+1	z end
+1	z k
+1	z pe
+1	z ppt
+1	z share
+1	z. i3
+1	z. lemma
+1	z0 =
+1	z2 zt1
+1	zero knowledge simulator
+1	zero knowledge simulator s
+1	zero polynomial
+1	zero vector
+1	zero-knowledge captures
+1	zero-knowledge proof
+1	zeroknowledge proof
+1	zg
+1	zi s output
+1	zi {
+1	zi+1 = zi+1
+1	zi1 |xi1
+1	zjd1 +1
+1	zji1 +1
+1	zp
+1	zs
+1	zs figure
+1	zs z n3 p1,1 p1,2 a1 p1,3 n3 p1 p2 p3 z
+1	zvi gutterman
+1	{ [
+1	{ j }
+1	{ mj } j [ k ]
+1	{ t }
+1	{ u } }
+1	{ v0 }
+1	{ vi1 }
+1	| /3 ] 2e
+1	| =
+1	| denotes concatenation
+1	| v s } |/|s|
+1	| x = y }
+1	| x >
+1	| x s }
+1	|/|si |
+1	|a ] [
+1	|a ] }
+1	|ai =
+1	|a| > |b|
+1	|a|/|s| m
+1	|b ]
+1	|b ] [ d ] [ e ] [
+1	|c ]
+1	|c ] [
+1	|c| = |b|
+1	|d ]
+1	|d ] [
+1	|m1 | < v
+1	|m1 | < v m0 = m1
+1	|pr [ x =
+1	|si | children
+1	|ui <
+1	|v |
+1	|v ||u |
+1	|v1 = u
+1	|v1 = u ]
+1	|w| n
+1	|w| p
+1	|x| = p
+1	|x| = r mod b. b
+1	|z [ i1 ] z [ i1 ] = |sf
+1	} n2 v
+1	} [
+1	} i
+1	} j
+1	} lhf
+1	} log q+nr
+1	} nzn q
+1	} nzn q captures
+1	} r initializes
+1	} r |
+1	} s {
+1	} t
+1	} { c
+1	} |prgt

@@ -1,0 +1,404 @@
+49	proverif
+23	beleniosvs
+13	x na
+10	security model
+8	 
+7	threat models
+6	belenios
+6	bulletin board
+6	casts
+6	different vote  
+6	end-to-end verifiability
+5	computer
+5	formal definition
+5	refinement
+5	symbolic model
+5	v. cortier
+5	voter id
+4	beleniosrf
+4	helios
+4	springer
+4	sufficient conditions
+4	threat model
+4	verified
+4	voter n
+3	  
+3	ballot box
+3	d. galindo
+3	different threat models
+3	eligible voters
+3	finished
+3	honest voters
+3	ieee
+3	lecture notes
+3	new definition
+3	public key
+3	sec
+3	voter
+2	candidate c.
+2	cast
+2	cast ballots
+2	certain trust assumptions
+2	choice v
+2	code sheet
+2	computational model
+2	correspondence assertions
+2	cqq
+2	easycrypt
+2	election administrator
+2	election authority
+2	eligibility verification
+2	eligible voter
+2	false attacks
+2	future work
+2	going to tallypn
+2	hq
+2	id-based
+2	intuition
+2	new players
+2	privacy properties
+2	real system
+2	s. glondu
+2	security protocols
+2	specifically
+2	tally
+2	verif
+2	verifiability
+2	verification checks
+2	votepn
+2	voterpn
+2	work highlights
+1	4. moreover
+1	] considers
+1	] describe
+1	] work
+1	a. c. yao
+1	a. filipiak
+1	according
+1	acknowledgement matches
+1	acknowledgments thomas haines
+1	acm
+1	ad
+1	additional checks
+1	adversary learns
+1	adversary votes
+1	adversarys control
+1	analysis highlights
+1	analysis verifiability returns
+1	appropriate proofs
+1	archive
+1	assumptions problematic
+1	attractive mix
+1	australia
+1	australian
+1	authenticate votes
+1	authentication measures
+1	authorities generate
+1	authority decrypts
+1	authors intent
+1	automatic theorem prover
+1	automatic theorem provers
+1	axiom states
+1	b. adida
+1	b. blanchet
+1	b. gregoire
+1	b. schmidt
+1	background
+1	ballot b
+1	ballots cast
+1	basic checks
+1	basic consistency checks
+1	basic protections
+1	belenios-vs
+1	beleniosvs thomas haines1
+1	bidirectional channel
+1	boolean
+1	c. kunz
+1	c. paulin-mohring
+1	canberra
+1	candidate c
+1	cases ... [
+1	cast ballot
+1	cast ballot contains
+1	cast ciphertext decrypts
+1	cast-as-intended
+1	catch verification failures
+1	ccs
+1	centre
+1	certain assumptions
+1	certain attacks
+1	certain checks
+1	certain classes
+1	certain undesirable states
+1	certain vote
+1	channel analysis
+1	collected-as-cast
+1	computational model assumes
+1	computational model captures
+1	conclusion key takeaways based
+1	concrete deployment situation
+1	condition need
+1	coq
+1	coqart
+1	correspondence assertion
+1	cortier
+1	counted-ascollected
+1	cryptographic primitives
+1	cs
+1	csf
+1	current model
+1	d. dolev
+1	data types
+1	defence
+1	defence-in-depth approach
+1	device
+1	device authenticates
+1	device performs
+1	device sends
+1	device submits
+1	devices check
+1	different actions
+1	different ballot
+1	different properties
+1	different variants
+1	difficult security problem
+1	digital certificates
+1	direct collected-as-cast check
+1	dishonest
+1	dishonest voters
+1	dishonest votes
+1	distinct primary entities
+1	distinction
+1	dolev-yao
+1	dont vote
+1	edge case vulnerabilities
+1	efficient protocols
+1	election authority sends
+1	election parameters
+1	election result
+1	election verifiability
+1	electronic elections
+1	email address
+1	end-to-end verifiability claims
+1	endto-end verifiability
+1	ensures verifiability
+1	equational reasoning
+1	esorics
+1	euros
+1	event e
+1	event e1
+1	exact threat model
+1	example attack
+1	explicit verification steps
+1	external mechanism
+1	extra axiom
+1	extra verification steps
+1	f. dupressoir
+1	finishedpn
+1	fnr
+1	formal analysis
+1	formal security definitions
+1	fosad
+1	found
+1	foundations
+1	foundations symposium
+1	g. barthe
+1	g. fuchsbauer
+1	g. huet
+1	good coercion resistance
+1	goting-to-tally
+1	high cost
+1	high number
+1	honest device
+1	honest protocol
+1	honest voter
+1	iacr cryptology
+1	ieee trans
+1	implies end-to-end verifiability
+1	improved verifiability
+1	independent means
+1	inductive constructions
+1	inf
+1	informal discussion
+1	informal variant
+1	informally
+1	insecure ] ...
+1	inter
+1	inter/rcn/17/11747298/surcvs/ryan
+1	interactive
+1	interestingly
+1	introduction secure
+1	intuitively
+1	j. lallemand
+1	k dishonest votes
+1	key approach
+1	keyand verification keywhich
+1	keywords
+1	label l records
+1	luxembourg
+1	m. bellare
+1	m. izabachene
+1	m. turuani
+1	manual [
+1	mathematical proofs
+1	mitigate attacks
+1	model
+1	model verification checks
+1	modeling
+1	multiple ballots
+1	multiple votes
+1	national research fund
+1	national university
+1	ncbr
+1	new channels
+1	new conditions
+1	new event
+1	norway
+1	observant reader
+1	open problem
+1	optionally
+1	oracle model
+1	original definition
+1	original description
+1	original paper [
+1	original scheme
+1	overall
+1	p. casteran
+1	p. gaudry
+1	p. rogaway
+1	p. strub
+1	paper [
+1	particular candidate c
+1	pen-and-paper definition
+1	pi calculus
+1	poland
+1	poland abstract
+1	polish
+1	pollux/fnr-core
+1	polluxvii/1/2019
+1	previous analysis
+1	previous attacks
+1	privacy
+1	probabilistic polynomial-time
+1	proceedings
+1	program development
+1	prominent such models
+1	proper attacks
+1	properties attack r vs vd ad cs p verifiability x na
+1	protocol involves
+1	protocol-verification tool
+1	protocols
+1	proverif beleniosvs
+1	public credential
+1	public key protocols
+1	rajeev gore
+1	rajeev gore2
+1	random nonce
+1	random oracles
+1	real attack
+1	real attacks
+1	real scheme
+1	reasonable assumptions
+1	receipt-freeness definition assumes
+1	recent features
+1	references
+1	registrar generates
+1	relevant threat models
+1	rerandomisable alternatives
+1	research council
+1	rom
+1	scheme [
+1	scheme complicates
+1	scheme increase
+1	secrecy
+1	secret keys
+1	section 2.1is
+1	secur.
+1	security analysis
+1	security checks
+1	security conditions
+1	security requirement
+1	separate channels
+1	server checks
+1	server enforces
+1	server performs
+1	server post
+1	server run
+1	server sends
+1	servers acknowledgment
+1	setup
+1	sheet 
+1	sheet  
+1	sheet contains encryptionsof
+1	signature verifies
+1	simple attacks
+1	simple description
+1	simple mechanisms
+1	sms
+1	so-called endto-end
+1	sound wrt
+1	source
+1	source files
+1	special category
+1	spurious attacks
+1	stv
+1	such verification
+1	such voters
+1	such votes
+1	sufficient conditions ensure
+1	surcvs
+1	symbolic model assumes
+1	symposium
+1	system proceeds
+1	tallying
+1	technical details
+1	technical issue
+1	technical reasons
+1	texts
+1	theoretical computer science
+1	theory
+1	timing attacks
+1	tls
+1	trends priv
+1	trust assumptions
+1	turing
+1	ultimate validation
+1	useful attacks
+1	usenix
+1	valid ballot
+1	various ambiguities
+1	various nuances
+1	various spurious attacks
+1	vd
+1	verifiability checks
+1	verifiability definition
+1	verifiability machine-checked
+1	verifiability model
+1	verification check halts
+1	verification failures
+1	verification key
+1	vote eligibility
+1	voted
+1	voter casts contains
+1	voter chooses
+1	voter claims
+1	voter constructs
+1	voter credentials
+1	voter divulge
+1	voter doesnt complain
+1	voter n decrypts
+1	voter tries
+1	voter uses
+1	voters ballot
+1	voters behalf
+1	voters password
+1	voters verification key
+1	voting
+1	vq ^
+1	vs
+1	warsaw
+1	web-based
+1	whereas
+1	work focuses
+1	y. bertot
+1	zero-knowledge proofs

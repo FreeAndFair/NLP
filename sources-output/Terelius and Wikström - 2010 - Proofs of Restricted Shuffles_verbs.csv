@@ -1,0 +1,354 @@
+79	is
+14	use
+9	given
+8	denote
+8	are
+8	let
+7	encoding
+7	to prove
+6	be
+6	follows
+6	consists
+5	using
+5	running
+5	based
+5	proving
+5	give
+5	recall
+5	chooses
+4	a1
+4	binding
+4	have
+4	convinces
+4	to construct
+4	remark
+3	ai
+3	directed
+3	has
+3	satises
+3	randomly chosen
+3	can be encoded
+3	to be
+3	provably secure
+3	has found
+3	computes
+3	do
+3	to commit
+3	can be done
+3	were
+3	used
+3	mixing
+3	is chosen
+3	can be used
+2	requires
+2	implies
+2	allow
+2	proves
+2	is contained
+2	describe
+2	accepts
+2	to open
+2	choosing
+2	is well known
+2	
+2	j=1 l,j
+2	suppose
+2	well known
+2	means
+2	to denote
+2	observe
+2	only accepts
+2	conclude
+2	restricting
+2	invokes
+2	exists
+2	to extract
+2	get
+2	lemma
+2	show
+2	note
+2	is bounded
+2	see
+2	could be dened
+2	is used
+2	construct
+2	
+2	e1
+2	shows
+2	contained
+2	denotes
+2	restricted
+2	combining
+2	can be computed
+2	introduce
+2	runs
+2	committed
+2	to distinguish
+2	is given
+2	holds
+2	augment
+2	constructs
+2	knows
+2	takes
+2	secure
+2	consisting
+2	can prove
+2	to show
+2	consider
+1	to extend
+1	assume
+1	describing
+1	let q denote
+1	can be pre-computed
+1	ing
+1	self-loops
+1	to recover
+1	computing
+1	ae
+1	remains is to show
+1	not have
+1	has to prove
+1	is known to hold
+1	consist
+1	compute
+1	is characterized
+1	has shown
+1	is satised
+1	was
+1	can be split
+1	submit
+1	zq hidden
+1	was introduced
+1	then simulates
+1	introduced
+1	to handle
+1	so called
+1	 nthat
+1	hiding
+1	corresponds to violating
+1	processing
+1	can be simulated
+1	may be
+1	is trivially derived
+1	has eciency
+1	puting
+1	are not decrypted
+1	can be increased using
+1	would be
+1	to create
+1	can be avoided
+1	remind
+1	reduces
+1	were given
+1	know
+1	showing
+1	gave
+1	match
+1	had
+1	adding
+1	letting
+1	addresses
+1	satised
+1	can restrict
+1	proposed
+1	
+1	can be tested
+1	e
+1	clearly convinces
+1	n
+1	can be used to eciently prove
+1	are reencrypted
+1	can modify
+1	to shue
+1	can apply
+1	thus forming
+1	re-encrypting
+1	did not provide
+1	hastad
+1	evaluates
+1	evaluating
+1	is denoted
+1	independently chosen
+1	decrypting
+1	c1
+1	does not preserve
+1	also present
+1	is assumed to be
+1	simply show
+1	shuing
+1	comes
+1	is not satised is
+1	must be used
+1	is chosen ran
+1	s
+1	agree
+1	is executed
+1	are chosen
+1	also explain
+1	to proving
+1	would contain
+1	is not violated
+1	creating
+1	canejeasilys,e
+1	briey describe
+1	would reveal
+1	used to dene
+1	invoked
+1	zero-knowledge allow
+1	denes
+1	observed
+1	is shown to be
+1	constructing
+1	set
+1	ck needed to commit
+1	investigate
+1	processes
+1	=(
+1	dened
+1	to simplify
+1	to n
+1	shues
+1	are ordered
+1	does not satisfy
+1	n
+1	then perform
+1	to restrict
+1	was used to dene
+1	rst make
+1	dene
+1	sigma
+1	is to reduce
+1	accepting
+1	committing
+1	switching
+1	is called
+1	take
+1	suces to prove
+1	generalizes
+1	instead introduce
+1	extracting
+1	to generalize
+1	can be derived
+1	submitted
+1	is randomly chosen
+1	to execute
+1	representing
+1	to reveal
+1	lists
+1	gives
+1	coin-ipping
+1	assume satisfy
+1	needed
+1	to encode
+1	 denote
+1	to send
+1	restrict
+1	
+1	are employed
+1	is not contained
+1	always nds
+1	think
+1	can demonstrate
+1	encrypts
+1	e
+1	could
+1	is restricted
+1	turning
+1	complicates
+1	could be
+1	permuted is dened
+1	to reduce
+1	will just depend
+1	is committed to column-wise
+1	is found
+1	then set
+1	cut-and-choose based
+1	expect
+1	is assumed to be associated
+1	are multiplied to form
+1	will see
+1	verifying
+1	zn be
+1	immediately get
+1	to see
+1	can combine
+1	to do
+1	motivated
+1	typically is
+1	is based
+1	en be chosen
+1	hidden
+1	choose
+1	will generally not be
+1	simplies
+1	then i=1
+1	executed
+1	would have been
+1	are considered
+1	q is
+1	is needed to x
+1	can also be represented
+1	is played
+1	e given
+1	correctly uses
+1	breaking
+1	arise
+1	contradicts
+1	can be
+1	used to commit
+1	omit
+1	can
+1	remain
+1	was given
+1	is committed
+1	can prove is
+1	must argue
+1	l,j
+1	becomes
+1	used is restricted
+1	pret
+1	encode
+1	call
+1	have not discussed
+1	may be viewed
+1	can be extended
+1	can use
+1	can be expressed
+1	would come
+1	been optimized
+1	pick
+1	resulting
+1	allows
+1	appears
+1	may be interpreted
+1	can then use
+1	satisfy
+1	allows publicly comn
+1	can be reduced
+1	nding
+1	briey
+1	think is
+1	also gives
+1	plays
+1	again contradicting
+1	drastically reduces
+1	correctly opening
+1	to achieve
+1	dealt
+1	must equal
+1	presented
+1	may then use
+1	to solve
+1	need to prove
+1	are derived
+1	eiholds
+1	to analyze
+1	g1
+1	may invoke
+1	to view
+1	prevents proving
+1	can be done eciently using
+1	known
+1	is closed
+1	can be handled using
+1	represent

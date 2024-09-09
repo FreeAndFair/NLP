@@ -1,0 +1,525 @@
+130	is
+39	are
+24	using
+23	computes
+22	chooses
+13	let
+11	proves
+11	suppose
+11	based
+10	have
+9	a1
+9	defines
+9	is used
+9	to prove
+9	consider
+8	follows
+8	note
+8	denotes
+8	known
+8	use
+7	assume
+7	are used
+7	gives
+7	contradicts
+7	knows
+7	resulting
+6	can be extracted
+6	set
+6	show
+6	give
+5	to open
+5	be
+5	define
+5	exists
+5	is bounded
+5	committed
+5	allows
+5	to compute
+4	denote
+4	ai
+4	randomly chosen
+4	cei
+4	used
+4	defined
+4	corresponds
+4	conclude
+4	w1
+4	see
+4	is randomly chosen
+4	computed
+4	can be computed
+4	to see
+4	holds
+4	be randomly chosen
+4	recall
+4	means
+4	prove
+4	equals
+4	consists
+4	are given
+3	to consist
+3	implies
+3	then invokes
+3	computing
+3	compute
+3	is well known
+3	has
+3	can be done
+3	picks
+3	binding
+3	fixed
+3	to commit
+3	are randomly chosen
+3	shows
+3	have found
+3	to generate
+3	is given
+3	to construct
+3	e1
+3	can be used to reduce
+3	publishes
+3	consisting
+3	mixing
+2	starting
+2	should be
+2	can be shuffled
+2	submit
+2	reducing
+2	explain
+2	can write
+2	i=1
+2	are based
+2	run
+2	to n/10
+2	let pk be
+2	reduces
+2	permuting
+2	know
+2	are done
+2	checking
+2	are actually flawed
+2	uses
+2	verifies
+2	present
+2	combined
+2	are permuted
+2	seems
+2	c
+2	is defined
+2	missing
+2	permutes
+2	opening
+2	satisfying
+2	replies
+2	invoke
+2	invokes
+2	distributed
+2	accepting
+2	extracted
+2	say
+2	extracting
+2	r
+2	does not extend
+2	there exists
+2	proving
+2	needed
+2	construct
+2	given
+2	decides
+2	r1
+2	suffices
+2	computes ai
+2	doing
+2	can be described
+2	chosen
+2	write
+2	is generated
+2	satisfies
+2	is reduced
+2	stress
+2	conditioned
+2	can use
+2	is derived
+2	can construct
+2	can be reduced
+2	can pre-compute
+2	to derive
+2	g1
+1	to extend
+1	must use
+1	may use
+1	is not even computationally zero-knowledge
+1	can also partially decrypt
+1	may even be unknown
+1	bounded
+1	to consider
+1	convincing
+1	wish to prove
+1	is done using
+1	also introduce
+1	repeat
+1	then show
+1	can not be used to extend
+1	remains to prove
+1	formalize
+1	holding
+1	can be pre-computed
+1	map twin
+1	setting
+1	seems very hard to compute
+1	extend known
+1	define
+1	let ck be
+1	exist
+1	e0j,i
+1	are used to form
+1	there exist
+1	cryptosystem
+1	randomly re-encrypts
+1	not claim
+1	is computationally zero-knowledge
+1	is not known
+1	emulates
+1	sampled
+1	then proves
+1	resulted
+1	can be split
+1	must also be
+1	to prover
+1	exactly do
+1	to cryptography
+1	must be inverted are
+1	lies
+1	is formed
+1	can be chosen
+1	introduced
+1	x1 invoke
+1	carries
+1	was done correctly can be done using
+1	so called
+1	is also eliminated
+1	is then defined
+1	to con
+1	can easily be pre-computed
+1	zero-knowledge
+1	is to divide
+1	may be
+1	usually means
+1	does
+1	also give
+1	trying to find
+1	directly contradicts
+1	given are
+1	can be used to prove
+1	should allow
+1	works
+1	remind
+1	ignore
+1	squaring is
+1	should note
+1	were given
+1	be defined
+1	showing
+1	idealized setting
+1	exploiting
+1	only can open
+1	are expected to be
+1	had
+1	may not be
+1	is said to be
+1	do have
+1	have submitted
+1	identify
+1	to break
+1	may be ignored
+1	captures
+1	first made
+1	do not satisfy
+1	write ci
+1	is described
+1	can be used to commit
+1	then publishes
+1	validate
+1	must be used
+1	repeatedly invoking
+1	running
+1	ri0
+1	could obviously break
+1	is assumed
+1	yn
+1	perform
+1	re-encrypting
+1	to split
+1	indeed is
+1	is to use
+1	even allows shuffling
+1	have randomly permuted
+1	inherits
+1	sometimes denote
+1	applies
+1	evaluating
+1	invoking
+1	well known
+1	is denoted
+1	s0 conclude
+1	remains to show
+1	to denote
+1	observe
+1	formed
+1	can also be used
+1	only has
+1	pk
+1	expected
+1	must be done
+1	describes
+1	is assumed to be
+1	described
+1	can extract
+1	can be constructed using
+1	decreases
+1	to summarize
+1	can do
+1	is needed is
+1	already existing
+1	comes
+1	distributed setting
+1	receives
+1	may not need
+1	are chosen
+1	must perform
+1	can replace
+1	wi
+1	wj
+1	can also be pre-computed
+1	to be used
+1	is needed
+1	can be invoked
+1	provably secure
+1	has found
+1	ei come computes
+1	randomly permuted
+1	rewinding
+1	permuted
+1	is to conduct
+1	ciphertexts defined
+1	can be used to provide
+1	constructing
+1	also can open
+1	to extract
+1	view
+1	immediately gives
+1	can be combined
+1	can be done using
+1	qa
+1	precomputing
+1	is understood
+1	reveal
+1	=(
+1	can be generated using
+1	should learn
+1	are referred
+1	geq
+1	must allow
+1	can be moved
+1	is needed to extract
+1	writes
+1	then so is
+1	first analyze
+1	can be used to construct
+1	can choose
+1	j=1 i=1
+1	are simply eliminated
+1	considered
+1	is randomly re-encrypted
+1	can be computed using
+1	honestly chooses
+1	reach
+1	i=1 be
+1	is called
+1	finding
+1	may now replace
+1	computed using
+1	depending
+1	is implemented
+1	will later
+1	need
+1	does not suffice
+1	do not lend
+1	only needs to extract
+1	re-ordered using
+1	can be derived
+1	were
+1	already uses
+1	submitted
+1	can transform
+1	determines
+1	are bounded
+1	also proves
+1	is employed
+1	convinces
+1	is proved
+1	is then computed
+1	nholds
+1	would change
+1	to tell
+1	do not claim
+1	are related
+1	efficiently prove
+1	xl,j
+1	omitted
+1	can not expect
+1	potentially is
+1	r.
+1	can only compute
+1	must be
+1	can be executed
+1	could
+1	r0
+1	generate
+1	beginning
+1	estimate
+1	to n/2
+1	base
+1	commits
+1	sliding
+1	receiving
+1	also partially decrypts
+1	is revealed
+1	performs
+1	can design
+1	may estimate
+1	essentially pays
+1	blinded
+1	eq
+1	expect
+1	can be constructed
+1	ei
+1	to constructing
+1	may set
+1	execute
+1	represents
+1	also contradicts
+1	can still consider
+1	can combine
+1	sorted
+1	are missing
+1	introduce
+1	outlined
+1	re-encrypted
+1	do not make
+1	can avoid
+1	are denoted
+1	lk
+1	fit
+1	do not need to take
+1	nets
+1	to avoid leaking
+1	to distinguish
+1	must be generated
+1	a01
+1	must exponentiate
+1	proves using
+1	produces
+1	only need
+1	perfectly distributed
+1	coinflipping
+1	si
+1	provide
+1	need to define
+1	to using
+1	is applied
+1	first give
+1	improving
+1	used is
+1	as follows
+1	is not secure
+1	can be transformed
+1	derived
+1	is explained
+1	divides
+1	reject
+1	must then be defined
+1	can be constructed to essentially commit
+1	is considered
+1	verify
+1	to avoid
+1	shuffled
+1	breaking
+1	to find
+1	do not go
+1	accept
+1	also show
+1	to recall
+1	claim
+1	making
+1	following
+1	can
+1	was given
+1	then somehow submits
+1	is committed
+1	are shuffled
+1	must
+1	are also inherited
+1	s0i
+1	is presented
+1	s expected running
+1	obviously takes
+1	are generated jointly using
+1	batching
+1	ej
+1	contains
+1	to ask
+1	corrupted
+1	apply
+1	ej+1,j+1
+1	may drop
+1	is perfectly distributed
+1	addresses
+1	used to reduce
+1	may rewind
+1	makes
+1	then take
+1	must essentially compute
+1	remark
+1	to decrypt
+1	appears
+1	corresponds to breaking
+1	revealing
+1	suppose have accepting
+1	waiting
+1	giving
+1	appear
+1	hide
+1	is chosen
+1	concludes
+1	design
+1	is also viewed
+1	have now extracted
+1	essentially contains
+1	drastically reduces
+1	challenge
+1	solved
+1	can be used directly to construct
+1	to give
+1	can be used to extend
+1	continued
+1	may instead choose
+1	need to consider
+1	was presented
+1	may also be viewed
+1	mix-server
+1	are proposed
+1	only requires
+1	can be used
+1	was formed
+1	may define
+1	did not construct
+1	follow
+1	can not prove
+1	generalize
+1	executing
+1	focus
+1	n)m rn
+1	to expand
+1	illustrates

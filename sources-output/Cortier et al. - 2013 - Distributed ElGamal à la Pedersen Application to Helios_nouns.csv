@@ -1,0 +1,986 @@
+38	helios
+29	verify
+27	bb
+24	computer
+23	rec
+20	lecture notes
+20	prove
+20	springer
+17	ind-cpa
+16	distkg
+16	zq
+14	enc
+12	ballot privacy
+12	fiat-shamir
+12	tally
+11	public key pk
+11	sharedec
+11	threshold cryptosystem
+10	else
+10	t +
+9	bulletin board
+9	ddh
+9	elgamal
+9	proof system
+8	hash function
+8	pi
+8	vote
+7	= {
+7	ballot
+7	bb0
+7	fully distributed helios
+7	leqdl
+7	nizk
+7	rosario gennaro
+7	setup
+7	theorem
+7	validate
+6	ballot b
+6	bb1
+6	dkg
+6	nm-cpa
+6	proceedings
+6	public key
+5	civitas
+5	cramer
+5	crypto
+5	cu
+5	david bernhard
+5	disjproof
+5	gennaro
+5	lr
+5	olivier pereira
+5	oracle model
+5	pj
+5	prove0
+5	secret keys
+5	simulate
+5	verify0
+5	verifyvote
+4	` trustees
+4	acm
+4	arbitrary threshold parameters
+4	bogdan warinschi
+4	c =
+4	ch
+4	challenge ch
+4	ciphertext c
+4	decryption shares
+4	disjverify
+4	eqdl
+4	g.
+4	key generation
+4	key generation protocol
+4	non-interactive proof system
+4	pedersens
+4	ppt
+4	r0
+4	response res
+4	security parameter
+4	threshold cryptosystems
+4	tj
+4	verifyeq
+4	veronique cortier
+4	xg +xb
+3	-threshold cryptosystem
+3	aik
+3	appendix
+3	b }
+3	ben smyth
+3	checks
+3	commitment com
+3	digital signatures
+3	f `
+3	figure
+3	formally
+3	hugo krawczyk
+3	ieee computer
+3	init
+3	j b
+3	key generation phase
+3	markus jakobsson
+3	moti yung
+3	new proof system
+3	oregister
+3	ovotelr
+3	pr
+3	preq
+3	privacy
+3	privacy [
+3	right board
+3	ronald cramer
+3	schnorr
+3	secondly
+3	secure
+3	semantic security
+3	sharedec0
+3	simtally
+3	special honest-verifier zero-knowledge
+3	stanislaw jarecki
+3	symposium
+3	tal rabin
+3	unique responses
+3	v1
+2	6= reject 6=
+2	= m
+2	= { i1
+2	[ x ]
+2	` servers
+2	actual vote
+2	adversary solves
+2	andreas vogt
+2	appendixes
+2	application
+2	arbitrary threshold
+2	ari juels
+2	b =
+2	ballot secrecy
+2	ballots cast
+2	bbl
+2	berry schoenmakers
+2	boyd
+2	bulletin boards
+2	c = { ci1
+2	cb
+2	cit+1 }
+2	cj =
+2	coercion-resistant
+2	com2 g2res /y2ch
+2	compared
+2	complexity proportional
+2	computes
+2	computes c
+2	cryptology
+2	cryptosystem
+2	csf
+2	ct-rsa
+2	dario catalano
+2	david pointcheval
+2	decisional problem
+2	decryption servers `
+2	degree t
+2	denoted
+2	disjprove
+2	disjproveid
+2	distkg0
+2	efficient multi-authority election scheme
+2	election result
+2	electronic elections
+2	enc0
+2	equation
+2	esorics13
+2	eurocrypt
+2	extract
+2	fix [
+2	formal proof
+2	formal proofs
+2	furthermore
+2	g b
+2	g r
+2	g result
+2	h g
+2	helios-like
+2	honest voter
+2	i =
+2	i b
+2	id =
+2	ieee symposium
+2	ij
+2	interestingly
+2	it+1 }
+2	j =
+2	j `
+2	j. cryptology
+2	k =
+2	kt+1 }
+2	l0r
+2	m =
+2	michael r. clarkson
+2	negligible function
+2	non-interactive
+2	notice
+2	ocorruptu
+2	outputs invalid
+2	parses c
+2	pedersen
+2	pedersens dkg
+2	polynomial fi
+2	possibly
+2	practical
+2	previous entry
+2	proof systems
+2	protocol specification
+2	public keys
+2	qual
+2	r.
+2	ralf kusters
+2	random oracle
+2	random oracle model
+2	rb
+2	rec0
+2	res = r + x ch
+2	rl
+2	roger dingledine
+2	rr
+2	rx
+2	sb
+2	schoenmakers
+2	scn
+2	search problem
+2	setup interaction
+2	setup phase
+2	sl
+2	special soundness
+2	sr
+2	standard model
+2	static corruption
+2	t `
+2	tally result
+2	theorem c.1
+2	threshold decryption
+2	tomasz truderung
+2	total number
+2	u0
+2	u1
+2	v0
+2	values slj
+2	verification keys
+2	verification keys pk
+2	verification keys vk1
+2	vk `
+2	voters identity
+2	voters votes
+2	x x
+2	yb
+2	yg
+2	yi
+2	yuliang zheng
+2	{ b1
+2	} {
+1	+ ait xt
+1	+ tj=1 ` j s ` j
+1	... $
+1	1996. http
+1	2012. http
+1	256-bit multiplicative subgroup
+1	= ai0 + ai1 x +
+1	= c =
+1	= cpa |
+1	= g aik
+1	= g fi
+1	= g r
+1	= g res0 /rch0
+1	= g result
+1	= g u1
+1	= g x
+1	= g xb
+1	= g xg
+1	= ji
+1	= pkres0 /s ch0
+1	= reject
+1	= s
+1	= slj
+1	= u1 pk
+1	= { b1
+1	= { c
+1	= { k1
+1	> d ` /2e trustees
+1	@ 3.40ghz
+1	[ = | id 6= id ] =
+1	[ id = id | id 6= id0 ]
+1	[ z ]
+1	\ { ` }
+1	] argues
+1	] https
+1	] shows
+1	` -th server
+1	` i =
+1	` i = `
+1	` i = g
+1	` t
+1	` t z t
+1	` }
+1	a -protocol
+1	abundant literature
+1	accessible [
+1	accurate implementations [
+1	achieving
+1	acm x-xxxxx-xx-x/xx/xx
+1	acns
+1	active adversaries
+1	actual tally function
+1	adam m. davis
+1	adapting helios
+1	adaptive
+1	adaptive security
+1	adaptively
+1	additional difficulties
+1	additional trust assumptions
+1	additionally
+1	address robustness
+1	adi shamir
+1	admissible choices
+1	admissible messages m0
+1	admissible plaintext m
+1	admissible votes
+1	advances
+1	adversaries means
+1	adversary acts
+1	adversary chooses
+1	adversary ends
+1	adversary i
+1	adversary learns
+1	adversary learns sk1
+1	algorithm returns
+1	algorithm specification
+1	alternative solution
+1	amos fiat
+1	analysis
+1	analysis shows
+1	andrew c. myers
+1	andrew m. odlyzko
+1	anna lysyanskaya
+1	aocorruptu
+1	appendix a. sigma protocols
+1	applying
+1	arbitrary dummy string id
+1	arbitrary string
+1	arbitrary t-out-of- ` threshold parameters selection
+1	arbitrary threshold parameters `
+1	arbitrary threshold t
+1	archive
+1	as- permission
+1	asiacrypt
+1	assume
+1	atomic ciphertexts
+1	atomic proof id
+1	atsushi fujioka
+1	attacking
+1	auscrypt
+1	australia
+1	authorities detain
+1	authorities suffice
+1	available implementation
+1	available opensource implementation
+1	aviel d. rubin
+1	b 6= r.
+1	b m
+1	b. distkg
+1	b. fiat-shamir transformation and nizks definition b.1
+1	b. theorem
+1	ballot independence coincide
+1	ballot privacy [
+1	ballot privacy game
+1	ballot privacy proofs [
+1	ballot well-formedness
+1	ballots duplication
+1	basic properties
+1	bb0 bb0
+1	bb1 bb1
+1	bbr
+1	ben adida
+1	benaloh
+1	benot libert
+1	board manager
+1	building blocks
+1	bulletin
+1	bulletin board manager
+1	c ` }
+1	c c c
+1	c { c1
+1	c.
+1	c. ad-hoc fiat-shamir transformation
+1	c. rigorously
+1	c0 + c1 =
+1	c00 + c01 =
+1	candidates enc+proofs ballot verif
+1	carlo blundo
+1	case h = g ab
+1	case study
+1	cast ballots
+1	catalano
+1	cca-secure threshold cryptosystems
+1	ccs12
+1	certain voter
+1	ch 6= ch0
+1	ch0 + ch1 =
+1	challenge ciphertext c =
+1	challenge space c
+1	challenger acts
+1	challenger chooses {
+1	challenger run
+1	chaum-pedersen
+1	chaum-pedersen nizks
+1	chaum-perdersen
+1	checking
+1	checks res0 res1 res0 pkres1
+1	chmelev
+1	choice election
+1	choice v
+1	chooses servers
+1	chooses t servers
+1	chooses {
+1	chosen
+1	chosen-ciphertext attacks
+1	chris peikert
+1	ci =
+1	cijj =
+1	ciphertext
+1	ciphertext attack
+1	ciphertext c =
+1	ciphertext well-formedness
+1	clarkson
+1	classroom use
+1	coefficients ` j
+1	coercion
+1	coercion-resistance [
+1	coercionresistant [
+1	colin boyd
+1	collision-resistant hash func0 tion
+1	com1 g1res /y1ch
+1	com2 = g2r
+1	commercial advantage
+1	common wisdom
+1	communication channels
+1	communication networks
+1	communications
+1	completeness
+1	computable relation
+1	computation time
+1	computes ch
+1	computes challenge ch
+1	computes com
+1	computes q
+1	computes shares sij = fi
+1	computing
+1	consider
+1	consistency definition
+1	contemporary frame
+1	copyright
+1	core
+1	cornell
+1	corresponding ciphertexts
+1	corresponding private key sk
+1	cpu
+1	credential thereof
+1	credential upkid
+1	credential uskid
+1	cryptographic
+1	cryptographic protocols
+1	cryptologic research
+1	cryptology asiacrypt
+1	cryptosystem compatible
+1	cryptosystems
+1	cryptosystems [
+1	curious authorities
+1	cyclic group
+1	cynthia dwork
+1	d0
+1	dan boneh
+1	david a.
+1	davis
+1	december
+1	decision diffie-hellman
+1	decisional diffie-hellman
+1	decrypt ciphertexts
+1	decryption share
+1	decryption shares c =
+1	defines ch1 = ch ch0
+1	denote
+1	deterministic algorithm
+1	different plaintexts m0
+1	different voters
+1	discrete logarithm
+1	discrete logarithms sigma-protocol
+1	discrete-logarithms
+1	disjverifyid
+1	distributed elgamal
+1	distributed key generation
+1	dlog problem
+1	dmitri chmelev
+1	douglas wikstrom
+1	edouard cuvelier
+1	efficient simulator
+1	electing
+1	election server
+1	election servers
+1	election system
+1	election systems
+1	election verifiability
+1	elections
+1	electronic
+1	eligible voters
+1	encryption algorithm
+1	encryption keypair
+1	encrypts choice v {
+1	encrypts g
+1	ensure ballot
+1	ensure ballot privacy
+1	equal length
+1	equality
+1	esorics11
+1	evaluating
+1	eventually
+1	expa
+1	expcpa
+1	experiment exppriv
+1	exppriv
+1	extract0
+1	f0 g f1
+1	f0 g f1 id
+1	f1 g f0
+1	feldman vss
+1	fiat-shamir transformation
+1	fiatshamir
+1	final outcome result
+1	final result
+1	financial cryptography
+1	firefox
+1	firstly
+1	foo
+1	forthcoming versions
+1	france
+1	free term
+1	fsh
+1	full citation
+1	full description
+1	full details
+1	fully distributed helios with arbitrary threshold
+1	fully distributed threshold cryptosystem from decision diffie-hellman sharedec
+1	g f0
+1	g sij = t
+1	g v
+1	g2
+1	g2res = com2 y2ch
+1	github
+1	gold coast
+1	good choice
+1	grch0
+1	grch1
+1	h = g ab
+1	h = g r
+1	h y
+1	hard copies
+1	hard instances
+1	helios vronique cortier david galindo cnrs/loria france cnrs/loria france stphane glondu malika izabachne inria nancy grand-est france cnrs/loria france abstract real-world
+1	heliosd =
+1	helioslike
+1	hideki imai
+1	honest decryption servers
+1	honest parties
+1	honest servers
+1	honest setting
+1	honest trustees
+1	honest verifier
+1	honest vote
+1	honest voters
+1	i-th server
+1	iacr
+1	id = id
+1	id id0
+1	id l
+1	identifier id
+1	identity id
+1	implicit input
+1	implicit representation
+1	ind-cpa fully distributed
+1	ind-cpa pke
+1	index i
+1	individual votes
+1	infer information
+1	info contains
+1	information
+1	information science
+1	intel
+1	interactive algorithm run
+1	interactive algorithms
+1	interactive setup
+1	international association
+1	international conference
+1	interval [
+1	introduction
+1	invalid election
+1	invokes algorithm register
+1	iqual ji iqual ji si
+1	ivan damgard
+1	j = f
+1	j j sij = j xj = sij = ji
+1	j k
+1	j l.
+1	jacques stern
+1	jakobsson
+1	james h. anderson
+1	jarecki
+1	jean-jacques quisquater
+1	jennifer seberry
+1	jens groth
+1	ji f
+1	ji j xj
+1	ji ji
+1	jianying zhou
+1	john c. mitchell
+1	josh benaloh
+1	juels
+1	k ki\ { j } kj
+1	k y
+1	k. sako
+1	kazuo ohta
+1	key cryptography
+1	key distribution algorithm
+1	key generation algorithm
+1	key generation setup
+1	keys consist
+1	keywords
+1	kjj =
+1	krawczyk
+1	l = l { upkid }
+1	l.
+1	lagrange
+1	lagrange p
+1	large scale elections
+1	left board
+1	legitimate public credentials
+1	legitimate voters
+1	lemma
+1	light verification algorithm
+1	linear number
+1	list c
+1	list l = { upkid }
+1	list sk = { sk1
+1	list vk = { vk1
+1	logg vk = logr c
+1	logg vkj = logr cj
+1	louvain-la-neuve
+1	m {
+1	main developer
+1	main ideas
+1	marc joye
+1	mark ryan
+1	marneffe
+1	masayuki abe
+1	matthew k. franklin
+1	measuring
+1	message m
+1	minimal procedural requirement
+1	mod q
+1	model few
+1	moni naor
+1	myrto arapinis
+1	necessary voters registration phase
+1	negligible probability 1/q
+1	new -protocol
+1	new board directors
+1	new framework
+1	new insights
+1	nm-cpa fully distributed
+1	non-interactive threshold decryption
+1	non-interactive zero-knowledge
+1	non-interactive zero-knowledge proofs
+1	notable exception
+1	october
+1	oliver pereira
+1	olivier
+1	open source helios
+1	open source implementation of fully distributed helios
+1	open-source implementation
+1	order q
+1	original publication
+1	outputs c =
+1	outputs commitment com
+1	outputs id
+1	outputs m = s cj
+1	outputs pk
+1	outputs reject
+1	outputs result
+1	own secret si
+1	p y ij y
+1	parses
+1	parses b =
+1	parses c =
+1	partial decryption
+1	partial knowledge
+1	particular way
+1	perdersens dkg
+1	performs
+1	philippe golle
+1	pierre-alain fouque
+1	pitfalls
+1	pk = g
+1	pk = g x
+1	pk = iqual
+1	pkr g m
+1	pks ch0
+1	plaintext m
+1	podc
+1	poll station
+1	polynomial f
+1	polynomial time
+1	post
+1	pr exppriv
+1	presidential elections
+1	previous ballot bid
+1	previous simulator
+1	previous work
+1	prime field
+1	privacy definitions
+1	private adversary
+1	private ballot submission
+1	private key ski
+1	private keys
+1	private keys sk1
+1	prob
+1	proc
+1	processing ballots
+1	proof =
+1	proofs
+1	proper set
+1	propositions
+1	protocol literature
+1	provable ballot secrecy
+1	prover chooses r
+1	prover ends
+1	prover fakes
+1	provers
+1	proves privacy
+1	public board
+1	public credentials
+1	public credentials id 6= id0
+1	public encryption
+1	public identifier
+1	public key output
+1	public key threshold encryption
+1	public part
+1	public parts
+1	public request
+1	public verification
+1	q p
+1	r bb1
+1	r enc
+1	r fully distributed helios
+1	r r
+1	r1
+1	rabin
+1	raleigh
+1	random [
+1	random bit
+1	random coin {
+1	random coins
+1	random nonce nr
+1	random oracles
+1	random seed ri
+1	random t-degree polynomial fi
+1	randomness r
+1	real conversation
+1	real proof
+1	real tally algorithm
+1	real votes
+1	real-world elections
+1	real-world use
+1	reasonable level
+1	recall
+1	receipt-free
+1	recovery algorithm
+1	references
+1	registrars
+1	registration phase
+1	regular instance
+1	related
+1	replacing
+1	replay attacks
+1	res1 = u1 + ch1 r.
+1	resistant end-to-end
+1	response f
+1	result = invalid
+1	result ciphertext
+1	result ciphertext c =
+1	result ciphertexts
+1	result function
+1	result/proof pair
+1	return =
+1	reveals partial decryption shares
+1	right boards
+1	rnr
+1	robustness
+1	runs j
+1	runs validate
+1	rxi
+1	ryan w. gardner
+1	s = pkr g m
+1	s contribution
+1	s g
+1	s/g
+1	sabrina de capitani
+1	secret key
+1	secret key sk
+1	secret key uskid
+1	secret key xj
+1	secret keys sk
+1	secret parameters
+1	secret part
+1	securing
+1	security definitions
+1	security properties
+1	security statements
+1	seminal multi-authority election system
+1	seminal work
+1	sends com1 = g1r
+1	sends sij
+1	serge fehr
+1	server side
+1	set b
+1	set b {
+1	setup algorithm
+1	setup keys
+1	sg
+1	shai halevi
+1	share decryption algorithm
+1	shares sij
+1	shows timings
+1	si = fi
+1	signature keypair
+1	signature problems
+1	signature schemes
+1	sij mod q
+1	similar result
+1	simulate algorithm
+1	simulate0
+1	sk `
+1	sk ` }
+1	so-called setup keys
+1	special honest-verifier zero knowledge
+1	specific permission and/or
+1	standard reduction argument
+1	static
+1	static corruptions
+1	stelvio cimato
+1	stephane glondu
+1	stephen chong
+1	steve kremer
+1	strong fiat-shamir
+1	succcpa
+1	succpriv
+1	sufficient conditions
+1	suffrage elections
+1	sujata garera
+1	syntax and ballot privacy for
+1	t servers
+1	t trustees
+1	t-outof- ` threshold cryptosystem
+1	t1
+1	tal moran
+1	tally interaction computes
+1	tally procedure
+1	tatsuaki okamoto
+1	tcc
+1	technical report
+1	technology workshop
+1	test b
+1	test ch =
+1	theory
+1	thirdly
+1	thomas peters
+1	threshold cryptosystem [
+1	threshold cryptosystem implies
+1	threshold parameter t
+1	threshold parameters
+1	threshold setting
+1	threshold t
+1	ti
+1	timing
+1	tj=1 g s ` j ` j
+1	tl
+1	tm
+1	torben p. pedersen
+1	total number `
+1	toward
+1	towards trustworthy elections
+1	transformation
+1	transformation [
+1	trustees `
+1	trustees generate
+1	trustees suffice
+1	trustworthy elections
+1	typically
+1	unique identifier id
+1	unique polynomial f `
+1	universal composability framework
+1	universally
+1	universally-composable threshold cryptography
+1	university president
+1	upkid /
+1	usa
+1	usenix/accurate electronic voting
+1	v0 /
+1	v1 /
+1	valid atomic disjunctive proofs id
+1	valid ballots
+1	valid proof
+1	valid statement
+1	valid tabulation
+1	validity checks
+1	value com
+1	value res
+1	value xb
+1	various numbers
+1	verifiability
+1	verifiability ensures
+1	verification checks
+1	verification key
+1	verification key vki
+1	verification test
+1	verification tests
+1	verifier accepts iff g1res = com1 y1ch
+1	verifier checks
+1	verifier computes com1 g1res /y1ch
+1	versions [
+1	victor shoup
+1	vijay atluri
+1	vimercati
+1	virtual decryption key iqual
+1	vj
+1	vk ` g x `
+1	vk ` }
+1	vk1 g x1
+1	vkj = g xj
+1	vkj = iqual g j =
+1	vote privacy
+1	vote privacy [
+1	voter id
+1	voters browser
+1	voters credential
+1	voters credentials usk
+1	voters identifier id
+1	voters identity id
+1	voters times
+1	votes pk
+1	voting system
+1	walter fumy
+1	wlog
+1	work implies
+1	wpes
+1	x = iqual si mod q
+1	x = logg1 y1 = logg2 y2
+1	x ij
+1	x. wang
+1	xavier boyen
+1	xj =
+1	xj s.t
+1	y ij
+1	y k
+1	y rb
+1	y sb
+1	yg yb
+1	yiannis tsiounis
+1	yvo desmedt
+1	z +
+1	zero-knowledge
+1	zq zq
+1	{ bi }
+1	{ ci1
+1	| <
+1	| id 6= id0 ]
+1	| logg1 y1 = logg2 y2 }
+1	|b| t.
+1	} chooses r
+1	} j=1
+1	} | w

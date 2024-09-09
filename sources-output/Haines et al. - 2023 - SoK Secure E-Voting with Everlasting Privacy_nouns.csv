@@ -1,0 +1,1349 @@
+52	vi
+48	sec
+44	ea
+41	pbb
+25	c i
+24	b-id
+23	b-anon
+20	belenios
+20	nizkp
+20	r i
+18	helios
+18	public verifiability
+17	proceedings
+17	sbb
+16	election authority
+16	johannes mller
+15	privacy enhancing technologies
+14	foo
+14	thomas haines
+14	tj
+13	mix server
+12	b-anon-a
+12	b-id-mix
+11	cuvelier
+11	m1
+11	ppat
+11	security properties
+10	] [
+10	concept
+10	evaluation
+10	final result
+10	mk
+10	protocols [
+10	public bulletin board
+10	sok
+9	b-id-hom
+9	blind signature
+9	secure
+9	v i
+8	blind signatures
+8	computational privacy
+8	existing
+8	fc
+8	graaf
+8	open problem
+8	pke
+8	rafieh mosaheb
+8	t1
+7	arapinis
+7	b-anon-v
+7	eventually
+7	ge
+7	hence
+7	individual voters
+7	ivan pryvalov
+7	mitigate trust
+7	nizkps
+7	protocol [
+7	submission phase
+6	bulletin board
+6	cce
+6	everlasting privacy
+6	final election result
+6	international workshops
+6	j j
+6	ralf ksters
+6	realistic assumptions
+6	secret bulletin board
+6	split-ballot
+6	verifiability
+6	vote vi
+6	voters choices
+6	votor
+6	vs
+6	zkp
+5	acm ccs
+5	arbitrary ballot types
+5	buchmann
+5	cr
+5	crypto
+5	cryptographic primitives
+5	ek1
+5	furthermore
+5	homomorphic version
+5	ieee csf
+5	internet
+5	j j j
+5	jeroen
+5	kgc
+5	large-scale elections
+5	luxembourg
+5	main classes
+5	mix servers
+5	privacy
+5	real-world elections
+5	setup phase
+5	simple ballot types
+5	unconditional privacy
+5	vronique cortier
+4	a. ryan
+4	accountability
+4	andreas vogt
+4	ck
+4	complex ballots
+4	cramer
+4	denise demirel
+4	different groups
+4	electronic voting
+4	grontas
+4	homomorphic property
+4	jcj
+4	kge
+4	open problems
+4	opening values
+4	peter y
+4	privacy [
+4	promising approaches [
+4	proof k
+4	public key pk
+4	secret ballots
+4	secret credentials
+4	secret key sk
+4	springer
+4	submission channels
+4	tm
+4	tomasz truderung
+4	trust assumptions
+4	usenix
+4	vn
+4	vote privacy
+4	voters submission channels
+4	voting
+4	xavier boyen
+3	acc
+3	anonymous ballots
+3	anonymous channels
+3	anonymous submission channel
+3	anonymous submission channels
+3	app
+3	applications
+3	arbitrary
+3	arbitrary number
+3	baloglu
+3	bit b
+3	c i c
+3	ciphertext ei
+3	coercion-resistance
+3	commitment scheme
+3	cortier
+3	cryptography
+3	david galindo
+3	dc-net
+3	e i
+3	eas
+3	ek0
+3	electronic elections
+3	elgamal pke
+3	esorics
+3	final outcome
+3	foundations
+3	general criticism
+3	haenni
+3	haines
+3	identifiable ballots
+3	ieee
+3	individual links
+3	individual votes
+3	jacques traor
+3	johannes buchmann
+3	kgs
+3	linkable ring signatures
+3	locher
+3	luxembourg esch-sur-alzette
+3	moran
+3	naor
+3	observation
+3	olivier pereira
+3	peter b. rnne
+3	philipp locher
+3	private keys
+3	public/private key pair
+3	r j
+3	reasonable solution
+3	receipt-freeness
+3	registrar
+3	research problems
+3	ring signature scheme
+3	ring signatures
+3	rolf haenni
+3	s vote
+3	selene
+3	steve kremer
+3	study sub-class
+3	such schemes
+3	summary
+3	t0
+3	v j
+3	v1
+3	voter creates
+3	voter submits
+3	voters credentials
+2	] describe
+2	] show
+2	academic literature
+2	acm
+2	actual message
+2	adeline roux-langlois
+2	advanced
+2	al.s protocol [
+2	alternative approach
+2	alternative solution
+2	altogether
+2	anonymous reviewer
+2	arbitrary ballots
+2	arbitrary distribution
+2	arch
+2	as
+2	audit
+2	australia
+2	automated
+2	ballot submission channels
+2	ballot types
+2	ballots bi
+2	basic idea
+2	basic security
+2	basic version
+2	bingsheng zhang
+2	blind
+2	blind signature scheme
+2	blind signature scheme [
+2	c =
+2	cambridge
+2	ciphertext e
+2	ciphertext vector ek
+2	civitas
+2	commitment c
+2	commitment c = c
+2	commitment c i = c
+2	commitment scheme c =
+2	commitment vector
+2	commitments c i
+2	common cryptographic primitives
+2	comp
+2	comparison cumbersome
+2	computational complexity
+2	core
+2	cryptographic level
+2	cs
+2	css
+2	daniel rausch
+2	david chaum
+2	demirel
+2	different protocols
+2	diffie-hellman
+2	directions
+2	ds
+2	e-voting
+2	election authorities
+2	election result
+2	electronic
+2	eligible voters
+2	em
+2	end-to-end
+2	eurocrypt
+2	everlasting
+2	favorite candidate
+2	figure
+2	firstly
+2	fnr
+2	foreseeable future
+2	formal definitions
+2	fortunately
+2	fundamental questions
+2	future adversaries
+2	future adversary
+2	general approach
+2	guillaume kaim
+2	h i
+2	iacr cryptol
+2	ieee euros
+2	important aspects
+2	important open problems
+2	j j bi
+2	j. cryptol
+2	julian liedtke
+2	jun pang
+2	key pair
+2	key technique
+2	kremer
+2	larger-scale elections
+2	linear
+2	long-term privacy
+2	mask ti
+2	meaning
+2	mix net version
+2	model
+2	moni naor
+2	mpc
+2	national research fund
+2	non-political elections
+2	non-transparent state
+2	nordsec
+2	notation
+2	oded goldreich
+2	ordinos
+2	original messages
+2	originally
+2	overview
+2	p. arbitrary dt
+2	partial opening values
+2	pascal reisert
+2	past elections
+2	pereira
+2	pk j
+2	possible candidates
+2	pressing open problem
+2	privacy result
+2	private trail
+2	procedure contains
+2	proofs
+2	protocol analysis
+2	protocol level
+2	protocols
+2	protocols aim
+2	protocols differ
+2	protocols employ
+2	protocols employ homomorphic
+2	proverif
+2	prt voter
+2	public keys
+2	rank candidates
+2	realworld elections
+2	reasonable approach
+2	reasonable approaches
+2	receipt-free
+2	reference point
+2	revised selected papers
+2	rf
+2	robert knnemann
+2	robust [
+2	ryan
+2	s ballot
+2	s i
+2	s votes
+2	sbastien canard
+2	scheme [
+2	secondly
+2	secret key sski
+2	secret knowledge
+2	secret votes
+2	sergiu bursuc
+2	sevdenur baloglu
+2	share
+2	signature s
+2	simple
+2	sjouke mauw
+2	small-scale
+2	solution
+2	statement s
+2	tal moran
+2	tea tea
+2	technology workshop
+2	time afterwards
+2	towards trustworthy elections
+2	trustee j
+2	trustees joint
+2	universal composability
+2	university press
+2	unrealistic assumption
+2	valid signatures
+2	van
+2	verifiability gap
+2	verification tools
+2	vincenzo iovino
+2	voteid
+2	voters behalf
+2	voters devices
+2	voters need
+1	+ +
+1	+ + [
+1	+ [
+1	+ c i0 + c i1
+1	1. privacy
+1	2016. select
+1	2021. ternum
+1	= i mi
+1	= {
+1	] + + +
+1	] .1
+1	] .11
+1	] .6 4.1.1
+1	] abstracts
+1	] closes
+1	] employ
+1	] employ conditional
+1	] ensures
+1	] facilitate
+1	] guarantees
+1	] inherits
+1	] need
+1	] share
+1	] specify
+1	] state
+1	] suggests
+1	] tea
+1	] tea + [
+1	abstract
+1	abstract primitives
+1	achilles heel
+1	acisp
+1	acm acswm
+1	acsac
+1	actual cryptographic constructions
+1	additional
+1	additional features
+1	additional party
+1	additional properties
+1	additional properties practical limitations as flawed
+1	additional security properties
+1	addressing
+1	adi shamir
+1	advances
+1	adversarial
+1	africacrypt
+1	against vote privacy
+1	aggelos kiayias
+1	akiss
+1	al.s conference paper [
+1	al.s modification
+1	alexandros zacharakis
+1	alfredo rial
+1	algebraic methods program
+1	alternative
+1	ambitious goal
+1	andrew c. myers
+1	ann
+1	anonymous
+1	anonymous ballot submission
+1	anonymous ballots.7
+1	anonymous channels exemplifies
+1	anonymous communication protocols
+1	anonymous communication tools
+1	anonymous one-time broadcast
+1	appends i
+1	approach
+1	appropriate symbolic definitions
+1	arbitrary ballot types [
+1	arbitrary numbers
+1	arbitrary threshold
+1	ari juels
+1	aris pagourtzis
+1	as small-scale
+1	asiacrypt
+1	assumption conflicts
+1	atsushi fujioka
+1	auditing
+1	auscrypt
+1	australian
+1	australian discovery early career
+1	authors specify
+1	automated verification
+1	average voters submit
+1	b o
+1	b-anon summary
+1	b-anona
+1	b-id-hom.4
+1	background information
+1	ballot bi
+1	ballot privacy
+1	banon
+1	banon-v
+1	based
+1	basic evaluation
+1	basic model
+1	basic observation
+1	beleniosrf
+1	belgian university
+1	ben adida
+1	benjamin hosp
+1	benot chevallier-mames
+1	berry schoenmakers
+1	bid-hom
+1	bjrn terelius
+1	bogdan warinschi
+1	boyen
+1	breaking
+1	broad interest
+1	bruno blanchet
+1	bruno rodrigues
+1	bulletin
+1	burkhard stiller
+1	bursuc
+1	c = c
+1	c i j c i
+1	c i0
+1	c i1
+1	c ik
+1	c j
+1	c j j c i
+1	c k
+1	c non-interactive zero-knowledge proof proof
+1	c19/is/13643617/equivox/ryan
+1	c20/is/14698166/fp2
+1	ca
+1	canard
+1	canberra
+1	cast
+1	catalano
+1	cca
+1	cce-compatible
+1	cdric fournet
+1	certain computational hardness assumptions
+1	certain desirable properties
+1	certain information
+1	certain instructions
+1	certain parties
+1	certain statement
+1	certificate
+1	cfsy
+1	charlie jacomme
+1	chau
+1	chaums
+1	check validity
+1	choose
+1	chosen-ciphertext-attack
+1	chosen-plaintext-attack
+1	ciobc
+1	ciphertext e =
+1	ciphertext e commitment scheme commitment parameters commitment c
+1	ciphertext ei =
+1	ciphertext vector e1
+1	ciphertext vector pair
+1	ciphertexts e i ei
+1	ciphertexts ei =
+1	classes based
+1	classification
+1	claude mller
+1	cm
+1	coerce voters
+1	coercion-mitigation
+1	coercion-resistance [
+1	coercion-resistance theorems
+1	coercion-resistant
+1	coercion-resistant [
+1	coercion-resistant internet voting
+1	coercionresistant electronic elections
+1	commitment
+1	commitment c commits
+1	commitment c i c
+1	commitment c k
+1	commitment j j j j c i
+1	commitment vector ck
+1	commitment-consistent encryption
+1	commitmentconsistent encryption
+1	commitments [
+1	commitments c i = c
+1	commitments c i c i
+1	common approach
+1	common high-level approach
+1	communication data
+1	comparison
+1	comparison of secret-sharing solutions cramer
+1	comprehensive analysis
+1	comput
+1	computational hardness assumption
+1	computing discrete logarithms
+1	conceptually
+1	conclusion
+1	concrete constructions
+1	conditional privacy
+1	considers voters
+1	consistency i
+1	construction illustrates
+1	copyright
+1	corr
+1	corresponding ciphertext vectors
+1	corresponding commitment vector pair
+1	corresponding signature
+1	cpa
+1	cpa-secure
+1	crc
+1	creative commons
+1	creative commons attribution
+1	credential matches i
+1	creditably
+1	critical issue
+1	croatia
+1	cronus
+1	crypto primitive
+1	cryptographer nets
+1	cryptographers
+1	cryptographers problem
+1	cryptographic components
+1	cryptographic framework
+1	cryptographic hash function
+1	cryptographic protocols
+1	cryptology
+1	csf
+1	d. dissertation
+1	daniel escudero
+1	dario catalano
+1	darmstadt
+1	david a.
+1	david arroyo guardeo
+1	david bernhard
+1	david mestel
+1	david pointcheval
+1	de220100595
+1	decentralized voting
+1	decryption approach
+1	decryption approaches
+1	definition
+1	demirels phd
+1	democratic organizations
+1	democratic systems
+1	demos
+1	denotes necessity
+1	deployable system
+1	di c
+1	different candidates
+1	different classes
+1	different classes relate
+1	different instantiations
+1	different main classes
+1	different verification tools
+1	different ways
+1	different work
+1	digital
+1	digital signature
+1	digital signature scheme verification/secret
+1	dirty way
+1	discrete logarithm assumption
+1	dishonest prover
+1	dishonest tallier
+1	dishonest voter
+1	distinguishing
+1	distributed
+1	divya ravi
+1	dominant form
+1	dominique unruh
+1	douglas stebila
+1	douglas wikstrm
+1	dt
+1	dt ea
+1	dt ea everlasting privacy
+1	dubrovnik
+1	dummy votes
+1	e ik
+1	e-vote-id
+1	e-voting protocols
+1	e. glen weyl
+1	ea v1
+1	ed
+1	eder j. scheid
+1	edition
+1	edouard cuvelier
+1	eduard hauck
+1	efficient
+1	efficient approaches
+1	efficient coercion resistance
+1	efficient mixing
+1	efficient protocol
+1	efficient solution
+1	efficient solutions
+1	eike kiltz
+1	election authority generates
+1	election authority voters
+1	election outcome
+1	elections
+1	elgamal
+1	employ pseudonyms
+1	enable users
+1	enable voters
+1	encrypt messages
+1	enrico scapin
+1	ensure correctness
+1	ensure privacy
+1	ensure vote privacy
+1	epoque
+1	equational reasoning
+1	equivalence properties
+1	equivox
+1	esop
+1	estonia
+1	estonian e-voting protocol ivxv
+1	everl
+1	everlasting privacy towards
+1	exact relations
+1	example [
+1	extensions [
+1	extensive literature research
+1	external adversary
+1	fact [
+1	fake credential
+1	false statement
+1	final commitment vector
+1	final commitment vector cl
+1	final election result corresponds
+1	final election result j v j v
+1	final election result v
+1	final result leaks
+1	final result v
+1	final result.2
+1	fixing
+1	fixing vote privacy
+1	foo-like
+1	formal
+1	formal protocol analysis
+1	formal quantitative analysis
+1	formal specification
+1	forward-secure
+1	forward-security
+1	foundations symposium
+1	fp2
+1	framework [
+1	franklin
+1	fresh randomness k
+1	fujioka
+1	full trust
+1	full-fledged back-end
+1	full-threshold additive
+1	fundamental insights
+1	fundamental ones
+1	fundamental properties
+1	fundamental right
+1	future adversary gains
+1	future adversary has/gains access
+1	game-based ballot privacy definitions
+1	game-based definition
+1	gaps need
+1	gaudry
+1	gautier eberhart
+1	generates parameters prm
+1	georg fuchsbauer
+1	gf
+1	gjsteen
+1	globe monitor
+1	glondu
+1	gonsalves
+1	great potential
+1	group need
+1	group relate
+1	h ik
+1	handshake signatures
+1	hardness assumptions
+1	hash function
+1	hash hi ensures
+1	helmut seidl
+1	hernndez-ardieta
+1	high level
+1	high-level approach
+1	high-level perspective
+1	hirschi
+1	homomorphic
+1	homomorphic aggregation
+1	huangyi ge
+1	huian li
+1	i mi
+1	i r i
+1	iacr
+1	ids
+1	ieee ares
+1	ieee computer
+1	ieee icbc
+1	iigo querejeta-azurmendi
+1	implementation [
+1	important fact
+1	important properties
+1	important security notions
+1	improving helios
+1	incompatible properties
+1	ind-cca-secure
+1	ind-cpa-secure
+1	ind-cpa-secure10
+1	india
+1	individual choices needs
+1	individual identification
+1	individual identities
+1	individual password
+1	individual voter votes
+1	individual votes v
+1	information whatsoever
+1	information-theoretic model
+1	information-theoretic secure
+1	information-theoretically secure mpc against mixed dynamic adversaries
+1	initial research questions
+1	input e0
+1	input values
+1	interactive protocol
+1	interactive zero-knowledge proof
+1	intermediate shuffles
+1	internal adversaries
+1	internal observers
+1	internet elections
+1	introduction
+1	introduction electronic
+1	intuitive level
+1	invalid signatures
+1	iv-c
+1	ivan damgrd
+1	ivan pryvalov acknowledgments
+1	ivan.pryvalov @ uni.lu
+1	j e i
+1	j j j bi
+1	j j j ei
+1	j j j j
+1	j j j j j j
+1	j j j j values
+1	j j j j vi
+1	j j values
+1	j o
+1	j. log
+1	jakobsson
+1	jcjs
+1	jeremy clark
+1	johannes mller ivan pryvalov
+1	johannes.mueller @ uni.lu university
+1	joint anonymity
+1	joint verification platform
+1	jonathan katz
+1	jorge
+1	jrn mller-quade
+1	juels
+1	julian loss
+1	julien stern
+1	june
+1	junior project
+1	k k k k
+1	kaim
+1	kazuo ohta
+1	kevin morio
+1	key
+1	key findings
+1	key pair signature s
+1	key pairs
+1	key sski
+1	keywords
+1	killer
+1	knowledge
+1	koinonia
+1	kristian gjsteen
+1	kryvos
+1	lara schmid
+1	large scale elections
+1	large variety
+1	larger-scale elections [
+1	lattice-based
+1	latticebased blind signatures
+1	leak
+1	license
+1	lightweight
+1	limited
+1	linear filtering
+1	linkability
+1	linkable ring signatures [
+1	list vk
+1	list vk tion keys
+1	local data
+1	long run
+1	long-term
+1	long-term secrecy
+1	lucca hirschi
+1	luis hernndez encinas
+1	m public-key encryption scheme public/private encryption key pair encryption e
+1	m rerandomizes
+1	m shuffles
+1	m {
+1	m2
+1	main advantage
+1	main conceptual
+1	main cryptographic idea
+1	main idea
+1	main insights
+1	main part
+1	main principles
+1	main purpose
+1	main reason
+1	main requirements
+1	major challenge
+1	maria henning
+1	mark ryan
+1	markus jakobsson
+1	markus knecht
+1	martn abadi
+1	math
+1	mathematics
+1	matthew k. franklin
+1	mauw
+1	measure protects
+1	message m
+1	message m decryption m
+1	message m verif
+1	message m verification
+1	message m.
+1	messages mi
+1	michael r. clarkson
+1	minimal
+1	mitigation
+1	mitigation violates
+1	mix net
+1	mix server m
+1	mix servers m
+1	mix servers overall permutation
+1	mix-net
+1	mix-net providing everlasting privacy
+1	mix-net version
+1	ml
+1	ml pbb sbb solved
+1	morten rotvold solberg
+1	moti yung
+1	mountain
+1	multi-autority secret-ballot elections
+1	multilinear maps
+1	multiple agencies
+1	multiple votes
+1	muriel figueredo franco
+1	myrto arapinis
+1	n candidates
+1	nan yang
+1	nash equilibria
+1	national university
+1	necessary trust assumptions
+1	need
+1	negative consequences
+1	netvote
+1	new ballot
+1	new verifiable on-site
+1	ngoc khanh nguyen
+1	nicolas huber
+1	ninghui li
+1	non-interactive
+1	non-interactive receipt-free electronic voting scheme
+1	non-interactive zero-knowledge proof
+1	noninteractive
+1	notably
+1	numerous
+1	numerous institutions
+1	numerous proposals
+1	nutshell
+1	observation disproves
+1	obviously
+1	ohta
+1	okamoto
+1	on-site
+1	onion router
+1	only need
+1	opening/decryption phase
+1	oppressive regimes
+1	original privacy theorem [
+1	original protocol description
+1	our classification
+1	outcome k ek
+1	outcome vector
+1	output values
+1	outputs parameters prm
+1	overall election process
+1	overall threat scenario
+1	own advantages
+1	own balances
+1	own choice
+1	own goal
+1	own goals
+1	own privacy
+1	p.
+1	pagourtzis
+1	panagiotis grontas
+1	pang
+1	parallel line
+1	parallel n times
+1	partially
+1	particular post-quantum
+1	particular voter
+1	past election
+1	pbb vi
+1	pedersen
+1	pedersens cs
+1	perfect secrecy
+1	perfectly
+1	peter schwabe
+1	peters
+1	ph
+1	phd
+1	physical locations
+1	pierre-alain fouque
+1	pierrick gaudry
+1	plaintext vector
+1	plenum
+1	po
+1	political elections
+1	poorvi l. vora
+1	possible disputes
+1	possible way
+1	post
+1	post-quantum online voting scheme
+1	post-quantum tls
+1	post-quantum-secure e-voting
+1	posts c i
+1	posts e1
+1	posts ei
+1	powerful machines
+1	ppatc scheme
+1	practical
+1	practical end-to-end
+1	practical everlasting privacy
+1	practical governmental voting
+1	practical lattice-based decryption mix
+1	practical means
+1	practical nature
+1	precise security properties
+1	preferable whenever
+1	present different attacks
+1	pressing ones
+1	prevents voters
+1	previous checks
+1	previous steps
+1	privacy 7.3.2
+1	privacy framework
+1	privacy j
+1	privacy reduces
+1	privacy relate
+1	privacy-preserving
+1	private audit trail
+1	private channel
+1	private data
+1	private submission channels
+1	prm c c
+1	process ballots
+1	project number
+1	promising approaches
+1	promising protocols [
+1	property ensures
+1	property guarantees
+1	proposals [
+1	protocol run
+1	protocol verifiers
+1	provably improving
+1	prt voter providing everlasting privacy
+1	pseudonyms
+1	pseudonyms pseudonyms
+1	public ballots
+1	public commitments
+1	public data
+1	public election data
+1	public election result
+1	public key
+1	public key vki
+1	public material
+1	public trail
+1	public verifiability [
+1	public verifiability ensures
+1	public verifiability issue
+1	public verification keys vki
+1	public vote
+1	public voter identities
+1	public-key
+1	public-key encryption
+1	public-key encryption schemes
+1	public-key infrastructure
+1	public-key setting
+1	publicly tallyhiding
+1	pyrros chaidos
+1	quadratic voting
+1	quadratic voting game
+1	quantum computers
+1	r i j r i
+1	r j i r i
+1	rafieh.mosaheb @ uni.lu
+1	random number
+1	random permutation
+1	random values
+1	re-encryption mix net.9
+1	re-encryption mixes
+1	real elections
+1	real world
+1	reasonable protocols
+1	recall
+1	receipt-freeness [
+1	recent advances [
+1	recipient untraceability
+1	references
+1	registration teller
+1	relationship
+1	relevant properties
+1	relevant protocols
+1	remote electronic elections
+1	remote electronic voting
+1	remote voting
+1	replay
+1	replay attacks
+1	res =
+1	research council
+1	respective assumption
+1	respective assumptions
+1	respective method
+1	respective relation
+1	respective statement
+1	respective sub-classes relate
+1	respective talliers j j j
+1	respective trustees
+1	respective voters identities
+1	respective voters identity
+1	restart
+1	restricted shuffles
+1	reto e. koenig
+1	revised
+1	revisited
+1	ring
+1	rnne
+1	roberto arajo
+1	roberto samarone
+1	robustness issue
+1	rohit chadha
+1	ronald cramer
+1	ronald l. rivest
+1	roux-langlois
+1	s =
+1	s commitment c i j
+1	s i s
+1	s identity
+1	s ik
+1	s input
+1	s output
+1	s proof
+1	s pseudonym
+1	s request
+1	s s
+1	s vote result function trustees mix servers
+1	s vote vi
+1	safeguard privacy
+1	samuel bouaziz-ermann
+1	santos arajo
+1	sapic+
+1	satisfying solution
+1	schmid
+1	schoenmakers
+1	scope
+1	secret bit
+1	secret credential = i
+1	secret credential i
+1	secret credentials sski
+1	secret key
+1	secret key shares sk
+1	secret keys
+1	secret keys sski
+1	secret-sharing
+1	secret-sharing limited dt
+1	secure e-voting in
+1	secure electronic voting
+1	secure voting
+1	security parameter
+1	security protocols
+1	select [
+1	separate talliers
+1	share 6.1.1
+1	share algorithm
+1	share sk j
+1	sharing
+1	shuffle [
+1	si vi ti0 ti1
+1	siam
+1	signature scheme [
+1	signature si
+1	signatures [
+1	signer signs
+1	significant disadvantages
+1	significant gap
+1	significant impact
+1	significant level
+1	significant problem
+1	similar approach
+1	single
+1	sk j
+1	snarks
+1	solberg
+1	special cases
+1	special party
+1	special property
+1	specific cryptographic primitives
+1	specific membership
+1	specific parties
+1	specific security properties
+1	ssk j
+1	statement/witness pair
+1	stefan g. weber
+1	stephen chong
+1	steve a. schneider
+1	steven p. lalley
+1	stphane glondu
+1	strict-coercion resistance revoting based internet voting scheme
+1	strong assumption
+1	student election
+1	sub-classes
+1	subexponential-time algorithm
+1	submit votes
+1	submits bi
+1	submits vk
+1	subsequent sections
+1	succinct non-interactive arguments
+1	such checks
+1	such receipts
+1	summary membership zkp membership zkps
+1	superior class
+1	switzerland
+1	symbolic model
+1	symmetric setting
+1	symposium
+1	sze yiu chau
+1	t t dt t t t
+1	t1j
+1	taher el gamal
+1	tallier threshold decryption
+1	talliers need
+1	tally-hiding e-voting
+1	tatsuaki okamoto
+1	tcc
+1	tea + + [
+1	tea tea tea +
+1	techniques
+1	text books
+1	theoretical limits
+1	thesis [
+1	thom wiggers
+1	thomas haines rafieh mosaheb australian
+1	thomas peters
+1	thomas zacharias
+1	thomas.haines @ anu.edu.au university
+1	thorough security analyses
+1	threat scenarios
+1	threeballot
+1	threshold decryption
+1	throughout
+1	tianhao wang
+1	tiny fraction
+1	tiny tyrants
+1	tlcommunications
+1	tls
+1	tm m1
+1	toomas krips
+1	tor
+1	torben p. pedersen
+1	total computation quadratic
+1	total number
+1	toward
+1	towards
+1	towards everlasting privacy
+1	trace single ballots
+1	transparent verifiability
+1	traor
+1	trivial way
+1	trust assumption
+1	trustee returns
+1	trustees publish
+1	trustees shuffle
+1	trustees signatures j
+1	tt
+1	twin
+1	uc
+1	unbounded sets
+1	unconditional anonymity
+1	unconditional integrity
+1	unconditional sender
+1	unite
+1	universally
+1	universitys president
+1	usa
+1	usenix/accurate electronic voting
+1	user obtains
+1	uses pseudonyms
+1	uses ti0
+1	v = i vi
+1	v d
+1	v determines
+1	v j i vi
+1	valid choices
+1	valid j opening
+1	valid proof
+1	valid shuffle
+1	valid vote
+1	valid w.r.t
+1	variable s =
+1	vav
+1	vector c
+1	vectors e0 =
+1	verifiability [
+1	verifiability issues
+1	verifiability notions
+1	verifiability revisited
+1	verifiable decryption
+1	verifiable on-site
+1	verifiable poll-site
+1	verifiably mix
+1	verification key vki
+1	verification keys
+1	verification phase
+1	verify your vote
+1	verifying accountability
+1	vi = j vi
+1	victor e. gonsalves
+1	vincent cheval
+1	vk j
+1	vk k
+1	vol
+1	vote
+1	vote privacy [
+1	vote privacy guarantees
+1	vote vi j
+1	vote-and-go paradigm
+1	voter blinds
+1	voter encrypts
+1	voter sends ei
+1	voter unblinds
+1	voter votes
+1	voters choice
+1	voters ciphertexts
+1	voters device
+1	voters encrypt
+1	voters identities
+1	voters joint verification key vk
+1	voters online
+1	voters post j
+1	voters privacy
+1	voters pseudonyms
+1	voters seal
+1	voters submit
+1	voters verificato
+1	voters work load
+1	votes
+1	votes vi
+1	voting protocols
+1	voting scheme
+1	voting schemes
+1	voting server
+1	w verif
+1	warren d. smith
+1	weaker
+1	web-based open-audit voting
+1	whereas protocols
+1	whole communication network
+1	wpes
+1	xukai zou
+1	yael tauman
+1	yehuda lindell
+1	yung
+1	zacharakis
+1	zero-knowledge
+1	zhang
+1	zk
+1	} creates
+1	} }

@@ -1,0 +1,667 @@
+23	coq
+19	[ ]
+17	figure
+12	definition
+12	initial list
+10	stv
+9	candidate c
+8	[ b
+8	fig
+8	schurmann
+7	= p
+7	] b [
+7	] c [
+7	c ]
+7	c ] ,0.11
+7	c.
+7	haskell
+6	anu-union
+6	b.
+6	final stage
+6	ft-judgement
+6	list
+6	rational numbers
+6	theorem
+5	[ c
+5	gore
+5	initial ballots
+5	initial number
+5	list l
+5	molonglo
+5	provable judgement
+5	r.
+4	[ c ] ,0.11
+4	b ] ,0.11
+4	candidate
+4	empty list
+4	final result
+4	formal ballots
+4	fractional value
+4	hence
+4	hol4
+4	initial stage
+4	list part
+4	proj1-sig h
+4	side conditions
+4	suppose
+4	surplus votes
+4	theorem prover
+4	tm
+3	+ length
+3	act
+3	b ]
+3	ballots bs
+3	ballots cast
+3	ballots vacancies candidates time
+3	beckert
+3	complexity measure
+3	d.
+3	intermediate stage
+3	list ballot
+3	list component
+3	non-final judgement
+3	non-final stage
+3	pattinson
+3	recall
+3	remark
+3	rule application
+3	termination theorem
+3	termination time
+3	vacancies st
+3	varying
+3	vote
+3	vote-id
+2	/ h
+2	< qu
+2	= ba
+2	= t
+2	> st
+2	[ ] b [ b4
+2	[ c ]
+2	] c [ b5
+2	a.
+2	anu
+2	anu-union stv
+2	applicable rule
+2	assume
+2	australia
+2	australian
+2	backlog bl
+2	ballot b
+2	ballots ba
+2	brindabella
+2	c ] state [ ]
+2	c00 6= c0
+2	cade
+2	candidate c.
+2	celf
+2	current stage
+2	data type
+2	dawson
+2	deyoung
+2	e ++ h
+2	elim rule
+2	extraction
+2	final
+2	final judgement
+2	forall d
+2	formal
+2	formal counterpart
+2	formal rules
+2	formalisation
+2	fsm
+2	ft-judgements
+2	furthermore
+2	ginninderra
+2	higher-order logic
+2	informal ballots
+2	initial
+2	initial set
+2	intermediate
+2	intermediate judgement
+2	intermediate step
+2	j.
+2	judgement state
+2	judgements
+2	legislative assembly
+2	linear
+2	linear logic
+2	logical
+2	logical framework
+2	m.
+2	main properties
+2	mathematical rules
+2	n n n n
+2	nba = p
+2	non-final judgements
+2	normal form
+2	notice
+2	p.
+2	prop
+2	protocol specifies
+2	quota qu
+2	rational number
+2	real-size elections
+2	rule applications
+2	rule elim
+2	rule ewin
+2	rule hwin
+2	s.
+2	senate election
+2	single
+2	sml
+2	strong normalisation property
+2	termination
+2	verity
+2	wa
+2	weakest candidate
+2	whole process
+1	++ lc
+1	/ l
+1	//www.aec.gov.au/information-access/foi/2014/files /ls4912-1.pdf
+1	1. ba0
+1	1. candidates
+1	1. inductive definition
+1	1. length
+1	3. definition
+1	4. example
+1	< = st } {
+1	< = t
+1	< st
+1	< st 2.
+1	= [ ]
+1	= ba 4.
+1	= exists
+1	= exists nba t p np e h nh
+1	= st
+1	= st. state
+1	= |
+1	> list ballot
+1	> np
+1	> st.
+1	[ ] b [ ] c [ ]
+1	[ ] b [ ] c [ b5
+1	[ ] b [ b4 ] c [ b5 ]
+1	[ b1
+1	[ c ] state [ ]
+1	[ c ] winners [
+1	] b [ b4 ] c [ b5 ]
+1	] employ
+1	^ conc = state
+1	^ eqe c
+1	^ exists c
+1	^ length
+1	^ nba = p
+1	` state
+1	` winners
+1	a.c.t
+1	acsw
+1	actual arithmetic
+1	actual program
+1	additional constraints
+1	additional data
+1	additional inputs
+1	aforementioned factors
+1	alternatively
+1	analysing
+1	anu-union stv judgements
+1	anu-unions
+1	append lc
+1	appl
+1	appropriate candidate
+1	artificial intelligence
+1	assumptions
+1	atomic steps
+1	australasian
+1	automatic code extraction
+1	automatic extraction mechanisms [
+1	available implementations
+1	available seats
+1	b ] ,0.113
+1	b1 =
+1	b2 =
+1	b3 =
+1	b3 ] b [ b4 ] c [ b5 ]
+1	b4 =
+1	b5 =
+1	b5 ]
+1	ba +
+1	ba 2list
+1	ba = [ b1
+1	ba0 ba c
+1	ballot 3. quota
+1	ballot b4
+1	ballot list
+1	ballots
+1	ballots b1
+1	ballots empty list
+1	ballots increase
+1	ballots size
+1	based
+1	basic version
+1	below
+1	bertot
+1	bl 2list
+1	bl = [ ]
+1	bl = c0
+1	built-in extraction mechanism
+1	built-in mechanism
+1	built-in mechanisms
+1	c ] elim
+1	c ] state [
+1	c0 t
+1	cakeml
+1	canberra abstract
+1	candidate 9.
+1	candidate b
+1	candidate c0
+1	candidate exceeds
+1	candidate quota number
+1	candidate tally function
+1	candidates 6.
+1	candidates costs
+1	candidates doesnt
+1	candidates list l2
+1	candidates ne
+1	candidates surpluses
+1	candidates tie
+1	casteran
+1	certificate
+1	certificate implements
+1	certificate output
+1	certificate size
+1	certificates
+1	character ba
+1	chaum
+1	checkable record
+1	cie
+1	classical program execution
+1	close
+1	combined
+1	complex combination
+1	complexity measure f
+1	comput
+1	computation acts
+1	computational small-steps
+1	computer
+1	concurrent systems
+1	confidence [
+1	constraint component
+1	constructive manipulation
+1	continuing
+1	coq-notation
+1	coqart
+1	cordover
+1	corner cases
+1	corresponding proof obligation
+1	corresponding symbols
+1	costly computations
+1	costly mistakes
+1	count state [ ]
+1	count state [ b4
+1	creates fractional values
+1	crucial role
+1	cs pile
+1	current judgement
+1	current tally
+1	d < > c
+1	d ba
+1	decimal places
+1	democratic systems
+1	dependent inductive type
+1	dependent inductive types
+1	desirable notions
+1	desktop computer
+1	dierent balance
+1	dierent formulation
+1	dierent interpretation
+1	dierent parts
+1	direct implementation
+1	dirk pattinson
+1	discussion
+1	distinct ways
+1	divergent formalisations
+1	droop
+1	e = [ ]
+1	e-vote-id
+1	e.
+1	eatcs
+1	electing
+1	election 2. ballots
+1	election 4. stages
+1	election scheme
+1	election verifiability
+1	electoral ballots vacancies candidates time
+1	elim applications
+1	elim rule applications decreases
+1	elim rule applications outweighs
+1	elim rules
+1	elim state
+1	empty seats increases
+1	entire tool chain
+1	eqe {
+1	esorics
+1	essential gap
+1	essential use
+1	establishes correctness
+1	ewin winners
+1	exact steps
+1	example
+1	excessive computations
+1	exclude c0
+1	executable code
+1	execution increases
+1	execution tree
+1	exists l 2list
+1	experiments coq
+1	external observer
+1	f >
+1	f.
+1	favour c
+1	figures
+1	final list
+1	final outcome
+1	final stages
+1	final step
+1	finite process
+1	finite sequence
+1	finite state machine
+1	first-past-the-post
+1	foi
+1	forall c
+1	form state
+1	formal ballot paper
+1	formal ballots =
+1	formal concept
+1	formal methods
+1	formal objects
+1	formal process
+1	formal proof
+1	formal specification
+1	formal system
+1	formally
+1	formally verified single
+1	fractional
+1	fractional number
+1	fractional numbers
+1	fractional st+1 value
+1	fractional values
+1	fractional values milad k. ghale
+1	function pile p.
+1	function proj1-sig
+1	function t.
+1	functional languages
+1	functional programs
+1	g.
+1	gb
+1	generate election results
+1	ghz linux
+1	girard
+1	h 2list
+1	h.
+1	hales
+1	hare-clark stv
+1	head position
+1	huet
+1	hwin winners
+1	ieee secur
+1	ijcar
+1	impose constraints
+1	increases trust
+1	india
+1	individual candidate
+1	inductive constructions
+1	inductive ft-judgement
+1	inductive type
+1	inductive types formal
+1	inference rule ewin asserts
+1	inference rule states
+1	informally
+1	initial ba
+1	initial judgement
+1	initial stages
+1	initial state
+1	input alphabet s
+1	instance tie
+1	instruction trace
+1	integral parts
+1	intel
+1	interactive
+1	intermediate judgements
+1	intermediate kind
+1	intermediate state
+1	intermediate steps
+1	internal review
+1	introduction elections
+1	isbn
+1	item
+1	item asserts
+1	items
+1	j. inf
+1	judgements consist
+1	judgements record
+1	kremer
+1	l 6. nbl equals
+1	l = l1 ++ l2 /\ nl = l1 ++ [ x ] ++ l2 /\
+1	l1 l2
+1	lebedeva
+1	legal professionals
+1	legal text
+1	legislative assembly elections
+1	length
+1	letouzey
+1	linear logic specification
+1	list bl
+1	list cand
+1	list cand {
+1	list cand |
+1	list cand | length
+1	list l 2list
+1	list l 5.
+1	list l1
+1	list lc
+1	list nh
+1	logical formalisation
+1	logical system
+1	ls4849
+1	ls4883
+1	lundie
+1	m = <
+1	machine level
+1	machine terminates
+1	machine-checked
+1	main stream
+1	manual transliteration
+1	mathematical characterisation
+1	mathematical formalisation
+1	mathematical proof
+1	mathematical representation
+1	mathematical specification
+1	mb
+1	mere symbols
+1	method advocates
+1	meumann
+1	ml
+1	modularity
+1	name precedes
+1	nbl = bl
+1	nbl = bl ++ l 7.
+1	nbl = l
+1	ne = e
+1	ne [ ] l1 ++l2 h
+1	necessary information
+1	necessary relation
+1	need modification
+1	netherlands
+1	new fractional value
+1	new syntactic entity
+1	new value = number
+1	new votes
+1	nh = h
+1	nh qu
+1	nodup
+1	non-final judgement decreases
+1	non-propositional declarations
+1	notation e
+1	notices ams
+1	np e
+1	number q
+1	officershould
+1	operational semantics
+1	otherwise
+1	overall length
+1	owing
+1	parliament/parliamentary departments/parliamentary library/flagpost/2013/ november/the
+1	particular candidate
+1	particular candidates pile
+1	paulin-mohrin
+1	perspective advocates
+1	pile np
+1	possible final stages
+1	possible initial stages f
+1	possible list
+1	possible source
+1	possible stage
+1	possible stages
+1	powerful tools
+1	precise symbolic language
+1	preference order
+1	prem = state
+1	present formal rules
+1	previous section
+1	priv
+1	program behaves
+1	program behaviour
+1	program checks
+1	program computes numbers
+1	program development
+1	program outputs
+1	program returns
+1	proj1-sig e
+1	proj1-sig nh
+1	proof burdens
+1	proof obligations
+1	property eqe encodes
+1	protocol clauses
+1	protocol proceeds
+1	protocols
+1	public trust
+1	pure symbols
+1	q list
+1	qu = length
+1	qualitative measure
+1	quota 2.
+1	quota 8.
+1	quota =
+1	quota qu 3.
+1	rajeev gore
+1	ram
+1	random ballot samples
+1	random ballots
+1	random integers
+1	real elections
+1	real-world elections
+1	reduction rules
+1	reduction steps
+1	references
+1	related
+1	relevant details
+1	relevant information
+1	research school
+1	respective constraints
+1	rule application theorem
+1	rule asserts
+1	rule computes
+1	rule deals
+1	rule elim deals
+1	rule elim progresses
+1	rule initial-step
+1	rule whenever
+1	rules ascertains
+1	rules introduces fractional values
+1	ryan
+1	satisfying
+1	scenario reverses
+1	schack-nielsen
+1	scheme [
+1	sci
+1	scrutineers trusts
+1	scrutiny leaves
+1	scrutiny sheets
+1	sec
+1	secret-ballot
+1	semantics dier
+1	significant changes
+1	similar e.g
+1	similar structure
+1	similar way
+1	similarly
+1	simple form
+1	simulating stv
+1	small dierences
+1	small pieces
+1	small step
+1	smyth
+1	source code
+1	sources
+1	space limitation
+1	specific formula
+1	springer
+1	st <
+1	st bs bl b
+1	st length
+1	stage state
+1	stage winners
+1	state bs
+1	state transition function
+1	step-by-step
+1	subsequently
+1	such commercial-in-confidence programs
+1	such contrasts
+1	such incidents
+1	such type
+1	surplus
+1	surplus votes changes
+1	symbol `
+1	syntactic entities
+1	syntactic translation
+1	system description
+1	t.
+1	t.c
+1	t0 p
+1	tallies
+1	tally nt
+1	technical understanding
+1	term judgement
+1	texts
+1	textual specification
+1	theor
+1	theorem proceeds
+1	theoretical computer
+1	tie occurs
+1	total ballots
+1	total ballots =
+1	transf er state
+1	true voter-verifiable elections
+1	turnstile symbol
+1	type
+1	type list cand
+1	universal verifiability [
+1	vacancies exceeds
+1	vacant seats
+1	valid program
+1	value e
+1	verification [
+1	verifying
+1	votes c
+1	voting scheme
+1	weakest candidate c.
+1	weakest candidate c0
+1	whole election
+1	x l1
+1	x l2
+1	y.
+1	{ j
+1	| non-final
+1	| state
+1	| winners

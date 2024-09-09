@@ -1,0 +1,776 @@
+34	uppaal
+23	figure
+21	prt voter
+18	proceedings
+15	computer
+15	springer
+14	lecture notes
+8	ballot form
+7	ctl
+7	model checker
+6	coercer
+6	p.y.a
+6	ryan
+6	selene
+5	kc
+5	mix teller
+5	multi-agent systems
+4	auditor
+4	c. schrmann
+4	candidate list
+4	e-vote-id
+4	e3
+4	enable transition
+4	initial state
+4	mcmas
+4	real states
+4	voter
+3	a. lomuscio
+3	anne
+3	bb
+3	candidate j
+3	decryption tellers
+3	formal
+3	ka
+3	mteller
+3	path quantifiers
+3	peter y
+3	r. gor
+3	range [
+3	re-encryption mixes
+3	receipt
+3	stv
+3	temporal logic
+3	temporal properties
+3	usenix
+3	w. jamroga
+2	a. ryan
+2	acm
+2	advances
+2	analysis
+2	apunishedi
+2	b. beckert
+2	ballot forms
+2	ballot secrecy
+2	boolean
+2	bulletin board
+2	cade
+2	candidate order
+2	clearly
+2	comprehensive model
+2	d. chaum
+2	d. pattinson
+2	data structures
+2	depth
+2	dispute resolution
+2	dteller
+2	e3failed_audit0
+2	elgamal
+2	epistemic relation
+2	exhaustive verification
+2	formal analysis
+2	formal methods
+2	furthermore
+2	future work
+2	great help
+2	helios
+2	j ^
+2	j.
+2	knowledge
+2	knowledge operator
+2	local states
+2	ltsmin
+2	luxembourg
+2	m. tiwari
+2	model
+2	multiagent systems
+2	nondeterministic way
+2	o f
+2	output term
+2	poland
+2	privacy
+2	r.l
+2	reachable state
+2	related
+2	requirement specification language
+2	results ^ votedi
+2	rivest
+2	scantegrity ii
+2	security protocols
+2	sys
+2	system specification
+2	tacas
+2	tamarin
+2	towards model checking
+2	ultimate outcome
+2	usa
+2	v. cortier
+2	v. teague
+2	verifiable schemes
+2	verification algorithms
+2	voter i
+2	whenever voter i
+1	//github.com/pretvsuppaal/ model
+1	17th conference
+1	1st edition
+1	3. has_balloti
+1	5th workshop
+1	[ =false ]
+1	] w
+1	a. bruni
+1	a. david
+1	a. essex
+1	a. juels
+1	a. laarman
+1	a. regenscheid
+1	a. ryan1 interdisciplinary centre
+1	a.p
+1	a.t. sherman
+1	a3
+1	a3p
+1	a3q
+1	aamas
+1	abstract
+1	abstract view
+1	accurate specification
+1	accurate specification o f r equirements
+1	accurate specification o f t
+1	acknowledgements
+1	additional modal relations
+1	agent templates
+1	ai
+1	algorithms
+1	analysing
+1	annual acm sigact symposium
+1	ansi-c
+1	answer property
+1	anybody
+1	ap
+1	approaches
+1	art
+1	art model checker
+1	artificial intelligence
+1	atomic sequences
+1	attackers behavior
+1	attacking paper-based e2e voting systems
+1	auditor conducts
+1	audits [
+1	auerbach publications
+1	australia
+1	automatic
+1	autonomous agents
+1	b e.
+1	b ehaviors
+1	b y t
+1	b y t emplates
+1	b. meng
+1	b. schmidt
+1	ballot
+1	ballot assurance
+1	ballot audits
+1	ballot form ensures
+1	ballot privacy
+1	base candidate order
+1	ben adida
+1	benaloh
+1	berkeley
+1	berlin
+1	bisimulation triangle
+1	breadth
+1	brief introduction
+1	brief overview
+1	broader range
+1	bulletin
+1	c heck t hat
+1	c oercer c
+1	c onfigurations
+1	c.
+1	c. burton
+1	c. cremers
+1	c. culnane
+1	c. paulin-mohring
+1	c/c++
+1	c_total-1 ]
+1	ca
+1	calculus
+1	candidate list cl =
+1	capsl
+1	capturing
+1	case study
+1	cav
+1	cbmc
+1	ccs
+1	centre
+1	ceremony ends
+1	certain instructions
+1	challenging bit
+1	challenging task
+1	channel identifier
+1	channel record
+1	ciphertext
+1	ciphertext ci
+1	clear consensus
+1	clear disadvantage
+1	coercer c
+1	coercer doesnt
+1	coercer wont
+1	coercers decision
+1	coercion resistance
+1	committed
+1	common channel ch
+1	comparing
+1	comprehensive discussion
+1	computer aided verification
+1	computer ate
+1	computing machinery
+1	computing stoc
+1	conclusions formal
+1	concrete example
+1	concurrent processes
+1	configuration variables
+1	confirmation codes
+1	control flow
+1	control structure
+1	converse transition relation
+1	coq
+1	coqart
+1	correctness certificate
+1	corresponding input terms
+1	corresponding reverse states
+1	corrupt mix teller
+1	corrupt mix tellers
+1	corrupted mix teller
+1	critical review
+1	cryptographic protocols
+1	cryptologic
+1	cryptology ct-rsa
+1	ctions c
+1	ctlk
+1	current phase
+1	cyclic shifts
+1	d. galindo
+1	d. kroening
+1	d. kurpiewski
+1	d. wikstroem
+1	d.a
+1	damian kurpiewski2
+1	data
+1	data independence
+1	date version
+1	dean
+1	decision problem
+1	decryption results
+1	decryption teller
+1	democracy
+1	deployment
+1	dierent strength
+1	dijk
+1	directions
+1	discard retain obelix idefix asterix panoramix
+1	double circle
+1	e ach p
+1	e xists
+1	e. drewsen
+1	e. shen
+1	e.a
+1	e.g.
+1	e.m. clarke
+1	e3p
+1	e3passed_audit0
+1	edges
+1	election authority
+1	election outcome [
+1	election scheme
+1	elections [
+1	electryo
+1	elios p rotocol [
+1	elsevier
+1	emerson
+1	enable model
+1	encode meaningful requirements
+1	encode synchronization
+1	encryption device
+1	end posts
+1	end-to-end
+1	end-to-end verifiability
+1	ep
+1	ep k
+1	epistemic
+1	epistemic properties
+1	epistemic transition
+1	esorics
+1	essentially
+1	evt/wote
+1	example template
+1	explicit bounds
+1	expresses agent
+1	expressive requirement specifications
+1	extensive analysis
+1	f alse
+1	f uture
+1	f. lerda
+1	f. mazowiecki
+1	f. raimondi
+1	facilitate inspection
+1	facilitate readability
+1	fc
+1	feng hao
+1	fi rst
+1	final r esult i s p
+1	financial cryptography
+1	first-order logic
+1	firstly
+1	fnr
+1	fo rmula
+1	formal definition
+1	formula specifies
+1	full details
+1	fundamenta informaticae
+1	g. behrmann
+1	g. huet
+1	g. kant
+1	general impossible [
+1	ghale
+1	global variables
+1	good democracy
+1	good environment
+1	good graphical model
+1	good graphical user interface
+1	good means
+1	guard condition evaluates
+1	guards
+1	gui
+1	h. qu
+1	hand side
+1	handbook
+1	heidelberg
+1	high-level protocol description languages
+1	high-performance
+1	higher-level representation
+1	homomorphic tabulation
+1	i .e.
+1	i f t
+1	i n o rder t o v erify
+1	i nteract
+1	i t
+1	i. boureanu
+1	i.e.
+1	idefix
+1	identical processes
+1	identifier i =
+1	ieee
+1	ieee symposium
+1	important line
+1	important properties
+1	important role
+1	incur prohibitive blowup [
+1	independent observers
+1	index r
+1	inductive constructions
+1	info
+1	informal intuition
+1	information
+1	initial
+1	input ciphertext maps
+1	input corresponds
+1	input language
+1	int [
+1	int [ min
+1	integer value
+1	inter/pollux
+1	interactive theorem proving
+1	interesting extensions
+1	interestingly
+1	international association
+1	international journal
+1	internet scheme [
+1	introduction
+1	intuitively
+1	invaluable help
+1	invaluable tools
+1	involves interactions
+1	j ^ init
+1	j ^epist_votedi
+1	j ^initial
+1	j. clark
+1	j. heather
+1	j. kelsey
+1	j. leroux
+1	j. meijer
+1	j. mller
+1	joint
+1	k.g
+1	kelsey
+1	key innovation
+1	key-establishment protocols [
+1	knowledge modalities
+1	knowledge operators
+1	kurpiewski @ ipipan.waw.pl
+1	l ocal t ransitions i n t
+1	language encourages modular specification
+1	language-independent model
+1	large number
+1	larsen
+1	ldyis
+1	leeuwen
+1	left hand strip
+1	linear logic
+1	ll t
+1	lncs
+1	logical systems
+1	long run
+1	louvain
+1	lso p lan t o c
+1	m ix t ellers p
+1	m odel s pecification
+1	m odel w
+1	m odule
+1	m oreover
+1	m-l. zollinger
+1	m. arapinis
+1	m. jakobsson
+1	m. kirsten
+1	m. knapik
+1	m.k
+1	main contribution
+1	main goal
+1	main ideas
+1	main technical contribution
+1	making
+1	maryland
+1	mates08
+1	mathematical proof
+1	max ]
+1	maximal1 sequence
+1	meaningful candidate choices
+1	mechanized
+1	memory regardless
+1	messages m
+1	mix nets robust
+1	mix teller performs
+1	mix teller reveals
+1	mix teller targets c0
+1	mix tellers
+1	modal logic
+1	model check
+1	model checker [
+1	model checkers
+1	model checking temporal requirements
+1	model code
+1	model reconstruction method
+1	model satisfies
+1	model specifications c
+1	model specifies
+1	modelling
+1	modelling prt voter
+1	modular
+1	modular design
+1	module sys
+1	module template
+1	multi-agent logics
+1	multi-agent methodologies
+1	multi-agent model
+1	municipal elections
+1	n e
+1	namely
+1	national research fund
+1	natural extensions
+1	natural separation
+1	ncbir
+1	nd t
+1	nd v ice versa
+1	neuve
+1	new path
+1	new persistent variable epist_votedi
+1	nice environment
+1	nodes
+1	non-political elections
+1	nonetheless
+1	ny o bserver c
+1	o er
+1	o f p arameters
+1	o n t
+1	o ther h
+1	odd mix input
+1	odd-mix batch
+1	omit procedures
+1	onion =
+1	opaque control structure
+1	open-source model checker
+1	optical reader
+1	optical scan elections
+1	optimizations
+1	optional local declarations
+1	original paper receipt
+1	outgoing transitions
+1	outline
+1	p rocedure
+1	p roperty
+1	p rotocol i s f ar f rom straightforward
+1	p. casteran
+1	p. kouvaros
+1	p. roenne
+1	p.b
+1	p.l
+1	paper ballot
+1	pareto
+1	park county
+1	particular class
+1	particular coercion
+1	particular voter i hasnt
+1	peter.ryan } @ uni.lu
+1	petri nets
+1	pfitzmanns
+1	plaintext order
+1	plaintext votes
+1	pol
+1	polish
+1	pollux-iv/1/2016
+1	pollux-vii/1/2019
+1	possible audit
+1	possible defences
+1	possible execution paths
+1	possible formalizations
+1	ppaal verifier re
+1	preliminary validation
+1	preliminary verification
+1	preliminary verification o f
+1	preliminary work
+1	prime
+1	privacy properties
+1	privacy property
+1	private variables
+1	program
+1	promising path
+1	proof states
+1	properties fall
+1	property specification language
+1	protocols xvii
+1	public bulletin board
+1	q property
+1	r esemble
+1	r. ksters
+1	r. lazi
+1	r. wen
+1	r.t. carback
+1	random audits
+1	random non-zero
+1	randomisation attacks
+1	randomization factors
+1	randomized
+1	re p
+1	re t wo v oters
+1	re-encryption mix
+1	reachability problem
+1	readable model
+1	readable specifications
+1	real elections
+1	real state
+1	real voted1 reverse epistemic r_voted2
+1	real-life
+1	real-time systems
+1	real-world electronic voting
+1	reasoning
+1	receipt-freeness expresses
+1	received_receipt ||
+1	receiver process
+1	references
+1	registration desk
+1	relevant facts
+1	relevant propositions
+1	reliability
+1	replicating pfitzmanns attack
+1	requirements
+1	results ^
+1	retain
+1	reverse state
+1	reverse states
+1	revised selected papers
+1	right hand column
+1	right hand strip
+1	right hand strips
+1	rnne
+1	rpc
+1	s f ollows
+1	s ystems work
+1	s. blom
+1	s. khazaei
+1	s. kremer
+1	s. lasota
+1	s. meier
+1	s. popoveniuc
+1	s. schneider
+1	s. srinivasan
+1	s.m
+1	satisfying equation m0 = m
+1	saturation results
+1	search order option
+1	sec.
+1	secondly
+1	secret key
+1	secret keys
+1	secure electronic voting
+1	security properties
+1	security symposium
+1	selections
+1	setup phase
+1	severe limitations
+1	sfm-rt
+1	short [
+1	short overview
+1	side channel leakage
+1	significant progress
+1	similar cut-and-choose style audits
+1	similar device
+1	similar model checker
+1	similar tools
+1	similarly
+1	simple multi-agent model
+1	simple properties
+1	simple reachability
+1	simple requirements
+1	sistla
+1	small counterexamples [
+1	smart reconstruction
+1	snt
+1	social aspects
+1	social choice theory
+1	social context
+1	social engineering-style attacks
+1	social processes
+1	software tools
+1	sok
+1	sophisticated requirements
+1	specification
+1	specification frameworks
+1	specification o f requirements
+1	specify requirements
+1	springer berlin heidelberg
+1	springer-verlag
+1	ss08
+1	state elections
+1	state space
+1	state-of-art model checker
+1	state-space explosion
+1	steve a. schneider
+1	straightforward
+1	strategic ability
+1	structure
+1	substantial value
+1	subtle interactions
+1	subtle styles
+1	succinct specification o f p rocesses
+1	such disputes
+1	such results
+1	such schemes
+1	such systems
+1	suppose
+1	supposed
+1	symbolic analysis
+1	symposium
+1	synchronization mechanism
+1	synchronizations
+1	synthese
+1	system [
+1	system behavior
+1	system states
+1	systematic specification o f requirements
+1	systems
+1	t emporal o nes
+1	t hat t
+1	t heir
+1	t ime o f
+1	t t
+1	t.
+1	t. haines
+1	t. moran
+1	t. peacock
+1	t. truderung
+1	tabulation phase
+1	takoma
+1	technical contribution
+1	technical details
+1	technical reconstruction
+1	technology journal
+1	teller behaves
+1	temporal
+1	temporal modalities
+1	temporal operators
+1	temporal pattern
+1	temporal-epistemic specifications t o p
+1	than
+1	theorem prover [
+1	theoretical characteristics
+1	theoretical computer
+1	theory
+1	tools
+1	topics
+1	towards
+1	traditional manner
+1	trans
+1	transfer
+1	transition has_ballot
+1	transition network
+1	transition relation
+1	transition relation voter
+1	transitions
+1	transparent verifiability
+1	type name aliases
+1	ultimate answers
+1	understandable formula
+1	update
+1	uppaal wojciech jamroga1,2
+1	uses c0
+1	usual pitfalls
+1	usual way
+1	v ersion t
+1	v. goranko
+1	v. iovino
+1	v. klebanov
+1	vanessa teague
+1	variables minimal
+1	variables votedi
+1	verifiability
+1	verifiable s chemes
+1	verifiable way
+1	verification
+1	verification i tself
+1	verification o f m ore s
+1	verification phase
+1	verification steps
+1	verified
+1	verifying
+1	victoria state elections
+1	volume b
+1	vora
+1	vote
+1	vote buying threats
+1	vote publication phase
+1	voted2 init
+1	votedi,1 _ _ votedi
+1	voter acquires
+1	voter i hasnt
+1	voter obtains evidence
+1	voter template
+1	voter waits
+1	voter-verifiable schemes
+1	voters receipt
+1	voterverifiable v ariant o f t
+1	voteverif
+1	voting
+1	voting infrastructure module
+1	voting protocols
+1	voting protocols model
+1	w. czerwiski
+1	w. penczek
+1	warsaw
+1	way [
+1	weak variant
+1	web bulletin
+1	well-known problem
+1	y. bertot
+1	yan kim1
+1	z. xia
+1	zero-knowledge proofs
+1	zp
+1	{ wojciech.jamroga

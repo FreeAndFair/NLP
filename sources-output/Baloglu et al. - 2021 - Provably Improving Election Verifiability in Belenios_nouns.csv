@@ -1,0 +1,690 @@
+40	belenios
+23	tamarin
+20	public credential
+15	a1
+15	a3
+15	bb
+15	bbcast
+14	honest voter
+14	verifiability
+14	vs
+13	bbkey
+13	public credential cr
+12	a2
+12	election verifiability
+11	belenios+
+10	s.
+10	vp
+9	] [
+9	ballot b
+9	bulletin board
+9	computer
+9	ieee computer
+9	public credentials
+8	bblast
+8	corrupt voter
+8	log
+8	provably improving
+8	s. baloglu
+7	= ok
+7	cortier
+7	phase
+7	public key
+7	springer
+7	v.
+6	a.
+6	b.
+6	ballot cast
+6	bbcand
+6	helios
+6	lecture notes
+5	b = hc
+5	ballots cast
+5	bbtally
+5	corresponding voter
+5	e2e
+5	election auditors
+5	foundations symposium
+5	fr
+5	new ballot
+5	privacy
+5	proceedings
+5	pwd
+5	vplast
+4	action fact
+4	bbreg
+4	corruption scenarios
+4	cryptology
+4	id
+4	individual verification procedure
+4	luxembourg
+4	m.
+4	o.
+4	reg
+3	@ i ^
+3	` i
+3	advances
+3	beleniosid
+3	beleniostr
+3	casts b
+3	clash attack
+3	corruption abilities
+3	elgamal
+3	eligible voters
+3	hash function
+3	ieee symposium
+3	j.
+3	label cr
+3	otherwise
+3	pereira
+3	prl = proofl
+3	pwd2 i
+3	r.
+3	rkey
+3	secret key
+3	security proofs
+3	setup phase
+3	symposium
+3	t.
+3	usenix
+3	verification
+3	vote
+3	voter identities
+3	vr
+2	= h
+2	@ j
+2	` = hh
+2	adida
+2	attack scenario
+2	automated
+2	ballot b0
+2	ballot ba
+2	c = enc
+2	cast b2
+2	cast ballot
+2	cast ballots
+2	casts b1
+2	chaum-pedersen
+2	clash
+2	clash attacks
+2	conclusion facts
+2	coq
+2	corrupt server
+2	corruption scenario
+2	credential cr
+2	cremers
+2	crypto
+2	d.a
+2	ea
+2	election authorities
+2	electronic
+2	electronic voting
+2	eligible voter
+2	eq
+2	esch-sur-alzette
+2	example
+2	f.
+2	final outcome
+2	final tally
+2	formal notion
+2	formal verification
+2	honest voters
+2	identity id
+2	introduction
+2	key pair
+2	kusters
+2	label structure
+2	linear fact
+2	meier
+2	new information
+2	own ballot ba
+2	p.
+2	pedersen
+2	positive results
+2	prl i
+2	proof prl
+2	protocol
+2	protocol rules
+2	protocol specification
+2	result integrity
+2	rvp
+2	rvs
+2	s =
+2	schmidt
+2	security properties
+2	simple additions
+2	sk
+2	specification
+2	subsequently
+2	symbolic definition
+2	total number
+2	truderung
+2	typical scenario
+2	usa
+2	verb
+2	verifiability properties
+2	vk i
+2	vlist
+2	vogt
+2	voted
+2	voter id
+2	xk i
+2	zero-knowledge proof
+2	zero-knowledge proofs
+1	# b/aj
+1	//github.com/ sbaloglu/tamarin-codes/tree/main/belenios-zkp
+1	//hal.archives-ouvertes.fr/ hal-00344237
+1	//www.brucker.ch/ bibliography/abstract/hess.ea-performing-2021
+1	/aj h iv
+1	2000. pp
+1	= `
+1	= com
+1	= hcr
+1	= ok.
+1	= v
+1	= x
+1	@ i
+1	@ j ^
+1	@ l ^ i
+1	[ 3,24,27 ]
+1	[ 4,10,19 ]
+1	[ ]
+1	[ l ] [ m ]
+1	] [ ]
+1	] [ a0 =
+1	] shows
+1	` = h
+1	` = h `
+1	` = hcr
+1	` i.
+1	a.c.
+1	a.d.
+1	a.v.
+1	a0 = h
+1	a1 belenios a2 a3 beleniostr a1 a2 beleniosid a1 a3 a1 belenios+ a2 a3
+1	a1 belenios+ a2 a3
+1	abstract
+1	abstraction
+1	acknowledgement
+1	acm
+1	action facts m
+1	actual identity
+1	additional ballot
+1	adversarial ballot ba
+1	adversarial knowledge
+1	adversarial scenarios
+1	adversary corrupts
+1	adversary manages
+1	adversary models
+1	aect usability
+1	all-powerful adversary
+1	analysis
+1	annual
+1	appropriate domain
+1	arapinis
+1	assume
+1	attacking
+1	auditors
+1	authenticate voter
+1	authenticates id
+1	authenticates voters
+1	b cast
+1	ballot
+1	ballot b = hc
+1	ballot contains
+1	ballot secrecy
+1	ballot stuffing attack
+1	ballot verification
+1	ballots
+1	baloglu
+1	based
+1	basic integrity properties
+1	belenios ballot reordering attack
+1	belenios bbkey
+1	belenios references
+1	belenios sevdenur baloglu1
+1	beleniosvs
+1	bertot
+1	bi =
+1	binder
+1	bounding
+1	brucker
+1	bulletin
+1	bursuc
+1	c.
+1	c.c.
+1	c.e.
+1	c.j.f.
+1	ca
+1	calculus
+1	california
+1	candidates k
+1	candidates v1
+1	case ballot
+1	case study
+1	cast b1
+1	cast ballot b
+1	casteran
+1	casts b2
+1	casts ba
+1	catalano
+1	catherine a. meadows
+1	certain abstractions
+1	certain events
+1	chong
+1	ciphertext c
+1	ciphertext c = enc
+1	ciphertext contains
+1	civitas
+1	cl ensures
+1	cl res
+1	clarkson
+1	code online [
+1	coercion-resistance [
+1	coercion-resistant
+1	collision-resistant hash function
+1	commitment [
+1	commitment scheme
+1	communication network
+1	comon-lundh
+1	complete specification
+1	computational model [
+1	computer aided verification
+1	concerning
+1	conclusion
+1	concretely
+1	consecutive ballots b0
+1	consistency properties
+1	consistency property
+1	constructs ballots
+1	contains preliminaries
+1	contains verification results
+1	copy c
+1	coqart
+1	corr
+1	corresponding private credential
+1	corresponding public credential
+1	corresponding public key
+1	corresponding randomness r
+1	corresponding specifications
+1	corresponding validation steps
+1	corresponding verification procedure
+1	corresponding vote
+1	corresponding voter identities
+1	corresponding votes
+1	corrupt registrar
+1	corrupt registration
+1	corrupt voter id2
+1	corrupted registrar
+1	corruption cases
+1	cr = cr0
+1	cr = pk
+1	cr0 i
+1	cr1 casts
+1	credential cr0
+1	credentials [
+1	crucial point
+1	cryptographic
+1	cryptographic construction
+1	cryptographic primitives
+1	csf
+1	csf12
+1	d.
+1	d.s
+1	dallon
+1	de marnee
+1	degano
+1	delaune
+1	dierent corruption scenarios
+1	dierent credential cr0
+1	dierent election keys
+1	dierent voters
+1	diffiehellman protocols
+1	discrete logarithms
+1	dragan
+1	dupressoir
+1	e-vote-id
+1	e2e e2e e2e e2e
+1	efficient
+1	electing
+1	election information
+1	election outcome
+1	election verifiability [
+1	election verifiability aims
+1	election verifiability property hiv ^ eli ^ cl ^ res
+1	electronic elections
+1	eli ensures
+1	eligibility
+1	eligible candidates
+1	eligible public credentials
+1	eligible voters id1
+1	empty ballots
+1	encryption [
+1	encryption construction
+1	encryption scheme
+1	end-to-end verifiability [ 1,6,7 ]
+1	ensure election verifiability
+1	equality predicate
+1	equational reasoning
+1	esop
+1	esorics
+1	especially
+1	essays dedicated
+1	eurocrypt
+1	everlasting privacy
+1	execution
+1	execution times
+1	execution trace
+1	fact symbols
+1	filipiak
+1	fnr
+1	formal
+1	formal proofs
+1	formal results
+1	formally
+1	foundations
+1	fresh key k
+1	fresh randomness r.
+1	fresh randomness t
+1	full-proof security
+1	function symbols
+1	gaudry
+1	generates login passwords
+1	glondu
+1	guttman
+1	h.
+1	hess
+1	hirt
+1	hiv ensures
+1	homomorphic encryption
+1	homomorphic properties
+1	honest parties
+1	honest voter casts b2
+1	honest voter id
+1	honest voter id1
+1	i j
+1	id = id0
+1	ideal case
+1	ieee
+1	illegitimate votes
+1	important abstraction
+1	important assumption
+1	important features
+1	important rules
+1	individual verifiability
+1	individual verifiability iv
+1	inductive constructions
+1	inter
+1	interactive
+1	interactive theorem provers
+1	international conference
+1	j i _ b = b0 l ^ j l corruption
+1	j.d.
+1	j.j.
+1	jakobsson
+1	joint
+1	juels
+1	july
+1	jun pang2
+1	jun.pang } @ uni.lu
+1	k =
+1	k.
+1	kersting
+1	keywords
+1	kremer
+1	krimmer
+1	label `
+1	label h
+1	label hcr
+1	label hh
+1	label stepwise
+1	label structure ensures election verifiability
+1	labels protects
+1	labels together
+1	lallemand
+1	landwehr
+1	legitimate party
+1	link cr
+1	logical formula
+1	luxembourg dcs
+1	m.r.
+1	machine-checked
+1	mauw
+1	may
+1	meseguer
+1	minimal information
+1	modersheim
+1	myers
+1	n.
+1	n.b.
+1	national research fund
+1	new facts
+1	new insights
+1	new label structure
+1	new structure
+1	new version satisfies
+1	non-empty ballots
+1	non-interactive
+1	non-interactive zero-knowledge proof
+1	nonetheless
+1	normal execution
+1	norway
+1	notion ensures
+1	oakland
+1	omitting
+1	online [
+1	oorschot
+1	open problems
+1	own ballots
+1	p.c
+1	pang
+1	paper structure
+1	particular ballot
+1	particular variant
+1	password [
+1	pavlovic
+1	performing
+1	piessens
+1	post
+1	practice [
+1	practice leaves
+1	preliminaries
+1	premise facts l
+1	prevents ballot copy attacks
+1	principles
+1	privacy properties
+1	private credential
+1	private credentials
+1	private key k
+1	private logs
+1	private part
+1	private passwords
+1	prl = proof l
+1	prl [
+1	program development
+1	programming
+1	programming languages
+1	proof assistant
+1	proof l
+1	proof prl ensures
+1	proof prl0
+1	properties hiv ^ eli ^ cl ^ res
+1	protection against
+1	protection against ballot reordering
+1	protocol [
+1	protocols
+1	prover [
+1	prr = proof
+1	prr = proofr
+1	public /
+1	public channel
+1	public credential cr casts ballots b1
+1	public credential cr1
+1	public information
+1	public key cryptosystem
+1	public key pk
+1	public ledger
+1	public verifiability
+1	publish ballot
+1	putting
+1	quisquater
+1	randomness r.
+1	randomness t
+1	range proof
+1	rcand
+1	real-world use
+1	recently
+1	reflects voter choices
+1	registrar
+1	registrar generates
+1	res ensures
+1	research council
+1	respective private credentials
+1	respective public credential
+1	restriction 8i
+1	restriction 8x
+1	restriction ensures
+1	restriction model
+1	revealing
+1	rid
+1	rule abstracts
+1	rvote
+1	rvver
+1	sako
+1	san jose
+1	santa barbara
+1	scenarios
+1	schlichtkrull
+1	schurmann
+1	secrecy
+1	secret credentials
+1	secret key k
+1	secret/public key pair
+1	security guarantees
+1	security protocols
+1	selection
+1	sends t
+1	sergiu bursuc1
+1	server ensures
+1	server learns
+1	server logs
+1	server side
+1	setup actions
+1	sha256
+1	signature ensures
+1	signature scheme
+1	signature verification
+1	similar flavour [ 8,12,13 ]
+1	similar pattern underlies
+1	sjouke mauw2
+1	smyth
+1	snt
+1	so-called clash attacks
+1	special fact symbols
+1	special facts
+1	special linear facts
+1	specific portion
+1	specific portions
+1	specifically
+1	specifying protocols
+1	springer verlag
+1	springer-verlag
+1	standard commitment schemes
+1	standard verifiability notion
+1	star-vote system
+1	state information
+1	stateful protocols
+1	store credentials
+1	strong notion
+1	strong verifiability notion
+1	stu ballots
+1	stu ballots [
+1	submit ba
+1	successive ballots b1
+1	surcvs
+1	surreptitious way [ 22,23,26 ]
+1	symbol @ refers
+1	symbolic analysis
+1	symbolic model
+1	symbolic model [
+1	system improves election verifiability
+1	systems
+1	t.p
+1	tally phase
+1	tally procedure
+1	techniques enrich
+1	technology workshop / workshop
+1	term enc
+1	term pk
+1	texts
+1	theoretical computer
+1	time afterwards
+1	time elapse
+1	timepoints i
+1	toward
+1	towards improved
+1	transmits ballots
+1	trustworthy elections
+1	tuple hcr
+1	u = v.
+1	university president
+1	upon
+1	usability
+1	v ccorr
+1	v2 i
+1	valid proof
+1	valid range hv1
+1	valid zero-knowledge proofs
+1	validity checks
+1	various corruption scenarios
+1	verifiability definition
+1	verifiability definitions
+1	verifiable online
+1	verifiable online elections
+1	verification actions
+1	verification key
+1	verification procedure
+1	verification procedures
+1	verified
+1	verifies b
+1	verifies b2
+1	verifies s
+1	vigano
+1	violates result integrity res
+1	volkamer
+1	vote consumes
+1	vote v
+1	voteb
+1	voter authentication
+1	voter casts
+1	voter choices
+1	voter credentials
+1	voter id1
+1	voter id2
+1	voter identities id
+1	voter identity
+1	voter identity id
+1	voter verifies
+1	voters interact
+1	voting phase
+1	voting platform
+1	voting server
+1	vr creg
+1	vs ccast
+1	vs cpwd
+1	vs.
+1	vs. vr
+1	wallach
+1	warinschi
+1	weakest adversary
+1	web-based
+1	whereas b1
+1	widespread adoption
+1	wpes
+1	x = y
+1	y.
+1	zero-knowledge proof prl = proofl
+1	zero-knowledge proof prr ensures
+1	zero-knowledge proof system
+1	zeroknowledge proof
+1	{ sevdenur.baloglu

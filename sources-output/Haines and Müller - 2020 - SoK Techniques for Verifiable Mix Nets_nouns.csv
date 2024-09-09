@@ -1,0 +1,1204 @@
+69	mix server
+60	dmn
+39	mk
+39	si
+37	rmn
+31	mix servers
+27	mix net
+27	mix nets
+27	rpc
+26	nizkp
+19	proceedings
+18	sec
+17	mnms
+17	trust assumptions
+16	bulletin board b
+14	m1
+13	cdec
+13	ii-d
+13	verifiability
+12	adj
+11	[ i ]
+11	cenc
+11	public-key encryption scheme
+11	trip wire technique
+11	trip wires
+11	verification codes
+10	cnms
+10	cryptographic
+10	cryptographic primitives
+10	furthermore
+9	accountability
+9	different verifiability techniques
+9	douglas wikstrom
+9	hence
+9	shuffle
+9	verifiability techniques
+8	auditing
+8	ck
+8	ck1
+8	computer
+8	honest inputs
+8	honest senders
+8	lecture notes
+8	main mix net
+8	mixing
+8	overhead
+8	secret key
+8	springer
+8	submission
+8	verification code technique
+7	crs
+7	description
+7	ik
+7	pkey
+7	preenc
+7	properties
+7	protocol
+7	random coins
+6	ckey
+6	dec
+6	final outcome
+6	high level
+6	ind-cca2-secure
+6	input ciphertexts
+6	ix
+6	khazaei
+6	message mi
+6	ns }
+6	otherwise
+6	penc
+6	protocol participants
+6	rmns
+5	2nms +
+5	enc
+5	helger lipmaa
+5	i {
+5	ieee
+5	ii
+5	kusters
+5	main properties
+5	malicious mix server
+5	nms +
+5	nms + nad +
+5	protocol run
+5	public key
+5	ralf kusters
+5	replication technique
+5	reverse order
+5	setup
+5	tomasz truderung
+5	verifiability level
+5	verifiability technique
+5	verifiable mix nets
+4	altogether
+4	archive
+4	asiacrypt
+4	basic mix net
+4	bulletin board
+4	c2k1
+4	ck0
+4	computational complexity
+4	computational cost
+4	decryption phase
+4	definition
+4	ed
+4	estonia
+4	eventually
+4	explicit decryption mix net
+4	final encryption layer
+4	george danezis
+4	iacr cryptology
+4	ind-cca2
+4	individual accountability
+4	iv
+4	key pair
+4	main decryption mix net
+4	mix servers joint
+4	nizkps
+4	norway
+4	observe
+4	publickeygen
+4	repetition encryption layer
+4	s input
+4	sc
+4	setup phase
+4	techniques
+4	tl
+4	verifiability levels
+4	verifiable mix net
+4	vi
+4	vii
+4	viii
+4	whole protocol stops
+4	xi
+3	acm ccs
+3	ad1
+3	adnad
+3	andreas vogt
+3	australia
+3	basic idea
+3	c0
+3	c1
+3	c2k
+3	c2k2
+3	c2nms
+3	chris culnane
+3	ciphertext ci
+3	decryption
+3	decryption mix nets
+3	dmns
+3	elgamal
+3	encryption layer
+3	euf-cma-secure
+3	explicit mix net
+3	final result
+3	honest mix server
+3	input messages
+3	johannes muller
+3	luxembourg
+3	m2
+3	manipulating
+3	mix net protocol
+3	mix-net
+3	ms
+3	nhon +1
+3	nhon s
+3	output message
+3	part ii
+3	pke
+3	plaintext knowledge
+3	prastudy fauzi
+3	protocol runs
+3	public key pk
+3	public keys pk1
+3	public-key encryption schemes
+3	random order
+3	re-encryption mix nets
+3	reenc
+3	senders message
+3	submission phase
+3	theorem
+3	trip wire
+3	trip wires traces
+3	usenix
+3	verification code
+3	whole process stops
+3	zkps
+2	-threshold public-key encryption scheme
+2	= nms
+2	acm
+2	actual messages
+2	additional cryptographic primitives
+2	additional steps
+2	adversary manipulates
+2	aggelos kiayias
+2	ania m. piotrowska
+2	anonymous channel
+2	anonymous channels
+2	audit
+2	audit phase
+2	backwards/forward trace
+2	based
+2	basic cryptographic primitives
+2	basic mix net protocols
+2	ben adida
+2	bit size
+2	boyen
+2	cdec ms
+2	channels
+2	choose
+2	ci =
+2	ciphertext
+2	comm
+2	commitment
+2	commitment scheme
+2	consecutive parts
+2	ct-rsa
+2	decryption +
+2	decshare
+2	deter parties
+2	different classes
+2	different mix nets
+2	different techniques
+2	dishonest choices
+2	dishonest senders choices
+2	dummy traces
+2	electronic
+2	electronic voting
+2	encryption scheme
+2	eurocrypt
+2	explicit
+2	f =
+2	fairness
+2	fairness issue
+2	final
+2	formally
+2	general statement
+2	general verifiability/accountability framework
+2	generating
+2	goal
+2	hecking
+2	honest auditor
+2	honest input
+2	honest input parties
+2	honest program
+2	honest sender performs
+2	honest senders choices
+2	honest senders inputs
+2	human verifiability
+2	i /
+2	i |c2k1 |
+2	icalp
+2	identical ciphertexts
+2	ieee csf
+2	ii-c
+2	iii
+2	importantly
+2	ind-cca2secure
+2	ind-cpa
+2	ind-cpa-secure
+2	input ciphertext
+2	input message
+2	input message m = 0l
+2	intransparent state
+2	janno siim
+2	jens groth
+2	joseph bonneau
+2	k messages
+2	key generation algorithm
+2	keygen
+2	keysharegen
+2	levels relate
+2	main idea
+2	main insights
+2	message privacy
+2	message replication technique
+2	michal zajac
+2	mix
+2	mix net authority
+2	mix net result corresponds
+2	mix nets [
+2	mix server re-encrypts
+2	mock elections
+2	multiset { m1
+2	n }
+2	nhon balls
+2	nhon s +
+2	nist
+2	nrepl ciphertexts
+2	ns + nms
+2	ns + ntw
+2	ns + ntw nad
+2	ns ciphertexts
+2	nsw
+2	nuria costa
+2	obviously
+2	opening/proving
+2	optionally
+2	output ciphertext
+2	output messages
+2	overall permutation
+2	paz morillo
+2	per
+2	permutation k
+2	plain input message mi
+2	plain input messages
+2	plain messages
+2	possible trust assumptions
+2	pr
+2	practical post-quantum cryptographic primitives
+2	pre-mix
+2	precise verifiability levels
+2	primitives
+2	privacy
+2	proof ns
+2	public key pkrep
+2	public keys
+2	publickey encryption scheme
+2	r andomized partial
+2	ramiro martnez
+2	random coins ri1
+2	randomized partial checking
+2	replication
+2	revised selected papers
+2	right links
+2	run r
+2	s nrepl
+2	s. setup
+2	s1
+2	scn
+2	scytl
+2	secret decryption keys sk1
+2	secret input mi
+2	secret key share skl
+2	secret key skexpl
+2	security parameter
+2	senders submission steps
+2	shahram khazaei
+2	shuffle [
+2	signature scheme
+2	signature schemes
+2	sok
+2	standard requirements
+2	steve a. schneider
+2	structure
+2	subsequently
+2	switzerland
+2	symposium
+2	tcc
+2	technical report [
+2	thomas haines
+2	thomas zacharias
+2	transparent treatment
+2	trip wire ciphertexts
+2	typically
+2	v-b
+2	vanessa teague
+2	various verifiability techniques
+2	verifiability definition
+2	verifiability result
+2	verifiability theorem
+2	verifiability tolerance
+2	verifiability/accountability level
+2	verification keys
+2	verification procedure
+2	vi-b
+2	virtual entity
+2	voting
+2	xi-b
+2	xii
+2	xiii
+2	zero knowledge
+1	 nhon +nstw  nhon s
+1	 nhon +ntw  nhon s / s k+1 k+1 indiv
+1	 nhon s s
+1	 nhon s s / n
+1	 nhon s s / nrepl
+1	 nrepl
+1	 nsrepl
+1	% 20reports/ivote-refresh.pdf
+1	+ ` c
+1	+ denotes
+1	+ n nms
+1	+ ntw
+1	+ verif ns
+1	-th ciphertext
+1	//github.com/ republique-et-canton-de-geneve/chvote-protocol-poc
+1	240-bit security level
+1	2n nms ns
+1	3ntw > ns
+1	=  nrepl
+1	= p1 k kpl
+1	[ 2k
+1	] aim
+1	] employ
+1	] state
+1	] use
+1	` .3 b
+1	` > `
+1	a. ryan
+1	a. verifiability framework intuitively
+1	a.2.3
+1	abstractsince david chaum
+1	accountability analysis
+1	accountability definitions
+1	accountability framework
+1	accountability guarantees
+1	accountability ind-cca2-secure pke tracing
+1	accountability uses
+1	accountability verifiability
+1	acisp
+1	acknowledgements
+1	acm trans
+1	actual input
+1	actual message mi
+1	actual verifiability technique
+1	ad
+1	adaptively secure mix-net
+1	additional conditions
+1	additional encryption layer
+1	additional issues
+1	additional layer
+1	additional primitives
+1	additional protocol participant
+1	adrian perrig
+1	adversary bypasses
+1	aes
+1	aes256-based dem/mac
+1	affects efficiency
+1	africacrypt
+1	agents
+1	al.s theorem
+1	albert kwon
+1	aleksander essex
+1	algorithms
+1	all/nothing
+1	amir herzberg
+1	analysis
+1	analyzing
+1	annabell kuldmaa
+1	anonymized corpus
+1	anonymous
+1	anonymous messaging
+1	anonymous reviewers
+1	answering
+1	appendix a. verifiability
+1	application
+1	applied cryptography
+1	appropriate mode
+1	arbitrary adversary
+1	arbitrary message m.
+1	arbitrary ppt program
+1	arbitrary result function
+1	ari juels
+1	assume
+1	atom
+1	atomic techniques
+1	atomic verifiability technique
+1	auditor
+1	auditor reveals
+1	auditors joint
+1	b. computational complexity
+1	b. re-encryption
+1	b. submission
+1	b.1
+1	backward
+1	basic
+1	basic complexity parameter
+1	basic design
+1	basic mix net protocol
+1	basic mix nets
+1	basic structures
+1	benign adversary
+1	bingsheng zhang
+1	bit string
+1	bit strings
+1	bitcoin
+1	bjorn terelius
+1	boolean
+1	bruce schneier
+1	bryan ford
+1	building blocks
+1	bulletin boards
+1	c >
+1	c. andrew neff
+1	c. plain rmn
+1	c2
+1	cambridge
+1	captures soundness
+1	cca2 secure cryptosystem
+1	cca2-secure kem
+1	certain checks
+1	certain degree
+1	certain parties
+1	certain probability
+1	channel decisionj
+1	channel issue
+1	channels ensure
+1	chaum
+1	chaumian mix nets
+1	chen chen
+1	chloe hebant
+1	choonsik
+1	chvote
+1	ciphertext c0
+1	ciphertext c0i
+1	ciphertext c1i
+1	ciphertext vectors c
+1	ciphertexts c0i
+1	clash
+1	clash attack [
+1	clashes [
+1	clearly
+1	combination thereof
+1	commit
+1	commitment-consistent
+1	commodity consumer hardware
+1	common basis
+1	common concrete instantiation
+1	common divisors
+1	common proofs
+1	common reference string
+1	communications
+1	compatible interfaces
+1	complete input
+1	complex mix nets
+1	computational complexities
+1	computational complexity mix
+1	computational model
+1	computational overheads
+1	concrete application
+1	concrete example
+1	concrete instantiation
+1	concrete instantiations
+1	consecutive phases
+1	constructive feedback
+1	contains duplicates
+1	continuous mixers
+1	converts verifiability
+1	correct final outcome
+1	correct shuffle
+1	correctness
+1	corresponding proof
+1	corrupt message
+1	corrupt parties
+1	corruption status
+1	crss
+1	crypto
+1	cryptographic work
+1	cumulative proof
+1	d iscussion based
+1	d.
+1	daniele enrico asoni
+1	data
+1	david barrera
+1	david chaum
+1	david mestel
+1	david pointcheval
+1	decrypt
+1	decrypt c2k1
+1	decrypt c2k2
+1	decrypting
+1	decryption algorithm
+1	decryption proofs
+1	decryption share deci
+1	decryption shares dec1
+1	decryption w j hon
+1	delegated shuffles
+1	depending
+1	detectable [
+1	different kinds
+1	different mechanism
+1	different ones
+1	different positions
+1	different properties
+1	different random coins
+1	different stages
+1	different verifiable mix nets
+1	digital pseudonyms
+1	digital signature
+1	digital signature scheme s
+1	direct connection
+1	discrete log relationship
+1	dishonest input
+1	dishonest senders
+1	dishonest voters choices
+1	distinct senders
+1	dmn/rmn
+1	document
+1	dss
+1	dummy ciphertexts
+1	dummy inputs
+1	dummy message
+1	dummy messages
+1	duong hieu phan
+1	dynamic system
+1	e-voting
+1	e-voting systems
+1	edition
+1	efficient anonymous
+1	efficient computationally sound non-interactive zeroknowledge shuffle argument
+1	efficient culpably sound nizk shuffle argument
+1	efficient instantiations
+1	efficient pairing-based shuffle argument
+1	efficient proofs
+1	efficient scheme
+1	efficient zeroknowledge argument
+1	elections
+1	electoral commission
+1	electoral office
+1	eligible senders
+1	encrypt mi
+1	encryption algorithm
+1	encryption layers
+1	encryption schemes
+1	enrico scapin
+1	ensure verifiability
+1	entropy [
+1	erasures
+1	essage r eplication
+1	essage t racing
+1	executes ntw times
+1	exists `
+1	exit polls
+1	expl public/private key pair
+1	exponential blowup
+1	expressive reference point
+1	expressive verifiability framework
+1	extending
+1	external auditors
+1	external auditors injects
+1	external information
+1	external observers
+1	f k+1
+1	fake proofs
+1	favourite choices
+1	fc
+1	federal information processing standards publication
+1	fig
+1	financial cryptography
+1	fips
+1	fnr
+1	formal accountability framework
+1	formal analysis
+1	formal definition
+1	formal proof
+1	formal results
+1	formal verifiability
+1	formal verifiability proof
+1	formal verifiability/accountability theorem
+1	fortunately
+1	forward
+1	framework
+1	fraud
+1	full control
+1	function f
+1	fundamental issues
+1	gaithersburg
+1	general computational model
+1	general structure
+1	general verifiability definition
+1	generic model
+1	generic verifiability
+1	geneva
+1	group elements
+1	group size
+1	gsw cryptosystem
+1	guessing
+1	guessing human-chosen secrets
+1	hemi leibowitz
+1	henry corrigan-gibbs
+1	highspeed onion routing
+1	hon f = nhon s /
+1	hon nhon +ntw s / nsk+1 k+1  
+1	honest decryption
+1	honest inputs k.
+1	honest mix servers
+1	honest programs
+1	honest s
+1	honest s auditor
+1	honest s senders
+1	honest senders traces
+1	honest-but-curious adversaries
+1	horizontally scaling strong anonymity
+1	hornet
+1	huffle
+1	human sender
+1	human senders
+1	hybrid encryption scheme
+1	i-th ciphertext
+1	i.
+1	i1 commitment
+1	ideal mix net
+1	identical copies
+1	identical messages
+1	ieee euros
+1	ii-b
+1	implementation thereof
+1	important applications
+1	important aspects
+1	important properties
+1	ind-cca2-security
+1	ind-cca2security
+1	independent verifiability technique
+1	independently
+1	indistinguishable dummy inputs
+1	individual links
+1	individual relation
+1	individual verification code ni
+1	inf
+1	information
+1	innermost layer
+1	input
+1	input ci
+1	input message decrypts
+1	inputs k.
+1	instantiations
+1	inter
+1	international workshops
+1	internet voting
+1	intrinsic issues
+1	ires
+1	isao echizen
+1	isolating malicious mixes
+1	itms
+1	iv-a
+1	iv-b
+1	ivote refresh project
+1	ix n ets secure
+1	j hon
+1	jamie hayes
+1	johannes muller snt/university
+1	johannes.mueller @ uni.lu
+1	joint public key pkrep
+1	joint public keys pkout
+1	judge accepts
+1	judge performs
+1	judging procedure
+1	jun
+1	jun furukawa
+1	k < nms
+1	k inputs
+1	k+1 .4
+1	k+1 /
+1	k+1 / nrepl
+1	k+1 indiv
+1	k+1 repl indiv
+1	kaoru kurosawa
+1	kazue sako
+1	kazutomo itoh
+1	key generation
+1	key share generation algorithm
+1	key share pair
+1	khazaei-moran-wikstrom
+1	knaves run elections
+1	knowledge demonstrates
+1	kristian gjsteen
+1	laboratory
+1	lattice assumptions
+1	lattice-based cryptography
+1	latticebased
+1	lightweight
+1	lightweight verifiability techniques
+1	linear function
+1	linear increase
+1	linearly-homomorphic signatures
+1	link refers
+1	loopix
+1	loopix anonymity
+1	m ~ = m1
+1	making mix nets robust
+1	malicious behaviour
+1	malicious bulletin board
+1	malicious mix server replaces
+1	malicious sender
+1	markus jakobsson
+1	martin strand
+1	maximum number
+1	mcmix
+1	md
+1	mechanism protects
+1	mechanism reveals
+1	message
+1	message mi = mj
+1	message privacy guarantees
+1	message replication
+1	message-code pair
+1	message-verification code pair
+1	message/verification code pairs
+1	messages [
+1	million passwords
+1	miranda
+1	mix net [
+1	mix net outcome
+1	mix net output
+1	mix net/secret key share
+1	mix nets differ
+1	mix nets employ
+1	mix nets protocols
+1	mix nets thomas haines norwegian
+1	mix server generates
+1	mix server performs
+1	mix server updates
+1	mix servers intermediate results
+1	mix servers nms
+1	mix servers outputs
+1	mix-oram
+1	mixnets
+1	mj
+1	mnhon }
+1	mns }
+1	mns } contains
+1	model introduces
+1	modeling
+1	moran
+1	n repl
+1	n/a
+1	n/a auditor
+1	n/a n/a tracing
+1	n/a rpc
+1	nad ntw ciphertexts
+1	nalysis
+1	national elections
+1	national institute
+1	national research fund
+1	near future
+1	negligible cost
+1	negligible probability
+1	network layer
+1	new proofs
+1	nhon k
+1	nhon s + ntw
+1	nhon s + ntw balls
+1	nhon s + ntw ciphertexts
+1	nhon s level
+1	ni
+1	nikolaos alexopoulos
+1	nms ciphertexts
+1	nms i +
+1	nms mix servers
+1	nms nrepl
+1	nms ns
+1	non-negligible probability
+1	nordsec
+1	normally
+1	norwegian internet voting protocol
+1	notation
+1	nrepl nms verif
+1	ns +ntw nad
+1	ns /
+1	ns k elements
+1	ns senders
+1	nswec/reports/ivote
+1	nt trustees
+1	ntroduction mix
+1	ntw nad nms
+1	ntw nms nms
+1	ntw trip wires
+1	number
+1	number mix severs
+1	number nad
+1	numerous instantiations
+1	numerous mix nets [
+1	numerous techniques
+1	odel
+1	odes
+1	offline/online mixing
+1	often
+1	olivier pereira
+1	omputational
+1	onclusion
+1	oracles
+1	org/html/product vmn.html
+1	original definition
+1	original paper
+1	original publication [
+1	original statementin fact
+1	original trip wire technique
+1	originally
+1	ormal d efinition of g oal
+1	orrect
+1	outer encryption layer
+1	outer layer
+1	outermost encryption layer
+1	output j ciphertext
+1	output s
+1	overall computational complexity
+1	overall re-encryption
+1	overall result
+1	overhead n/a n/a
+1	overhead n/a per
+1	overhead overhead
+1	own input
+1	p roof of
+1	p rotocol
+1	parameter k denotes
+1	parties
+1	pdmn
+1	peered bulletin
+1	penc overhead
+1	penc pkey
+1	perfect verifiability level
+1	perfect verifiability level employ
+1	peter b. rnne
+1	peter y
+1	phase contains
+1	phd
+1	pkc
+1	pkexpl j
+1	pkexpl k
+1	pkfin k
+1	pki
+1	pkout k
+1	pkrep j
+1	plain dmn
+1	plain message
+1	plain mix nets
+1	plain versions
+1	plaintext inputs
+1	popular building blocks
+1	popular techniques
+1	positions i
+1	possible disputes
+1	post-quantum-cryptography
+1	postquantum proofs
+1	ppendix
+1	ppt algorithm
+1	practical implementations
+1	practical lattice-based decryption mix
+1	preenc overhead
+1	previous assumption
+1	previous mix servers
+1	previous sections
+1	previous steps
+1	primitives trust assumptions
+1	privacy attack
+1	private key share
+1	private key share knowledge
+1	private key share skk
+1	private key skk
+1	prmn
+1	probabilistic polynomial-time
+1	process
+1	process a1 k
+1	proof nrepl
+1	proof transcripts
+1	proof verif
+1	proof verif proof verif proof verif
+1	proofs
+1	properties verifiability
+1	property preserves vote privacy
+1	protocol aborts
+1	protocol description
+1	protocol participants consist
+1	protocol phases
+1	protocol run r
+1	protocol specifications software
+1	protocols
+1	protocolspecific sense
+1	proves knowledge
+1	proving
+1	pshuffle correct shuffle
+1	pshuffle x.
+1	pub fips
+1	public evidence
+1	public expl keys pkexpl
+1	public information
+1	public key pk1
+1	public key pkexpl k
+1	public key pkfin
+1	public key pkk
+1	public key pknms
+1	public key pkout
+1	public key share
+1	public key share pkk
+1	public key share pkl
+1	public key shares pkk
+1	public keys pkexpl
+1	public-key cryptography
+1	public-key encryption scheme c
+1	public/private key pair expl
+1	public/private key pairs
+1	public/private key rep rep fin fin
+1	public/private key share pair
+1	public/secret key pairs
+1	pverify >
+1	pverify > ntw /
+1	pverify denotes
+1	quantum computers
+1	r eferences
+1	ram
+1	random coins r1
+1	random coins ri
+1	random coins rk1
+1	random key
+1	random string
+1	randomized partial checking revisited
+1	raphael r. toledo
+1	re-encrypt
+1	re-encryption
+1	re-encryption +
+1	re-encryption algorithm
+1	re-encryption rpc mix nets
+1	real political elections
+1	real threat
+1	reasonable mix nets insecure
+1	recall
+1	recall section
+1	recent
+1	recommendation
+1	reference string
+1	relationship
+1	remain silent
+1	remark
+1	remote voting
+1	repetition layer
+1	replication code technique
+1	replication technique states
+1	replication techs
+1	research council
+1	respective complexity
+1	respective cryptographic primitives
+1	respective evidence
+1	respective key generation
+1	respective public keys
+1	respective section
+1	responsible parties
+1	restricted shuffles
+1	result refines
+1	return addresses
+1	right
+1	riivo talviste
+1	robust
+1	ronald l. rivest
+1	s identity
+1	s input ciphertext ci
+1	s output
+1	s senders
+1	s verif
+1	sanity check
+1	sarah jamie lewis
+1	scheme
+1	scheme +
+1	scheme w j hon
+1	scope
+1	sebastian meiser
+1	secret decrypexpl tion keys skexpl
+1	secret decryption expl keys skexpl
+1	secret key share
+1	secret key share knowledge
+1	secret key share skfin k
+1	secret key share skrep
+1	secret key share skrep k
+1	secret key shares
+1	secret key shares skout
+1	secret key sk1
+1	secret key sk2
+1	sections ii-b
+1	sections v
+1	sections v-xi
+1	secur.
+1	secure multiparty computation
+1	security results
+1	security theorem
+1	sender
+1	sender checks
+1	sender complains
+1	sender detects
+1	sender encrypts
+1	senders device
+1	senders generate
+1	senders inputs
+1	senders message privacy
+1	senders ns
+1	share pairs
+1	shuffle argument secure
+1	shuffle mix nets
+1	shuffle w
+1	sigma protocol
+1	similar reasoning
+1	similarly
+1	situation raises
+1	size n
+1	size nrepl
+1	sj
+1	sk+1
+1	small amount
+1	small probability [
+1	snhon
+1	sns
+1	sophisticated cryptographic primitives
+1	sound verifier
+1	source code
+1	space limitations
+1	specific mix net protocols
+1	specific mix net structure
+1	specific properties
+1	specific protocol run
+1	specific structure
+1	specific variant
+1	specific verifiability technique
+1	splitting
+1	srinivas devadas
+1	standards
+1	state election
+1	static corruption
+1	stephanie bayer
+1	straightforward way
+1	stuff input ciphertexts
+1	submission closes
+1	subscripts key
+1	subtle attacks
+1	such ciphertext c0
+1	sufficient information
+1	surcvs
+1	syst
+1	system [
+1	systematic comparison
+1	systems principles
+1	t rip
+1	t1
+1	table
+1	table ii
+1	tal moran
+1	tariq elahi
+1	technical details
+1	technique
+1	technique [
+1	technique ensures
+1	thomas.haines @ ntnu.no
+1	time requirements
+1	tnt
+1	total cost
+1	traditional hardness assumptions
+1	transparent reference point
+1	trapdoor key
+1	trip wire technique states
+1	truderung
+1	trust assumption
+1	trustee generates
+1	trustees generate
+1	trustees joint
+1	trustees nt
+1	turing
+1	uniform framework
+1	uniform treatment
+1	universally
+1	unless
+1	unproven security theorem
+1	updatable proofs
+1	upper
+1	v erifiability
+1	v erification
+1	v.
+1	val1 ues
+1	valid complaint
+1	valid messages m1
+1	valid proof
+1	value 2k
+1	variants [
+1	various parties activate
+1	verif nms
+1	verif plaintext knowledge
+1	verifiability attack
+1	verifiability hon hon k+1 tolerance k
+1	verifiability property
+1	verifiability tolerance k
+1	verifiability/accountability levels
+1	verifiable generation
+1	verifiable mix nets [
+1	verifiable mix nets differ
+1	verification
+1	verification code ni
+1	verification code ni = nj
+1	verification code technique suffers
+1	verification complexity
+1	verification key
+1	verification rates
+1	verificatum mix
+1	vii-b
+1	vmn
+1	vogt
+1	voteid
+1	voting systems
+1	w j hon
+1	weakens privacy
+1	whether
+1	whole process aborts
+1	whole protocol aborts
+1	wikstrom
+1	wiley
+1	work [
+1	wtsc
+1	xavier boyen
+1	xii-a
+1	xii-b
+1	xiv
+1	xor
+1	zero knowledge argument
+1	zero knowledge proof
+1	zero-knowledge proofs
+1	zkp
+1	zkps.7
+1	{ m1

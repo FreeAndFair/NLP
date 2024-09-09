@@ -1,0 +1,236 @@
+13	belenios
+12	fiat-shamir
+10	zq
+8	helios
+7	group generator
+4	b.
+4	elgamal
+4	public key
+4	valid proof
+3	bernhard
+3	fake proof
+3	lncs
+3	springer
+3	v.
+3	zero-knowledge proof
+2	= c.
+2	= r3
+2	a.
+2	arbitrary value
+2	c = hash
+2	cortier
+2	decryption trustees
+2	fake ballot
+2	forging
+2	gaudry
+2	great care
+2	homomorphic sum
+2	interestingly
+2	k choices
+2	membership proof
+2	o.
+2	p.
+2	pereira
+2	qk
+2	secret key
+2	secret key s
+2	set membership proof
+2	usenix
+2	vs
+2	vv
+2	w 2r
+2	warinschi
+2	x||y||a1 ||b1 || ||an ||bn
+2	zero-knowledge proofs
+2	||h1 y
+1	//hal.inria.fr/ hal-01576379
+1	= > >
+1	= c. r4
+1	= g i x i
+1	= hash
+1	= hi
+1	= hj
+1	= i2 [
+1	= r1
+1	= r1 +
+1	= r1 + a1
+1	= r1 > >
+1	= r2 s
+1	= r3 + a2
+1	= r4 > >
+1	= rs
+1	= s
+1	= y r
+1	=c s s +a = c.
+1	> < g
+1	> > > h
+1	> > h2
+1	> > r2 sr1 > > > > = < as1 <
+1	> > r4 sr3 > >
+1	] protocol
+1	additional degree
+1	additional votes
+1	adida
+1	arbitrary vote
+1	asiacrypt
+1	b j = hw
+1	bi
+1	bj
+1	blog entry
+1	c.c.
+1	catherine a. meadows
+1	certain circumstances
+1	certain decryption value
+1	cleartext m
+1	cnrs
+1	combining
+1	compared
+1	compute
+1	compute ai
+1	compute aj = g j x j
+1	compute aj = g w
+1	compute i
+1	compute i = c j6=i j
+1	compute k
+1	construction proceeds
+1	construction uses
+1	context
+1	corresponding candidate
+1	crypto86
+1	current implementation
+1	d.
+1	decryption authorities collude
+1	decryption key
+1	discrete logarithms
+1	dragan
+1	dupressoir
+1	ecole polytechnique
+1	election result
+1	elements g =
+1	equational reasoning
+1	essays dedicated
+1	explicit formulas
+1	f.
+1	fake bitencryption
+1	fake zero-knowledge proofs
+1	fiat
+1	foundations
+1	france
+1	france abstract
+1	full ballot
+1	full context
+1	full details
+1	g =
+1	g i
+1	g m h
+1	g.
+1	generator g
+1	generator g =
+1	glondu
+1	group generator g
+1	h = g
+1	h = g s
+1	h = gs
+1	hash function
+1	heuristic [
+1	homomorphic sums
+1	huge value
+1	i = w + i
+1	i n.
+1	i=2 i
+1	ieee
+1	ieee symposium
+1	impact
+1	individual proofs
+1	informal note
+1	inria
+1	interactive proof
+1	ith candidate
+1	j 2r
+1	j 6= i
+1	j n
+1	k =
+1	k candidates
+1	lewis
+1	lorraine
+1	m = mi
+1	machine-checked
+1	mn }
+1	modulo q
+1	n ]
+1	n ] i
+1	nancy
+1	overall proof
+1	p.y.
+1	palaiseau
+1	particular value
+1	pi
+1	pierrick gaudry1
+1	pitfalls
+1	pk
+1	practical
+1	presentation
+1	prevents ballot
+1	prime order q
+1	privacy
+1	protocols
+1	prover proceeds
+1	prover wishes
+1	quentin yang1,2
+1	r2 sr1 r4 sr3 + s
+1	r4 2r
+1	r4 sr3
+1	r4 sr3 r3 +
+1	r41 c + r1 +
+1	random choices
+1	random elements
+1	recall
+1	references
+1	return
+1	s +a > as2 > r2 =
+1	s = c + r2 +
+1	s.
+1	s.j.
+1	schmidt
+1	scytl
+1	security 2008. pp
+1	security proof
+1	security proofs
+1	security properties
+1	set
+1	shamir
+1	shue proof
+1	signature problems
+1	similar idea [
+1	small discrete-logarithm computation
+1	sr1 + 1+
+1	standard way
+1	strub
+1	sufficient condition
+1	swisspost
+1	switzerland
+1	teague
+1	technical
+1	trapdoor
+1	universite
+1	valid choices
+1	valid fake ballot
+1	valid involves
+1	validity check
+1	verifier proceeds
+1	veronique cortier1
+1	weak version
+1	web-based
+1	whole ciphertext
+1	x =
+1	xk = g encryption
+1	x||y|| g x
+1	x||y|| r1 || r2 || r3 || r4
+1	y =
+1	y/g mi
+1	y/g mj
+1	yk = hk
+1	zero-knowledge
+1	zero-knowledge proof [
+1	zk
+1	{ m1

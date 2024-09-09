@@ -1,0 +1,776 @@
+144	is
+22	are
+22	compute
+15	be
+13	using
+11	has
+11	computes
+9	picks
+9	show
+9	tallying
+9	let
+8	simulated
+8	used
+8	can
+8	use
+7	a1
+7	follows
+7	based
+7	takes
+7	consists
+7	consider
+6	prove
+6	to create
+6	create
+6	described
+6	runs
+6	to get
+6	including
+6	encrypts
+6	following
+6	pick
+5	assume
+5	a0
+5	provides
+5	obtain
+5	to be
+5	uses
+5	c
+5	made
+5	note
+5	relies
+5	given
+5	chosen
+5	provide
+5	chooses
+5	to prove
+5	satisfy
+4	submits
+4	contains
+4	to demonstrate
+4	eds
+4	suppose
+4	giving
+4	have
+4	wins
+4	gives
+4	passes
+4	can compute
+4	may submit
+4	holds
+4	corrupted
+4	makes
+4	to compute
+4	to choose
+3	allowing
+3	appends
+3	setting
+3	proves
+3	computing
+3	to produce
+3	was
+3	submit
+3	run
+3	assuming
+3	does
+3	sends
+3	can do
+3	know
+3	checking
+3	proposed
+3	has been used
+3	gets
+3	applies
+3	observe
+3	describe
+3	are used
+3	interacting
+3	draws
+3	is done
+3	set
+3	to make
+3	can detect
+3	is used
+3	r.
+3	may make
+3	creates
+3	shows
+3	to see
+3	return
+3	produces
+3	to cast
+3	known
+3	call
+3	secure
+3	resulting
+3	to answer
+3	existing
+2	can distinguish
+2	requires
+2	building
+2	fixing
+2	check
+2	to obtain
+2	defined
+2	applying
+2	to build
+2	repeated
+2	form
+2	complete
+2	a2
+2	start
+2	construct
+2	let be
+2	to be proved
+2	introduced
+2	discussed
+2	attacks
+2	does not contain
+2	hiding
+2	post
+2	selecting
+2	forges
+2	refer
+2	choosing
+2	would be
+2	to detect
+2	is fixed
+2	match
+2	is hashed
+2	adding
+2	identify
+2	to break
+2	simulates
+2	breaks
+2	will
+2	c0
+2	are submitted
+2	define
+2	to select
+2	picking
+2	fails
+2	acts
+2	fail
+2	may post
+2	do
+2	cheat
+2	playing
+2	to encrypt
+2	sees
+2	showed
+2	ciphertext
+2	begins
+2	completes
+2	simulate
+2	proving
+2	would not be
+2	are fixed
+2	illustrate
+2	can produce
+2	should not be used
+2	got
+2	publish
+2	logg
+2	can be computed
+2	formulate
+2	can tell
+2	break
+2	introduce
+2	regarding
+2	allowing colluding
+2	expects
+2	allow
+2	as follows
+2	demanding
+2	may
+2	is given
+2	reject
+2	verify
+2	can be
+2	f0
+2	seems to be
+2	would allow
+2	selects
+2	encode
+2	m0
+2	select
+2	may pick
+2	allows
+2	to decrypt
+2	desired
+2	chose
+2	consisting
+2	to expected
+2	returning
+2	sent
+2	to prevent
+2	is computed
+1	having
+1	should be
+1	do not hold
+1	are handled
+1	have not been clearly delineated
+1	required
+1	will later expect
+1	not sending
+1	as well using
+1	can be mounted
+1	a3
+1	includes
+1	can now be verified
+1	can have
+1	cannot tell
+1	draw
+1	to extract said
+1	homomorphically add
+1	further assume
+1	were computed
+1	forcing
+1	then creates
+1	right plaintexts determined
+1	now observe
+1	claiming
+1	proofs used
+1	is understanding
+1	is perhaps more appropriately viewed
+1	encrypt
+1	defines
+1	exist
+1	to ensure
+1	is cheating
+1	to passively eavesdrop
+1	decrypt
+1	to verify
+1	as well would not only defeat
+1	proved
+1	obtains
+1	attaches
+1	validates
+1	does not make
+1	to forge
+1	builds
+1	naturally occur
+1	posted
+1	implies
+1	are rejected
+1	becomes
+1	does not have
+1	analyze
+1	would be to use
+1	transform
+1	removing
+1	can be used to attack
+1	waits
+1	have shown
+1	rely
+1	is not known to be
+1	would expect
+1	suggested applying
+1	g1 be
+1	does not allow
+1	commonly given
+1	to merely using
+1	act
+1	were only allowed to select
+1	have been employed
+1	jointly run
+1	is run
+1	refuses
+1	is to retrieve
+1	was used
+1	communicate
+1	does not match
+1	may be
+1	consider gets
+1	witness-extended
+1	are generated
+1	may have
+1	expects to obtain
+1	even tamper
+1	can cause
+1	will be
+1	matching
+1	proofs
+1	can also be
+1	could still be built
+1	can rerandomise
+1	cannot obtain
+1	extract
+1	then computes
+1	could then be followed
+1	not to prove
+1	works
+1	cannot provide
+1	would have used to get
+1	loses
+1	have not changed
+1	have defined
+1	may only have
+1	do not wish to assume
+1	finding
+1	are created
+1	showing
+1	motivating
+1	does not seem to give
+1	guarantees
+1	to announce
+1	tries to produce
+1	defined as follows
+1	transformed
+1	can be detected
+1	to rerandomise
+1	may proceed as follows
+1	contradicting
+1	is repeated
+1	underlying
+1	can make
+1	captures
+1	being
+1	is deemed
+1	encoding
+1	may repeatedly make
+1	would like to announce
+1	having proven
+1	left
+1	are left
+1	y
+1	are hashed
+1	would like to influence
+1	will ignore
+1	randomly chosen
+1	continue simulating
+1	kept
+1	now only needs to submit
+1	validate
+1	only sends
+1	to run
+1	have failed to confirm
+1	to simulate
+1	copying
+1	make
+1	also assume
+1	verified
+1	containing
+1	coma1
+1	casting
+1	should satisfy
+1	reads
+1	is uniquely determined
+1	actually encrypts
+1	does not seem
+1	to create-proof(w
+1	evaluating
+1	formalise
+1	cast
+1	together are known
+1	executes
+1	should somehow be preserved
+1	defining
+1	can reply
+1	applied
+1	colluding
+1	c1
+1	then could be
+1	to denote
+1	currently include
+1	offered
+1	instantiated
+1	cannot make
+1	finishes
+1	adapting
+1	could have
+1	expected
+1	can easily remain
+1	ensured
+1	ai
+1	pute
+1	can arbitrarily influence
+1	responds
+1	add
+1	then decrypts
+1	can extract
+1	asks
+1	combines
+1	to submit
+1	will not verify
+1	can be observed
+1	are answered
+1	likes
+1	cx
+1	now completes
+1	can restore
+1	cannot convince
+1	is taken
+1	adaptively chosen
+1	so far has been
+1	is described
+1	have presented
+1	may ask to see simulated
+1	can chose
+1	attributes
+1	can submit
+1	receives
+1	s
+1	also observe
+1	taking
+1	may lead
+1	rehashing
+1	electing
+1	is defined
+1	is executed
+1	could possibly be achieved
+1	are used to guarantee
+1	may only choose up
+1	do not necessarily know
+1	are built
+1	can switch
+1	is freezed
+1	would like to thank
+1	c obtained
+1	justified
+1	drawn
+1	disprove
+1	can build
+1	rewinding
+1	justifies
+1	is switched
+1	are placed
+1	cannot detect
+1	allowed to choose up
+1	y1
+1	first run
+1	abort
+1	exists
+1	computed
+1	to extract
+1	substantially increase
+1	then run
+1	distinguishes
+1	guessed
+1	fixed
+1	x
+1	contain
+1	expects to see
+1	investigate
+1	patch
+1	is then to replace
+1	to invoke
+1	to publish
+1	need only read
+1	are distributed
+1	running
+1	announce actually corresponds
+1	are replaced
+1	designated
+1	produced is
+1	would make
+1	is supposed to work
+1	invoke
+1	handle
+1	is selected
+1	will provide
+1	achieve
+1	are switched
+1	allow proving
+1	is to extract
+1	jointly generate
+1	queries
+1	posting
+1	simulating
+1	x1
+1	can patch
+1	no longer have
+1	encoded
+1	may also want to operate
+1	abstain
+1	to accept
+1	encrypted
+1	involves setting
+1	can inspect
+1	can choose
+1	to convince
+1	y known
+1	are made is
+1	constructed
+1	discourage
+1	need to build
+1	also checked
+1	have identified
+1	extending
+1	can be computed using
+1	require is easily accomplished
+1	sets
+1	to deduce
+1	begin
+1	can happen
+1	then show
+1	is called
+1	is to show
+1	append
+1	could fix
+1	answering
+1	only simulates
+1	also show
+1	depending
+1	is trying to extract
+1	could select
+1	confirms
+1	should look
+1	say
+1	wish to show
+1	additionally computes
+1	c/d)c
+1	is required to compute
+1	was handled
+1	executed
+1	see
+1	may additionally hold
+1	require
+1	encrypting
+1	aims to provide
+1	identically distributed
+1	believe
+1	actively corrupted
+1	to enforce
+1	are used to enforce
+1	to remove
+1	can be used to solve
+1	to prepare
+1	is then computed
+1	then pick
+1	is demanded
+1	to provide
+1	to cheat
+1	still verifies
+1	have been used
+1	proposing
+1	do not verify
+1	simplified
+1	further refine
+1	revealing
+1	wfs can actually be used
+1	succeeds
+1	first
+1	can be applied
+1	is asked
+1	is concerned
+1	still are
+1	to find
+1	viewing
+1	can now run
+1	starts
+1	r1
+1	previously queried
+1	wants to prove
+1	do not apply to proofs
+1	previously submitted
+1	may not submit
+1	put
+1	formally is
+1	base
+1	differ
+1	maintains
+1	have been submitted
+1	only has to run
+1	could be detected
+1	supports
+1	enable
+1	contained
+1	include
+1	now compute
+1	sees is
+1	may become
+1	leave
+1	can deal
+1	then sfs
+1	combining
+1	remove
+1	extended
+1	challenges
+1	have been created
+1	logr
+1	wfsh
+1	is distributed
+1	constructing
+1	is not well-formed
+1	are still used
+1	corresponds to evaluated
+1	now investigate
+1	leading
+1	verifying
+1	execute
+1	again validates
+1	discuss
+1	documented
+1	then adjusts
+1	then tallying can take
+1	wfs transform fails to offer
+1	propose
+1	halt
+1	r+u
+1	fails to complete
+1	choose
+1	is not sound
+1	can convince
+1	exhibits
+1	may also make
+1	to construct
+1	can select
+1	actually includes
+1	satisfies
+1	mentioned
+1	replies
+1	currently used
+1	are divided
+1	naturally arise
+1	to handle tallying
+1	to fail providing
+1	would provide
+1	wishes
+1	c is computed
+1	involved are obtained
+1	succeeded
+1	successfully validates
+1	first give
+1	stress
+1	also has
+1	to yield
+1	did not manipulate
+1	were weighted
+1	improving
+1	coming
+1	produce
+1	derived
+1	can indeed define
+1	can now decrypt
+1	suggest including
+1	just to compute
+1	is to build
+1	write
+1	can recover
+1	breaking
+1	know r r0
+1	let v be
+1	shuffled
+1	is obtained
+1	can view
+1	are forwarded
+1	indicates
+1	organized
+1	accepts
+1	give
+1	may raise
+1	f1
+1	making
+1	would require using
+1	is still easier to mount
+1	do not know
+1	has received
+1	challenge
+1	recall
+1	permits
+1	may invoke
+1	producing
+1	now describe
+1	appending
+1	knows
+1	nizk proofs
+1	also submits
+1	previously proposed
+1	to guarantee
+1	can now switch
+1	to r
+1	to elect
+1	must exist
+1	m.
+1	to ask
+1	recalling
+1	decides to accept
+1	would
+1	then turn
+1	must satisfy
+1	fake
+1	replace
+1	leads to tallying taking
+1	did not use
+1	is guaranteed
+1	can safely be used
+1	only holds
+1	is provided is
+1	have made
+1	is devoted
+1	can easily be verified
+1	leaving
+1	studied
+1	rests
+1	securing
+1	still have
+1	sending
+1	obtained
+1	appears
+1	previously known
+1	can add
+1	also restore
+1	answers
+1	is playing
+1	led
+1	could not have changed
+1	designing
+1	detect simulated
+1	can achieve
+1	will always return
+1	could give
+1	appear
+1	adds
+1	employ
+1	can consist
+1	will focus
+1	would otherwise have aborted
+1	implemented
+1	would then be detected
+1	can use
+1	has forked
+1	does not know
+1	may not render
+1	dealing
+1	effectively violating
+1	still hold
+1	contain repeated
+1	launches
+1	was assumed
+1	just described is
+1	correct
+1	can prove
+1	f
+1	presented
+1	solves
+1	now have
+1	to simulated
+1	to show
+1	can be verified
+1	may yield
+1	is to exploit
+1	may have to complete further proofs
+1	stipulate
+1	to patch
+1	are repeated
+1	expressing
+1	is allowed to see simulated
+1	has recently received
+1	behave
+1	should achieve
+1	could be asked to run
+1	actually provides
+1	can be used
+1	preserves
+1	looking
+1	are made using
+1	have been tested
+1	will run
+1	can accept
+1	leads
+1	focus
+1	also select
+1	are encoded
+1	q generated
+1	all

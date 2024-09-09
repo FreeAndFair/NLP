@@ -1,0 +1,587 @@
+21	votexx
+17	ea
+16	internet
+14	improper influence
+12	d.
+12	j.
+11	a.
+10	bb
+10	coercion resistance
+7	flip code
+7	m.
+7	r.
+7	s.
+6	mix network
+6	untappable channel
+5	chaum
+5	cj
+5	clark
+5	d. chaum
+5	nullification
+5	private key
+5	real
+5	tallying
+5	teague
+5	vora
+4	coercion
+4	essex
+4	f.
+4	lewis
+4	o.
+4	protocol
+4	springer
+4	t.
+4	v.
+4	voting
+4	zagorski
+3	bulletin board
+3	c1
+3	carback
+3	coercion-resistant
+3	e2e
+3	electronic elections
+3	final tally
+3	international conference
+3	java
+3	no
+3	nullification period
+3	p.l
+3	paper ballots
+3	pereira
+3	public keys
+3	receipt-free
+3	remotegrity
+3	s.j.
+3	ta
+3	undue influence
+3	usenix
+3	vote nullification
+3	yes
+3	zero-knowledge proof
+2	a.t.
+2	acns
+2	alice
+2	applied cryptography
+2	araujo
+2	c.
+2	catalano
+2	cn
+2	coercion-resistance
+2	crucial security requirements
+2	e.
+2	election authority
+2	election outcome
+2	evote
+2	fig
+2	hengartner
+2	homomorphic encryption
+2	ieee
+2	juels
+2	lda
+2	march
+2	mixnet decrypts
+2	network
+2	pkno ] mpk
+2	popoveniuc
+2	private keys
+2	proceedings
+2	public-private key pairs
+2	r.t.
+2	realistic assumption
+2	registration
+2	remotegrity-style
+2	resistance guarantees
+2	rivest
+2	scantegrity ii
+2	schnorr
+2	sherman
+2	similarly
+2	smyth
+2	specter
+2	symposium
+2	tentative tally
+2	toward
+2	traore
+2	u.
+2	u.s.
+2	usa
+2	vote buying
+2	voter casts
+2	voter registers
+2	votes online
+2	wide variety
+1	$ yes skno
+1	//internetpolicy.mit.edu/ wp-content/uploads/2020/02/securityanalysisofvoatz\_public.pdf
+1	//people.csail.mit.edu/rivest/ pubs/kan10.pdf
+1	//people.eng.unimelb.edu.au/vjteague/ ivotedecryptionproofcheat.pdf
+1	30. xx.network
+1	5. vote
+1	= [
+1	= [ hj ]
+1	[ [ register
+1	[ register
+1	[ vote
+1	] fully-remote
+1	] k
+1	] ki
+1	] point
+1	] show
+1	] surveys
+1	a.c.
+1	abstract
+1	academic effort
+1	accountability
+1	accurate ballot
+1	acm ccs
+1	acm stoc
+1	acm wpes
+1	acs
+1	addendum
+1	additional desirable requirements
+1	advance instruct
+1	adversarial model
+1	adversarys goal
+1	aes-256
+1	ai-powered
+1	alan t. sherman3
+1	all-digital mechanism
+1	amazon ec2
+1	analyzing
+1	and
+1	anonymous communication
+1	apollo-style
+1	apolloend-to-end
+1	applicationsfor governance
+1	approach assumes
+1	architecture
+1	architecture diagram
+1	assumptions
+1	auditable online
+1	australia
+1	b.
+1	background coercion
+1	ballot item b
+1	ballot online
+1	ballot privacy
+1	ballot question
+1	balt
+1	baltimore
+1	bart preneel4
+1	bart.preneel @ esat.kuleuven.be
+1	belgium
+1	benaloh
+1	bingsheng @ zju.edu.cn
+1	bingsheng zhang6
+1	blockchain system
+1	board ..
+1	broader survey
+1	cans
+1	cast ballots [
+1	certain additional actions
+1	challenging obstacle
+1	chao liu3
+1	chaum-pedersen
+1	china
+1	chong
+1	civitas
+1	clarkson
+1	client-side
+1	cmix [
+1	cmix coercion resistance
+1	cmix mix network
+1	cobra
+1	coercers demands
+1	coercers instructions
+1	coercion [
+1	coercion-resistant ones
+1	coercion-resistant scheme
+1	coercive action
+1	component parts
+1	computational cost
+1	compute
+1	computer
+1	computes
+1	conceptual breakthrough
+1	conclusion
+1	concordia
+1	concurrent ballot authorization
+1	confirmation codes
+1	conway
+1	correct operation
+1	corresponding cast ballot
+1	corresponding nullification pairs
+1	corrupt system
+1	cosic
+1	cost linear
+1	credential management
+1	crossref
+1	crypto
+1	cryptographic protocols
+1	csfw06
+1	current limitations
+1	current trends
+1	cyber
+1	das
+1	database service
+1	david @ chaum.com
+1	david chaum1
+1	decentralizable election authority
+1	decentralizable implementation
+1	decoy ballots [
+1	definition
+1	delaune
+1	democratic societies
+1	determined
+1	different implementations
+1	diffie-hellman
+1	direct interaction
+1	dubuis
+1	due diligence
+1	eareduce
+1	effective
+1	effective mitigation
+1	efficient
+1	election authority election security
+1	election authority voters
+1	election period
+1	election process
+1	election systems
+1	electronic voting
+1	electronic voting technology/workshop
+1	elgamal
+1	eligible voter
+1	eligible voter performs
+1	eligible voter registers
+1	elixxir network
+1	elusive problem
+1	end-to-end
+1	engineering
+1	eurocrypt
+1	evt/wote
+1	expose votes cast
+1	fake
+1	fake credentials
+1	fake credentials [
+1	fake credentials assumes registration
+1	faking
+1	fc
+1	federal elections
+1	filip zagorski5
+1	filip.zagorski @ gmail.com
+1	final roster
+1	foulle
+1	foundations
+1	fourth
+1	freeness [
+1	gawel
+1	gcm
+1	general definition
+1	gollmann
+1	google scholar
+1	governmental election
+1	grimm
+1	h.
+1	h1 h
+1	haenni
+1	hangzhou
+1	hardest challenge
+1	hedgehog
+1	hedgehog high-integrity
+1	hedgehogs
+1	hedgehogs fig
+1	hedgehogs interact
+1	helios
+1	hernson
+1	hi
+1	hirt
+1	hj ]
+1	i.
+1	iacr
+1	id
+1	ieee computer
+1	ieee symposium
+1	illustrative
+1	implementation comprises
+1	important aspect
+1	improper influence complicate registration
+1	informally
+1	information flow
+1	introduction
+1	invalid votes
+1	ivote decryption proof
+1	ivote system
+1	j }
+1	jacobsson
+1	jakobsson
+1	japan
+1	java cryptography
+1	javani
+1	jce
+1	jeremy clark2
+1	joint
+1	jsp
+1	july
+1	k-candidate race
+1	k.
+1	kanazawa
+1	kane
+1	kate
+1	kelsey
+1	key ki
+1	keywords
+1	kikuchi
+1	koppel
+1	kosarzecki
+1	kosters
+1	krasnova
+1	kremer
+1	ku leuven
+1	kusters
+1	lab
+1	large scale elections
+1	latent dirichelt allocation
+1	lecture notes
+1	list axioms
+1	literature review
+1	long ballots
+1	lueks
+1	m.a.
+1	m.r.
+1	mahdi nejadgholi2
+1	mail-in
+1	mail-in ballots
+1	mainstream adoption
+1	malware
+1	malware attacks
+1	manual
+1	mario yaksetig1
+1	maryland
+1	mathematical
+1	mayberry
+1	md
+1	messagedigest
+1	minimal real-time asymmetric cryptographic operations
+1	mitigating
+1	mits ronald rivest
+1	mix network bulletin
+1	mixing
+1	mixnet mix network nullification
+1	miyaji
+1	mobile phones
+1	mod q
+1	mod q skyes
+1	modify votes
+1	modular design
+1	modulo-k sum
+1	modulo-two sum
+1	moran
+1	multiple
+1	multiple languages
+1	municipal election
+1	myers
+1	mysql
+1	n voters v1
+1	n.b.
+1	naor
+1	new approach
+1	new concept
+1	new security mechanisms
+1	nizkp
+1	non-interactive zeroknowledge proof
+1	novel concept
+1	november
+1	nullification attempts
+1	nullification mechanism
+1	nullification stage
+1	nullification step
+1	nullification technology
+1	nullification voting
+1	numerous advantages
+1	okamoto
+1	online attack
+1	optionally
+1	or
+1	original inputs
+1	original vote
+1	over-the-shoulder coercion-resistance
+1	overview
+1	p.
+1	p.l.
+1	p.s.
+1	part ofour
+1	people distinguish
+1	performance
+1	period ends
+1	philosophical transactions
+1	physical
+1	pkno = g
+1	pkno ]
+1	pkno ] mpk ] k
+1	pkyes = g
+1	place paper ballots
+1	plaintext votes vi
+1	poland
+1	possible coercion
+1	possible protection
+1	possible response
+1	practical solution
+1	precinct facilitates
+1	previous
+1	prime number p
+1	prime number q
+1	privacy
+1	privacy vulnerabilities
+1	protocols
+1	protocols compose
+1	public audit data
+1	public bulletin board
+1	public key
+1	public keys [ register
+1	public-private key pair
+1	public-private key pairsone
+1	publicly
+1	publicly-readable bulletin board
+1	pulpspy @ gmail.com
+1	q cj
+1	querejeta-azurmendi
+1	r.l
+1	r.l.
+1	ra
+1	rajeb
+1	random-sample
+1	re-voting
+1	receipt
+1	receipt freeness
+1	receipt freeness [
+1	recent
+1	references
+1	regenscheid
+1	registration authority
+1	registration stage determines
+1	registration voter mix ea bulletin
+1	remote cloud servers
+1	requirements
+1	resistance [
+1	return votes
+1	revealing
+1	richard t. carback1
+1	robbana
+1	royal society
+1	ruiter
+1	running
+1	ryan
+1	sako
+1	scalable coercion-resistant
+1	scratch-off cards
+1	secret key
+1	secret keys
+1	secret-ballot elections
+1	security analysis
+1	security requirements
+1	selections
+1	separate nullification stage
+1	serious vulnerabilities
+1	server-side use sockets
+1	servers
+1	sha-256
+1	shen
+1	sherman @ umbc.edu
+1	shuffle proof
+1	smart phones
+1	software independencein
+1	software-independent [
+1	spycher
+1	step [
+1	strengthening security
+1	strong coercer
+1	strong incoercibility
+1	strong property
+1	such videos
+1	surveying
+1	switzerlands swisspost-scytl
+1	symmetric encryption
+1	symmetric key
+1	system comprises
+1	system entities
+1	system requirements
+1	system uses
+1	t fig
+1	ta auditors a1
+1	takoma
+1	term coercion
+1	theoretical limit
+1	thwart malware
+1	total number
+1	toward trustworthy elections lncs
+1	towards
+1	towards trustworthy elections
+1	transmit data
+1	trapdoor
+1	troncoso
+1	truderung
+1	true digital cash
+1	trump
+1	trustworthy elections
+1	tuinstra
+1	twitter
+1	two-candidate race
+1	uc
+1	umbc
+1	univ
+1	untraceable communication
+1	untrustworthy computers
+1	upon
+1	va
+1	valid votes
+1	vantage magazine
+1	verifiable elections
+1	verifiable internet
+1	vi = ino
+1	vi = iyes
+1	vi ] ki
+1	virginia
+1	voatz
+1	vogt
+1	volkamer
+1	vote [ vote
+1	vote manipulation
+1	voteagain
+1	votenullification mechanism
+1	voter acts
+1	voter associates
+1	voter cast
+1	voter coercion
+1	voter engages
+1	voter filling
+1	voter finishes
+1	voter performs
+1	voter possesses
+1	voter verification [
+1	voter vi
+1	voter vi constructs
+1	voter vi generates
+1	voter vi sends
+1	voter vi sends [ [ register
+1	voter vj
+1	voters ballot choice
+1	voters device
+1	voters end
+1	voters interact
+1	voters secrets
+1	voters vote
+1	votes cast
+1	votexx project
+1	votexx protocol
+1	votexx protocol registration
+1	w.
+1	wales
+1	weitzner
+1	wide range
+1	widely
+1	work contributes
+1	writing interactions
+1	wu
+1	xx.network [
+1	yousfi
+1	zeroknowledge proof
+1	zhejiang

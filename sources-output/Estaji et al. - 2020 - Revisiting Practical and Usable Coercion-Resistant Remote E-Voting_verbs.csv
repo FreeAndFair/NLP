@@ -1,0 +1,585 @@
+85	is
+20	are
+14	using
+14	has
+11	note
+8	allowed
+7	compute
+6	casting
+6	cast
+6	provide
+6	allows
+5	will be
+5	see
+5	weeding
+5	can
+4	does
+4	would be
+4	being
+4	to be
+4	do
+4	based
+4	could
+4	will present
+4	including
+4	to cast
+4	coerced
+4	duplicates
+3	having
+3	cannot control
+3	assume
+3	was
+3	a2
+3	make
+3	according
+3	handling
+3	present
+3	decrypting
+3	runs
+3	designated
+3	can be implemented
+3	distributed
+3	have
+3	generate
+3	could be
+3	to do
+3	covered
+3	means
+3	use
+3	can use
+3	let
+3	to force
+3	to achieve
+3	to check
+2	should be
+2	do not get
+2	bounded
+2	generates
+2	holding
+2	constructed
+2	is to have
+2	to ensure
+2	to obtain
+2	decrypt
+2	ai
+2	prevents
+2	would invalidate
+2	digitally stored
+2	to boost
+2	discard
+2	attacks
+2	getting
+2	run
+2	be
+2	is as follows
+2	follows
+2	relies
+2	pick
+2	check
+2	to generate
+2	evaluating
+2	raise
+2	sees
+2	have presented
+2	can cast
+2	chosen
+2	is checked
+2	could be done
+2	is done
+2	set
+2	guessing
+2	get
+2	to make
+2	gives
+2	construct
+2	given
+2	commits
+2	shows
+2	got
+2	publish
+2	entering
+2	is related
+2	can verify
+2	verifying
+2	can be made
+2	discuss
+2	is based
+2	mentioned
+2	lower bound
+2	to evaluate
+2	enter
+2	allow
+2	is stored
+2	hrvote
+2	might detect
+2	remove duplicates
+2	revisit
+2	accept
+2	give
+2	following
+2	will be discarded
+2	could also follow
+2	will depend
+2	chooses
+2	would
+2	fake
+2	rvote
+2	tallying
+2	to update
+2	challenge
+2	was assumed
+2	to display
+2	p1
+2	include
+1	should kept secret
+1	can encrypt
+1	requires
+1	can more easily be hidden
+1	is waiting
+1	exist.6
+1	remote
+1	were supported
+1	now create
+1	will have |
+1	allowing
+1	can invalidate
+1	will also focus
+1	denote
+1	is casting
+1	presenting
+1	is covered
+1	would mean
+1	can however not be
+1	can be checked
+1	could be combined
+1	compared
+1	exist
+1	chooses to cast
+1	received
+1	can then be used to evaluate
+1	computing
+1	storing
+1	now sees
+1	delete
+1	to hold
+1	faking
+1	limit
+1	will also not specify
+1	is kept
+1	generally are
+1	to implement
+1	made
+1	count
+1	could enter
+1	malicously constructed
+1	can also be used to give
+1	registered
+1	need to sacrifice
+1	form
+1	can be implemented using
+1	need to find
+1	assumes
+1	start
+1	can be calculated
+1	are correctly evaluated
+1	removing
+1	not chosen
+1	still being
+1	repair
+1	introduced
+1	does not have to let
+1	might contain duplicates
+1	could mark
+1	carried
+1	might be
+1	only swapping
+1	cannot trust
+1	zero-knowledge
+1	analysed
+1	do not fall
+1	are based
+1	can simply try
+1	being detected
+1	to be cast
+1	needs to handle
+1	provides
+1	should be found
+1	could here simply try to guess
+1	now homomorphically combine
+1	already stressed
+1	only keep
+1	matching
+1	can also be
+1	choosing
+1	playing hide
+1	then enters
+1	was used
+1	intrinsically cannot directly check
+1	reveals
+1	to compare
+1	to detect
+1	will thus focus
+1	revisiting
+1	will invalidate
+1	expected to only get
+1	further need
+1	continue
+1	collect
+1	serves
+1	reduces
+1	is to commit
+1	will publish
+1	defied
+1	could simply use
+1	correcting
+1	are tolerated
+1	know
+1	to optimise
+1	will obfuscate
+1	will only reveal
+1	can simply give
+1	gave
+1	would not work
+1	does have
+1	to ti
+1	seems
+1	have to work
+1	naively giving
+1	adding
+1	to efficiently compute
+1	suggest to split
+1	stored
+1	obtain
+1	proposed
+1	would first have to prepare
+1	can be boosted
+1	can be implemented efficiently using
+1	to repair
+1	will be given
+1	can also be seen
+1	was found
+1	s+w
+1	manages to get
+1	uses
+1	running
+1	do not use
+1	declaring
+1	obfuscating
+1	are weeded using
+1	will give
+1	to finding
+1	doing weeding
+1	perform
+1	is sent
+1	is not really protecting
+1	will cast
+1	to enter
+1	was supported
+1	would not verify
+1	can allow using
+1	was done
+1	thus recommend
+1	choose to make
+1	will then add
+1	found is
+1	does not seem
+1	needs to try to cover
+1	should be generated
+1	to form
+1	replaced
+1	will
+1	was analysed
+1	is to find
+1	p3
+1	secretly check
+1	is trying to cover
+1	verifiably multiply
+1	might actually be detected
+1	then decrypt
+1	suppress
+1	could try to provide
+1	is challenged
+1	describe
+1	seems to be to add
+1	are submitted
+1	homomorphically add
+1	will be compared
+1	add
+1	described
+1	ensures
+1	will later be discarded
+1	to produce
+1	is entered to cast
+1	respectively fake
+1	is displayed
+1	corresponds
+1	had
+1	conclude
+1	registered encrypted
+1	participating
+1	is not instructed to do
+1	however also suer
+1	improved
+1	to remember
+1	is not checked
+1	implementing
+1	missing
+1	to efficiently sort
+1	has to wait
+1	knowing
+1	cannot be scaled
+1	already discussed
+1	written
+1	might have
+1	creating
+1	violates
+1	invalidating
+1	need to do
+1	here is
+1	to try to know
+1	will not be
+1	can take
+1	constructing
+1	can be reiterated
+1	investigate
+1	remove
+1	arxiv
+1	accepts swapping
+1	risk-limiting
+1	can be generated using
+1	would make detecting
+1	will select
+1	can accommodate
+1	could cast
+1	wants to determine
+1	to notice
+1	re-randomize
+1	twice have to defy
+1	does not satisfy
+1	will mean
+1	does not reveal
+1	also allowing
+1	will be associated
+1	to verify
+1	indeed was
+1	to fake
+1	will not solve
+1	could use
+1	is generally needs to be trusted
+1	will use
+1	however reduces
+1	can assume
+1	to be compared
+1	only knows
+1	can precompute
+1	endangering
+1	extending
+1	is sorting
+1	only known
+1	were made to prevent
+1	finding
+1	can be done
+1	need to remove
+1	depending
+1	could be stored
+1	need
+1	to present
+1	can deny having participated
+1	ran
+1	will consider
+1	is also based
+1	providing
+1	obfuscate
+1	submitted
+1	now consider
+1	ciphertext
+1	administrates
+1	there exists
+1	took
+1	basically means
+1	releases
+1	participated
+1	are devoted to reduce
+1	is used
+1	have implemented
+1	attack
+1	interact
+1	leading
+1	cannot let
+1	were allowed to hold
+1	multiplying
+1	could not really be called
+1	risklimiting
+1	has to pass
+1	might also happen
+1	is allowed
+1	being entered
+1	diminishes
+1	to also hold
+1	could used
+1	needs to be updated
+1	will just explain
+1	will rely
+1	can be removed
+1	is validated
+1	corrects
+1	can be
+1	is to make
+1	thus sidestepping
+1	even hidden
+1	to challenge
+1	could necessarily not be bounded
+1	be trained to handle
+1	could also decide not to cast
+1	increase
+1	is also trusted
+1	e(g
+1	intends to cast
+1	can compute
+1	also comes
+1	happen
+1	et
+1	will essentially follow
+1	is used to publish
+1	unlock
+1	challenges
+1	doing
+1	then chooses
+1	will cover
+1	not solved
+1	mean
+1	will see
+1	will decrease
+1	will only check
+1	cannot be detected
+1	will not know
+1	ctvote
+1	being submitted
+1	just tolerate swapping
+1	matches
+1	would also be
+1	undermines
+1	can be efficiently implemented
+1	still keeping
+1	only have
+1	is split
+1	solving
+1	could demand
+1	is generated
+1	to distinguish
+1	having to enter
+1	is memorized
+1	will reveal
+1	will sort
+1	will thus help
+1	also has
+1	fits
+1	also having
+1	demanding
+1	was reduced
+1	derived
+1	typed
+1	is counted
+1	utilise
+1	are presented
+1	evoting
+1	can recover
+1	divided
+1	needs
+1	to find
+1	probably would not want to risk
+1	would simply ask
+1	will be counted
+1	would allow
+1	corrupted
+1	will be computed
+1	making
+1	was also mentioned
+1	to add
+1	would have
+1	can be automated
+1	remain
+1	can guess
+1	to prevent
+1	hold
+1	tolerate
+1	will be removed
+1	labelled
+1	controlling
+1	carrying
+1	tested
+1	becomes
+1	to be checked
+1	can also detect
+1	introducing
+1	remaing
+1	first compute
+1	seems better to leave
+1	will define
+1	takes
+1	are copied
+1	to use
+1	could let
+1	was suggested
+1	secure
+1	to prove
+1	has determined
+1	makes
+1	further devised
+1	published
+1	resulting
+1	can only happen
+1	studied
+1	inspired
+1	sending
+1	will do
+1	would be to cheat
+1	now want to select
+1	led
+1	can reveal
+1	revealing
+1	has cast
+1	to efficiently evaluate
+1	to cover
+1	does not prevent
+1	ct1
+1	hide
+1	can be covered to get
+1	is chosen
+1	implemented
+1	is received
+1	then comqk
+1	consists
+1	to determine
+1	was already stressed
+1	to include
+1	zi
+1	to say
+1	has ended
+1	cannot construct
+1	refer
+1	will take
+1	can only be made
+1	is corrected
+1	even cast
+1	notes
+1	presented
+1	can be corrupted
+1	also finds
+1	is to provide
+1	challenges implemented
+1	to distributively run
+1	is announced
+1	to have
+1	send
+1	will now present
+1	might not be
+1	factorizing
+1	is combined
+1	displaying
+1	go
+1	to be entered
+1	known
+1	is computed
+1	should contain
+1	can be seen

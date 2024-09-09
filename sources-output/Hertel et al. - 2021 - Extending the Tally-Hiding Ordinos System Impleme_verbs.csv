@@ -1,0 +1,452 @@
+57	is
+33	are
+14	ai
+14	do
+13	using
+11	note
+9	use
+8	tally-hiding
+8	obtain
+7	encrypted
+7	computing
+7	tallying
+6	described
+6	have
+6	resulting
+6	revealing
+5	building
+5	let pmpc be
+5	provides
+5	denote
+5	exists
+5	see
+5	given
+5	propose
+5	can use
+5	presented
+4	aggregated
+4	to obtain
+4	to implement
+4	was
+4	follows
+4	containing
+4	present
+4	keysharegen be
+4	according
+4	benchmarked
+4	let enc be
+4	can be computed
+4	including
+4	write
+4	recall
+3	compute
+3	lies
+3	obtaining
+3	discussed
+3	be
+3	being
+3	proposed
+3	used
+3	received
+3	ranked
+3	achieve
+3	is used
+3	can check
+3	mentioned
+3	counting
+3	has received
+3	is guaranteed
+3	implement
+3	published
+3	denotes
+3	consists
+2	then compute
+2	check
+2	proven
+2	describe
+2	offer
+2	start
+2	contains
+2	remains
+2	are based
+2	choosing
+2	enc be
+2	works
+2	has won
+2	showing
+2	remaining
+2	guarantees
+2	underlying
+2	left
+2	uses
+2	make
+2	evaluating
+2	has
+2	is eliminated
+2	observe
+2	to verify
+2	ci
+2	neither reveal
+2	implementing
+2	won
+2	constructing
+2	are distributed
+2	di
+2	are assigned
+2	must be
+2	to find
+2	starts
+2	is revealed
+2	performs
+2	represents
+2	to evaluate
+2	allow
+2	wins
+2	are presented
+2	provide
+2	meet
+2	following
+2	remain
+2	is presented
+2	should still be
+2	interpret
+2	to compute
+2	desired
+2	consisting
+2	implemented
+2	to show
+2	can be used
+2	focus
+2	consider
+2	represent
+1	to denote
+1	requires
+1	should be
+1	can also be applied
+1	assume
+1	do not present
+1	was counted
+1	have obtained
+1	bounded
+1	have received
+1	usually done
+1	would perform
+1	provided
+1	privacy/tally hiding
+1	test
+1	compares
+1	will call
+1	to constrains
+1	defines
+1	moves
+1	proves
+1	can proceed
+1	ordered
+1	to fill
+1	candidate/choice
+1	can be extended to first obtain
+1	is set to be s0i
+1	first construct
+1	removed
+1	should be evaluated
+1	have been chosen
+1	denoting
+1	is built
+1	additionally define
+1	awarded
+1	then consider
+1	did not lose
+1	securely realizes
+1	essentially takes
+1	are also used
+1	is used to compute
+1	already fulfill
+1	aims to determine
+1	do not consider
+1	rather follow
+1	might be
+1	prevents introducing
+1	not just avoids leaking
+1	is run
+1	losing
+1	run
+1	refer
+1	demonstrated
+1	is published
+1	does
+1	are generated
+1	thus wins
+1	to benchmark
+1	was proven using
+1	will be
+1	would be
+1	to compare
+1	have occurred
+1	to identify misbehaving
+1	already aggregated
+1	finding
+1	checking
+1	ftally evaluated
+1	extends
+1	can be detected
+1	also designed
+1	had
+1	letting
+1	try to achieve is tallyhiding
+1	as can be seen
+1	homomorphically to obtain
+1	have been proposed
+1	resp
+1	inherit
+1	do // perform
+1	running
+1	also contains
+1	assigns
+1	does not eliminate
+1	is not desired
+1	left to show
+1	helps prevent
+1	is needed to verify
+1	allows
+1	taking
+1	involved
+1	are adjusted
+1	is also used
+1	misbehaving
+1	c.
+1	define
+1	combine
+1	expected
+1	combined
+1	does not influence
+1	can first compute
+1	is also not revealed
+1	synergize
+1	considers
+1	can do
+1	conclude
+1	facilitates constructing
+1	to be
+1	receives
+1	s
+1	can handle
+1	are published
+1	might be tied
+1	to account
+1	electing
+1	is defined
+1	pmpc be
+1	has been achieved
+1	provably secure
+1	can then be
+1	do // add
+1	fails
+1	has already been proposed
+1	computes
+1	is done
+1	summed
+1	publicly known
+1	want to compute
+1	are designed to achieve
+1	can then look
+1	has not been eliminated
+1	risk-limiting
+1	is shown to achieve
+1	might contain
+1	are constructed using
+1	use to construct
+1	then consists
+1	should
+1	distributed
+1	explain
+1	is required
+1	to be assigned
+1	to investigate
+1	show
+1	s0i receive
+1	is removed
+1	considered
+1	cleared
+1	generally follow
+1	extending
+1	does not support
+1	would use
+1	are considered
+1	can happen
+1	then publish
+1	does not exceed
+1	is called
+1	also hold
+1	is to show
+1	build
+1	first computes
+1	want to extend
+1	studying
+1	have been designed to be tally-hiding
+1	can be obtained using
+1	indeed has
+1	need
+1	ran
+1	have to consider
+1	is also combined
+1	prefers
+1	providing
+1	pairwise
+1	tackles
+1	can be aggregated
+1	showed
+1	specify
+1	tallying satisfy
+1	is very commonly used
+1	obtained
+1	leaking
+1	to explore
+1	do // go over
+1	ranging
+1	will be returned
+1	have implemented
+1	needed
+1	are implemented using
+1	construct
+1	are fixed
+1	ordering
+1	let nv be
+1	have been
+1	proposing
+1	are moved up
+1	tallyhiding
+1	i obtained
+1	can be used to capture
+1	encoding
+1	naturally expected
+1	could happen
+1	were proven
+1	to design
+1	has also been used
+1	might happen
+1	is determined
+1	rather refer
+1	would beat
+1	can be instantiated
+1	then 0g
+1	has been ranked
+1	adapt
+1	intuitively considers
+1	contained
+1	is not publicly known
+1	can compute
+1	not included
+1	have been eliminated
+1	is then used
+1	is also done
+1	weighted
+1	|
+1	can verify
+1	usually do not add up to ns
+1	is encrypted
+1	have to provide
+1	to retain
+1	ci is awarded is computed using
+1	is repeated
+1	needs to be assigned
+1	threshold4
+1	then apply
+1	to do
+1	typically is
+1	is based
+1	to cj
+1	are then assigned
+1	tries to use
+1	solving
+1	is not included/shown
+1	took
+1	shown to be
+1	do //
+1	are ri do
+1	let nc be
+1	also be used
+1	can be held
+1	is often used
+1	fulfilling
+1	encoding indeed allows
+1	grow
+1	can be combined to compute
+1	improving
+1	can base
+1	tied
+1	communicating
+1	ensure
+1	means
+1	do not asymptotically improve
+1	should be determined
+1	give
+1	indeed encodes
+1	to vote
+1	can
+1	often is eliminated
+1	can be modeled
+1	s0g
+1	i has won
+1	hold
+1	applying
+1	generally depends
+1	empirically demonstrate
+1	was shown
+1	encode
+1	call
+1	m.
+1	to support
+1	dnc
+1	takes
+1	discuss
+1	should not only be
+1	must hold
+1	accurately assess
+1	can now use
+1	rather avoids leaking
+1	requiring
+1	secure
+1	followed
+1	to prove
+1	makes
+1	suggests
+1	funded
+1	lower-ranked
+1	publishes
+1	have to show
+1	address
+1	can then use
+1	briefly recall
+1	supporting
+1	also prevents
+1	are required
+1	might be interested
+1	appear
+1	adds
+1	aim
+1	can be identified
+1	pass
+1	also note
+1	is associated
+1	have also implemented
+1	authenticating
+1	not ranked
+1	try
+1	to decide
+1	interpreting
+1	have been developed
+1	lower halve
+1	also requires
+1	is to simply compute
+1	generally focus
+1	can be obtained
+1	does not correspond
+1	have proposed
+1	can be increased
+1	still meet
+1	follow
+1	have been implemented
+1	are given
+1	is computed
+1	is achieved
+1	aggregating
