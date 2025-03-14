@@ -1,6 +1,6 @@
 all: selftest
 
-selftest: README-nouns.csv README-verbs.csv
+selftest: clean README-nouns.csv README-verbs.csv
 
 README-nouns.csv: README.md
 	nouns.py README.md > README-nouns.csv;

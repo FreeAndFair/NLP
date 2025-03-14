@@ -16,13 +16,12 @@ IMAGE=nlp
 # Build image for linux/amd64 and linux/arm64 platforms by default.
 DOCKER_DEFAULT_PLATFORM=linux/amd64,linux/arm64
 
-# Default target: clone and rebuild lando, and create docker image.
-all: image save
+# Default target: help
+all: help
 
 # Display a brief help page listing possible commands/targets.
 help:
 	@echo "Possible commands/targets are:"
-	@echo "make [all]  - clone and rebuild lando and create $(IMAGE) image"
 	@echo "make login  - log user into dockehub repository"
 	@echo "make logout - log user out of dockerhub repository"
 	@echo "make image  - create $(IMAGE) image (in local store)"
@@ -46,7 +45,7 @@ logout:
 # Create docker image.
 image:
 	$(info [info] rebuilding $(IMAGE) docker image ...)
-	docker build -t $(IMAGE) .  --platform="$(DOCKER_DEFAULT_PLATFORM)"
+	docker build -t $(IMAGE) -f ./Dockerfile ..  --platform="$(DOCKER_DEFAULT_PLATFORM)"
 
 # Save docker image locally to a .tar file.
 save:

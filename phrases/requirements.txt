@@ -1,3 +1,4 @@
 pdftotext
 textblob
 python-magic
+PatternLite

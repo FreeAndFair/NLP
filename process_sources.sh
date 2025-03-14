@@ -7,8 +7,8 @@
 # files within it using the phrases scripts. It assumes that the files all
 # have unique basenames, even if they're in different directories.
 
-# This script will only work properly if it is sitting in a directory 
-# containing a "phrases" directory with the phrases scripts. 
+# This script will only work properly if it is sitting in a directory
+# containing a "phrases" directory with the phrases scripts.
 
 SCRIPT=$(realpath "$0")
 SCRIPTPATH=$(dirname "$SCRIPT")
@@ -57,14 +57,14 @@ find "$1" -follow -type f | while IFS= read -r file; do
   # can process it
   noext=${base%.*}
   # Don't process a README or a BibTeX file
-  if [ "${noext}" = "README" ] || [ "${file##*.}" = "bib" ] || [ "${noext}" = "" ]; then 
+  if [ "${noext}" = "README" ] || [ "${file##*.}" = "bib" ] || [ "${noext}" = "" ]; then
     echo "Skipping '${file}'."
     continue
   fi
   echo "Processing '${file}'..."
   nounsfile="$2/${noext}_nouns.csv"
   verbsfile="$2/${noext}_verbs.csv"
-  if [ -f "${nounsfile}" ]; then 
+  if [ -f "${nounsfile}" ]; then
     echo "  ${noext} nouns histogram already exists"
   else
     echo "  Creating nouns histogram..."

@@ -7,46 +7,26 @@ Requirements:
 - output is a histogram of noun and verb phrases, complete with
   adjective and adverbial modifiers, contained in the input
 
-This script uses [TextBlob](https://textblob.readthedocs.io/en/dev/)
-for the heavy lifting.
+These scripts use [TextBlob](https://textblob.readthedocs.io/en/dev/) and [PatternLite](https://github.com/WZBSocialScienceCenter/patternlite) for the heavy lifting.
 
 ## Installation
 
-This tool depends upon Python2 and a few C and Python libraries.  See
-the first step below.
+This tool depends upon Python 3 and a few C and Python libraries. On macOS, these instructions assume a working [Homebrew](https://brew.sh) installation. You can choose to use a Python [virtual environment](https://docs.python.org/3/library/venv.html) to install the Python dependencies and run the scripts, but we do not provide explicit instructions for that here.
 
-Note that one must be careful about macOS installations, which no longer
-include Python 2. We recommend using Homebrew's `pyenv` (and, indeed, these
-instructions assume a working Homebrew installation).
 
-0. Install distribution-level dependencies
- - Ubuntu/Debian: `$ sudo apt install build-essential libpoppler-cpp-dev libmagic-dev 
-   pkg-config python3-venv`
- - macOS: `$ brew install poppler libmagic`
-1. `brew install pyenv pyenv-virtualenv` (v2.4.10 is latest as of this writing)
-3. `pyenv install 3.12.5` (v3.12.5 is the latest release of Python3)
-4. `pyenv install 2.7.18` (v2.7.18 is the final release of Python2)
-5. `pyenv global system 3.12.5 2.7.18` (puts both versions into the
-   global environment)
-2. Run `eval "$(pyenv init -)"` and consider adding it to your shell
-   startup.
-6. Create a Python [virtual environment](https://docs.python.org/3/library/venv.html)
- - `$ python3 -m venv env` makes one named `env`
- - `$ source env/bin/activate` lets you work in that environment
- - `$ deactivate` gets you back to your normal environment 
-3. Install Python package dependencies, making sure you use Python2's pip:
- - `$ pip2 install -r requirements.txt`
-5. Install Pattern locally
- - `$ pip2 install Pattern==2.6`
-6. Download necessary NLTK data
- - `$ python2 -c 'import nltk; nltk.download("brown"); nltk.download("punkt")'`
- - `$ python2 -m textblob.download_corpora`
+1. Install distribution-level dependencies
+  - Ubuntu/Debian: `$ sudo apt install build-essential libpoppler-cpp-dev libmagic-dev 
+   pkg-config python3-pip`
+  - macOS: `$ brew install poppler libmagic python3`
+2. Install Python package dependencies:
+ - `$ pip3 install -r requirements.txt`
+3. Download necessary NLTK data
+ - `$ python3 -c 'import nltk; nltk.download("brown"); nltk.download("punkt")'`
+ - `$ python3 -m textblob.download_corpora`
 
 ### Testing the Installation
 
-The provided `Makefile` has two rules that run the extraction
-commands on this README.  If those commands run with no output beyond
-printing the selftest commands, the installation is working.
+The provided `Makefile` has a `selftest` target that runs the extraction commands on this `README`.  If those commands run with no output beyond printing the self-test commands, the installation is working.
 
 ## Usage
 
@@ -63,6 +43,5 @@ printing the selftest commands, the installation is working.
 
 ## Useful Links
 
-- [Pattern package documentation](https://www.clips.uantwerpen.be/pages/pattern-en#parser)
-- [tags explained](https://www.clips.uantwerpen.be/pages/mbsp-tags)
+- [Original Pattern package](https://github.com/clips/pattern)
 - [TextBlob tutorial](http://rwet.decontextualize.com/book/textblob/)

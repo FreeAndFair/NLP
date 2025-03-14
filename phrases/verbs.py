@@ -1,23 +1,18 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 '''
 See README.md for setup.
 
 Usage:
-$ ./verbs.py $DOCUMENT  
+$ ./verbs.py $DOCUMENT
 $ ./verbs.py -          (Expect input via stdin)
 
 Works with PDF, UTF-8, and ASCII documents.
 
 Outputs tab-delimited histogram of verb phrase count.
 '''
-from pattern.en import parse
-from pattern.en import pprint
 from pattern.en import parsetree
 
-import operator
-
 import sys
-import re
 import magic
 import pdftotext
 
@@ -56,8 +51,11 @@ for sentence in s:
                 hist[c] += 1
             else:
                 hist[c] = 1
- 
-hist = sorted(hist.items(), key=operator.itemgetter(1))
-hist.reverse()
-for (w,c) in hist:
-     print("%u\t%s" % (c,w))
+
+# using negative numbers to sort phrases with
+# more occurrences ahead of those with fewer
+sorted_hist = sorted([(0 - n, phrase) for (phrase, n) in hist.items()], 
+               key = lambda x: (x[0], x[1]))
+
+for (n, p) in sorted_hist:
+    print("%u\t%s" % (0 - n, p))

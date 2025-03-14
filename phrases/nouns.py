@@ -1,9 +1,9 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 '''
 See README.md for setup.
 
 Usage:
-$ ./nouns.py $DOCUMENT  
+$ ./nouns.py $DOCUMENT
 $ ./nouns.py -          (Expect input via stdin)
 
 Works with PDF, UTF-8, and ASCII documents.
@@ -11,7 +11,6 @@ Works with PDF, UTF-8, and ASCII documents.
 Outputs tab-delimited histogram of noun phrase count.
 '''
 import sys
-import re
 import magic
 import pdftotext
 from textblob import TextBlob
@@ -42,11 +41,12 @@ if input_text == None:
 input_blob = TextBlob(input_text)
 
 # get noun phrases count
-counts = input_blob.np_counts
+hist = input_blob.np_counts
 
 # using negative numbers to sort phrases with
 # more occurrences ahead of those with fewer
-histo = sorted([(0 - n, phrase) for (phrase, n) in counts.items()])
+sorted_hist = sorted([(0 - n, phrase) for (phrase, n) in hist.items()],
+               key = lambda x: (x[0], x[1]))
 
-for (n, p) in histo:
+for (n, p) in sorted_hist:
     print("%u\t%s" % (0 - n, p))
