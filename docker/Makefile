@@ -45,7 +45,7 @@ logout:
 # Create docker image.
 image:
 	$(info [info] rebuilding $(IMAGE) docker image ...)
-	docker build -t $(IMAGE) -f ./Dockerfile ..  --platform="$(DOCKER_DEFAULT_PLATFORM)"
+	docker build -t $(IMAGE) -f ./Dockerfile ..  --platform="$(DOCKER_DEFAULT_PLATFORM)" --attest type=provenance,mode=max --attest type=sbom
 
 # Save docker image locally to a .tar file.
 save:
